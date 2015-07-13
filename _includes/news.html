@@ -1,4 +1,11 @@
 
-<strong>Die Stundenpläne sind online!</strong>
-
-<p>Update 1: fehlende AuD Übung im INF-D/01 am Donnerstag in der 5. DS hinzugefügt</p>
+<div id="news">
+  <h2>Wichtige News</h2>
+  {% assign news = site.news | sort: 'date' | reverse %}
+  {% for item in news %}
+    <div class="{% unless forloop.first %}hidden {% endunless %}news-item">{{ item.content }}</div>
+  {% endfor %}
+  {% if site.news.size > 1 %}
+    <a href="#" class="show-more news">show more</a>
+  {% endif %}
+</div>

@@ -1,0 +1,16 @@
+.show-more {
+  @extend .small;
+}
+
+.sidebar-item {
+  color: white;
+  background-color: $purple;
+  margin: 5px;
+}
+
+.sidebar-header {
+   height:55px;
+   margin:0;
+   padding:0;
+   @extend .sidebar-item;
+}

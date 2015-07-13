@@ -1,6 +1,6 @@
 # Site settings
 title: ESE 2015 | ESE
-email: ese@ifsr.de
+email: fsr@ifsr.de
 description: > # this means to ignore newlines until "baseurl:"
   Die offizielle Seite der ESE 2015
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -18,3 +18,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+sass:
+  style: :compressed
+
+collections:
+  news:
+
+  sidebar:
