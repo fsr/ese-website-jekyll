@@ -17,13 +17,13 @@
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "vars",
+        "settings",
         "base",
         "layout",
+        "foundation",
         "syntax-highlighting",
         "util",
         "custom"
