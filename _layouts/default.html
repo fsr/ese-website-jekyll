@@ -21,9 +21,9 @@
 
       {% include footer.html %}
     </div>
-    <script type="text/javascript" src="vendor/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/foundation/js/foundation.min.js"></script>
-    <script type="text/javascript" src="vendor/js/app.js"></script>
+    {% for script in site.data.scripts.post %}
+      {% include script.html script=script %}
+    {% endfor %}
   </body>
 
 </html>
