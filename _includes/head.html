@@ -20,7 +20,7 @@
      }
   </script>
 
-  {% for script in site.data.scripts.pre %}
-    {% include script.html script=script %}
+  {% for s in site.data.scripts.pre %}
+    {% include script.html script=s %}
   {% endfor %}
 </head>

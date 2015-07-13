@@ -21,8 +21,8 @@
 
       {% include footer.html %}
     </div>
-    {% for script in site.data.scripts.post %}
-      {% include script.html script=script %}
+    {% for s in site.data.scripts.post %}
+      {% include script.html script=s %}
     {% endfor %}
   </body>
 
