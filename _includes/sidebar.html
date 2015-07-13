@@ -1,28 +1,33 @@
-<div id="ese-logo" onclick="changeheader()"></div>
-
-<div class="sidebar-header"></div>
-
-<div id="sidebar-content">
-  {% assign all_items = site.sidebar | sorted 'index' %}
-  {% for item in all_items %}
-    <div class="sidebar-item">
-      <h3>{{ item.title }}</h3>
-      <div class="item-content">
-        {{ item.content }}
-      </div>
-    </div>
-  {% endfor %}
+<div class="row">
+  <div id="ese-logo" class="small-12" onclick="changeheader()"></div>
 </div>
 
-<div id="sidebar-footer">
-   <a href="https://www.ifsr.de/" target="_blank">
-      <img src="img/fsr-logo.png" alt="FSR Logo">
-   </a>
+  <div class="row"><div class="column sidebar-header small-12"></div></div>
 
-   <a href="http://www.ascii-dresden.de/" target="_blank">
-      <img style="float:left; margin-left: 37px" src="img/ascii-logo.png" alt="ascii Logo">
-   </a>
-   <a href="http://www.countdown-dresden.de/" target="_blank">
-      <img style="float:left; margin-left: 5px" src="img/cd-logo.png" alt="CountDown Logo">
-   </a>
+  <div>
+    {% assign all_items = site.sidebar | sorted 'index' %}
+    {% for item in all_items %}
+      <div class="row">
+        <div class="column small-12 sidebar-item">
+          <h3>{{ item.title }}</h3>
+          <div class="item-content">
+            {{ item.content }}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div id="sidebar-footer">
+     <a href="https://www.ifsr.de/" target="_blank">
+        <img src="img/fsr-logo.png" alt="FSR Logo">
+     </a>
+
+     <a href="http://www.ascii-dresden.de/" target="_blank">
+        <img style="float:left; margin-left: 37px" src="img/ascii-logo.png" alt="ascii Logo">
+     </a>
+     <a href="http://www.countdown-dresden.de/" target="_blank">
+        <img style="float:left; margin-left: 5px" src="img/cd-logo.png" alt="CountDown Logo">
+     </a>
+  </div>
 </div>

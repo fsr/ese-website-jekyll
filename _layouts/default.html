@@ -4,19 +4,18 @@
   {% include head.html %}
 
   <body>
-    <div class="centered site-wrapper wrapper">
-      <div class="page-content left">
-        <div class="wrapper content">
+    <div class="row">
+      <div class="column small-9">
+
           {% include header.html %}
           {{ content }}
-        </div>
+
       </div>
 
-      <div class="sidebar right">
+      <div class="column small-3">
         {% include sidebar.html %}
       </div>
 
-      <div class="clearfix">
       </div>
 
       {% include footer.html %}
