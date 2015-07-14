@@ -12,7 +12,6 @@ class NewsInteractions
 
     @hide = false
     @toggle()
-    console.log('hello')
 
   toggle: ->
     @hide = not @hide
