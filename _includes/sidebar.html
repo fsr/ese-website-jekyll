@@ -1,12 +1,9 @@
 <div class="sidebar">
-  <div class="row"><div class="column sidebar-header small-12 toggle-header"></div></div>
-
-
   {% assign all_items = site.sidebar | sort: 'index' %}
   {% for item in all_items %}
     <div class="row">
       <div class="column small-12 sidebar-item">
-        <h3>{{ item.title }}</h3>
+        <h4>{{ item.title }}</h4>
         <div class="item-content">
           {{ item.content }}
         </div>

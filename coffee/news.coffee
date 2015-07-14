@@ -24,7 +24,7 @@ class NewsInteractions
         item.classList.remove 'hidden'
 
     for button in @buttons
-      button.innerHTML = if @hide then 'show more' else 'show less'
+      button.innerHTML = if @hide then 'mehr' else 'weniger'
 
 
 document.addEventListener 'DOMContentLoaded', ->

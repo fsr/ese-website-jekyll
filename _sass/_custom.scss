@@ -5,7 +5,7 @@
 .sidebar-item {
   color: white;
   background-color: $purple;
-  margin: 5px;
+  margin-top: 5px;
 }
 
 .sidebar-header {
@@ -19,11 +19,19 @@
   h1, h2, h3, h4, h5 {
     color: white;
   }
+  .sidebar-item {
+    font-size: small;
+  }
+}
+
+.ese-logo {
+  background: url($baseurl + "/img/ese-logo.png") no-repeat;
+  min-height: 210px;
 }
 
 .sidebar-header {
-  background: url($baseurl + "/img/ese-logo.png");
-  min-height: 200px;
+  min-height: 20px;
+  @extend .sidebar-item;
 }
 
 table.event {
