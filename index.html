@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home row">
 
-  {% include news.html %}
+  <div class="column small-12">
+    {% include news.html %}
+  </div>
 
   <ul class="post-list">
     {% for post in site.posts %}
