@@ -12,16 +12,20 @@ class NewsInteractions
 
     @hide = false
     @toggle()
+    console.log('hello')
 
   toggle: ->
     @hide = not @hide
 
     for item in @items
-      item.style.display = if @hide then 'none' else 'block'
+      if @hide
+        item.classList.add('hidden')
+      else
+        item.classList.remove('hidden')
 
     for button in @buttons
       button.innerHTML = if @hide then 'show more' else 'show less'
 
 
-window.onload = ->
+document.addEventListener "DOMContentLoaded", ->
   new NewsInteractions()

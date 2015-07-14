@@ -11,15 +11,6 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <script type="text/javascript">
-     var count = 1;
-     function changeheader() {
-        if (count > 10) count = 0;
-        document.getElementById("header").style.background = "#DDD url(img/header/" + count + ".png) no-repeat";
-        count++;
-     }
-  </script>
-
   {% for s in site.data.scripts.pre %}
     {% include script.html script=s %}
   {% endfor %}

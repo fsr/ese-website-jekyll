@@ -8,8 +8,14 @@ pre:
     src: coffee/konami.js
   -
     src: coffee/news.js
+  -
+    src: coffee/switchheader.js
 
 post:
   # these scripts are included as the last elements in <body>
   -
-    src:
+    src: vendor/jquery/dist/jquery.min.js
+  -
+    src: vendor/foundation/js/foundation.min.js
+  -
+    src: vendor/js/app.js
