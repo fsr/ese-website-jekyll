@@ -19,13 +19,13 @@ class NewsInteractions
 
     for item in @items
       if @hide
-        item.classList.add('hidden')
+        item.classList.add 'hidden'
       else
-        item.classList.remove('hidden')
+        item.classList.remove 'hidden'
 
     for button in @buttons
       button.innerHTML = if @hide then 'show more' else 'show less'
 
 
-document.addEventListener "DOMContentLoaded", ->
+document.addEventListener 'DOMContentLoaded', ->
   new NewsInteractions()

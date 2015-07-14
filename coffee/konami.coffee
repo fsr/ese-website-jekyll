@@ -4,5 +4,5 @@
 success = ->
   return 0
 
-document.addEventListener "DOMContentLoaded", ->
+document.addEventListener 'DOMContentLoaded', ->
   new Konami(success)
