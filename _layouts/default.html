@@ -20,9 +20,7 @@
 
       {% include footer.html %}
     </div>
-    {% for s in site.data.scripts.post %}
-      {% include script.html script=s %}
-    {% endfor %}
+    {% include lateload-scripts.html %}
   </body>
 
 </html>
