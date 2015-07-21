@@ -9,7 +9,7 @@ Philipp Heisig, heisig@ifsr.de
    top:0px;
    left:0px;
    z-index:3;
-   padding-top:10px;
+   padding-top:0px;
 }
 
 /*----------- body ---------------*/
@@ -23,14 +23,14 @@ body {
 
 /*----------- wrapper ------------*/
 #wrapper {
-   width:985px;
+   width:auto;
    height:100%;
    margin:0 auto;
 }
 
 /*----------- wrapper_left--------*/
 #wrapper-left {
-   width:700px;
+   width:auto;
    float:left;
    background-color:#F5F5F5;
 }
@@ -41,17 +41,17 @@ body {
 }
 
 #header {
-   width:100%;
-   height:265px;
-   background:#DDD url(../img/header/0.png) no-repeat;
+   width:auto;
+   height:70px;
+   background: none;
 }
 
 
 /*----------- nav ----------------*/
 #nav {
-   top:210px;
+   top:0px;
    position: relative;
-   height:55px;
+   height:70px;
    background: -webkit-linear-gradient(rgba(87, 59, 117, 0.6), rgba(87, 59, 117, 0.8)); /*Safari 5.1-6*/
    background: -o-linear-gradient(rgba(87, 59, 117, 0.6), rgba(87, 59, 117, 0.8)); /*Opera 11.1-12*/
    background: -moz-linear-gradient(rgba(87, 59, 117, 0.6), rgba(87, 59, 117, 0.8)); /*Fx 3.6-15*/
@@ -59,31 +59,35 @@ body {
 }
 
 #nav ul {
-   float:right;
+   float:none;
+   width: 100%;
    margin:0;
-   padding:10px 35px 10px 0;
+   padding:10px 0px 10px 0;
 }
 
 #nav ul li {
    float:left;
    list-style:none;
-   margin-left:36px;
+   height:50px;
+   margin-left:2%;
+   width:auto;
 }
 
 #nav ul li:first-child {
-   margin-left:0;
+   margin-left:2%;
 }
 
 #nav a {
-   width:75px;
-   height:35px;
+   height:50px;
+   padding:0 5px;
+   width: auto;
    margin:0;
-   padding:0;
    vertical-align:middle;
    text-align:center;
    font-size:1.2em;
-   line-height:35px;
-   background:#EDEDED;
+   line-height:50px;
+   background: rgba(237, 237, 237, .7);
+   border:1px solid #573b75;
    color:#424242;
    float:left;
    text-decoration:none;
@@ -97,7 +101,7 @@ body {
 
 /*----------- content ------------*/
 #content {
-   width:660px;
+   width:auto;
    min-height:800px;
    padding:10px 20px;
    color:#383838;
@@ -243,34 +247,27 @@ body {
    color:#573b75;
    font-weight:bold;
    font-size:13pt;
-   border:2px solid #573b75;
-   text-align:center;
-   border-radius: 0px 10px 0px 10px;
-   padding:2px 4px;
-   margin-left:494px;
-   margin-top:-7px;
-   position:absolute;
+
 }
 
 #news h3 {
    color:#242424;
    font-weight:bold;
    font-size:11pt;
-   border-bottom:0;
-   text-decoration: underline;
-   text-align:left;
+
 }
 
 #zeitplan_mobile {
-   display: none;
+   display: inline;
 }
 
  /*----------- event table --------*/
 table.event {
-   width:600px;
+   width:auto;
    font-size:1.0em;
    border-collapse:collapse;
    margin:50px 0 0 -20px;
+   display: none;
 }
 
 table.event thead {
@@ -392,6 +389,7 @@ table.event .fh {
    width:275px;
    float:left;
    margin-left:10px;
+   display: none;
 }
 
 /*----------- sidebar ------------*/
@@ -400,6 +398,7 @@ table.event .fh {
    margin:0;
    padding:0;
    color:#ffffff;
+   display: none;
 }
 
 /*------------ ese-logo ----------*/
@@ -553,59 +552,59 @@ table.event .fh {
 }
 
 
-/*----------- Stundenpl‰ne -------*/
+/*----------- Stundenpl√§ne -------*/
 
 #stundenplan td {
-	border:1px solid #000000;
-	font-family:sans serif;
-	border-spacing:0px;
-	width:52px;
+    border:1px solid #000000;
+    font-family:sans serif;
+    border-spacing:0px;
+    width:52px;
 }
 
 #stundenplan table {
-	border-spacing:0px;
+    border-spacing:0px;
 }
 
 .plan_tage {
-	background-color:#EEEEEE;
-	font-weight:bold;
-	padding:2px;
+    background-color:#EEEEEE;
+    font-weight:bold;
+    padding:2px;
 }
 
 .plan_stunden {
-	background-color:#EEEEEE;
-	font-weight:bold;
-	padding:3px;
-	border-bottom:none !important;
-	width:90px !important;
+    background-color:#EEEEEE;
+    font-weight:bold;
+    padding:3px;
+    border-bottom:none !important;
+    width:90px !important;
 }
 
 .plan_uhrzeit {
-	background-color:#EEEEEE;
-	font-style:italic;
-	padding:3px;
-	border-top:none !important;
-	width:90px !important;
+    background-color:#EEEEEE;
+    font-style:italic;
+    padding:3px;
+    border-top:none !important;
+    width:90px !important;
 }
 
 .plan_leer {
-	font-weight:bold;
-	padding:3px;
-	text-decoration:underline;
+    font-weight:bold;
+    padding:3px;
+    text-decoration:underline;
 }
 
 .plan_raum {
-	font-style:italic;
-	padding:1px;
+    font-style:italic;
+    padding:1px;
 }
 
 .plan_dozent {
-	font-style:italic;
-	padding:1px;
-	border-right:none !important;
+    font-style:italic;
+    padding:1px;
+    border-right:none !important;
 }
 
 .plan_name {
-	padding:2px;
-	border-bottom:none !important;
+    padding:2px;
+    border-bottom:none !important;
 }
