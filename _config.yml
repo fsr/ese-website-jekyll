@@ -1,5 +1,5 @@
 # Site settings
-title: ESE 2015 | ESE
+title: "ESE 2015 | ESE"
 email: fsr@ifsr.de
 description: > # this means to ignore newlines until "baseurl:"
   Die offizielle Seite der ESE 2015
@@ -10,6 +10,10 @@ github_username:  fsr
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - .c9
+  - .git
 
 defaults:
   -

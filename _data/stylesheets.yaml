@@ -1,0 +1,8 @@
+default:
+  head:
+    - 
+      src: /css/style.css
+    - 
+      src: /vendor/slick/slick.css
+    - 
+      src: /vendor/slick/slick-theme.css

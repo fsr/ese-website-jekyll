@@ -6,16 +6,16 @@
     position: relative;
 }
 
-// .sidebar {
-//   width: $sidebar-width;
-// }
-//
-
+/**
+ * Remove the standard margin below the slider
+ */
+header .slick-slider {
+    margin-bottom: 0;
+}
 
 .top-bar.site-nav {
-  position: absolute;
-  bottom: 0px;
-  width: 100%;
+    float: left;
+    
 }
 
 .page-link {
