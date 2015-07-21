@@ -1,0 +1,24 @@
+default:
+  pre:
+    # The following scripts are included in the <head>
+    -
+      src: /vendor/modernizr/modernizr.js
+    -
+      src: /js/konami.js
+    -
+      src: /coffee/konami.js
+    -
+      src: /coffee/news.js
+    #-
+    #  src: /coffee/switchheader.js
+
+  post:
+    # these scripts are included as the last elements in <body>
+    -
+      src: /vendor/jquery/dist/jquery.min.js
+    -
+      src: /vendor/foundation/js/foundation.min.js
+    -
+      src: /vendor/slick/slick.min.js
+    -
+      src: /vendor/js/app.js

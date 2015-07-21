@@ -1,0 +1,4 @@
+{% if include.stylesheet %}
+  {% assign stylesheet = include.stylesheet %}
+{% endif %}
+<link rel="stylesheet" type="{% if stylesheet.type %}{{ stylesheet.type }}{% else %}text/css{% endif %}" href="{{ stylesheet.src | prepend: site.baseurl }}">

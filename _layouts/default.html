@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    <div class="row">
+      <div class="column small-9">
+          {{ content }}
+
+      </div>
+
+      <div class="column small-3">
+        {% include sidebar.html %}
+      </div>
+
+      </div>
+
+      {% include footer.html %}
+    </div>
+    {% include lateload-scripts.html %}
+  </body>
+
+</html>

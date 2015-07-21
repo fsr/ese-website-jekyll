@@ -1,0 +1,37 @@
+<header class="site-header row">
+
+
+  <div class="column small-12 medium-9">
+    {% include slider.html %}
+    <nav class="top-bar site-nav small-12" data-topbar role="navigation">
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        </li>
+      </ul>
+
+
+      <section class="top-bar-section">
+        <ul class="right">
+          {% for page in site.pages %}
+            {% if page.title %}
+              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </section>
+    </nav>
+      
+  </div>
+
+  <div class="small-3 column">
+    <div class="row">
+      <div class="ese-logo toggle-header small-12 column"></div>
+    </div>
+    <div class="row">
+      <div class="column sidebar-header small-12 toggle-header"></div>
+    </div>
+  </div>
+
+
+</header>

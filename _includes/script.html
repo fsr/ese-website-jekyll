@@ -1,0 +1,5 @@
+{% if include.script %}
+  {% assign script = include.script %}
+{% endif %}
+
+<script type="{% if script.type %}{{ script.type }}{% else %}text/javascript{% endif %}" src="{{ script.src | prepend: site.baseurl }}"></script>

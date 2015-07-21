@@ -1,0 +1,32 @@
+# Site settings
+title: "ESE 2015 | ESE"
+email: fsr@ifsr.de
+description: > # this means to ignore newlines until "baseurl:"
+  Die offizielle Seite der ESE 2015
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ifsr.de
+github_username:  fsr
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - .c9
+  - .git
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+sass:
+  style: :compressed
+
+collections:
+  news:
+
+  sidebar:
