@@ -6,6 +6,6 @@
     <div class="{% unless forloop.first %}additional {% endunless %}news-item">{{ item.content }}</div>
   {% endfor %}
   {% if site.news.size > 1 %}
-    <a href="#" class="show-more news">show more</a>
+    <a class="show-more news">show more</a>
   {% endif %}
 </div>

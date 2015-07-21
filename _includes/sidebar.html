@@ -1,13 +1,13 @@
 <div class="sidebar">
   {% assign all_items = site.sidebar | sort: 'index' %}
+  <div class="row">
   {% for item in all_items %}
-    <div class="row">
-      <div class="column small-12 sidebar-item">
-        <h4>{{ item.title }}</h4>
-        <div class="item-content">
-          {{ item.content }}
-        </div>
+    <div class="column small-6 medium-12 sidebar-item">
+      <h4>{{ item.title }}</h4>
+      <div class="item-content">
+        {{ item.content }}
       </div>
     </div>
   {% endfor %}
+  </div>
 </div>
