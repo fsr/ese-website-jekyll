@@ -4,14 +4,25 @@
   {% include head.html %}
 
   <body>
-    {% include header.html %}
     <div class="row">
-      <div class="column small-9">
-          {{ content }}
-
+      <div class="column small-12 medium-9">
+          <div class="column small-12">
+            {% include header.html %}
+          </div>
+          <div class="column small-12">
+            {{ content }}
+          </div>
       </div>
 
-      <div class="column small-3">
+      <div class="column small-12 medium-3">
+        <div>
+          <div class="row">
+            <div class="ese-logo toggle-header small-12 column"></div>
+          </div>
+          <div class="row">
+            <div class="column sidebar-header small-12 toggle-header"></div>
+          </div>
+        </div>
         {% include sidebar.html %}
       </div>
 
