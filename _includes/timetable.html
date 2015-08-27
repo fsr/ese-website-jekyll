@@ -3,12 +3,12 @@
 
 {% assign schedule-begin = site.data.events.schedule-begin %}
 
-<table>
+<table class="row">
 	<thead>
     <tr>
-    	<th>Zeit</th>
+    	<th class="small-1">Zeit</th>
     	{% for day in site.data.events.days %}
-       	<th>{{ day.name }}</th>
+       	<th class="small-2">{{ day.name }}</th>
       {% endfor %}
     </tr>
 	</thead>
