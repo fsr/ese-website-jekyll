@@ -58,7 +58,7 @@ table.event {
         }
      }
 
-     tr{
+     tr {
         font-weight:bold;
      }
   }
@@ -103,20 +103,21 @@ table.event {
       background:#FFF3D5;
     }
 
-    &.m30  { height: 30px; }
-    &.m45  { height: 53px; }
-    &.m60  { height: 77px; }
-    &.m90  { height:124px; }
-    &.m120 { height:171px; }
-    &.m150 { height:218px; }
-    &.m180 { height:265px; }
-    &.m210 { height:312px; }
-    &.m240 { height:359px; }
-    &.m270 { height:406px; }
-    &.m300 { height:453px; }
-    &.m360 { height:547px; }
-    &.m480 { height:735px; }
-    &.open { height:100px; }
+    // &.m30  { height: 30px; }
+    &.m30  { height:  2em; }
+    &.m45  { height:  3em; }
+    &.m60  { height:  4em; }
+    &.m90  { height:  7em; }
+    &.m120 { height:  9em; }
+    &.m150 { height: 11em; }
+    &.m180 { height: 13em; }
+    &.m210 { height: 15em; }
+    &.m240 { height: 17em; }
+    &.m270 { height: 19em; }
+    &.m300 { height: 21em; }
+    &.m360 { height: 25em; }
+    &.m480 { height: 29em; }
+    &.open { height:6.5em; }
 
     &.empty {
        background:none;

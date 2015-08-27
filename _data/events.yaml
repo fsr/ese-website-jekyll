@@ -1,0 +1,48 @@
+schedule-length: "11:15" # in stunden
+schedule-begin: 9 # Uhr
+days:
+  -
+    name: Monday
+    date: 05.10.2015
+    events:
+      -
+        begin: "9:00"
+        duration: "1:00"
+        title: Frühstück
+      -
+        begin: "10:00"
+        duration: "2:50"
+        title: Begrüßung und Tutorien
+        location: ZEU/LICH ???
+      -
+        begin: "18:00"
+        duration: "4:00"
+        title: 
+  -
+    name: Dienstag
+    date: 06.10.2015
+    events:
+  -
+    name: Mittwoch
+    date: 07.10.2015
+  -
+    name: Donnerstag
+    date: 08.10.2015
+    events:
+  -
+    name: Freitag
+    date: 09.10.2015
+    events:
+      -
+        begin: "13:00"
+        duration: "1:00"
+        title: Mittagessen
+      -
+        title: Stadtführung
+        location: Gegenüber der Haltestelle Prager Straße in Richtung Altmarktgalerie
+        begin: "14:00"
+        duration: "3:00"
+  -
+    name: Samstag
+    date: 10.10.2015
+    
