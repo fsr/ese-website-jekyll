@@ -17,7 +17,7 @@ days:
       -
         begin: "12:30"
         duration: "1:00"
-        title: Mittagspause 1
+        title: Mittagspause
       -
         begin: "18:00"
         duration: "4:00"
@@ -32,7 +32,7 @@ days:
         duration: "3:30"
         title: Einschreibung und ewiges Frühstück
       -
-        title: Mittagspause 2
+        title: Mittagspause
         begin: "12:30"
         duration: "0:30"
       -
@@ -43,7 +43,7 @@ days:
       -
         title: Clubwanderung
         begin: "19:30"
-        duration: "00:30"
+        duration: "1:00"
         location: "Countdown"
   -
     name: Mittwoch
@@ -58,7 +58,7 @@ days:
         begin: "10:30"
         duration: "1:30"
       -
-        title: "Mittagspause 3"
+        title: "Mittagspause"
         begin: "12:00"
         duration: "1:00"
       -
@@ -79,7 +79,7 @@ days:
         begin: "10:00"
         duration: "2:00"
       -
-        title: "Mittagspause 4"
+        title: "Mittagspause"
         begin: "12:00"
         duration: "1:00"
       -
@@ -97,7 +97,7 @@ days:
       -
         begin: "12:00"
         duration: "1:00"
-        title: Mittagspause 5
+        title: Mittagspause
       -
         title: Stadtführung
         location: "Gegenüber der Haltestelle Prager Straße in Richtung Altmarktgalerie (51.047517, 13.736457)"

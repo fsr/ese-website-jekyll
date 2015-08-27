@@ -41,6 +41,47 @@
   @extend .sidebar-item;
 }
 
+table {
+  tr {
+    td {
+      vertical-align: top;
+      padding: 0;
+
+      &.date {
+        padding: 9px 10px;
+
+        & > div {
+          font-weight: bold;
+        }
+      }
+
+      &.data {
+        border: 1px solid black;
+      }
+
+      div.table-spacer {
+        height: 1.4em;
+      }
+
+      .data {
+        padding: 9px 10px;
+        height: 2em;
+        overflow: visible;
+      }
+
+      &.time > div {
+        padding: 1px 3px;
+      }
+    }
+    &.even, &.alt, &:nth-of-type(2n) {
+      background: white;
+    }
+  }
+
+  th {
+  }
+}
+
 table.event {
    width:600px;
    font-size:1.0em;
