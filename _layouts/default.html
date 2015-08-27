@@ -3,32 +3,33 @@
 
   {% include head.html %}
 
-  <body>
-    <div class="row">
-      <div class="column small-12 medium-9">
+  <body class="row">
+    <div class="column small-12 medium-9">
 
-        {% include header.html %}
+      {% include header.html %}
 
-        <div class="column small-12">
-          {{ content }}
-        </div>
+      <div class="column small-12">
+        {{ content }}
       </div>
-
-      <div class="column small-12 medium-3">
-        <div>
-          <div class="row">
-            <div class="ese-logo toggle-header small-12 column"></div>
-          </div>
-          <div class="row">
-            <div class="column sidebar-header small-12 toggle-header"></div>
-          </div>
-        </div>
-        {% include sidebar.html %}
-      </div>
-
     </div>
 
-  {% include footer.html %}
+    <div class="column small-12 medium-3">
+      <!-- <div> -->
+      <div class="hide-for-small-only">
+        <div class="ese-logo small-12 column">
+        	<img src="/img/ese-logo.png" />
+        </div>
+      </div>
+      <div class="hide-for-small-only">
+        <div class="column sidebar-header small-12">&nbsp;</div>
+      </div>
+      <!-- </div> -->
+      {% include sidebar.html %}
+    </div>
+    <div class="column small-12">
+  		{% include footer.html %}
+    </div>
+
   {% include lateload-scripts.html %}
   </body>
 

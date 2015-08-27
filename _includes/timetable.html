@@ -15,8 +15,8 @@
   <tbody>
   	<td class="date"></td>
 		{% for day in site.data.events.days %}
-    <td class="date"><div>{{ day.date }}</div></td>
-
+    	<td class="date"><div>{{ day.date }}</div></td>
+		{% endfor %}
     {% assign max-slot = schedule-length | times: 4 %}
     {% for slot in (0..max-slot) %}
 

@@ -1,8 +1,8 @@
-<div class="sidebar">
+<div class="sidebar hide-for-small-only">
   {% assign all_items = site.sidebar | sort: 'index' %}
-  <div class="row">
+  <div>
   {% for item in all_items %}
-    <div class="column small-6 medium-12 sidebar-item">
+    <div class="column small-12 sidebar-item">
       <h4>{{ item.title }}</h4>
       <div class="item-content">
         {{ item.content }}
