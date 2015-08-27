@@ -1,66 +1,69 @@
 {% assign schedule-length = site.data.events.schedule-length | split: ':' %}
-{% assign schedule-length = schedule-length[1] | divided_by: 60 | plus: schedule-length[0] %}
+{% assign schedule-length = schedule-length[1] | divided_by: 60.0 | plus: schedule-length[0] %}
 
 {% assign schedule-begin = site.data.events.schedule-begin %}
 
-<table class="row">
-	<thead>
+<table>
+  <thead>
     <tr>
-    	<th class="small-1">Zeit</th>
-    	{% for day in site.data.events.days %}
-       	<th class="small-2">{{ day.name }}</th>
+      <th class="small-1">Zeit</th>
+      {% for day in site.data.events.days %}
+         <th class="small-2">{{ day.name }}</th>
       {% endfor %}
     </tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td></td>
-			{% for day in site.data.events.days %}
-				<td>{{ day.date }}</td>
-			{% endfor %}
-		</tr>
-		{% assign max-slot = schedule-length | times: 4 %}
-		{% for slot in (0..max-slot) %}
-		
-			<tr>
-				{% assign is_hour = slot | modulo: 4 %}
-				{% if is_hour == 0 %}
-					<td rowspan="4">
-						{{ slot | divided_by: 4 | plus: schedule-begin }}:00
-					</td>
-				{% endif %}
-					
-				{% for day in (0..5) %}
-				
-					{% capture filler %}<td></td>{% endcapture %}
-					
-					{% for item in site.data.events.days[day].events %}
-						
-						{% assign begin    = item.begin | split: ':' %}
-						{% assign begin    = begin[1] | divided_by: 60 | plus: begin[0] | minus: schedule-begin | times: 4 %}
-						{% assign duration = item.duration | split: ':' %}
-						{% assign duration = duration[1] | divided_by: 60 | plus: duration[0] | times: 4 %}
-						{% assign end      = begin | plus: duration %}
-						
-						{% if begin == slot %}
-							{% capture filler %}{% endcapture %}
-							
-							<td style="border: 1px solid black" rowspan="{{ duration }}">
-								{{ item.title }} <br />
-								{{ item.location }}
-							</td>
-							
-						{% elsif begin < slot and end >= slot %}
-							{% capture filler %}{% endcapture %}
-						{% endif %}
-						
-					{% endfor %}
-					
-					{{ filler }}
-					
-				{% endfor %}
-				
-			</tr>
-		{% endfor %}
-	</tbody>
+  </thead>
+  <tbody>
+  	<td class="date"></td>
+		{% for day in site.data.events.days %}
+    <td class="date"><div>{{ day.date }}</div></td>
+
+    {% assign max-slot = schedule-length | times: 4 %}
+    {% for slot in (0..max-slot) %}
+
+        {% assign is_hour = slot | modulo: 4 %}
+        {% if is_hour == 0 %}
+        <tr class="full-hour">
+          <td class="time">
+            <div class="table-spacer">{{ slot | divided_by: 4 | plus: schedule-begin }}:00</div>
+          </td>
+        {% else %}
+        <tr>
+          <td><div class="table-spacer">&nbsp;</div></td>
+        {% endif %}
+
+        {% for day in (0..5) %}
+
+          {% capture filler %}<td class="empty"><div class="table-spacer">&nbsp;</div></td>{% endcapture %}
+
+          {% for item in site.data.events.days[day].events %}
+
+            {% assign begin    = item.begin | split: ':' %}
+            {% assign begin    = begin[1] | divided_by: 60.0 | plus: begin[0] | minus: schedule-begin | times: 4 %}
+            {% assign duration = item.duration | split: ':' %}
+            {% assign duration = duration[1] | divided_by: 60.0 | plus: duration[0] | times: 4 %}
+            {% assign end      = begin | plus: duration %}
+
+            {% if begin == slot %}
+              {% capture filler %}{% endcapture %}
+
+              <td rowspan="{{ duration }}" class="data">
+                <div class="data">
+                  <b>{{ item.title }}</b>
+                  <small>{{ item.location }}</small>
+                </div>
+              </td>
+
+            {% elsif begin <= slot and end > slot %}
+              {% capture filler %}{% endcapture %}
+            {% endif %}
+
+          {% endfor %}
+
+          {{ filler }}
+
+        {% endfor %}
+
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
