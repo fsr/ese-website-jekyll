@@ -1,5 +1,5 @@
 {% assign schedule-length = site.data.events.schedule-length | split: ':' %}
-{% assign schedule-length = schedule-length[1] | divided_by: 60 | plus: schedule-length[0] %}
+{% assign schedule-length = schedule-length[1] | divided_by: 60.0 | plus: schedule-length[0] %}
 
 {% assign schedule-begin = site.data.events.schedule-begin %}
 
@@ -37,9 +37,9 @@
           {% for item in site.data.events.days[day].events %}
 
             {% assign begin    = item.begin | split: ':' %}
-            {% assign begin    = begin[1] | divided_by: 60 | plus: begin[0] | minus: schedule-begin | times: 4 %}
+            {% assign begin    = begin[1] | divided_by: 60.0 | plus: begin[0] | minus: schedule-begin | times: 4 %}
             {% assign duration = item.duration | split: ':' %}
-            {% assign duration = duration[1] | divided_by: 60 | plus: duration[0] | times: 4 %}
+            {% assign duration = duration[1] | divided_by: 60.0 | plus: duration[0] | times: 4 %}
             {% assign end      = begin | plus: duration %}
 
             {% if begin == slot %}
@@ -50,7 +50,7 @@
                 {{ item.location }}
               </td>
 
-            {% elsif begin < slot and end >= slot %}
+            {% elsif begin <= slot and end > slot %}
               {% capture filler %}{% endcapture %}
             {% endif %}
 

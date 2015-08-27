@@ -11,38 +11,103 @@ days:
         title: Frühstück
       -
         begin: "10:00"
-        duration: "2:50"
+        duration: "2:30"
         title: Begrüßung und Tutorien
         location: ZEU/LICH ???
       -
+        begin: "12:30"
+        duration: "1:00"
+        title: Mittagspause 1
+      -
         begin: "18:00"
         duration: "4:00"
-        title: 
+        title: Kennenlern-Spieleabend mit Grillen
+        location: Countdown
   -
     name: Dienstag
     date: 06.10.2015
     events:
+      -
+        begin: "9:00"
+        duration: "3:30"
+        title: Einschreibung und ewiges Frühstück
+      -
+        title: Mittagspause 2
+        begin: "12:30"
+        duration: "0:30"
+      -
+        title: "Seminargruppentreffen"
+        begin: "13:00"
+        duration: "3:00"
+        location: Eurem Mentor folgen
+      -
+        title: Clubwanderung
+        begin: "19:30"
+        duration: "00:30"
+        location: "Countdown"
   -
     name: Mittwoch
     date: 07.10.2015
+    events:
+      -
+        title: Frühstück
+        begin: "9:00"
+        duration: "1:30"
+      -
+        title: Vorträge
+        begin: "10:30"
+        duration: "1:30"
+      -
+        title: "Mittagspause 3"
+        begin: "12:00"
+        duration: "1:00"
+      -
+        title: "Campus-Schnitzeljagd"
+        location: "Treff im Foyer"
+        begin: "13:00"
+        duration: "3:00"
   -
     name: Donnerstag
     date: 08.10.2015
     events:
+      -
+        title: Frühstück
+        begin: "9:00"
+        duration: "1:00"
+      -
+        title: Vorstellung der Professoren
+        begin: "10:00"
+        duration: "2:00"
+      -
+        title: "Mittagspause 4"
+        begin: "12:00"
+        duration: "1:00"
+      -
+        begin: "13:00"
+        duration: "3:00"
+        title: "ESE-Spiel"
+      -
+        title: "ESE-Kino"
+        begin: "18:30"
+        duration:  "2:30"
   -
     name: Freitag
     date: 09.10.2015
     events:
       -
-        begin: "13:00"
+        begin: "12:00"
         duration: "1:00"
-        title: Mittagessen
+        title: Mittagspause 5
       -
         title: Stadtführung
-        location: Gegenüber der Haltestelle Prager Straße in Richtung Altmarktgalerie
-        begin: "14:00"
+        location: "Gegenüber der Haltestelle Prager Straße in Richtung Altmarktgalerie (51.047517, 13.736457)"
+        begin: "13:00"
         duration: "3:00"
   -
     name: Samstag
     date: 10.10.2015
-    
+    events:
+      -
+        title: Wandering in der Sächsischen Schweiz
+        begin: "9:00"
+        duration: "7:00"
