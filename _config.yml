@@ -28,5 +28,9 @@ sass:
 
 collections:
   news:
-
   sidebar:
+  en_news:
+  en_sidebar:
+  en_posts:
+    permalink: en/posts/:path
+  en:
