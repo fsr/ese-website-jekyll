@@ -1,6 +1,5 @@
+{% if include.pages %}{% assign pages = include.pages %}{% else %}{% assign pages = site.pages %}{% endif %}
 <header class="site-header">
-
-
   <div class="column">
     {% include slider.html %}
     <nav class="top-bar site-nav small-12" data-topbar role="navigation">
@@ -10,19 +9,19 @@
         </li>
         <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
       </ul>
-
-
       <section class="top-bar-section">
         <ul class="right">
-          {% for page in site.pages %}
-            {% if page.title %}
-              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
+          {% for page in pages %}
+            {% unless page.index and page.index == false %}
+              {% if page.title %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endif %}
+            {% endunless %}
           {% endfor %}
         </ul>
       </section>
     </nav>
-      
+
   </div>
 
 </header>

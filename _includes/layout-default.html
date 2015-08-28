@@ -1,4 +1,5 @@
 {% if include.sidebar-items %}{% assign items = include.sidebar-items %}{% else %}{% assign items = site.sidebar %}{% endif %}
+{% if include.pages %}{% assign pages = include.pages %}{% else %}{% assign pages = site.pages %}{% endif %}
 <!DOCTYPE html>
 <html>
 
@@ -7,7 +8,7 @@
   <body class="row">
     <div class="column small-12 medium-9">
 
-      {% include header.html %}
+        {% include header.html pages=pages %}
 
       <div class="column small-12">
         {{ content }}
