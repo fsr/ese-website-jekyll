@@ -1,7 +1,7 @@
-
+{% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
 <div class="panel">
   <h2>Wichtige News</h2>
-  {% assign news = site.news | sort: 'date' | reverse %}
+  {% assign news = news | sort: 'date' | reverse %}
   {% for item in news %}
     <div class="{% unless forloop.first %}additional {% endunless %}news-item">{{ item.content }}</div>
   {% endfor %}
