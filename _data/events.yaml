@@ -2,84 +2,84 @@ schedule-length: "11:15" # in stunden
 schedule-begin: 9 # Uhr
 days:
   -
-    name: Monday
+    name: "Mon&shy;tag"
     date: 05.10.2015
     events:
       -
         begin: "9:00"
         duration: "1:00"
-        title: Frühstück
+        title: "Früh&shy;stück"
       -
         begin: "10:00"
         duration: "2:30"
-        title: Begrüßung und Tutorien
+        title: "Be&shy;grü&shy;ßung und Tu&shy;torien"
         location: ZEU/LICH ???
       -
         begin: "12:30"
         duration: "1:00"
-        title: Mittagspause
+        title: "Mit&shy;tags&shy;pause"
       -
         begin: "18:00"
         duration: "4:00"
-        title: Kennenlern-Spieleabend mit Grillen
-        location: Countdown
+        title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
+        location: "Coun&shy;tdown"
   -
-    name: Dienstag
+    name: "Diens&shy;tag"
     date: 06.10.2015
     events:
       -
         begin: "9:00"
         duration: "3:30"
-        title: Einschreibung und ewiges Frühstück
+        title: "Ein&shy;schrei&shy;bung und e&shy;wiges Früh&shy;stück"
       -
-        title: Mittagspause
+        title: "Mit&shy;tag&shy;spause"
         begin: "12:30"
         duration: "0:30"
       -
-        title: "Seminargruppentreffen"
+        title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
         begin: "13:00"
         duration: "3:00"
-        location: Eurem Mentor folgen
+        location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
       -
-        title: Clubwanderung
+        title: "Club&shy;wan&shy;de&shy;rung"
         begin: "19:30"
         duration: "1:00"
-        location: "Countdown"
+        location: "Count&shy;down"
   -
-    name: Mittwoch
+    name: "Mitt&shy;woch"
     date: 07.10.2015
     events:
       -
-        title: Frühstück
+        title: "Früh&shy;stück"
         begin: "9:00"
         duration: "1:30"
       -
-        title: Vorträge
+        title: "Vor&shy;träge"
         begin: "10:30"
         duration: "1:30"
       -
-        title: "Mittagspause"
+        title: "Mit&shy;tags&shy;pause"
         begin: "12:00"
         duration: "1:00"
       -
-        title: "Campus-Schnitzeljagd"
-        location: "Treff im Foyer"
+        title: "Cam&shy;pus-Schni&shy;tzel&shy;jagd"
+        location: "Treff im Fo&shy;yer"
         begin: "13:00"
         duration: "3:00"
   -
-    name: Donnerstag
+    name: "Don&shy;ners&shy;tag"
     date: 08.10.2015
     events:
       -
-        title: Frühstück
+        title: Früh&shy;stück
         begin: "9:00"
         duration: "1:00"
       -
-        title: Vorstellung der Professoren
+        title: "Vor&shy;stel&shy;lung der Pro&shy;fes&shy;soren"
         begin: "10:00"
         duration: "2:00"
       -
-        title: "Mittagspause"
+        title: "Mit&shy;tags&shy;pau&shy;se"
         begin: "12:00"
         duration: "1:00"
       -
@@ -91,23 +91,23 @@ days:
         begin: "18:30"
         duration:  "2:30"
   -
-    name: Freitag
+    name: "Frei&shy;tag"
     date: 09.10.2015
     events:
       -
         begin: "12:00"
         duration: "1:00"
-        title: Mittagspause
+        title: "Mit&shy;tags&shy;pau&shy;se"
       -
-        title: Stadtführung
-        location: "Gegenüber der Haltestelle Prager Straße in Richtung Altmarktgalerie (51.047517, 13.736457)"
+        title: "Stadt&shy;führung"
+        location: "Ge&shy;gen&shy;ü&shy;ber der Hal&shy;te&shy;stel&shy;le Pra&shy;ger Stra&shy;ße in Rich&shy;tung Alt&shy;markt&shy;ga&shy;le&shy;rie (51.047517, 13.736457)"
         begin: "13:00"
         duration: "3:00"
   -
-    name: Samstag
+    name: "Sams&shy;tag"
     date: 10.10.2015
     events:
       -
-        title: Wandering in der Sächsischen Schweiz
+        title: "Wan&shy;derung in der Sächs&shy;ischen Schweiz"
         begin: "9:00"
         duration: "7:00"
