@@ -4,6 +4,7 @@ days:
   -
     name: "Mon&shy;tag"
     date: 05.10.2015
+    shortdate: 05.10.15
     events:
       -
         begin: "9:00"
@@ -27,6 +28,7 @@ days:
   -
     name: "Diens&shy;tag"
     date: 06.10.2015
+    shortdate: 06.10.15
     events:
       -
         begin: "9:00"
@@ -55,6 +57,7 @@ days:
   -
     name: "Mitt&shy;woch"
     date: 07.10.2015
+    shortdate: 07.10.15
     events:
       -
         title: "Früh&shy;stück"
@@ -78,6 +81,7 @@ days:
   -
     name: "Don&shy;ners&shy;tag"
     date: 08.10.2015
+    shortdate: 08.10.15
     events:
       -
         title: Früh&shy;stück
@@ -106,6 +110,7 @@ days:
   -
     name: "Frei&shy;tag"
     date: 09.10.2015
+    shortdate: 09.10.15
     events:
       -
         begin: "12:00"
@@ -119,6 +124,7 @@ days:
   -
     name: "Sams&shy;tag"
     date: 10.10.2015
+    shortdate: 10.10.15
     events:
       -
         title: "Wan&shy;derung in der Säch&shy;sischen Schweiz"

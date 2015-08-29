@@ -13,9 +13,14 @@
     </tr>
   </thead>
   <tbody>
-  	<td class="date"></td>
+  	<td class="date">&nbsp;</td>
 		{% for day in site.data.events.days %}
-    	<td class="date"><div>{{ day.date }}</div></td>
+    	<td class="date">
+    		<div>
+    			<span class="hide-for-medium-only">{{ day.date }}</span>
+    			<span class="show-for-medium-only">{{ day.shortdate }}</span>
+    		</div>
+    	</td>
 		{% endfor %}
     {% assign max-slot = schedule-length | times: 4 %}
     {% for slot in (0..max-slot) %}
