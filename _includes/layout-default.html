@@ -1,8 +1,7 @@
-{% if include.sidebar-items %}{% assign items = include.sidebar-items %}{% else %}{% assign items = site.sidebar %}{% endif %}
-{% if include.pages %}{% assign pages = include.pages %}{% else %}{% assign pages = site.pages %}{% endif %}
 <!DOCTYPE html>
 <html>
-
+	{% if include.sidebar-items %}{% assign items = include.sidebar-items %}{% else %}{% assign items = site.sidebar %}{% endif %}
+	{% if include.pages %}{% assign pages = include.pages %}{% else %}{% assign pages = site.pages %}{% endif %}
   {% include head.html %}
 
   <body class="row">
@@ -25,7 +24,6 @@
       <div class="hide-for-small-only">
         <div class="column sidebar-header small-12">&nbsp;</div>
       </div>
-      <!-- </div> -->
       {% include sidebar.html items=items %}
     </div>
     <div class="column small-12">
