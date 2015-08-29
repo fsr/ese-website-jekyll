@@ -1,10 +1,12 @@
 {% if include.items %}{% assign items = include.items %}{% else %}{% assign items = site.sidebar %}{% endif %}
-<div class="sidebar hide-for-small-only">
+<div class="sidebar">
   {% assign items = items | sort: 'index' %}
   <div>
   {% for item in items %}
     <div class="column small-12 sidebar-item">
-      <h4>{{ item.title }}</h4>
+    	{% if item.title %}
+      	<h4>{{ item.title }}</h4>
+      {% endif %}
       <div class="item-content">
         {{ item.content }}
       </div>
