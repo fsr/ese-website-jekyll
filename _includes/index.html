@@ -8,6 +8,7 @@
 
   <ul class="post-list">
     {% for post in posts %}
+      {{ post.date }}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

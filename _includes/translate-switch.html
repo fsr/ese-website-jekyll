@@ -1,0 +1,11 @@
+<ul{% if include.inline %} class="inline-list"{% endif %}>
+  {% assign langmodifier = page.url | split: "/" %}
+  {% case langmodifier[1] %}
+  {% when "en" %}
+    <li class="lang"><a href="{{ page.url | remove_first: '/en' }}">Deutsch</a></li>
+    <li class="lang active"><a href="{{ page.url }}">English</a></li>
+  {% else %}
+    <li class="lang active"><a href="{{ page.url }}">Deutsch</a></li>
+    <li class="lang"><a href="{{ page.url | prepend: '/en' }}">English</a></li>
+  {% endcase %}
+</ul>
