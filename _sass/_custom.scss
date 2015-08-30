@@ -27,14 +27,7 @@
   }
 }
 
-.developer-preview-message {
-  display: block;
-  position: relative;
-  z-index: 1337;
-}
-
-.no-js-message,
-.developer-preview-message-hidden {
+.no-js-message, {
   display: none;
 }
 
@@ -123,5 +116,24 @@ table {
     &.even, &.alt, &:nth-of-type(2n) {
       background: white;
     }
+  }
+}
+
+/**
+ *   Styles for the Skip link
+ */
+.element-invisible {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+ 
+  &.element-focusable:active,
+  &.element-focusable:focus {
+    clip: auto;
+    height: auto;
+    overflow: visible;
+    position: static !important;
+  
   }
 }
