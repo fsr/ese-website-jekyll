@@ -1,6 +1,14 @@
-<<<<<<< HEAD
 .show-more {
   @extend .small;
+}
+
+a {
+  outline: 0;
+  &:hover,
+  &:active,
+  &:focus {
+    outline: 0;
+  }
 }
 
 .no-js {
@@ -127,13 +135,42 @@ table {
   height: 1px;
   overflow: hidden;
   position: absolute !important;
- 
+
   &.element-focusable:active,
   &.element-focusable:focus {
     clip: auto;
     height: auto;
     overflow: visible;
     position: static !important;
-  
+
+  }
+}
+
+/**
+ *   Language icons
+ */
+.language-switcher {
+
+  img.language-icon {
+    filter: url("/ese-webseite/css/img/desaturate.svg#greyscale");
+  }
+
+  .language-link {
+    text-decoration: none;
+
+    &.active {
+      cursor: default;
+
+    }
+    &.active,
+    &:hover,
+    &:active,
+    &:focus {
+
+      img.language-icon {
+        filter: none;
+
+      }
+    }
   }
 }

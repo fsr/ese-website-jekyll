@@ -1,11 +1,29 @@
 <ul{% if include.inline %} class="inline-list"{% endif %}>
-  {% assign langmodifier = page.url | split: "/" %}
-  {% case langmodifier[1] %}
-  {% when "en" %}
-    <li class="lang"><a href="{{ page.url | remove_first: '/en' }}">Deutsch</a></li>
-    <li class="lang active"><a href="{{ page.url }}">English</a></li>
-  {% else %}
-    <li class="lang active"><a href="{{ page.url }}">Deutsch</a></li>
-    <li class="lang"><a href="{{ page.url | prepend: '/en' }}">English</a></li>
-  {% endcase %}
+
 </ul>
+
+<div class="language-switcher i18n">
+	<ul class="language-list i18n">
+    {% assign langmodifier = page.url | split: "/" %}
+    {% case langmodifier[1] %}
+    {% when "en" %}
+      {% assign en-url = page.url | remove_first: '/en' %}
+      {% assign de-url = page.url %}
+    {% else %}
+      {% assign en-url = page.url | prepend: '/en' %}
+      {% assign de-url = page.url %}
+    {% endcase %}
+
+		<li class="language-switch i18n de">
+			<a class="language-link" href="{{ en-url }}" hreflang="de">
+				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/de.png" />&nbsp;<span class="hide-for-small-only">German</span>
+			</a>
+		</li>
+		<li class="language-switch i18n en active">
+			<a class="language-link active" href="{{ de-url }}" hreflang="en">
+				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/en.png" />&nbsp;<span class="hide-for-small-only">English</span>
+			</a>
+		</li>
+
+	</ul>
+</div>

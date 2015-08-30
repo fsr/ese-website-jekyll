@@ -40,6 +40,10 @@ $(document).ready(function(){
   		$('#developer-preview-message').foundation('reveal', 'close');
 		});
 
+		$('.language-link.active').click(function() {
+			return false;
+		});
+		
 		/**
 		 * Function to set a cookie that expires in @days
 		 */
