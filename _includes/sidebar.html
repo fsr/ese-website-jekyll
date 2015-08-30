@@ -2,15 +2,20 @@
 <div class="sidebar">
   {% assign items = items | sort: 'index' %}
   <div>
-  {% for item in items %}
+
     <div class="column small-12 sidebar-item">
-    	{% if item.title %}
-      	<h4>{{ item.title }}</h4>
-      {% endif %}
-      <div class="item-content">
-        {{ item.content }}
-      </div>
+      {% include translate-switch.html inline=true %}
     </div>
-  {% endfor %}
+
+    {% for item in items %}
+      <div class="column small-12 sidebar-item">
+        {% if item.title %}
+          <h4>{{ item.title }}</h4>
+        {% endif %}
+        <div class="item-content">
+          {{ item.content }}
+        </div>
+      </div>
+    {% endfor %}
   </div>
 </div>
