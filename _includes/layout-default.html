@@ -4,29 +4,35 @@
 	{% if include.pages %}{% assign pages = include.pages %}{% else %}{% assign pages = site.pages %}{% endif %}
   {% include head.html %}
 
-  <body class="row">
-    <div class="column small-12 medium-9">
+  <body>
+  	<div id="skip-link">
+  		<a href="#content">Skip to Content</a>
+  	</div>
+  	<div class="row body-wrapper wrapper">
+	    <div class="column small-12 medium-9">
 
-        {% include header.html pages=pages %}
+	        {% include header.html pages=pages %}
 
-      <div class="column small-12">
-        {{ content }}
-      </div>
-    </div>
-
-    <div class="column small-12 medium-3">
-      <!-- <div> -->
-      <div>
-        <div class="ese-logo">
-        	<img src="/img/ese-logo.png" />
-        </div>
-      </div>
-      {% include sidebar.html items=items %}
-    </div>
-    <div class="column small-12">
-  		{% include footer.html %}
-    </div>
-
+	      <div id="content" class="column small-12">
+	        {{ content }}
+	      </div>
+	    </div>
+	    <div class="column small-12 medium-3">
+	      <div class="hide-for-small-only">
+	        <div class="ese-logo small-12 column">
+	        	<img src="{{ site.baseurl }}/img/ese-logo.png" />
+	        </div>
+	      </div>
+	      <div class="hide-for-small-only">
+	        <div class="column sidebar-header small-12">&nbsp;</div>
+	      </div>
+	      {% include sidebar.html items=items %}
+	    </div>
+	    <div class="column small-12">
+	  		{% include footer.html %}
+	    </div>
+	  </div>
+	{% include overlay-messages.html %}
   {% include lateload-scripts.html %}
   </body>
 

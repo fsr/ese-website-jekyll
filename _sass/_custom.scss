@@ -1,10 +1,48 @@
+<<<<<<< HEAD
 .show-more {
   @extend .small;
 }
 
+.no-js {
+  .body-wrapper {
+    display: none;
+  }
+  .blackout-box {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    top: 0;
+    left: 0;
+    display: block;
+    z-index: 42;
+  }
+}
+
+.no-js {
+  .no-js-message {
+    display: block;
+    position: relative;
+    z-index: 1337;
+  }
+}
+
+.developer-preview-message {
+  display: block;
+  position: relative;
+  z-index: 1337;
+}
+
+.no-js-message,
+.developer-preview-message-hidden {
+  display: none;
+}
+
+
 .js-only {
   display: none;
 }
+
 
 html.js .js-only {
   display: block;
