@@ -22,7 +22,7 @@ days:
         begin: "18:00"
         duration: "4:00"
         title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
-        location: "Coun&shy;tdown"
+        location: "Count Down"
   -
     name: "Diens&shy;tag"
     date: 06.10.2015
@@ -32,7 +32,7 @@ days:
         duration: "3:30"
         title: "Ein&shy;schrei&shy;bung und e&shy;wiges Früh&shy;stück"
       -
-        title: "Mit&shy;tag&shy;spause"
+        title: "Mit&shy;tags&shy;pause"
         begin: "12:30"
         duration: "0:30"
       -
@@ -44,7 +44,7 @@ days:
         title: "Club&shy;wan&shy;de&shy;rung"
         begin: "19:30"
         duration: "1:00"
-        location: "Count&shy;down"
+        location: "Count Down"
   -
     name: "Mitt&shy;woch"
     date: 07.10.2015
@@ -108,6 +108,6 @@ days:
     date: 10.10.2015
     events:
       -
-        title: "Wan&shy;derung in der Sächs&shy;ischen Schweiz"
+        title: "Wan&shy;derung in der Säch&shy;sischen Schweiz"
         begin: "9:00"
         duration: "7:00"
