@@ -45,9 +45,6 @@ collections:
   sidebar:
   en-news:
   en-sidebar:
-  en-posts:
-    output: true
-    permalink: en/posts/:path:output_ext
   en:
     output: true
     permalink: en/:path:output_ext

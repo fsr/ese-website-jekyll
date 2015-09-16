@@ -1,4 +1,3 @@
-{% if include.posts %}{% assign posts = include.posts %}{% else %}{% assign posts = site.posts %}{% endif %}
 {% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
 <div class="home row">
 
@@ -6,19 +5,6 @@
     {% include news.html news=news %}
   </div>
 
-  <ul class="post-list">
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {{ post.content }}
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  {{ content }}
 
 </div>
