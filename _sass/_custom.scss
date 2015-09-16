@@ -1,5 +1,9 @@
 .show-more {
   @extend .small;
+
+  &.js {
+    display: none;
+  }
 }
 
 .sidebar-item {
