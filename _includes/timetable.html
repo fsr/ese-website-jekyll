@@ -31,11 +31,11 @@
           <td><div class="table-spacer">&nbsp;</div></td>
         {% endif %}
 
-        {% for day in (0..5) %}
+        {% for day in site.data.events.days %}
 
           {% capture filler %}<td class="empty"><div class="table-spacer">&nbsp;</div></td>{% endcapture %}
 
-          {% for item in site.data.events.days[day].events %}
+          {% for item in day.events %}
 
             {% assign begin    = item.begin | split: ':' %}
             {% assign begin    = begin[1] | divided_by: 60.0 | plus: begin[0] | minus: schedule-begin | times: 4 %}
