@@ -7,20 +7,20 @@
     {% assign langmodifier = page.url | split: "/" %}
     {% case langmodifier[1] %}
     {% when "en" %}
-      {% assign en-url = page.url | remove_first: '/en' %}
-      {% assign de-url = page.url %}
+      {% assign de-url = page.url | remove_first: '/en' %}
+      {% assign en-url = page.url %}
     {% else %}
-      {% assign en-url = page.url | prepend: '/en' %}
       {% assign de-url = page.url %}
+      {% assign en-url = page.url | prepend: '/en' %}
     {% endcase %}
 
 		<li class="language-switch i18n de">
-			<a class="language-link" href="{{ en-url }}" hreflang="de">
+			<a class="language-link" href="{{ de-url }}" hreflang="de">
 				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/de.png" />&nbsp;<span class="hide-for-small-only">German</span>
 			</a>
 		</li>
 		<li class="language-switch i18n en active">
-			<a class="language-link" href="{{ de-url }}" hreflang="en">
+			<a class="language-link" href="{{ en-url }}" hreflang="en">
 				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/en.png" />&nbsp;<span class="hide-for-small-only">English</span>
 			</a>
 		</li>
