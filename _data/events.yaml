@@ -1,4 +1,4 @@
-schedule-length: "11:15" # in stunden
+schedule-length: "12:15" # in stunden
 schedule-begin: 9 # Uhr
 days:
   -
@@ -52,7 +52,7 @@ days:
       -
         title: "Club&shy;wan&shy;de&shy;rung"
         begin: "20:00"
-        duration: "1:00"
+        duration: "2:00"
         location: "Start am Count Down"
   -
     name: "Mitt&shy;woch"
