@@ -7,13 +7,14 @@ days:
     events:
       -
         begin: "9:00"
-        duration: "1:00"
+        duration: "0:45"
         title: "Früh&shy;stück"
+        location: "APB E023"
       -
         begin: "10:00"
-        duration: "2:30"
+        duration: "2:00"
         title: "Be&shy;grü&shy;ßung und Tu&shy;torien"
-        location: ZEU/LICH ???
+        location: POT/81/A
       -
         begin: "12:30"
         duration: "1:00"
@@ -22,7 +23,7 @@ days:
         begin: "18:00"
         duration: "4:00"
         title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
-        location: "Count Down"
+        location: "Fakultäts&shy;gebäude Informatik"
   -
     name: "Diens&shy;tag"
     date: 06.10.2015
@@ -30,7 +31,8 @@ days:
       -
         begin: "9:00"
         duration: "3:30"
-        title: "Ein&shy;schrei&shy;bung und e&shy;wiges Früh&shy;stück"
+        title: "Ein&shy;schrei&shy;bung, und parallel e&shy;wiges Früh&shy;stück, sowie Vorträge und Enter&shy;tainment"
+        location: "APB E023"
       -
         title: "Mit&shy;tags&shy;pause"
         begin: "12:30"
@@ -38,13 +40,18 @@ days:
       -
         title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
         begin: "13:00"
-        duration: "3:00"
+        duration: "2:00"
+        location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
+      -
+        title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
+        begin: "15:00"
+        duration: "2:00"
         location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
       -
         title: "Club&shy;wan&shy;de&shy;rung"
-        begin: "19:30"
+        begin: "20:00"
         duration: "1:00"
-        location: "Count Down"
+        location: "Start am Count Down"
   -
     name: "Mitt&shy;woch"
     date: 07.10.2015
@@ -52,18 +59,20 @@ days:
       -
         title: "Früh&shy;stück"
         begin: "9:00"
-        duration: "1:30"
+        duration: "0:45"
+        location: "APB E023"
       -
         title: "Vor&shy;träge"
-        begin: "10:30"
+        begin: "10:00"
         duration: "1:30"
+        location: "APB E023"
       -
         title: "Mit&shy;tags&shy;pause"
         begin: "12:00"
         duration: "1:00"
       -
-        title: "Cam&shy;pus-Schni&shy;tzel&shy;jagd"
-        location: "Treff im Fo&shy;yer"
+        title: "Cam&shy;pus&shy;schni&shy;tzel&shy;jagd"
+        location: "Treff im Fo&shy;yer der Informatik"
         begin: "13:00"
         duration: "3:00"
   -
@@ -74,22 +83,26 @@ days:
         title: Früh&shy;stück
         begin: "9:00"
         duration: "1:00"
+        location: "APB E023"
       -
         title: "Vor&shy;stel&shy;lung der Pro&shy;fes&shy;soren"
         begin: "10:00"
         duration: "2:00"
+        location: "APB E023"
       -
         title: "Mit&shy;tags&shy;pau&shy;se"
         begin: "12:00"
         duration: "1:00"
       -
         begin: "13:00"
-        duration: "3:00"
+        duration: "2:45"
         title: "ESE-Spiel"
+        location: "Foyer der Informatik"
       -
         title: "ESE-Kino"
-        begin: "18:30"
-        duration:  "2:30"
+        begin: "19:00"
+        duration:  "2:00"
+        location: "Kino im Kasten"
   -
     name: "Frei&shy;tag"
     date: 09.10.2015
@@ -100,7 +113,7 @@ days:
         title: "Mit&shy;tags&shy;pau&shy;se"
       -
         title: "Stadt&shy;führung"
-        location: "Ge&shy;gen&shy;ü&shy;ber der Hal&shy;te&shy;stel&shy;le Pra&shy;ger Stra&shy;ße in Rich&shy;tung Alt&shy;markt&shy;ga&shy;le&shy;rie (51.047517, 13.736457)"
+        location: "undefined"
         begin: "13:00"
         duration: "3:00"
   -
@@ -111,3 +124,4 @@ days:
         title: "Wan&shy;derung in der Säch&shy;sischen Schweiz"
         begin: "9:00"
         duration: "7:00"
+        location: "Treff am Hauptbahnhof"
