@@ -1,9 +1,20 @@
 .show-more {
   @extend .small;
+}
 
-  &.js {
-    display: none;
+.js-only {
+  display: none;
+}
+
+html.js .js-only {
+  display: block;
+  &.inline {
+    display: inline;
   }
+  &.inline-block {
+    display: inline-block;
+  }
+
 }
 
 .sidebar-item {
