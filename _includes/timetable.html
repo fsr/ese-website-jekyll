@@ -17,8 +17,8 @@
 		{% for day in site.data.events.days %}
     	<td class="date">
     		<div>
-    			<span class="hide-for-medium-only">{{ day.date }}</span>
-    			<span class="show-for-medium-only">{{ day.shortdate }}</span>
+    			<span class="hide-for-medium-only">{{ day.date | date: "%-d.%m.%Y" }}</span>
+    			<span class="show-for-medium-only">{{ day.date | date: "%-d.%m.%y" }}</span>
     		</div>
     	</td>
 		{% endfor %}
