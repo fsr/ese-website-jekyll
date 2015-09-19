@@ -3,7 +3,7 @@ title: "ESE 2015 | iFSR"
 email: fsr@ifsr.de
 description: > # this means to ignore newlines until "baseurl:"
   Die offizielle Seite der ESE 2015
-baseurl: "/2015/" # the subpath of your site, e.g. /blog/
+baseurl: "/2015" # the subpath of your site, e.g. /blog/
 url: "https://ese.ifsr.de" # the base hostname & protocol for your site
 twitter_username: ifsr
 github_username:  fsr
