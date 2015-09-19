@@ -1,19 +1,24 @@
 .show-more {
   @extend .small;
+  
 }
 
 a {
   outline: 0;
+  
   &:hover,
   &:active,
   &:focus {
     outline: 0;
+    
   }
 }
 
 .no-js {
+  
   .body-wrapper {
     display: none;
+    
   }
   .blackout-box {
     position: absolute;
@@ -24,105 +29,133 @@ a {
     left: 0;
     display: block;
     z-index: 42;
+    
   }
 }
 
 .no-js {
+  
   .no-js-message {
     display: block;
     position: relative;
     z-index: 1337;
+    
   }
 }
 
 .no-js-message, {
   display: none;
+  
 }
-
 
 .js-only {
   display: none;
+  
 }
-
 
 html.js .js-only {
   display: block;
+  
   &.inline {
     display: inline;
+    
   }
   &.inline-block {
     display: inline-block;
+    
   }
-
 }
 
+/**
+ * Sidebar Styles
+ */
 .sidebar-item {
   color: white;
   background-color: $purple;
   margin-top: 12px;
   padding-top: 7px;
+  
 }
 
 .sidebar-header {
-   height:55px;
-   margin:0;
-   padding:0;
+  height:55px;
+  margin:0;
+  padding:0;
+  
 }
 
 .sidebar {
   color: white;
+  
   h1, h2, h3, h4, h5 {
     color: white;
+    
   }
-  .sidebar-item {
+  .sidebar-item p {
     font-size: small;
+    text-align: right;
+    
   }
-
   a {
-    color: lighten($grey-color, 20%);
+    color: white;
     text-decoration: underline;
+    
+    &:hover,
+    &:active,
+    &:focus {
+      color: #DDDDDD;
+      
+    }
   }
 }
 
 .sidebar-header {
   min-height: 20px;
   @extend .sidebar-item;
+  
 }
 
+/**
+ * 
+ */
 table {
+  
   tr {
+    
     td {
       vertical-align: top;
       padding: 0;
-
+      
       &.date {
         padding: 9px 10px;
-
+        
         & > div {
           font-weight: bold;
+          
         }
       }
-
       &.data {
         border: 1px solid black;
+        
       }
-
       div.table-spacer {
         height: 1.4em;
+        
       }
-
       .data {
         padding: 6px 9px;
         height: 2em;
         overflow: visible;
+        
       }
-
       &.time > div {
         padding: 1px 3px;
+        
       }
     }
     &.even, &.alt, &:nth-of-type(2n) {
       background: white;
+      
     }
   }
 }
@@ -135,14 +168,14 @@ table {
   height: 1px;
   overflow: hidden;
   position: absolute !important;
-
+  
   &.element-focusable:active,
   &.element-focusable:focus {
     clip: auto;
     height: auto;
     overflow: visible;
     position: static !important;
-
+    
   }
 }
 
@@ -152,24 +185,24 @@ table {
 .language-switcher {
 
   img.language-icon {
-    filter: url("/ese-webseite/css/img/desaturate.svg#greyscale");
+    filter: url("/css/img/desaturate.svg#greyscale");
+    
   }
 
   .language-link {
     text-decoration: none;
-
+    
     &.active {
       cursor: default;
-
+      
     }
     &.active,
     &:hover,
-    &:active,
     &:focus {
-
+      
       img.language-icon {
         filter: none;
-
+        
       }
     }
   }
