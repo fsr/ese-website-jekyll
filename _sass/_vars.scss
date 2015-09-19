@@ -34,3 +34,6 @@ $on-laptop:        800px;
 $sidebar-width: 200px;
 
 $page-width: $content-width + $sidebar-width;
+
+$topbar-breakpoint: 725px; // Change to 9999px for always mobile layout
+$topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
