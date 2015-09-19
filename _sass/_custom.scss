@@ -180,9 +180,14 @@ table {
 }
 
 /**
- *   Language icons
+ *   Language switcher
  */
 .language-switcher {
+  
+  .language-list {
+    list-style: none;
+    margin-left: 0;
+  }
 
   img.language-icon {
     filter: url("/css/img/desaturate.svg#greyscale");
@@ -194,6 +199,7 @@ table {
     
     &.active {
       cursor: default;
+      pointer-events: none;
       
     }
     &.active,
