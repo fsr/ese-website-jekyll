@@ -115,7 +115,7 @@ html.js .js-only {
 }
 
 /**
- * 
+ * Timetable
  */
 table {
   
@@ -159,6 +159,15 @@ table {
   }
 }
 
+ul.accordion {
+  margin-left: 0;
+  
+  .accordion-navigation > #timetable.content {
+    padding: 0;
+    
+  }
+}
+
 /**
  *   Styles for the Skip link
  */
@@ -189,7 +198,7 @@ table {
   }
 
   img.language-icon {
-    filter: url("/css/img/desaturate.svg#greyscale");
+    filter: url("/2015/css/img/desaturate.svg#greyscale");
     
   }
 

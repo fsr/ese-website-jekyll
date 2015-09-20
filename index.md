@@ -16,8 +16,6 @@ Die ESE startet am Montag mit Frühstück um 9 Uhr. Bring bitte am Montag deinen
 
 *Wenn nicht anders angegeben finden alle Veranstaltungen in der Fakultät Informatik im Raum E023 (einfach im Foyer Tutoren in lila Shirts folgen).*
 
-[Barrierefreie Version des Zeitplans](zeitplan.html)
-
 {% include timetable.html %}
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal Datei. Kann direkt in den Kalender importiert werden. Aber Achtung: Updatet sich nicht von selbst!
