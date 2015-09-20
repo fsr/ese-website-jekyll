@@ -3,11 +3,11 @@
     {% assign langmodifier = page.url | split: "/" %}
     {% case langmodifier[1] %}
     {% when "en" %}
-      {% assign de-url = page.url | remove_first: '/en' %}
+      {% assign de-url = page.url | remove_first: '/en' | prepend: site.baseurl %}
       {% assign en-url = page.url %}
     {% else %}
       {% assign de-url = page.url %}
-      {% assign en-url = page.url | prepend: '/en' %}
+      {% assign en-url = page.url | prepend: '/en' | prepend: site.baseurl %}
     {% endcase %}
 
 		<li class="language-switch i18n de">
