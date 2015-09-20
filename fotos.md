@@ -3,4 +3,4 @@ title: Fotos
 layout: page
 ---
 
-fotos
+Hier werden die Fotos aus eurer ESE zu finden sein!
