@@ -1,13 +1,16 @@
-@media only screen {
+/**
+ * I don't think this is a good idea.
+ * We should stick as close as possible to very basic styles
+ */
+/*@media only screen {
   .main-column {
     padding-left: 5px;
     padding-right: 5px;
   }
-}
+}*/
 
 body {
-  margin-top: 10px;
-  background-color: #f5f5f5;
+  /*margin-top: 10px;*/
 }
 
 .show-more {
