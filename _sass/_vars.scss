@@ -1,22 +1,26 @@
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   100%;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$font-family-sans-serif: Helvetica, Arial, sans-serif;
+$font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+$font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
+
+// We use these to define default font weights
+$font-weight-normal: normal;
+$font-weight-bold: bold;
+$body-bg: #F5F5F5;
+$body-font-color: #111111;
+$body-font-family: $font-family-sans-serif;
+$body-font-weight: $font-weight-normal;
+$body-font-style: normal;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #f5f5f5  ;
-$brand-color:      #2a7ae2;
+$brand-color:	#2A7AE2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-
+$grey-color:				#828282;
+$grey-color-light:	lighten($grey-color, 40%);
+$grey-color-dark:		darken($grey-color, 25%);
 
 $purple: #573b75;
-
 
 $color-primary: $purple;
 $color-primary-light: lighten($color-primary, 30%);

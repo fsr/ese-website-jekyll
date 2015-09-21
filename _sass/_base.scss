@@ -14,13 +14,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+	/**
+	 * 	We do not need this since it can be defined via variables in foundation
+	 */
 }
 
 
@@ -44,7 +40,6 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
 
 
 /**
