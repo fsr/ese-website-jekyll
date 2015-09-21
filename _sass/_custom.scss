@@ -250,7 +250,7 @@ ul.accordion {
   }
 
   img.language-icon {
-    filter: url("/2015/css/img/desaturate.svg#greyscale");
+    filter: url(" #{$baseurl}/css/img/desaturate.svg#greyscale");
 
   }
 
