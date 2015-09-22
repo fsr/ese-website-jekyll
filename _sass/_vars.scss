@@ -25,7 +25,9 @@ $grey-color-dark:		darken($grey-color, 25%);
 
 $purple: #573b75;
 
-$color-primary: $purple;
+$primary-color: $purple;
+
+$color-primary : $purple;
 $color-primary-light: lighten($color-primary, 30%);
 $color-primary-dark: darken($color-primary, 30%);
 
@@ -43,10 +45,18 @@ $sidebar-width: 200px;
 
 $page-width: $content-width + $sidebar-width;
 
+$topbar-bg-color: $purple;
+$topbar-bg: $topbar-bg-color;
+
+$topbar-link-bg: $purple;
+$topbar-link-bg-hover: scale-color($primary-color, $lightness: -14%);
+$topbar-link-bg-active: $primary-color;
+$topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+
+$topbar-dropdown-bg: $purple;
+
 $topbar-breakpoint: 725px; // Change to 9999px for always mobile layout
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
-
-$topbar-bg-color: $purple;
 
 $h1-font-size: rem-calc(32);
 $h2-font-size: rem-calc(32);
