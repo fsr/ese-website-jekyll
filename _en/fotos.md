@@ -1,5 +1,5 @@
 ---
-title: Fotos
+title: Photos
 ---
 
-fotos
+Here you'll find the photos form your ESE!

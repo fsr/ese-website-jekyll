@@ -1,6 +1,6 @@
 ---
 index: 300
-title: Fragen?
+title: Questions?
 ---
 
-Schick uns eine [E-Mail](mailto:{{ site.email }})
+Send an [eMail](mailto:{{ site.email }})

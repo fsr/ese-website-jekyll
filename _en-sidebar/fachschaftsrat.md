@@ -1,9 +1,9 @@
 ---
 index: 400
-title: Fachschaftsrat
+title: Student Representatives
 ---
 
-Fakultät Informatik  
+Faculty of Computer Science 
 Nöthnitzer Straße 46  
 Raum APB E017  
 E-Mail: [{{ site.emailfsr }}](mailto:{{ site.emailfsr }})

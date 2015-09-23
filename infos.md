@@ -3,7 +3,7 @@ title: Infos
 layout: page
 ---
 
-Auf dieser Seite haben wir euch alle wichtigen Dokumente zusammengestellt, die für das Studium an der Fakultät Informatik wichtig sind. Hier findet ihr die Studien- und Prüfungsordnung und die dazugehörigen Anhänge aufgelistet. Weitere Informationen könnt ihr auf der Seite des Prüfungsamtes der Fakultät Informatik finden.
+Auf dieser Seite haben wir euch alle Dokumente zusammengestellt, die für das Studium an der Fakultät Informatik wichtig sind. Hier findet ihr die Studien- und Prüfungsordnung und die dazugehörigen Anhänge aufgelistet. Weitere Informationen könnt ihr auf der [Seite des Prüfungsamts](http://www.inf.tu-dresden.de/index.php?node_id=876&ln=de) der Fakultät Informatik finden.
 
 ### Bachelor Informatik
 

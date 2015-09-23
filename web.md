@@ -10,7 +10,7 @@ layout: page
 
 ### No Panic!
 
-[No Panic](http://ese.ifsr.de/2015/nopanic2015.pdf) (PDF ?MB) ist die Infobroschüre zum Studienstart. Hier findest du alles was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
+[No Panic](http://ese.ifsr.de/2015/nopanic2015.pdf) (PDF 3MB) ist die Infobroschüre zum Studienstart. Hier findest du alles was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 
 ### Finanzen
 
