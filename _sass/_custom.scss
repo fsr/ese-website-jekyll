@@ -1,18 +1,3 @@
-/**
- * I don't think this is a good idea.
- * We should stick as close as possible to very basic styles
- */
-/*@media only screen {
-  .main-column {
-    padding-left: 5px;
-    padding-right: 5px;
-  }
-}*/
-
-body {
-  /*margin-top: 10px;*/
-}
-
 .show-more {
   @extend .small;
 
@@ -27,40 +12,6 @@ a {
     outline: 0;
 
   }
-}
-
-.no-js {
-
-  .body-wrapper {
-    display: none;
-
-  }
-  .blackout-box {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    max-width: 100%;
-    top: 0;
-    left: 0;
-    display: block;
-    z-index: 42;
-
-  }
-}
-
-.no-js {
-
-  .no-js-message {
-    display: block;
-    position: relative;
-    z-index: 1337;
-
-  }
-}
-
-.no-js-message, {
-  display: none;
-
 }
 
 .js-only {
@@ -168,7 +119,7 @@ table {
 
       &.date {
         padding: 9px 10px;
-        background-color: #F5F5F5; 
+        background-color: #F5F5F5;
 
         & > div {
           font-weight: bold;
