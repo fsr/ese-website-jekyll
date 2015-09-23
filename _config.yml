@@ -18,6 +18,14 @@ exclude:
 
 permalink: none
 
+compress_html:
+  clippings: all
+  comments: []
+  endings: []
+  profile: false
+  ignore:
+    envs: []
+
 defaults:
   -
     scope:
