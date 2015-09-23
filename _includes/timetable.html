@@ -1,8 +1,6 @@
 {% assign schedule-length = site.data.events.schedule-length | split: ':' %}
 {% assign schedule-length = schedule-length[1] | divided_by: 60.0 | plus: schedule-length[0] %}
-
 {% assign schedule-begin = site.data.events.schedule-begin %}
-
 <ul class="accordion" data-accordion="" role="tablist">
   <li class="accordion-navigation hide-for-small-only">
     <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Timetable</a>
@@ -12,7 +10,7 @@
 			    <tr>
 			      <th width="50">Zeit</th>
 			      {% for day in site.data.events.days %}
-			      	<th width="100">{{ day.name }}</th>
+			      	<th width="100">{% if include.lang == "en" and day.name-en %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %}</th>
 			      {% endfor %}
 			    </tr>
 			  </thead>
@@ -25,10 +23,10 @@
 			    			<span class="show-for-medium-only">{{ day.date | date: "%-d.%m.%y" }}</span>
 			    		</div>
 			    	</td>
-					{% endfor %}
+					{% endfor -%}
 			    {% assign max-slot = schedule-length | times: 4 %}
 			    {% for slot in (0..max-slot) %}
-			
+
 			        {% assign is_hour = slot | modulo: 4 %}
 			        {% if is_hour == 0 %}
 			        <tr class="full-hour">
@@ -39,39 +37,39 @@
 			        <tr>
 			          <td><div class="table-spacer">&nbsp;</div></td>
 			        {% endif %}
-			
+
 			        {% for day in site.data.events.days %}
-			
+
 			          {% capture filler %}<td class="empty"><div class="table-spacer">&nbsp;</div></td>{% endcapture %}
-			
+
 			          {% for item in day.events %}
-			
+
 			            {% assign begin    = item.begin | split: ':' %}
 			            {% assign begin    = begin[1] | divided_by: 60.0 | plus: begin[0] | minus: schedule-begin | times: 4 %}
 			            {% assign duration = item.duration | split: ':' %}
 			            {% assign duration = duration[1] | divided_by: 60.0 | plus: duration[0] | times: 4 %}
 			            {% assign end      = begin | plus: duration %}
-			
+
 			            {% if begin == slot %}
 			              {% capture filler %}{% endcapture %}
-			
+
 			              <td rowspan="{{ duration }}" class="data">
 			                <div class="data">
-			                  <b>{{ item.title }}</b><br />
-			                  <small>{{ item.location }}</small>
+			                  <b>{% if include.lang == "en" and item.title-en %}{{ item.title-en }}{% else %}{{ item.title }}{% endif %}</b><br />
+			                  <small>{% if include.lang == "en" and item.location-en %}{{ item.location-en }}{% else %}{{ item.location }}{% endif %}</small>
 			                </div>
 			              </td>
-			
+
 			            {% elsif begin <= slot and end > slot %}
 			              {% capture filler %}{% endcapture %}
 			            {% endif %}
-			
+
 			          {% endfor %}
-			
+
 			          {{ filler }}
-			
+
 			        {% endfor %}
-			
+
 			      </tr>
 			    {% endfor %}
 			  </tbody>
@@ -83,12 +81,12 @@
     <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
     	{% for day in site.data.events.days %}
     	<h4>
-    		{{ day.name }} {{ day.date | date: "%-d.%m.%Y" }}
+    		{% if include.lang == "en" and day.name-en %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %} {{ day.date | date: "%-d.%m.%Y" }}
     	</h4>
     	<ul>
     		{% for event in day.events %}
     		<li>
-    			{{ event.begin }} <strong>{{ event.title }}</strong> <small>{{ event.location }}</small> 
+    			{{ event.begin }} <strong>{% if include.lang == "en" and event.title-en %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</strong> <small>{% if include.lang == "en" and event.location-en %}{{ event.location-en }}{% else %}{{ event.location }}{% endif %}</small>
     		</li>
     		{% endfor %}
     	</ul>
