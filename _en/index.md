@@ -5,20 +5,14 @@ index: false
 
 ## Was?
 
-Die **Erstsemestereinführung 2015** (kurz ESE) findet wie jedes Jahr in der Woche vor der ersten Vorlesungswoche statt. In der ESE sollt ihr, die neuen Erstsemester, einen leichten und schönen Einstieg in das Studium bekommen. Dafür gibt es über die ganze Woche verteilt Veranstaltungen. Manche Veranstaltungen überschneiden sich leider mit dem Mathe Brückenkurs. Wir empfehlen natürlich den Besuch der ESE. Im Zeitplan könnt ihr schon mal schauen was euch alles erwartet. Aber kommt einfach am Montag in die Fakultät Informatik und lasst euch nach einem Frühstück in den Tutorien von uns erzählen was alles wichitg ist.
+The **Freshmen week 2015** (we call it "ESE") will take place during the last week before the lectures begin, as per usual. During this time we try to make the start of your studies as smooth and easy as possible. There are several different events throughout the week covering topics such as enrollment and schedules, navigating the campus a tour through the city of Dresden and many more. Some of those event unfortunately take place parallel to the maths preparatory course ("Brückenkurs"), naturally we recommend attending the "ESE". You can have a look at the timetable for an overview of all the events that await you throughout the week. Or just come to the building of the computer science faculty on Monday morning and we'll tell you all about the things you'll need to know.
 
-
-Und falls ihr euch jetzt fragt wer hier "wir" ist: Wir sind die [ESE-Tutoren](fotos.html); Studenten aus höheren Semestern die in ihrer Freizeit gerne den neuen "Erstis" helfen. Uns erkennt ihr in der Woche an den lila ESE-Shirts.
-
+As to who "we" are: We are the [ESE tutors](fotos.html), senior students who like to help freshmen in their spare time. You'll be able to recognize us by our purple shirts.
 
 ## Wann?
 
-Die ESE startet am Montag mit Frühstück um 9 Uhr. Bring bitte am Montag deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit.
-
-*Wenn nicht anders angegeben finden alle Veranstaltungen in der Fakultät Informatik im Raum E023 (einfach im Foyer Tutoren in lila Shirts folgen).*
-
-[Barrierefreie Version des Zeitplans](zeitplan.html)
+The "ESE" will begin with breakfast on Monday at 9am. You'll need your **student id-card** (Studentenausweis) and if you'd like to get your canteen-card right away, you'll be needing your **e-meal certificate** (E-Meal Bescheinigung) and **10€** (5€ Deposit and 5€ credit).
 
 {% include timetable.html lang="en" %}
 
-[Download](ESE.ics) des aktuellen Zeitplans als iCal Datei. Kann direkt in den Kalender importiert werden. Aber Achtung: Updatet sich nicht von selbst!
+[Download](ESE.ics) the current version of the timetable as iCal file to import it into your calendar at home.
