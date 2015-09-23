@@ -3,6 +3,7 @@ schedule-begin: 9 # Uhr
 days:
   -
     name: "Mon&shy;tag"
+    name-en: Mon&shy;day
     date: 05.10.2015
     events:
       -
@@ -31,6 +32,7 @@ days:
         location-en: CS faculty building
   -
     name: "Diens&shy;tag"
+    name-en: Tues&shy;day
     date: 06.10.2015
     events:
       -
@@ -67,6 +69,7 @@ days:
         location-en: Start at club Count Down
   -
     name: "Mitt&shy;woch"
+    name: Wednes&shy;day
     date: 07.10.2015
     events:
       -
@@ -95,6 +98,7 @@ days:
         duration: "3:00"
   -
     name: "Don&shy;ners&shy;tag"
+    name-en: Thurs&shy;day
     date: 08.10.2015
     events:
       -
@@ -129,6 +133,7 @@ days:
         location: "Kino im Kasten"
   -
     name: "Frei&shy;tag"
+    name-en: Fri&shy;day
     date: 09.10.2015
     events:
       -
@@ -144,6 +149,7 @@ days:
         duration: "3:00"
   -
     name: "Sams&shy;tag"
+    name-en: Satur&shy;day
     date: 10.10.2015
     events:
       -
