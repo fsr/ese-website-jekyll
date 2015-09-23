@@ -15,4 +15,4 @@ The "ESE" will begin with breakfast on Monday at 9am. You'll need your **student
 
 {% include timetable.html lang="en" %}
 
-[Download](ESE.ics) the current version of the timetable as iCal file to import it into your calendar at home.
+[Download](ESE-en.ics) the current version of the timetable as iCal file to import it into your calendar at home.
