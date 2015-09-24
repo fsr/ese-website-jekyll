@@ -134,7 +134,7 @@ table {
         }
 
         &.en {
-          border-color: rgb(34, 205, 72);
+          border-color: $en-highlight-color;
         }
       }
 
@@ -172,6 +172,10 @@ ul.accordion {
 
 .accordion .accordion-navigation>.content.active, .accordion dd>.content.active {
     background: #f5f5f5;
+}
+
+#barrierfree .en {
+  color: $en-highlight-color;
 }
 
 /**

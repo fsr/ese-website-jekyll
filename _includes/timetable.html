@@ -44,21 +44,21 @@
 
 			          {% capture filler %}<td class="empty"><div class="table-spacer">&nbsp;</div></td>{% endcapture %}
 
-			          {% for item in day.events %}
+			          {% for event in day.events %}
 
-			            {% assign begin    = item.begin | split: ':' %}
+			            {% assign begin    = event.begin | split: ':' %}
 			            {% assign begin    = begin[1] | divided_by: 60.0 | plus: begin[0] | minus: schedule-begin | times: 4 %}
-			            {% assign duration = item.duration | split: ':' %}
+			            {% assign duration = event.duration | split: ':' %}
 			            {% assign duration = duration[1] | divided_by: 60.0 | plus: duration[0] | times: 4 %}
 			            {% assign end      = begin | plus: duration %}
 
 			            {% if begin == slot %}
 			              {% capture filler %}{% endcapture %}
 
-			              <td rowspan="{{ duration | remove: ".0" }}" class="data{% if include.lang == "en" and item.english == true %} en{% endif %}">
+			              <td rowspan="{{ duration | remove: ".0" }}" class="data{% if include.lang == "en" and event.english == true %} en{% endif %}">
 			                <div class="data">
-			                  <b>{% if include.lang == "en" and item.title-en %}{{ item.title-en }}{% else %}{{ item.title }}{% endif %}</b><br />
-			                  <small>{% if include.lang == "en" and item.location-en %}{{ item.location-en }}{% else %}{{ item.location }}{% endif %}</small>
+			                  <b>{% if include.lang == "en" and event.title-en %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</b><br />
+			                  <small>{% if include.lang == "en" and event.location-en %}{{ event.location-en }}{% else %}{{ event.location }}{% endif %}</small>
 			                </div>
 			              </td>
 
@@ -87,7 +87,7 @@
     	</h4>
     	<ul>
     		{% for event in day.events %}
-    		<li>
+    		<li{% if include.lang == "en" and event.english == true %} class="en"{% endif %}>
     			{{ event.begin }} <strong>{% if include.lang == "en" and event.title-en %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</strong> <small>{% if include.lang == "en" and event.location-en %}{{ event.location-en }}{% else %}{{ event.location }}{% endif %}</small>
     		</li>
     		{% endfor %}
