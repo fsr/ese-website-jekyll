@@ -9,6 +9,7 @@ $(document).ready(function(){
         autoplay: true,
         autoplaySpeed: 10000,
         slidesToShow: 1,
+        accessbility: true,
         // Disable navigation arrows
         arrows: false
     });
