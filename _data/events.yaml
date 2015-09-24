@@ -74,7 +74,7 @@ days:
         english: true
   -
     name: "Mitt&shy;woch"
-    name: Wednes&shy;day
+    name-en: Wednes&shy;day
     date: 07.10.2015
     events:
       -
