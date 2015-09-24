@@ -55,7 +55,7 @@
 			            {% if begin == slot %}
 			              {% capture filler %}{% endcapture %}
 
-			              <td rowspan="{{ duration | remove: ".0" }}" class="data">
+			              <td rowspan="{{ duration | remove: ".0" }}" class="data{% if include.lang == "en" and item.english == true %} en{% endif %}">
 			                <div class="data">
 			                  <b>{% if include.lang == "en" and item.title-en %}{{ item.title-en }}{% else %}{{ item.title }}{% endif %}</b><br />
 			                  <small>{% if include.lang == "en" and item.location-en %}{{ item.location-en }}{% else %}{{ item.location }}{% endif %}</small>

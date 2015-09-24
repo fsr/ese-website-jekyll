@@ -13,6 +13,8 @@ As to who "we" are: We are the [ESE tutors](fotos.html), senior students who lik
 
 The "ESE" will begin with breakfast on Monday at 9am. You'll need your **student id-card** (Studentenausweis) and if you'd like to get your canteen-card right away, you'll be needing your **e-meal certificate** (E-Meal Bescheinigung) and **10€** (5€ Deposit and 5€ credit).
 
+**Important: Events marked with a green border are of special interest to non-german speakers, as they offer support for english in one form or another.**
+
 {% include timetable.html lang="en" %}
 
 [Download](ESE-en.ics) the current version of the timetable as iCal-file to import it into your calendar at home.
