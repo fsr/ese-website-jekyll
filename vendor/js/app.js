@@ -3,7 +3,7 @@
 $(document).ready(function(){
     $(document).foundation();
     $('.slider').slick({
-        lazyLoad: 'ondemand',
+        lazyLoad: 'progressive',
         dots: false,
         infinite: true,
         autoplay: true,
