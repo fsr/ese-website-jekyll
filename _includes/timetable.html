@@ -8,9 +8,9 @@
       <table>
 			  <thead>
 			    <tr>
-			      <th width="50">{% if include.lang == "en" %}Time{% else %}Zeit{% endif %}</th>
+			      <th>{% if include.lang == "en" %}Time{% else %}Zeit{% endif %}</th>
 			      {% for day in site.data.events.days %}
-			      	<th width="100">{% if include.lang == "en" and day.name-en %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %}</th>
+			      	<th>{% if include.lang == "en" and day.name-en %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %}</th>
 			      {% endfor %}
 			    </tr>
 			  </thead>
