@@ -1,4 +1,4 @@
-schedule-length: "12:15" # in stunden
+schedule-length: "12:45" # in stunden
 schedule-begin: 9 # Uhr
 days:
   -
