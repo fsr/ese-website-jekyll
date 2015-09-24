@@ -2,7 +2,7 @@ default:
   pre:
     # The following scripts are included in the <head>
     -
-      src: /vendor/modernizr/modernizr.js
+      src: /vendor/modernizr/modernizr.min.js
     -
       src: /js/konami.js
     -
