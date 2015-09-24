@@ -1,9 +1,25 @@
 headers:
-  - Fassade-vorn.png
-  - APB-Namensschild.png
-  - Die-Kunst.png
-  - Foyer-Decke.png
-  - Helmholzstrasse.png
-  - Innenhof.png
-  - Reflections.png
-  - Wendeltreppe.png
+  - 
+    src: Fassade-vorn.png
+    alt: Fassade des APB
+  - 
+    src: APB-Namensschild.png
+    alt: Namensschild APB
+  - 
+    src: Die-Kunst.png
+    alt: Kunst
+  - 
+    src: Foyer-Decke.png
+    alt: Decke des Foyer
+  - 
+    src: Helmholzstrasse.png
+    alt: Helmholtzstraße
+  - 
+    src: Innenhof.png
+    alt: Innenhof
+  - 
+    src: Reflections.png
+    alt: Reflektionen
+  - 
+    src: Wendeltreppe.png
+    alt: Wendeltreppe
