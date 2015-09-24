@@ -12,6 +12,7 @@ days:
         title: "Früh&shy;stück"
         title-en: "Break&shy;fast"
         location: "APB E023"
+        english: True
       -
         begin: "10:00"
         duration: "2:00"
@@ -23,13 +24,14 @@ days:
         duration: "1:00"
         title: "Mit&shy;tags&shy;pause"
         title-en: "Lunch"
+        english: True
       -
         begin: "18:00"
         duration: "4:00"
         title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
         title-en: "Games-night and Barbecue"
-        location: "Fakultäts&shy;gebäude Informatik"
-        location-en: CS faculty building
+        location: "Andreas-Pfitzmann-Bau"
+        english: True
   -
     name: "Diens&shy;tag"
     name-en: Tues&shy;day
@@ -41,11 +43,13 @@ days:
         title: "Ein&shy;schrei&shy;bung, und parallel e&shy;wiges Früh&shy;stück, sowie Vorträge und Enter&shy;tainment"
         title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
         location: "APB E023"
+        english: True
       -
         title: "Mit&shy;tags&shy;pause"
         title-en: "Lunch"
         begin: "12:30"
         duration: "0:30"
+        english: True
       -
         title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
         title-en: Seminar group meeting
@@ -67,6 +71,7 @@ days:
         duration: "2:00"
         location: "Start am Count Down"
         location-en: Start at club Count Down
+        english: True
   -
     name: "Mitt&shy;woch"
     name: Wednes&shy;day
@@ -78,17 +83,26 @@ days:
         begin: "9:00"
         duration: "0:45"
         location: "APB E023"
+        english: True
       -
         title: "Vor&shy;träge"
         title-en: Talks
         begin: "10:00"
-        duration: "1:30"
+        duration: "0:45"
         location: "APB E023"
+      -
+        title: "Ta&shy;schen&shy;aus&shy;gabe der TU-Dresden"
+        title-en: Carry bag distribution (TU Dresden)
+        begin: "10:00"
+        duration: "0:45"
+        location: "Chemie-Bau"
+        english: True
       -
         title: "Mit&shy;tags&shy;pause"
         title-en: Lunch
         begin: "12:00"
         duration: "1:00"
+        english: True
       -
         title: "Cam&shy;pus&shy;schni&shy;tzel&shy;jagd"
         title-en: Campus scavenger hunt
@@ -96,6 +110,7 @@ days:
         location-en: Meet in the foyer of the CS faculty building
         begin: "13:00"
         duration: "3:00"
+        english: True
   -
     name: "Don&shy;ners&shy;tag"
     name-en: Thurs&shy;day
@@ -107,6 +122,7 @@ days:
         begin: "9:00"
         duration: "1:00"
         location: "APB E023"
+        english: True
       -
         title: "Vor&shy;stel&shy;lung der Pro&shy;fes&shy;soren"
         title-en: Meet the professors
@@ -118,13 +134,14 @@ days:
         title-en: Lunch
         begin: "12:00"
         duration: "1:00"
+        english: True
       -
         begin: "13:00"
         duration: "2:45"
         title: "ESE-Spiel"
         title-en: ESE-game
         location: "Foyer der Informatik"
-        location-en: Foyer of the CS faculty building
+        location-en: Foyer of the Andreas-Pfitzmann-Bau
       -
         title: "ESE-Kino"
         begin: "19:00"
@@ -141,12 +158,14 @@ days:
         duration: "1:00"
         title: "Mit&shy;tags&shy;pau&shy;se"
         title-en: Lunch
+        english: True
       -
         title: "Stadt&shy;führung"
         title-en: Guided city tour
         location: "Dresden"
         begin: "13:00"
         duration: "3:00"
+        english: True
   -
     name: "Sams&shy;tag"
     name-en: Satur&shy;day
@@ -159,3 +178,4 @@ days:
         duration: "7:00"
         location: "Treff am Hauptbahnhof"
         location-en: Meet at the main station
+        english: True
