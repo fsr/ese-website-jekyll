@@ -15,6 +15,22 @@ The "ESE" will begin with breakfast on Monday at 9am. You'll need your **student
 
 **Important: Events marked with a green border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
 
-{% include timetable.html lang="en" %}
+<div id="eventlist" class="show-for-small-only">
+	{% include eventlist.html lang="en" %}
+</div>
+<ul class="accordion hide-for-small-only" data-accordion="" role="tablist">
+  <li class="accordion-navigation">
+    <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Timetable</a>
+    <div id="timetable" class="content active" role="tabpanel" aria-labelledby="timetable-heading">
+			{% include timetable.html lang="en" %}
+    </div>
+  </li>
+  <li class="accordion-navigation">
+    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrierfree Schedule</a>
+    <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
+   		{% include eventlist.html lang="en" %}
+    </div>
+  </li>
+</ul>
 
 [Download](ESE-en.ics) the current version of the timetable as iCal-file to import it into your calendar at home.

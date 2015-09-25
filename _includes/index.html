@@ -1,10 +1,9 @@
 {% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
-<div class="home row">
-
-  <div class="column small-12">
-    {% include news.html news=news %}
-  </div>
-
-  {{ content }}
-
-</div>
+<section>
+	<div class="column small-12">
+	  {% include news.html news=news %}
+	</div>	
+</section>
+<section>
+	{{ content }}
+</section>

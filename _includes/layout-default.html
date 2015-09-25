@@ -9,24 +9,35 @@
   	<div id="skip-link">
   		<a class="element-invisible element-focusable" href="#content">Skip to Content</a>
   	</div>
-  	<div class="row body-wrapper wrapper">
-	    <div class="column small-12 medium-9">
-
-        {% include header.html pages=pages %}
-
-	      <div id="content" class="column small-12">
-	        {{ content }}
-	      </div>
-	    </div>
-	    <div class="column small-12 medium-3 small-only-text-left text-right">
-        <div class="ese-logo hide-for-small-only">
-        	<img src="{{ site.baseurl }}/img/ese-logo.png" alt="ESE Logo" />
-        </div>
-	      {% include sidebar.html items=items %}
-	    </div>
-	    <div class="column small-12">
+  	<div role="document">
+	    <header>
+				<div class="row" data-equalizer="">
+					<div class="column small-12 medium-9" data-equalizer-watch>
+	        	{% include header.html pages=pages %}
+	        </div>
+					<div class="columns small-12 medium-3 sidebar" data-equalizer-watch>
+		        <div class="ese-logo hide-for-small-only">
+		        	<img src="{{ site.baseurl }}/img/ese-logo.png" alt="ESE Logo" />
+		        </div>
+				    <div class="column small-12 sidebar-item">
+				      {% include translate-switch.html inline=true %}
+				    </div>
+				  </div>
+			  </div>
+      </header>
+      <main>
+      	<div class="row">
+		      <article id="content" class="column small-12 medium-9">
+		        {{ content }}
+		      </article>
+			    <aside class="column small-12 medium-3 text-right small-only-text-left">
+			      {% include sidebar.html items=items %}
+			    </aside>
+			  </div>      	
+      </main>
+	    <footer>
 	  		{% include footer.html %}
-	    </div>
+	    </footer>
 	  </div>
   {% include lateload-scripts.html %}
   </body>

@@ -1,5 +1,7 @@
-<div class="slider small-12">
+<div class="slider">
     {% for image in site.data.switchheader.headers %}
-        <div><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-lazy="{{ site.baseurl }}/img/header/{{ image.src }}" alt="{{ image.alt }}" /></div>
+        <div>
+        	<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-lazy="{{ site.baseurl }}/img/header/{{ image.src }}" alt="{{ image.alt }}" />
+        </div>
     {% endfor %}
 </div>
