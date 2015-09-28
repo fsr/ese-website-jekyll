@@ -1,6 +1,5 @@
 ---
 layout: en-index
-title: Welcome
 index: false
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Willkommen
 layout: index
 ---
 
