@@ -1,29 +1,35 @@
-android:
-  manifest: /img/icons/manifest.json
-  path: /img/icons/android-icon-
-  sizes:
-    - 192x192
-apple:
-  path: /img/icons/apple-touch-icons-
-  sizes:
-    - 57x57
-    - 60x60
-    - 72x72
-    - 76x76
-    - 114x114
-    - 120x120
-    - 144x144
-    - 152x152
-    - 180x180
-    - 192x192
-favicon:
-  path: /img/icons/favicon-
-  sizes:
-    - 16x16
-    - 32x32
-    - 96x96
-ms:
-  path: /img/icons/ms-icon-
-  sizes:
-    - 144x144
-  tilecolor: "#FFFFFF"
+groups:
+  -
+    type: android
+    path: /img/icons/android-icon-
+    sizes:
+      - 192x192
+  -
+    type: apple
+    rel: apple-touch-icon
+    path: /img/icons/apple-touch-icons-
+    sizes:
+      - 57x57
+      - 60x60
+      - 72x72
+      - 76x76
+      - 114x114
+      - 120x120
+      - 144x144
+      - 152x152
+      - 180x180
+      - 192x192
+  -
+    type: favicon
+    path: /img/icons/favicon-
+    sizes:
+      - 16x16
+      - 32x32
+      - 96x96
+  -
+    type: ms
+    path: /img/icons/ms-icon-
+    sizes:
+      - 144x144
+android-manifest: /img/icons/manifest.json
+ms-tilecolor: "#FFFFFF"
