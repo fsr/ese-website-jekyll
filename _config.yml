@@ -8,6 +8,7 @@ baseurl: "/2015" # the subpath of your site, e.g. /blog/
 url: "https://ese.ifsr.de" # the base hostname & protocol for your site
 twitter_username: ifsr
 github_username:  fsr
+color: "#573B75"
 
 # Build settings
 markdown: kramdown

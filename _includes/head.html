@@ -7,15 +7,39 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link hreflang="en" href="index_en.html" rel="alternate">
+  
+  {% assign path = site.data.icons.apple.path %}
+  {% for size in site.data.icons.apple.sizes %}
+    <link rel="apple-touch-icon" href="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" sizes="{{ size }}">
+  {% endfor %}
+  
+  {% assign path = site.data.icons.android.path %}
+  {% for size in site.data.icons.android.sizes %}
+    <link rel="icon" type="image/png" href="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" sizes="{{ size }}">
+  {% endfor %}
+  <link rel="manifest" href="{{ site.data.icons.android.manifest | prepend: site.baseurl }}">
+  
+  {% assign path = site.data.icons.favicon.path %}
+  {% for size in site.data.icons.favicon.sizes %}
+    <link rel="icon" type="image/png" href="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" sizes="{{ size }}">
+  {% endfor %}
+  
+  <meta name="msapplication-TileColor" content="{{ site.data.icons.ms.tilecolor }}">
+  {% assign path = site.data.icons.ms.path %}
+  {% for size in site.data.icons.favicon.sizes %}
+    <meta name="msapplication-TileImage" content="{{ path | append: size | append: ".png" | prepend: site.baseurl }}">
+  {% endfor %}
+  
+  <meta name="theme-color" content="{{ site.color }}">
+  
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
 
   {% for sheet in site.data.stylesheets.default.head %}
     {% include stylesheet.html stylesheet=sheet %}
   {% endfor %}
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}">
-
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
 
   {% for s in site.data.scripts.default.pre %}
     {% include script.html script=s %}
