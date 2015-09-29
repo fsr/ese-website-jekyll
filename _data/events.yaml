@@ -40,7 +40,7 @@ days:
       -
         begin: "9:00"
         duration: "3:30"
-        title: "Ein&shy;schrei&shy;bung, und parallel e&shy;wiges Früh&shy;stück, sowie Vorträge und Enter&shy;tainment"
+        title: "Ein&shy;schrei&shy;bung, ewi&shy;ges Früh&shy;stück, sowie Vorträge und Enter&shy;tainment"
         title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
         location: "APB E023"
         english: true
@@ -117,7 +117,7 @@ days:
     date: 08.10.2015
     events:
       -
-        title: Früh&shy;stück
+        title: "Früh&shy;stück"
         title-en: Break&shy;fast
         begin: "9:00"
         duration: "1:00"
@@ -147,7 +147,8 @@ days:
         begin: "19:00"
         duration:  "2:00"
         title-en: ESE cinema
-        location: "Kino im Kasten"
+        location: "Kino im Kasten - Eintrittspreis 2€, 3€ für Externe"
+        location-en: "Kino im Kasten - entrance fee 2€, 3€ for non-students"
   -
     name: "Frei&shy;tag"
     name-en: Fri&shy;day

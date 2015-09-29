@@ -12,7 +12,7 @@ Und falls ihr euch jetzt fragt wer hier "wir" ist: Wir sind die [ESE-Tutoren](fo
 
 ## Wann?
 
-Die ESE startet am Montag mit Frühstück um 9 Uhr. Bring bitte am Montag deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit.
+Die ESE startet am Montag mit Frühstück um 9 Uhr. Bring bitte am Montag deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit. Die Mensakarten könnt ihr jeden Tag beim Frühstück erwerben.
 
 ### Internationale Studierende in den deutschsprachigen Studiengängen
 

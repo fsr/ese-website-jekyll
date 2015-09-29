@@ -11,7 +11,7 @@ As to who "we" are: We are the [ESE tutors](fotos.html), senior students who lik
 
 ## When?
 
-The "ESE" will begin with breakfast on Monday at 9am. You'll need your **student id-card** (Studentenausweis) and if you'd like to get your canteen-card right away, you'll be needing your **e-meal certificate** (E-Meal Bescheinigung) and **10€** (5€ Deposit and 5€ credit).
+The "ESE" will begin with breakfast on Monday at 9am. You'll need your **student id-card** (Studentenausweis) and if you'd like to get your canteen-card right away, you'll be needing your **e-meal certificate** (E-Meal Bescheinigung) and **10€** (5€ Deposit and 5€ credit). You can get the canteen-card every day during the breakfast.
 
 ### International Students in German-speaking course of studies
 
