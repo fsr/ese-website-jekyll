@@ -1,0 +1,41 @@
+# Das sind die Tage durch die der Plan geht.
+# Die keys in shared und values müssen mit diesen namen gleich sein.
+# Die reihenfolge der Tage hier bestimmt die Reihenfolge der Tage in den Plänen.
+days:
+  - Montag
+  - Dienstag
+  - Mittwoch
+  - Donnerstag
+  - Freitag
+shared: # Stunden, welche alle Stundenpläne gemeinsam haben
+  Montag:
+    -
+      title: Mathematische Methoden für Informatiker
+      type: Vorlesung
+      slot: 1
+      location: APB-E017
+values:
+  # Eine liste der verschiedenen Stundenpläne bzw aller Stunden in denen sie sich unterscheiden
+  # Die Reihenfolge der Tage innerhalb der stundenpläne ist egal.
+  -
+    name: B-Minf-24 # Wie auch immer die heißen
+    Montag:
+      -
+        title: ECG
+        type: Übung
+        slot: 3
+        location: APB-E00
+    Dienstag:
+      -
+        title: Algorithmen und Datenstrukturen
+        type: Übung
+        slot: 6
+        location: ...
+  -
+    name: B-Inf-23
+    Montag:
+      -
+        title: Mathematische Methoden für Informatiker
+        slot: 2
+        type: Übung
+        location: APB-E017

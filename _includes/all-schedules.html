@@ -1,0 +1,4 @@
+{% assign schedule-data = site.data.schedules %}
+{% for values in schedule-data.values %}
+  {% include schedule.html shared=schedule-data.shared values=values days=schedule-data.days %}
+{% endfor %}

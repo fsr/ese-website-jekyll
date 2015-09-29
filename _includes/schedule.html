@@ -1,0 +1,56 @@
+{% assign days = include.days %}
+{% assign shared = include.shared %}
+{% assign values = include.values %}
+<h4>{{ values.name }}</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Zeit</th>
+      {% for day in days %}
+      	<th>{{ day }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for slot in (1..8) %}
+        <tr>
+          <td class="time">
+            <div class="table-spacer">{{ slot }}</div>
+          </td>
+        {% for day in days %}
+          {% capture filler %}<td class="empty"><div class="table-spacer">&nbsp;</div></td>{% endcapture %}
+          {% for course in shared[day] %}
+            {% if course.slot == slot %}
+              {% capture filler %}
+              <td class="data">
+                <div class="data">
+                  {{ course.type }}: <b>{{ course.title }}</b><br />
+                  <small>{{ course.location }}</small>
+                </div>
+              </td>
+              {% endcapture %}
+            {% endif %}
+
+          {% endfor %}
+          {% for course in values[day] %}
+            {% if course.slot == slot %}
+              {% capture filler %}
+              <td class="data">
+                <div class="data">
+                  <b>{{ course.title }}</b><br />
+                  <small>{{ course.location }}</small>
+                </div>
+              </td>
+              {% endcapture %}
+            {% endif %}
+
+          {% endfor %}
+
+          {{ filler }}
+
+        {% endfor %}
+
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
