@@ -11,23 +11,23 @@ color: "#573B75"
 # Global Metatags
 metatag:
   description:> # this means to ignore newlines until "abstract:"
-  Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden.
-  abstract:
-  keywords:
+  "Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
+  abstract: ""
+  keywords: ""
   og:
     title: "ESE 2015 | iFSR"
     description:>
-      Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden.
+      "Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
     locale:
-      locale:
-      alternate:
+      locale: ""
+      alternate: ""
     image:
-      image:
-      secure_url:
-      type:
-    site_name:
-    url:
-    type:
+      image: ""
+      secure_url: ""
+      type: ""
+    site_name: ""
+    url: ""
+    type: ""
   HandheldFriendly: true
 
 
