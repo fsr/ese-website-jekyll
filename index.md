@@ -14,6 +14,12 @@ Und falls ihr euch jetzt fragt wer hier "wir" ist: Wir sind die [ESE-Tutoren](fo
 
 Die ESE startet am Montag mit Frühstück um 9 Uhr. Bring bitte am Montag deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit.
 
+### Internationale Studierende in den deutschsprachigen Studiengängen
+
+Ansprechpartner: Kilian Becher (tutor-inf@tu-dresden.de)  
+1. Tutorium Mo, 5.10. 11:10 – 13:30 APB 1004  
+2. Tutorium Fr, 9.10. 8:30 (Für Vollstudierende), 10:00 (für Teilstudierende) in APB E067, jeweils ca. 60 – 90 min.  
+
 *Wenn nicht anders angegeben, finden alle Veranstaltungen in dem Andreas-Pfitzmann-Bau im Raum E023 statt. (einfach im Foyer den Tutoren in lila Shirts folgen).*
 
 {% include timetable.html %}
