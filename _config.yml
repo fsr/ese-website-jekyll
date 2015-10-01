@@ -10,50 +10,36 @@ color: "#573B75"
 
 # Global Metatags
 metatag:
-  description: "Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
-  abstract:
-  keywords:
-  og:
-    title: "ESE 2015 | iFSR"
+  de:
     description: "Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
-    locale:
-      locale:
-      localealternate:
-    image:
-      image:
-      secure_url:
-      type:
-    site_name:
-    url:
-    type:
-  HandheldFriendly: true
-
-# Completely useless since it seems like you can not access them
-# In the way it would be neccessary for metatags
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#     values:
-#   -
-#     scope:
-#       path: "en"
-#     values:
-#       metatag:
-#         description: "The official site of ESE 2015. Here you can find all important information about the freshmen introduction of computer science at TU Dresden."
-#         abstract: ""
-#         keywords: ""
-#         ogtitle: "ESE 2015 | iFSR"
-#         ogdescription: "The official site of ESE 2015. Here you can find all important information about the freshmen introduction of computer science at TU Dresden."
-#         oglocale:
-#         oglocalealternate:
-#         ogimage:
-#         ogsecure_url:
-#         ogtype:
-#         ogsite_name:
-#         ogurl:
-#         ogtype:
-#         HandheldFriendly: true
+    abstract:
+    keywords:
+    "og:title": "ESE 2015 | iFSR"
+    "og:description": "Die offizielle Seite der ESE 2015. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
+    "og:locale":
+    "og:locale:alternate":
+    "og:image":
+    "og:image:secure:url":
+    "og:type":
+    "og:site_name":
+    "og:url":
+    "og:type":
+    HandheldFriendly: true
+  en:
+    description:
+    abstract:
+    keywords:
+    "og:title": "ESE 2015 | iFSR"
+    "og:description":
+    "og:locale":
+    "og:ocale-alternate":
+    "og:image":
+    "og:secure-url":
+    "og:type":
+    "og:site_name":
+    "og:url":
+    "og:type":
+    HandheldFriendly: true
 
 # Build settings
 markdown: kramdown

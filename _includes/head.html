@@ -5,13 +5,28 @@
 
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.metatag.description }}{% endif %}" />
+	{% case include.lang %}
+	{% when "en" %}
+		{% assign metatags=site.metatag.en %}
+	{% else %}
+		{% assign metatags=site.metatag.de %}
+	{% endcase %}
+	{% for metatag in metatags %}
+		{% assign key = metatag[0] %}
+		{% if page.metatag[key] %}
+			<meta name="{{ metatag[0] }}" content="{{ page.metatag[key] }}" />
+		{% elsif metatag[1] %}
+			<meta name="{{ metatag[0] }}" content="{{ metatag[1] }}" />
+		{% endif %}
+	{% endfor %}
+
+	<!-- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.metatag.description }}{% endif %}" />
 	<meta name="abstract" content="{% if page.metatag.abstract %}{{ page.metatag.abstract }}{% else %}{{ site.metatag.abstract }}{% endif %}" />
 	<meta name="keywords" content="{% if page.metatag.keywords %}{{ page.metatag.keywords }}{% else %}{{ site.metatag.keywords }}{% endif %}" />
 	<meta name="HandheldFriendly" content="{% if page.metatag.HandheldFriendly %}{{ page.metatag.HandheldFriendly }}{% else %}{{ site.metatag.HandheldFriendly }}{% endif %}" />
 
-	<!-- OpenGraph Metatags -->
-	<meta name="og:title" content="{% if page.metatag.og.title %}{{ page.metatag.og.title }}{% else %}{{ site.metatag.og.title }}{% endif %}" />
+	OpenGraph Metatags -->
+	<!-- <meta name="og:title" content="{% if page.metatag.og.title %}{{ page.metatag.og.title }}{% else %}{{ site.metatag.og.title }}{% endif %}" />
 	<meta name="og:description" content="{% if page.metatag.og.description %}{{ page.metatag.og.description }}{% else %}{{ site.metatag.og.description }}{% endif %}" />
 	<meta name="og:locale" content="{% if page.metatag.og.locale.locale %}{{ page.metatag.og.locale.locale }}{% else %}{{ site.metatag.og.locale.locale }}{% endif %}" />
 	<meta name="og:locale:alternate" content="{% if page.metatag.og.locale.alternate %}{{ page.metatag.og.locale.alternate }}{% else %}{{ site.metatag.og.locale.alternate }}{% endif %}" />
@@ -20,7 +35,7 @@
 	<meta name="og:image:type" content="{% if page.metatag.og.image.type %}{{ page.metatag.og.image.type }}{% else %}{{ site.metatag.og.image.type }}{% endif %}" />
 	<meta name="og:site_name" content="{% if page.metatag.og.site_name %}{{ page.metatag.og.site_name }}{% else %}{{ site.metatag.og.site_name }}{% endif %}" />
 	<meta name="og:url" content="{% if page.metatag.og.url %}{{ page.metatag.og.url }}{% else %}{{ site.metatag.og.url }}{% endif %}" />
-	<meta name="og:type" content="{% if page.metatag.og.type %}{{ page.metatag.og.type }}{% else %}{{ site.metatag.og.type }}{% endif %}" />
+	<meta name="og:type" content="{% if page.metatag.og.type %}{{ page.metatag.og.type }}{% else %}{{ site.metatag.og.type }}{% endif %}" /> -->
 
 	<link hreflang="en" href="index_en.html" rel="alternate" />
 

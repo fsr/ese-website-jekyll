@@ -2,7 +2,7 @@
 <html>
 	{% if include.sidebar-items %}{% assign items = include.sidebar-items %}{% else %}{% assign items = site.sidebar %}{% endif %}
 	{% if include.pages %}{% assign pages = include.pages %}{% else %}{% assign pages = site.pages %}{% endif %}
-  {% include head.html %}
+  {% include head.html lang=include.lang %}
 
 
   <body>
