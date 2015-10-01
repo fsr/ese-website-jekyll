@@ -25,3 +25,5 @@ Ansprechpartner: Kilian Becher (tutor-inf@tu-dresden.de)
 {% include timetable.html %}
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal-Datei. Kann direkt in den Kalender importiert werden.
+
+Informationen für Studenten von Computational Science and Engineering: Am 09.10. findet im APB 1096 die Einführungsveranstaltung für den Studiengang CSE statt.

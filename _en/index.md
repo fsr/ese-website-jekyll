@@ -24,3 +24,5 @@ Contact person: Kilian Becher (tutor-inf@tu-dresden.de)
 {% include timetable.html lang="en" %}
 
 [Download](ESE-en.ics) the current version of the timetable as iCal-file to import it into your calendar at home.
+
+Information for students von Computational Science and Engineering: On the 09. October the introductory event for the CSE students will take place in the room APB 1096.
