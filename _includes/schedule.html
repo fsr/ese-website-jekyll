@@ -1,8 +1,10 @@
 {% assign days = include.days %}
+{% assign timeslots = include.timeslots %}
 {% assign shared = include.shared %}
 {% assign values = include.values %}
-<h4>{{ values.name }}</h4>
-<table>
+<hr />
+<h2 style="margin:.5em auto;">{{ values.name }}</h2>
+<table style="margin: .5em auto;">
   <thead>
     <tr>
       <th>Zeit</th>
@@ -12,15 +14,16 @@
     </tr>
   </thead>
   <tbody>
-    {% for slot in (1..8) %}
+    {% for slot in (1..6) %}
         <tr>
           <td class="time">
-            <div class="table-spacer">{{ slot }}</div>
+            <div><b>{{ slot }}.</b><br /><small>{{ timeslots[slot] }}</small></div>
           </td>
         {% for day in days %}
           {% capture filler %}<td class="empty"><div class="table-spacer">&nbsp;</div></td>{% endcapture %}
           {% for course in shared[day] %}
-            {% if course.slot == slot %}
+            {% assign plannameparts = values.name | split: '/' %}
+            {% if course.slot == slot and (course.planfilter == nil or course.planfilter == plannameparts[0]) %}
               {% capture filler %}
               <td class="data">
                 <div class="data">
@@ -37,7 +40,7 @@
               {% capture filler %}
               <td class="data">
                 <div class="data">
-                  <b>{{ course.title }}</b><br />
+                  {{ course.type }}: <b>{{ course.title }}</b><br />
                   <small>{{ course.location }}</small>
                 </div>
               </td>

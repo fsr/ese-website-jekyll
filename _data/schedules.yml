@@ -1,41 +1,308 @@
 # Das sind die Tage durch die der Plan geht.
-# Die keys in shared und values müssen mit diesen namen gleich sein.
-# Die reihenfolge der Tage hier bestimmt die Reihenfolge der Tage in den Plänen.
+# Die keys in shared und values müssen mit diesen Namen gleich sein.
+# Die Reihenfolge der Tage hier bestimmt die Reihenfolge der Tage in den Plänen.
 days:
   - Montag
   - Dienstag
   - Mittwoch
   - Donnerstag
   - Freitag
+timeslots:
+  - "7:30"
+  - "9:20"
+  - "11:10"
+  - "13:00"
+  - "14:50"
+  - "16:40"
+  - "18:30"
 shared: # Stunden, welche alle Stundenpläne gemeinsam haben
   Montag:
     -
-      title: Mathematische Methoden für Informatiker
-      type: Vorlesung
-      slot: 1
-      location: APB-E017
+      title: LAG
+      type: V
+      slot: 3
+      teacher: Baumann
+      location: TRE/MATH
+    -
+      title: EMI
+      type: V
+      slot: 5
+      teacher: Weber
+      location: HSZ/0002
+      planfilter: Bachelor
+  Dienstag:
+    -
+      title: [TGI]
+      type: V
+      slot: 3
+      teacher: Spallek
+      location: HSZ/0002
+      planfilter: Diplom
+# Webers Ausweichtermin?
+#    -
+#      title: EMI
+#      type: Ü
+#      slot: 4
+#      location: POT/0081
+    -
+      title: RA
+      type: V
+      slot: 5
+      teacher: Spallek
+      location: HSZ/0002
+      planfilter: Diplom
+  Mittwoch:
+    -
+      title: DIS
+      type: V
+      slot: 3
+      teacher: Bodirsky
+      location: HSZ/0002
+  Donnerstag:
+    -
+      title: TGI
+      type: V
+      slot: 2
+      teacher: Spallek
+      location: HSZ/0003
+      planfilter: Diplom
+# Mathe Lernraum?
+#    -
+#      title: Mathe
+#      type: Lernraum
+#      slot: 5
+#      location: WIL/B122
+#    -
+#      title: Mathe
+#      type: Lernraum
+#      slot: 6
+#      location: WIL/B122
+  Freitag:
+    -
+      title: AuD
+      type: V
+      slot: 2
+      teacher: Bodirsky
+      location: HSZ/AUDI
+    -
+      title: DIS
+      type: V
+      slot: 3
+      teacher: Bodirsky
+      location: HSZ/0003
 values:
-  # Eine liste der verschiedenen Stundenpläne bzw aller Stunden in denen sie sich unterscheiden
-  # Die Reihenfolge der Tage innerhalb der stundenpläne ist egal.
+  # Eine Liste der verschiedenen Stundenpläne bzw. aller Stunden in denen sie sich unterscheiden
+  # Die Reihenfolge der Tage innerhalb der Stundenpläne ist egal.
   -
-    name: B-Minf-24 # Wie auch immer die heißen
-    Montag:
+    name: Bachelor/01
+    Donnerstag:
       -
-        title: ECG
-        type: Übung
-        slot: 3
-        location: APB-E00
+        title: EMI
+        type: Ü
+        slot: 2
+    Freitag:
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: SE2/0103
+  -
+    name: Bachelor/02
     Dienstag:
       -
-        title: Algorithmen und Datenstrukturen
-        type: Übung
-        slot: 6
-        location: ...
+        title: EMI
+        type: Ü
+        slot: 3
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 1
+        location: SE2/0022
   -
-    name: B-Inf-23
+    name: Bachelor/03
     Montag:
       -
-        title: Mathematische Methoden für Informatiker
+        title: EMI
+        type: Ü
+        slot: 6
+    Freitag:
+      -
+        title: AuD
+        type: Ü
+        slot: 1
+        location: SCH/A185
+  -
+    name: Bachelor/04
+    Mittwoche:
+      -
+        title: EMI
+        type: Ü
+        slot: 1
+    Freitag:
+      -
+        title: AuD
+        type: Ü
+        slot: 6
+        location: ASB/0114
+  -
+    # MB/01
+    name: Bachelor/05
+    Dienstag:
+      -
+        title: EMI
+        type: Ü
         slot: 2
-        type: Übung
-        location: APB-E017
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 4
+        location: SCH/A184
+  -
+    # MB/02
+    name: Bachelor/06
+    Dienstag:
+      -
+        title: EMI
+        type: Ü
+        slot: 2
+    Mittwoch:
+      -
+        title: AuD
+        type: Ü
+        slot: 1
+        location: SCH/A185
+  -
+    # MB/03
+    name: Bachelor/07
+    Donnerstag:
+      -
+        title: EMI
+        type: Ü
+        slot: 3
+    Freitag:
+      -
+        title: AuD
+        type: Ü
+        slot: 4
+        location: SCH/A184
+  -
+    # MB/04
+    name: Bachelor/08
+    Dienstag:
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+    Montag:
+      -
+        title: AuD
+        type: Ü
+        slot: 2
+        location: SE2/0103
+  -
+    # MB/05
+    name: Bachelor/09
+    Freitag:
+      -
+        title: EMI
+        type: Ü
+        slot: 4
+    Dienstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 1
+        location: WIL/B122
+  -
+    # MB/06
+    name: Bachelor/10
+    Mittwoch:
+      -
+        title: EMI
+        type: Ü
+        slot: 2
+    Montag:
+      -
+        title: AuD
+        type: Ü
+        slot: 4
+        location: SCH/A184
+  -
+    name: Diplom/01
+    Donnerstag:
+      -
+        title: RA
+        type: Ü
+        slot: 1
+        location: APB/E006
+    Dienstag:
+      -
+        title: TGI
+        type: Ü
+        slot: 6
+        location: APB/E009
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: SE2/0022
+  -
+    name: Diplom/02
+    Montag:
+      -
+        title: RA
+        type: Ü
+        slot: 1
+        location: APB/E007
+      -
+        title: TGI
+        type: Ü
+        slot: 6
+        location: APB/E007
+    Mittwoch:
+      -
+        title: AuD
+        type: Ü
+        slot: 4
+        location: APB/E009
+  -
+    name: Diplom/03
+    Freitag:
+      -
+        title: RA
+        type: Ü
+        slot: 4
+        location: APB/E010
+      -
+        title: TGI
+        type: Ü
+        slot: 1
+        location: APB/E010
+    Montag:
+      -
+        title: AuD
+        type: Ü
+        slot: 6
+        location: SCH/A185
+  -
+    name: Diplom/04
+    Mittwoch:
+      -
+        title: RA
+        type: Ü
+        slot: 4
+        location: APB/E006
+    Dienstag:
+      -
+        title: TGI
+        type: Ü
+        slot: 2
+        location: APB/E010
+      -
+        title: AuD
+        type: Ü
+        slot: 6
+        location: ASB/0114
