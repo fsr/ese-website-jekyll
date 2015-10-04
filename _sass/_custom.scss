@@ -227,3 +227,38 @@ ul.accordion {
     }
   }
 }
+
+/**
+ * Schedules
+ */
+.schedulehead {
+  margin: .5em auto;
+  page-break-before: always;
+}
+
+table.schedule {
+  margin: .5em auto;
+}
+
+@media print {
+  .schedulehead {
+    font-size: 40pt;
+  }
+
+  table.schedule {
+    border: 0;
+    td, th {
+      font-size: 23pt;
+      height: 50pt;
+      line-height: 25pt;
+    }
+    td.data, td.empty {
+      outline: 1px solid black;
+    }
+  }
+  
+  hr {
+    display: none;
+  }
+}
+
