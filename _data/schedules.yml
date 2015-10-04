@@ -100,6 +100,7 @@ values:
         title: EMI
         type: Ü
         slot: 2
+        location: APB/E065
     Freitag:
       -
         title: AuD
@@ -113,6 +114,7 @@ values:
         title: EMI
         type: Ü
         slot: 3
+        location: APB/E065
     Donnerstag:
       -
         title: AuD
@@ -126,6 +128,7 @@ values:
         title: EMI
         type: Ü
         slot: 6
+        location: APB/E065
     Freitag:
       -
         title: AuD
@@ -134,11 +137,12 @@ values:
         location: SCH/A185
   -
     name: Bachelor/04
-    Mittwoche:
+    Mittwoch:
       -
         title: EMI
         type: Ü
         slot: 1
+        location: APB/E065
     Freitag:
       -
         title: AuD
@@ -181,6 +185,7 @@ values:
         title: EMI
         type: Ü
         slot: 3
+        location: APB/E065
     Freitag:
       -
         title: AuD
@@ -195,6 +200,7 @@ values:
         title: EMI
         type: Ü
         slot: 5
+        location: APB/E065
     Montag:
       -
         title: AuD
@@ -209,6 +215,7 @@ values:
         title: EMI
         type: Ü
         slot: 4
+        location: APB/E067
     Dienstag:
       -
         title: AuD
@@ -231,12 +238,6 @@ values:
         location: SCH/A184
   -
     name: Diplom/01
-    Donnerstag:
-      -
-        title: RA
-        type: Ü
-        slot: 1
-        location: APB/E006
     Dienstag:
       -
         title: TGI
@@ -244,6 +245,11 @@ values:
         slot: 6
         location: APB/E009
     Donnerstag:
+      -
+        title: RA
+        type: Ü
+        slot: 1
+        location: APB/E006
       -
         title: AuD
         type: Ü
