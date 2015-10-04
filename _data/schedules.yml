@@ -143,7 +143,7 @@ values:
         type: Ü
         slot: 1
         location: APB/E065
-    Freitag:
+    Dienstag:
       -
         title: AuD
         type: Ü
@@ -206,7 +206,7 @@ values:
         title: AuD
         type: Ü
         slot: 2
-        location: SE2/0103
+        location: WIL/C103
   -
     # MB/05
     name: Bachelor/09
@@ -221,7 +221,7 @@ values:
         title: AuD
         type: Ü
         slot: 1
-        location: WIL/B122
+        location: APB/E007
   -
     # MB/06
     name: Bachelor/10
