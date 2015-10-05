@@ -20,6 +20,8 @@ Hier findet ihr die aktuellen Stundenpläne (Seminargruppenpläne), in die ihr e
 * **TGI**: Technische Grundlagen *(nur Diplom)*, die Vorlesung **[TGI]** (Di., 3. DS) findet nur in der *geraden* Woche statt
            [[www]](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/tg_vlsi)
 
+Nicht eingezeichnet ist der **Mathe Lernraum** am Donnerstag in der 5. und 6. DS in Raum WIL/B122, wo ihr Fragen zu Mathe klären und und auch Hausaufgaben abgeben könnt.
+
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind - aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
 
 {% include all-schedules.html %}
