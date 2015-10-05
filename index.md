@@ -26,6 +26,6 @@ Ansprechpartner: Kilian Becher (tutor-inf@tu-dresden.de)
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal-Datei. Kann direkt in den Kalender importiert werden.
 
-**Informationen für Studenten von Computational Science and Engineering:** Am 09.10. findet im APB 1096 die [Einführungsveranstaltung für den Studiengang CSE statt](http://tu-dresden.de/zih/lehre/).
+**Informationen für Studenten von Computational Science and Engineering:** Am 09.10. findet im APB 1096 die [Einführungsveranstaltung für den Studiengang CSE statt](http://tu-dresden.de/zih/lehre/){:target="_blank"}.
 
-**Informationen für Studenten von Computational Logic** finden Sie auf [dieser webseite](http://www.computational-logic.org/content/study/master/current.php?id=43).
+**Informationen für Studenten von Computational Logic** finden Sie auf [dieser webseite](http://www.computational-logic.org/content/study/master/current.php?id=43){:target="_blank"}.
