@@ -346,26 +346,38 @@ values:
         type: Ü
         slot: 4
         location: SE2/0103
-# Für den hier gibts scheinbar keine passenden Matheübungen mehr:
-#  -
-#    name: Diplom/01
-#    Dienstag:
-#      -
-#        title: TGI
-#        type: Ü
-#        slot: 6
-#        location: APB/E009
-#    Donnerstag:
-#      -
-#        title: RA
-#        type: Ü
-#        slot: 1
-#        location: APB/E006
-#      -
-#        title: AuD
-#        type: Ü
-#        slot: 5
-#        location: SE2/0022
+  -
+    # Ehemals Diplom/04:
+    name: Diplom/01
+    Montag:
+      -
+        title: DIS
+        type: Ü
+        slot: 5
+        location: SCH/A185
+    Dienstag:
+      -
+        title: TGI
+        type: Ü
+        slot: 2
+        location: APB/E010
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: SE2/0022
+    Mittwoch:
+      -
+        title: RA
+        type: Ü
+        slot: 4
+        location: APB/E006
+    Freitag:
+      -
+        title: LAG
+        type: Ü
+        slot: 1
+        location: SCH/A252
   -
     name: Diplom/02
     Montag:
@@ -425,34 +437,3 @@ values:
         type: Ü
         slot: 1
         location: APB/E010
-  -
-    name: Diplom/04
-    Montag:
-      -
-        title: DIS
-        type: Ü
-        slot: 5
-        location: SCH/A185
-    Dienstag:
-      -
-        title: TGI
-        type: Ü
-        slot: 2
-        location: APB/E010
-      -
-        title: AuD
-        type: Ü
-        slot: 6
-        location: ASB/0114
-    Mittwoch:
-      -
-        title: RA
-        type: Ü
-        slot: 4
-        location: APB/E006
-    Freitag:
-      -
-        title: LAG
-        type: Ü
-        slot: 1
-        location: SCH/A252
