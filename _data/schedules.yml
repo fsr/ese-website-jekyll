@@ -33,12 +33,13 @@ shared: # Stunden, welche alle Stundenpläne gemeinsam haben
       planfilter: Bachelor
   Dienstag:
     -
-      title: [TGI]
+      title: TGI
       type: V
       slot: 3
       teacher: Spallek
       location: HSZ/0002
       planfilter: Diplom
+      week: yes
 # Webers Ausweichtermin?
 #    -
 #      title: EMI

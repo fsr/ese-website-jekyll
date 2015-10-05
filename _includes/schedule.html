@@ -27,7 +27,7 @@
               {% capture filler %}
               <td class="data">
                 <div class="data">
-                  {{ course.type }}: <b>{{ course.title }}</b><br />
+                  {{ course.type }}: <b>{% if course.week %}[{% endif %}{{ course.title }}{% if course.week %}]{% endif %}</b><br />
                   <small>{{ course.location }}</small>
                   {% if course.week %}<small>nur {{ cource.week }} Woche</small>{% endif %}
                 </div>

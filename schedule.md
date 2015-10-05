@@ -24,4 +24,11 @@ Nicht eingezeichnet ist der **Mathe Lernraum** am Donnerstag in der 5. und 6. DS
 
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind - aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
 
+{% comment %}
 {% include all-schedules.html %}
+{% endcomment %}
+
+---
+
+# Haha.
+Die Stundenpläne waren eine Lüge. Ihr habt eure erste Vorlesung heute verpasst.
