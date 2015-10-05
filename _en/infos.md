@@ -2,7 +2,7 @@
 title: Info
 ---
 
-On this page we have put together all important documents for your study at the faculty of computer science. You'll find the study and exam regulations and their attachments. Further information can be found on the [website of the exam office](http://www.inf.tu-dresden.de/index.php?node_id=876&ln=de) _(german)_
+On this page we have put together all important documents for your study at the faculty of computer science. You'll find the study and exam regulations and their attachments. Further information can be found on the [website of the exam office](http://www.inf.tu-dresden.de/index.php?node_id=876&ln=de){:target="_blank"} _(german)_
 
 Sadly all the documents are only available in German.
 
