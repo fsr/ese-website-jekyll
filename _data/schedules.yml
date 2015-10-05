@@ -362,17 +362,18 @@ values:
         type: Ü
         slot: 2
         location: APB/E010
-      -
-        title: AuD
-        type: Ü
-        slot: 5
-        location: SE2/0022
     Mittwoch:
       -
         title: RA
         type: Ü
         slot: 4
         location: APB/E006
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: SE2/0022
     Freitag:
       -
         title: LAG
