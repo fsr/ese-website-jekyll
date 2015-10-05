@@ -24,4 +24,11 @@ Not included in these plans is the **Math learning room** on Thursday, 5th and 6
 
 Information on any course not present here may be found on the website for the chair responsible for the course in question. Please be aware, these schedules are subject to change and not guaranteed to remain in their current form. Keep an eye on the linked websites for potential changes.
 
+{% comment %}
 {% include all-schedules.html %}
+{% endcomment %}
+
+---
+
+# Haha.
+The timetables were a lie. You missed your first lecture today.
