@@ -29,7 +29,6 @@
                 <div class="data">
                   {{ course.type }}: <b>{% if course.week %}[{% endif %}{{ course.title }}{% if course.week %}]{% endif %}</b><br />
                   <small>{{ course.location }}</small>
-                  {% if course.week %}<small>nur {{ cource.week }} Woche</small>{% endif %}
                 </div>
               </td>
               {% endcapture %}
