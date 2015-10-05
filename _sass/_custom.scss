@@ -243,6 +243,8 @@ table.schedule {
 @media print {
   .schedulehead {
     font-size: 40pt;
+    display: block;
+    padding-top: 20pt;
   }
 
   table.schedule {
