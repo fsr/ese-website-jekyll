@@ -29,6 +29,7 @@
                 <div class="data">
                   {{ course.type }}: <b>{{ course.title }}</b><br />
                   <small>{{ course.location }}</small>
+                  {% if course.week %}<small>nur {{ cource.week }} Woche</small>{% endif %}
                 </div>
               </td>
               {% endcapture %}
@@ -42,6 +43,7 @@
                 <div class="data">
                   {{ course.type }}: <b>{{ course.title }}</b><br />
                   <small>{{ course.location }}</small>
+                  {% if course.week %}<small>nur {{ cource.week }} Woche</small>{% endif %}
                 </div>
               </td>
               {% endcapture %}
