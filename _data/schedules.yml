@@ -251,7 +251,7 @@ values:
         title: LAG
         type: Ü
         slot: 4
-        location: "<span class="error">SE2/0123</span>"
+        location: "<span class='error'>SE2/0123</span>"
     Donnerstag:
       -
         title: DIS

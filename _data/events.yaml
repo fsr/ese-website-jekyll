@@ -17,7 +17,7 @@ days:
         begin: "10:00"
         duration: "2:00"
         title: "Be&shy;grü&shy;ßung und Tu&shy;torien"
-        title-en: "Geeting and Tutorials"
+        title-en: "Greeting and Tutorials"
         location: POT/81/A
       -
         begin: "12:30"
@@ -177,6 +177,6 @@ days:
         title-en: Hiking in the saxon switzerland
         begin: "9:00"
         duration: "7:00"
-        location: "Treff am Hauptbahnhof"
-        location-en: Meet at the main station
+        location: "Treff 9:15 Uhr Hauptbahnhof oben auf Gleis 18: festes Schuhwerk, Proviant, Studentenausweis!"
+        location-en: "Meeting at 9:15am at the main station on track 18: good shoes, food supplies, student id!"
         english: true
