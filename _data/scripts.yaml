@@ -4,10 +4,6 @@ default:
     -
       src: /vendor/modernizr/modernizr.min.js
     -
-      src: /js/konami.js
-    -
-      src: /coffee/konami.js
-    -
       src: /coffee/news.js
     #-
     #  src: /coffee/switchheader.js
