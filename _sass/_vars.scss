@@ -55,7 +55,7 @@ $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 
 $topbar-dropdown-bg: $purple;
 
-$topbar-breakpoint: 725px; // Change to 9999px for always mobile layout
+$topbar-breakpoint: 885px; // Change to 9999px for always mobile layout
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
 
 $h1-font-size: rem-calc(32);
