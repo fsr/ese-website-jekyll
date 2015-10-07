@@ -2,7 +2,7 @@
 title: Photos
 ---
 
-Here you'll find the photos form your ESE!
+You can find the pictures of your ESE in our [ownCloud-gallery](https://oc.ifsr.de/index.php/apps/gallery/public/vgbgdRWquYBURvm)
 
 ![ESE-Tutors](../img/tutoren2015.jpg)
 
