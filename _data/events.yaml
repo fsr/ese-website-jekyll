@@ -163,7 +163,7 @@ days:
       -
         title: "Stadt&shy;führung"
         title-en: Guided city tour
-        location: "Dresden"
+        location: "<a href='https://www.google.de/maps/@51.0474737,13.7367055,59m/data=!3m1!1e3'>nahe der Haltestelle Prager Straße bei den in den Untergrund führenden Treppen</a>"
         begin: "13:00"
         duration: "3:00"
         english: true
