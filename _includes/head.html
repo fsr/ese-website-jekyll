@@ -1,23 +1,70 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <link hreflang="en" href="index_en.html" rel="alternate">
+	{% case include.lang %}
+	{% when "en" %}
+		{% assign metatags=site.metatag.en %}
+	{% else %}
+		{% assign metatags=site.metatag.de %}
+	{% endcase %}
+	{% for metatag in metatags %}
+		{% assign key = metatag[0] %}
+		{% if page.metatag[key] %}
+			<meta name="{{ metatag[0] }}" content="{{ page.metatag[key] }}" />
+		{% elsif metatag[1] %}
+			<meta name="{{ metatag[0] }}" content="{{ metatag[1] }}" />
+		{% endif %}
+	{% endfor %}
 
-  {% for sheet in site.data.stylesheets.default.head %}
-    {% include stylesheet.html stylesheet=sheet %}
-  {% endfor %}
+	<!-- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.metatag.description }}{% endif %}" />
+	<meta name="abstract" content="{% if page.metatag.abstract %}{{ page.metatag.abstract }}{% else %}{{ site.metatag.abstract }}{% endif %}" />
+	<meta name="keywords" content="{% if page.metatag.keywords %}{{ page.metatag.keywords }}{% else %}{{ site.metatag.keywords }}{% endif %}" />
+	<meta name="HandheldFriendly" content="{% if page.metatag.HandheldFriendly %}{{ page.metatag.HandheldFriendly }}{% else %}{{ site.metatag.HandheldFriendly }}{% endif %}" />
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}">
+	OpenGraph Metatags -->
+	<!-- <meta name="og:title" content="{% if page.metatag.og.title %}{{ page.metatag.og.title }}{% else %}{{ site.metatag.og.title }}{% endif %}" />
+	<meta name="og:description" content="{% if page.metatag.og.description %}{{ page.metatag.og.description }}{% else %}{{ site.metatag.og.description }}{% endif %}" />
+	<meta name="og:locale" content="{% if page.metatag.og.locale.locale %}{{ page.metatag.og.locale.locale }}{% else %}{{ site.metatag.og.locale.locale }}{% endif %}" />
+	<meta name="og:locale:alternate" content="{% if page.metatag.og.locale.alternate %}{{ page.metatag.og.locale.alternate }}{% else %}{{ site.metatag.og.locale.alternate }}{% endif %}" />
+	<meta name="og:image" content="{% if page.metatag.og.image.image %}{{ page.metatag.og.image.image }}{% else %}{{ site.metatag.og.image.image }}{% endif %}" />
+	<meta name="og:image:secure_url" content="{% if page.metatag.og.image.secure_url %}{{ page.metatag.og.image.secure_url }}{% else %}{{ site.metatag.og.image.secure_url }}{% endif %}" />
+	<meta name="og:image:type" content="{% if page.metatag.og.image.type %}{{ page.metatag.og.image.type }}{% else %}{{ site.metatag.og.image.type }}{% endif %}" />
+	<meta name="og:site_name" content="{% if page.metatag.og.site_name %}{{ page.metatag.og.site_name }}{% else %}{{ site.metatag.og.site_name }}{% endif %}" />
+	<meta name="og:url" content="{% if page.metatag.og.url %}{{ page.metatag.og.url }}{% else %}{{ site.metatag.og.url }}{% endif %}" />
+	<meta name="og:type" content="{% if page.metatag.og.type %}{{ page.metatag.og.type }}{% else %}{{ site.metatag.og.type }}{% endif %}" /> -->
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link hreflang="en" href="index_en.html" rel="alternate" />
 
-  {% for s in site.data.scripts.default.pre %}
-    {% include script.html script=s %}
-  {% endfor %}
+	{% assign path = site.data.icons.apple.path %}
+	{% for group in site.data.icons.groups %}
+		{% assign path = group.path %}
+		{% capture rel %}{% if group.rel %}{{ group.rel }}{% else %}icon{% endif %}{% endcapture %}
+		{% for size in group.sizes %}
+			{% if group.type == "ms" %}
+				<meta name="msapplication-TileImage" content="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" />
+			{% else %}
+				<link rel="{{ rel }}" type="image/png" href="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" sizes="{{ size }}" />
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	<link rel="manifest" href="{{ site.data.icons.android-manifest | prepend: site.baseurl }}" />
+	<meta name="msapplication-TileColor" content="{{ site.data.icons.ms-tilecolor }}" />
+	<meta name="theme-color" content="{{ site.color }}" />
+	<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
+
+	{% for sheet in site.data.stylesheets.default.head %}
+		{% include stylesheet.html stylesheet=sheet %}
+	{% endfor %}
+
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
+
+	{% for s in site.data.scripts.default.pre %}
+		{% include script.html script=s %}
+	{% endfor %}
 </head>
