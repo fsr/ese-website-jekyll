@@ -44,6 +44,9 @@ metatag:
 # Build settings
 markdown: kramdown
 
+gems:
+ - jekyll-coffeescript
+
 exclude:
   - .c9
   - .git
