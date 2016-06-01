@@ -23,10 +23,7 @@ Ansprechpartner: Kilian Becher (tutor-inf@tu-dresden.de)
 *Wenn nicht anders angegeben, finden alle Veranstaltungen in dem Andreas-Pfitzmann-Bau im Raum E023 statt. (einfach im Foyer den Tutoren in lila Shirts folgen).*
 
 
-<div id="eventlist" class="show-for-small-only">
-	{% include eventlist.html %}
-</div>
-<ul class="accordion hide-for-small-only" data-accordion="" role="tablist">
+<ul class="accordion" data-accordion="" role="tablist">
   <li class="accordion-navigation">
     <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Zeitplan</a>
     <div id="timetable" class="content active" role="tabpanel" aria-labelledby="timetable-heading">
