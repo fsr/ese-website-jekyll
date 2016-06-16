@@ -46,6 +46,7 @@ metatag:
 markdown: kramdown
 
 gems:
+ - jekyll-git_metadata
  - jekyll-coffeescript
 
 exclude:
