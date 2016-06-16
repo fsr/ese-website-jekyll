@@ -5,12 +5,12 @@ layout: page
 
 ### ESE auf Facebook
 
-*   [Facebookgruppe der (Medien-)Informatiker Erstsemester 2015/16](https://www.facebook.com/groups/TUDInf2015/ "Facebookgruppe"){:target="_blank"} 
+*   [Facebookgruppe der (Medien-)Informatiker Erstsemester {{site.year}}/17](https://www.facebook.com/groups/TUDInf{{site.year}}/ "Facebookgruppe"){:target="_blank"} 
 *   [(Medien-)Informatiker – Freizeitgruppe auf Facebook](https://www.facebook.com/groups/TUDInfFreizeit/ "Facebook-Freizeitgruppe"){:target="_blank"}  _für alles, was nicht direkt mit der Uni zu tun hat_
 
 ### No Panic!
 
-[No Panic](http://ese.ifsr.de/2015/nopanic2015.pdf) (PDF 3MB) ist die Infobroschüre zum Studienstart. Hier findest du alles was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
+[No Panic](http://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (PDF 3MB) ist die Infobroschüre zum Studienstart. Hier findest du alles was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 
 ### Finanzen
 

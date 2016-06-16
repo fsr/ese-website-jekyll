@@ -25,7 +25,7 @@ Das Einschreiben in die Übungen eures ersten Semesters machen die Tutoren in de
 
 _Umzugsbeihilfe:_
 
-Wer dieses Jahr nach Dresden gezogen ist sollte nicht vergessen, im Zeitraum von Januar bis März 2015 die [Umzugsbeihilfe](http://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html "Umzugsbeihilfe"){:target="_blank"} zu beantragen.
+Wer dieses Jahr nach Dresden gezogen ist sollte nicht vergessen, im Zeitraum von Januar bis März {{site.year}} die [Umzugsbeihilfe](http://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html "Umzugsbeihilfe"){:target="_blank"} zu beantragen.
 
 _Mensa:_
 

@@ -4,12 +4,12 @@ title: Web
 
 ### ESE on Facebook
 
-*   [Facebookgroup of ESE 2015/16](https://www.facebook.com/groups/TUDInf2015/ "facebookgroup"){:target="_blank"}
+*   [Facebookgroup of ESE {{site.year}}/17](https://www.facebook.com/groups/TUDInf{{site.year}}/ "facebookgroup"){:target="_blank"}
 *   [Facebookgroup for spare time](https://www.facebook.com/groups/TUDInfFreizeit/ "facebookgroup for spare time"){:target="_blank"}_: everything that is not directly related to the university_
 
 ### No Panic!
 
-[No Panic](http://ese.ifsr.de/2015/nopanic2015.pdf) (ca. 3MB) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
+[No Panic](http://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (ca. 3MB) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
 
 ### Finances
 
