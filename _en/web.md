@@ -4,7 +4,7 @@ title: Web
 
 ### ESE on Facebook
 
-*   [Facebookgroup of ESE {{site.year}}/17](https://www.facebook.com/groups/TUDInf{{site.year}}/ "facebookgroup"){:target="_blank"}
+*   [Facebookgroup of ESE {{site.year}}/{{ site.year | plus: 1 | remove: "20" }}](https://www.facebook.com/groups/TUDInf{{site.year}}/ "facebookgroup"){:target="_blank"}
 *   [Facebookgroup for spare time](https://www.facebook.com/groups/TUDInfFreizeit/ "facebookgroup for spare time"){:target="_blank"}_: everything that is not directly related to the university_
 
 ### No Panic!
