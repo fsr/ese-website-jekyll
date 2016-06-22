@@ -3,6 +3,7 @@ default:
     # The following scripts are included in the <head>
     -
       src: /vendor/modernizr/modernizr.min.js
+    - 
       src: /coffee/news.js
     #-
     #  src: /coffee/switchheader.js
