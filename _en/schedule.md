@@ -1,6 +1,5 @@
 ---
 title: Schedules
-layout: page
 ---
 
 Here you can find the current schedules from which you can choose one to enroll for on Wednesday. But first here's a list of the used abbreviations with links to their respective websites ([www]).
