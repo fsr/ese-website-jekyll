@@ -72,13 +72,13 @@ defaults:
       layout: "post"
   -
     scope:
-      path: "en"
+      path: ""
       type: "en-posts"
     values:
       layout: "en-post"
   -
     scope:
-      path: "en"
+      path: ""
       type: "en"
     values:
       layout: "en-page"
