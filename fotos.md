@@ -3,8 +3,9 @@ title: Fotos
 layout: page
 ---
 
-Die Fotos von eurer ESE findet ihr in unserer [ownCloud-Galerie](https://oc.ifsr.de/index.php/apps/gallery/public/vgbgdRWquYBURvm)
+Die Fotos von eurer ESE findet ihr bald hier!
 
-![ESE-Tutoren](img/tutoren{{site.year}}.jpg)
+[//]: # TODO: Aktuelles ESE-Foto einfügen!
+[//]: # ![ESE-Tutoren](img/tutoren{{site.year}}.jpg)
 
 Eure ESE-Tutoren!

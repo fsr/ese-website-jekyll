@@ -4,7 +4,12 @@ days:
   -
     name: "Mon&shy;tag"
     name-en: Mon&shy;day
-    date: 05.10.2015
+    date: 03.10.2016
+    events:
+  -
+    name: "Diens&shy;tag"
+    name-en: Tues&shy;day
+    date: 04.10.2016
     events:
       -
         begin: "9:00"
@@ -18,7 +23,7 @@ days:
         duration: "2:00"
         title: "Be&shy;grü&shy;ßung und Tu&shy;torien"
         title-en: "Greeting and Tutorials"
-        location: POT/81/A
+        location: "POT/81/A"
       -
         begin: "12:30"
         duration: "1:00"
@@ -26,29 +31,30 @@ days:
         title-en: "Lunch"
         english: true
       -
-        begin: "18:00"
-        duration: "4:00"
-        title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
-        title-en: "Games-night and Barbecue"
-        location: "Andreas-Pfitzmann-Bau"
+        title: "Club&shy;wan&shy;de&shy;rung"
+        title-en: "Club tour"
+        begin: "20:00"
+        duration: "2:00"
+        location: "Start am Count Down"
+        location-en: "Start at club Count Down"
         english: true
   -
-    name: "Diens&shy;tag"
-    name-en: Tues&shy;day
-    date: 06.10.2015
+    name: "Mitt&shy;woch"
+    name-en: Wednes&shy;day
+    date: 05.10.2016
     events:
       -
         begin: "9:00"
-        duration: "3:30"
-        title: "Ein&shy;schrei&shy;bung, ewi&shy;ges Früh&shy;stück, sowie Vorträge und Enter&shy;tainment"
+        duration: "3:00"
+        title: "Ein&shy;schrei&shy;bung, ewi&shy;ges Früh&shy;stück und Enter&shy;tainment"
         title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
         location: "APB E023"
         english: true
       -
         title: "Mit&shy;tags&shy;pause"
         title-en: "Lunch"
-        begin: "12:30"
-        duration: "0:30"
+        begin: "12:00"
+        duration: "1:00"
         english: true
       -
         title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
@@ -56,26 +62,26 @@ days:
         begin: "13:00"
         duration: "2:00"
         location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
-        location-en: Follow your mentor
+        location-en: "Follow your mentor"
       -
         title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
         title-en: Seminar group meeting
         begin: "15:00"
         duration: "2:00"
-        location-en: Follow your men&shy;tor
+        location-en: "Follow your men&shy;tor"
         location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
       -
-        title: "Club&shy;wan&shy;de&shy;rung"
-        title-en: Club tour
-        begin: "20:00"
-        duration: "2:00"
-        location: "Start am Count Down"
-        location-en: Start at club Count Down
+        begin: "18:00"
+        duration: "4:00"
+        title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
+        title-en: "Games-night and Barbecue"
+        location: "Andreas-Pfitzmann-Bau"
+        location-en: "Andreas-Pfitzmann-Bau"
         english: true
   -
-    name: "Mitt&shy;woch"
-    name-en: Wednes&shy;day
-    date: 07.10.2015
+    name: "Don&shy;ners&shy;tag"
+    name-en: Thurs&shy;day
+    date: 06.10.2016
     events:
       -
         title: "Früh&shy;stück"
@@ -85,18 +91,11 @@ days:
         location: "APB E023"
         english: true
       -
-        title: "Vor&shy;träge"
-        title-en: Talks
+        title: "Vor&shy;stel&shy;lung der Pro&shy;fes&shy;soren"
+        title-en: Meet the professors
         begin: "10:00"
-        duration: "0:45"
+        duration: "2:00"
         location: "APB E023"
-      -
-        title: "Ta&shy;schen&shy;aus&shy;gabe der TU-Dresden"
-        title-en: Carry bag distribution (TU Dresden)
-        begin: "10:45"
-        duration: "1:15"
-        location: "Chemie-Bau"
-        english: true
       -
         title: "Mit&shy;tags&shy;pause"
         title-en: Lunch
@@ -111,10 +110,17 @@ days:
         begin: "13:00"
         duration: "3:00"
         english: true
+      -
+        title: "ESE-Kino"
+        begin: "19:00"
+        duration: "3:00"
+        title-en: "ESE cinema"
+        location: "Kino im Kasten - Eintrittspreis vielleicht 2€"
+        location-en: "Kino im Kasten - entrance fee maybe 2€"
   -
-    name: "Don&shy;ners&shy;tag"
-    name-en: Thurs&shy;day
-    date: 08.10.2015
+    name: "Frei&shy;tag"
+    name-en: Fri&shy;day
+    date: 07.10.2016
     events:
       -
         title: "Früh&shy;stück"
@@ -124,8 +130,8 @@ days:
         location: "APB E023"
         english: true
       -
-        title: "Vor&shy;stel&shy;lung der Pro&shy;fes&shy;soren"
-        title-en: Meet the professors
+        title: "Vor&shy;träge"
+        title-en: Talks
         begin: "10:00"
         duration: "2:00"
         location: "APB E023"
@@ -139,44 +145,19 @@ days:
         begin: "13:00"
         duration: "2:45"
         title: "ESE-Spiel"
-        title-en: ESE-game
+        title-en: "ESE-game"
         location: "Foyer der Informatik"
-        location-en: Foyer of the Andreas-Pfitzmann-Bau
-      -
-        title: "ESE-Kino"
-        begin: "19:00"
-        duration:  "2:00"
-        title-en: ESE cinema
-        location: "Kino im Kasten - Eintrittspreis 2€, 3€ für Externe"
-        location-en: "Kino im Kasten - entrance fee 2€, 3€ for non-students"
-  -
-    name: "Frei&shy;tag"
-    name-en: Fri&shy;day
-    date: 09.10.2015
-    events:
-      -
-        begin: "12:00"
-        duration: "1:00"
-        title: "Mit&shy;tags&shy;pau&shy;se"
-        title-en: Lunch
-        english: true
-      -
-        title: "Stadt&shy;führung"
-        title-en: Guided city tour
-        location: "<a href='https://www.google.de/maps/@51.0474737,13.7367055,59m/data=!3m1!1e3'>nahe der Haltestelle Prager Straße bei den in den Untergrund führenden Treppen</a>"
-        begin: "13:00"
-        duration: "3:00"
-        english: true
+        location-en: "Foyer of the Andreas-Pfitzmann-Bau"
   -
     name: "Sams&shy;tag"
     name-en: Satur&shy;day
-    date: 10.10.2015
+    date: 08.10.2016
     events:
       -
-        title: "Wan&shy;derung in der Säch&shy;sischen Schweiz"
-        title-en: Hiking in the saxon switzerland
-        begin: "9:00"
-        duration: "7:00"
-        location: "Treff 9:15 Uhr Hauptbahnhof oben auf Gleis 18: festes Schuhwerk, Proviant, Studentenausweis!"
-        location-en: "Meeting at 9:15am at the main station on track 18: good shoes, food supplies, student id!"
+        title: "Stadt&shy;führung"
+        title-en: "Guided city tour"
+        location: "Treffpunkt wird noch angekündigt"
+        location-en: "Starting location is to be announced"
+        begin: "13:00"
+        duration: "2:30"
         english: true

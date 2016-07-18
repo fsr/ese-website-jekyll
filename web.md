@@ -10,7 +10,7 @@ layout: page
 
 ### No Panic!
 
-[No Panic](http://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (PDF 3MB) ist die Infobroschüre zum Studienstart. Hier findest du alles was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
+Die [No Panic](http://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (PDF 3MB folgt in Kürze) ist die Infobroschüre zum Studienstart. Hier findest du alles was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 
 ### Finanzen
 
@@ -26,10 +26,10 @@ layout: page
 
 #### Beratung
 
-*   [allgemeine Informationen](http://tu-dresden.de/studium/beratung/zentrale_studienberatung/studienanfaenger "Zentrale Studienberatung"){:target="_blank"}  (Studienberatung)
+*   [allgemeine Informationen](https://tu-dresden.de/studium/im-studium/beratung-und-service/zentrale-studienberatung "Zentrale Studienberatung"){:target="_blank"}  (Studienberatung)
 *   [Fachschaftsrat Informatik](http://www.ifsr.de/ "Fachschaftsrat Informatik"){:target="_blank"}  (iFSR)
     *   [Mailinglisten](http://www.ifsr.de/studium:mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
-    *   [Studienberatung](http://www.ifsr.de/studium:studienberatung "Studienberatung des iFSR"){:target="_blank"}
+    *   [Studienberatung](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung "Studienberatung des Fakultät und des FSR"){:target="_blank"}
     *   [Seminargruppen](https://www.ifsr.de/studium:seminargruppen "Seminargruppen"){:target="_blank"}
 *   [auditorium](http://auditorium.inf.tu-dresden.de/ "Auditorium"){:target="_blank"}  (Fragen und Antworten zum Studium)
 *   [Studentenrat](http://www.stura.tu-dresden.de){:target="_blank"}  (StuRa)
@@ -50,7 +50,7 @@ layout: page
         _**Für alle ausländischen Studenten – DSE, CL Studenten und Austauschstudenten, die nur 1-2 Semester an der Fakultät studieren, ist das ‘Service Center for International Students’ im Raum INF/2018 zuständig.**_
 
     *   [Prüfungsordnung](http://www.inf.tu-dresden.de/index.php?node_id=2717&ln=de){:target="_blank"}
-    *   [Beratung](http://www.ifsr.de/studium:studienberatung){:target="_blank"}
+    *   [Beratung](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung){:target="_blank"}
 *   [Fremdsprachen](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/lsk "LSK Seite"){:target="_blank"}  (LSK, Lehrzentrum Sprachen und Kulturen)
 *   [studium generale](http://integrale.de){:target="_blank"}
 
@@ -73,8 +73,8 @@ layout: page
 *   [Hinweise zum Ummelden](https://www.dresden.de/de/rathaus/dienstleistungen/wohnsitz_meldung_d115.php "Hinweise zum Wohnsitzwechsel der Stadt Dresden"){:target="_blank"}  (dresden.de)
 *   [Studentenwerk](http://www.studentenwerk-dresden.de/wohnen/){:target="_blank"}
     *   [Wohnheime](http://www.studentenwerk-dresden.de/wohnen/wohnheimkatalog/){:target="_blank"}
-    *   [Zweitwohnsitzsteuer](http://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html){:target="_blank"}  ([Zweitwohnungssteuer auf dresden.de](http://www.dresden.de/de/02/or/anliegen/c_zweitwohnungssteuer.php){:target="_blank"} )
-*   [GAGFAH](http://www.gagfah.de/){:target="_blank"}  (großer Vermieter)
+    *   [Zweitwohnsitzsteuer](http://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html){:target="_blank"}  ([Zweitwohnungssteuer auf dresden.de](http://www.dresden.de/de/rathaus/dienstleistungen/c_zweitwohnungssteuer.php){:target="_blank"} )
+*   [Vonovia](https://www.vonovia.de/){:target="_blank"}  (großer Vermieter, ehemals GAGFAH)
 *   [Wohnungsgenossenschaft Dresden](http://www.wgs-dresden.de/){:target="_blank"}
 *   [Sächsische Wohnungsgenossenschaft](http://www.swg-dresden.de/){:target="_blank"}
 *   [Ortsämter](http://www.dresden.de/de/rathaus/ortsaemter.php){:target="_blank"}  (Einwohnermeldeämter)
@@ -82,12 +82,12 @@ layout: page
 ### Freizeit
 
 *   [Unisport](http://www.usz.tu-dresden.de/){:target="_blank"}
-*   [Studentenclubs](http://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}
+*   [Studentenclubs](http://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}   ([Vereinigung Dresdner Studentenclubs](https://vdsc.de/){:target="_blank"} )
 
 ### Reisen
 
 *   [Semesterticket](http://www.stura.tu-dresden.de/semesterticket){:target="_blank"}  (StuRa)
-*   [DVB](http://www.dvb.de) (Dresdner Nahverkehr){:target="_blank"}
+*   [DVB](http://www.dvb.de){:target="_blank"} (Dresdner Nahverkehr)
     *   [Semesterticket](https://www.dvb.de/de-de/tickets/schueler-studenten/studenten/ "Regeln des DVB zum Semesterticket"){:target="_blank"}
 *   [VVO](http://www.vvo-online.de/){:target="_blank"}  (Fernverkehr)
     *   [Semesterticket](https://www.vvo-online.de/de/tarif-tickets/sondertickets/semesterticket-153.cshtml "Regeln des VVO zum Semesterticket"){:target="_blank"}

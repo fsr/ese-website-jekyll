@@ -11,7 +11,7 @@ In den Bereichen Rechts- oder Sozialberatung stellen das [Studentenwerk Dresden]
 
 ### Wie funktioniert das mit dem Stundenplan?
 
-Im ersten Semester braucht ihr euch darüber noch keine großen Gedanken zu machen. Später bekommt man Vorlesungs- und Übungstermine genannt und darf sich dann was die Übungen betrifft über jExam einen eigenen Stundenplan zusammenstellen. Im ersten Semester haben wir diverse fertige Stundenpläne vorbereitet, unter denen ihr euch für einen einschreiben könnt. Damit seit ihr dann zusammen mit allen anderen, die sich für diesen Stundenplan entschieden haben, in einer Seminargruppe. Das Treffen dazu am Dienstag bitte nicht verpassen, ist wichtig.
+Im ersten Semester braucht ihr euch darüber noch keine großen Gedanken zu machen. Später bekommt man Vorlesungs- und Übungstermine genannt und darf sich dann was die Übungen betrifft über jExam einen eigenen Stundenplan zusammenstellen. Im ersten Semester haben wir diverse fertige Stundenpläne vorbereitet, unter denen ihr euch für einen einschreiben könnt. Damit seit ihr dann zusammen mit allen anderen, die sich für diesen Stundenplan entschieden haben, in einer Seminargruppe. Das Treffen dazu am Mittwoch bitte nicht verpassen, es ist wichtig.
 
 ### Wie finde ich mich auf dem Campus zurecht?
 
@@ -29,7 +29,7 @@ Wer dieses Jahr nach Dresden gezogen ist sollte nicht vergessen, im Zeitraum von
 
 _Mensa:_
 
-Während der Ese-Woche bekommt ihr eure Mensa-Karte (Emeal-Bescheinigung und 10€ mitbringen). Denkt auch an etwas Geld, um die Karte aufzuladen.
+Während der Ese-Woche bekommt ihr eure Mensa-Karte (Emeal-Bescheinigung und 5€ Pfand mitbringen). Denkt auch an etwas Geld, um die Karte aufzuladen.
 
 _SLUB:_
 
@@ -39,16 +39,16 @@ _Sport_:
 
 Wer sich an einem der zahlreichen angebotenen Sportkurse beteiligen will, sollte die Anmeldefrist nicht verpassen. Informieren könnt ihr euch auf der [Seite des USZ](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/usz "Seite des USZ"){:target="_blank"} (Universitätssportzentrum).
 
-_ZIH Passwort ändern:_
+_ZIH Login aktivieren:_
 
-Bitte unbedingt spätestens am ESE-Montag, dem 05.10. euer Erst-Passwort ändern. Das geht recht einfach über das [IDM Portal](https://idm-service.tu-dresden.de){:target="_blank"} der TU.
+Bitte löst unbedingt, spätestens am ESE-Dienstag, dem 04.10. eueren ZIH-Coupon, den ihr per E-Mail bekommen habt, ein. Das geht recht einfach über das [IDM Coupon Portal](https://idm-coupon.tu-dresden.de/){:target="_blank"} der TU Dresden. Hier werdet ihr dazu aufgefordert ein Passwort zu setzen. Dieser Login ist ernom wichtig in eurem Studium, denn ihr benutzt ihn für alle Anmeldungen rund um die Universität wie z.B. [WLAN](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/arbeitsumgebung/zugang_datennetz), [jExam](https://jexam.inf.tu-dresden.de/) (Einschreiben, Noten, etc.), [Selma](https://selma.tu-dresden.de/) (Selbstmanagement-Portal) und vieles mehr!
 
 ### Meine E-Mail funktioniert nicht, was kann ich tun?
 
-Wichtig hierfür ist, dass ihr euer Erst-Passwort bereits geändert habt. Dies geht am einfachsten über das [IDM Portal](https://idm-service.tu-dresden.de/){:target="_blank"} der TU und wenn nötig [dieser Anleitung](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/datennetz_dienste/e_mail/email_ueberarbeitet_0211/mail_config_generell){:target="_blank"} folgen. Falls nein, erst Passwort ändern, ca. 1-2h warten und dann der Anleitung folgen.
+Wichtig hierfür ist, dass ihr euren ZIH-Login bereits aktiviert und ein Passwort erstellt habt. Wie das geht ist im vorhergehenden Punkt beschrieben. Weitere Information zum [E-Mail-Service](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/arbeitsumgebung/e_mail).
 
 ### Zu welchen Zeiten finden Lehrveranstaltungen statt und wann habe ich „Semesterferien“?
 
 Jede Vorlesung bzw. Übung dauert 90 Minuten, dazwischen gibt es jeweils eine 20 minütige Pause ([Zeitraster der TU Dresden](http://tu-dresden.de/studium/organisation/vorlesungsverzeichnis/zeitraster "Zeitraster der TU Dresden"){:target="_blank"}). Alle Veranstaltungen beginnen pünktlich, nicht [ct](https://de.wikipedia.org/wiki/Akademische_Zeitangabe "cum tempore"){:target="_blank"}.
 
-Den [Studienjahresablauf](http://tu-dresden.de/studium/organisation/studienjahresablauf "Studienjahresablauf"){:target="_blank"} (freie Tage, vorlesungsfreie Zeit usw.) findet ihr auf der Webseite der TU Dresden. In den Ferien nach dem ersten Semester findet das **Einführungspraktikum** statt.
+Den [Studienjahresablauf](http://tu-dresden.de/studium/organisation/studienjahresablauf "Studienjahresablauf"){:target="_blank"} (freie Tage, vorlesungsfreie Zeit usw.) findet ihr auf der Webseite der TU Dresden. Beachtet allerdings, dass in den Ferien nach dem ersten Semester das **Einführungspraktikum** stattfindet.
