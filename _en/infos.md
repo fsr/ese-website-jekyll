@@ -8,36 +8,31 @@ Sadly all the documents are only available in German.
 
 ### Bachelor Computer Science
 
-* [Studienordnung Bachelor Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-inf/2009/study.de.pdf)
-* [Prüfungsordnung Bachelor Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-inf/2009/exam.de.pdf)
-* [Stundentafel Bachelor Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-inf/2009/study.app.2.de.pdf)
-* [Modulbeschreibung Bachelor Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-inf/2010/study.app.1.pdf)
-* [Teilzeitstudium Bachelor Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-inf/2009/study.app.3.de.pdf)
+* [Studienordnung Bachelor Informatik](http://www.verw.tu-dresden.de/AmtBek/PDF-Dateien/2016-06/11soBA24.04.2016.pdf) incl. module descriptions and study proceedings
+* [Prüfungsordnung Bachelor Informatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ba_inf_po_09_de_ausgefertigt.pdf)
 
 ### Bachelor Media Computer Science
 
-* [Studienordnung Bachelor Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-minf/2009/study.de.pdf)
-* [Prüfungsordnung Bachelor Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-minf/2009/exam.de.pdf)
-* [Stundentafel Bachelor Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-minf/2009/study.app.2.de.pdf)
-* [Modulbeschreibung Bachelor Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ba-minf/2010/study.app.1.pdf)
+* [Studienordnung Bachelor Medieninformatik](http://www.verw.tu-dresden.de/AmtBek/PDF-Dateien/2016-06/11soBAMI24.04.2016.pdf) incl. module descriptions and study proceedings
+* [Prüfungsordnung Bachelor Medieninformatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ba_minf_po_09_de_ausgefertigt.pdf)
 
 ### Diploma Computer Science (2010)
 
-* [Studienordnung Diplom Informatik (2010)](http://www.inf.tu-dresden.de/content/study/regulations/download/inf/2010/study.de.pdf)
-* [Prüfungsordnung Diplom Informatik (2010)](http://www.inf.tu-dresden.de/content/study/regulations/download/inf/2010/exam.de.pdf)
-* [Modulbeschreibung Diplom Informatik (2010)](http://www.inf.tu-dresden.de/content/study/regulations/download/inf/2010/study.app.2.de.pdf)
-* [Stundentafel Diplom Informatik (2010)](http://www.inf.tu-dresden.de/content/study/regulations/download/inf/2010/study.app.1.de.pdf)
+* [Studienordnung Diplom Informatik (2010)](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/dipl_inf_so_2010_de.pdf)
+* [Prüfungsordnung Diplom Informatik (2010)](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/dipl_inf_po_2010_de.pdf)
+* [Modulbeschreibung Diplom Informatik (2010)](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/dipl_inf_so_app2_de.pdf)
+* [Stundentafel Diplom Informatik (2010)](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/dipl_inf_so_app1_de.pdf)
 
 ### Master Computer Science
 
-* [Studienordnung Master Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-inf/2010/study.de.pdf)
-* [Prüfungsordnung Master Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-inf/2010/exam.de.pdf)
-* [Modulbeschreibung Master Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-inf/2010/study.app.1.de.pdf)
-* [Stundentafel Master Informatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-inf/2010/study.app.2.de.pdf)
+* [Studienordnung Master Informatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_inf_so_2010_de.pdf)
+* [Prüfungsordnung Master Informatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_inf_po_2010_de.pdf)
+* [Modulbeschreibung Master Informatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_inf_so_app1_de.pdf)
+* [Stundentafel Master Informatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_inf_so_app2_de.pdf)
 
 ### Master Media Computer Science
 
-* [Studienordnung Master Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-minf/2010/study.de.pdf)
-* [Prüfungsordnung Master Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-minf/2010/exam.de.pdf)
-* [Modulbeschreibung Master Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-minf/2010/study.app.1.de.pdf)
-* [Stundentafel Master Medieninformatik](http://www.inf.tu-dresden.de/content/study/regulations/download/ma-minf/2010/study.app.2.de.pdf)
+* [Studienordnung Master Medieninformatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_minf_so_2010_de.pdf)
+* [Prüfungsordnung Master Medieninformatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_minf_po_2010_de.pdf)
+* [Modulbeschreibung Master Medieninformatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_minf_so_app1_de.pdf)
+* [Stundentafel Master Medieninformatik](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/dateien/studien_und_pruefungsordnungen/ma_minf_so_app2_de.pdf)

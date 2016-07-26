@@ -9,7 +9,7 @@ title: Web
 
 ### No Panic!
 
-[No Panic](http://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (ca. 3MB) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
+[No Panic](http://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (ca. 3MB soon) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
 
 ### Finances
 
@@ -22,7 +22,7 @@ title: Web
 
 #### Counseling
 
-*   [general information (de)](http://tu-dresden.de/studium/beratung/zentrale_studienberatung/studienanfaenger?set_language=en&cl=en "Zentrale Studienberatung"){:target="_blank"} (University Counselling Center)
+*   [general information (de)](https://tu-dresden.de/studium/im-studium/beratung-und-service/zentrale-studienberatung?set_language=en&cl=en "Zentrale Studienberatung"){:target="_blank"} (University Counselling Center)
 *   [Fachschaftsrat Informatik](http://www.ifsr.de/en:start "Fachschaftsrat Informatik"){:target="_blank"} (iFSR)
     *   [Mailinglists (de)](http://www.ifsr.de/studium:mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
     *   [Counseling (de)](http://www.ifsr.de/studium:studienberatung "Studienberatung des iFSR"){:target="_blank"}
@@ -41,7 +41,7 @@ title: Web
     *   [Exam Office (de)](http://www.inf.tu-dresden.de/index.php?node_id=876&ln=en "exam office"){:target="_blank"}  
         _**For foreign students – DSE, CL students and exchange students, who are just staying for 1-2 terms at this faculty, the ‘Service Center for International Students’ in room INF/2018 carries responsibility.**_
     *   [Regulations (de)](http://www.inf.tu-dresden.de/index.php?node_id=2717&ln=en "Regulations for examination"){:target="_blank"}
-    *   [Counseling (de)](http://www.ifsr.de/studium:studienberatung){:target="_blank"}
+    *   [Counseling (de)](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung){:target="_blank"}
 *   [Foreign languages (de)](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/lsk?set_language=en&cl=en "LSK seite"){:target="_blank"}
 *   [studium generale (de)](http://integrale.de/){:target="_blank"}
 
@@ -63,7 +63,7 @@ title: Web
 *   [Information about residence for educational purposes](http://www.dresden.de/en/02/anliegen/Residence_for_educational_purposes.php "Information about residence for educational purposes - Dresdens city hall"){:target="_blank"} (dresden.de)
 *   [student union](http://www.studentenwerk-dresden.de/english/wohnen/){:target="_blank"} (general information and counseling)
     *   [Student halls](http://www.studentenwerk-dresden.de/english/wohnen/wohnheimkatalog/){:target="_blank"}
-*   [GAGFAH](http://www.gagfah.de/en/){:target="_blank"}
+*   [Vonovia](https://www.vonovia.de/){:target="_blank"} (big landlord, former GAGFAH)
 *   [housing association Dresden](http://www.wgs-dresden.de/){:target="_blank"}
 *   [saxon housing association (de)](http://www.swg-dresden.de/){:target="_blank"}
 *   [registration offices (de)](http://www.dresden.de/de/rathaus/ortsaemter.php){:target="_blank"}
@@ -76,7 +76,7 @@ title: Web
 ### Travelling
 
 *   [Semesterticket (de)](http://www.stura.tu-dresden.de/semesterticket){:target="_blank"} (StuRa)
-*   [DVB](http://www.dvb.de/en/Homepage/){:target="_blank"} (Dresden local traffic)
+*   [DVB](http://www.dvb.de/){:target="_blank"} (Dresden local traffic)
     *   [Semesterticket](http://www.dvb.de/en/Tickets-Fares/For-Students/ "Semesterticket and DVB"){:target="_blank"}
 *   [VVO (de)](http://www.vvo-online.de){:target="_blank"} (intercity transport)
     *   [Semesterticket (de)](https://www.vvo-online.de/de/tarif-tickets/sondertickets/semesterticket-153.cshtml "Semesterticket and VVO"){:target="_blank"}

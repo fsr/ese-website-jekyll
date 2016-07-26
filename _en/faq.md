@@ -37,13 +37,13 @@ _Sports:_
 
 Those who want to can participate in one of the many offered sports courses, you just should not miss the deadline. You can find more information on the [website](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/usz){:target="_blank"} of the USZ (University Sports Centre).
 
-_Changing your ZIH-password:_
+_Activate ZIH login:_
 
-Please make sure to change your initial password by ESE Monday (6.10.). You can do so quite simply by visiting the TU’s [IDM Portal](https://idm-service.tu-dresden.de){:target="_blank"}.
+Please use you ZIH-Coupon you got per email at latest on Tuesday. Simply do it over the [IDM Coupon Portal](https://idm-coupon.tu-dresden.de/){:target="_blank"} of the TU Dresden. You will be prompted to set a password. This login is tremendously important bacause you will use it on all university services like [WLAN](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/arbeitsumgebung/zugang_datennetz), [jExam](https://jexam.inf.tu-dresden.de/) (Einschreiben, Noten, etc.), [Selma](https://selma.tu-dresden.de/) (Selfmanagement-Portal) and many more!
 
 ### My email is not working, what can I do?
 
-What is important here is that you already changed your initial password (see above). If you have not done that yet, just change your password, wait about 1-2h and then try again. If necessary, you can then follow these [instructions](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/datennetz_dienste/e_mail/email_ueberarbeitet_0211/mail_config_generell){:target="_blank"}.
+What is important here is that you already activated your ZIH login and set a password. (see above). Further Information about [E-Mail-Service](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/arbeitsumgebung/e_mail).
 
 ### What times are classes held and when do I have “semester break”?
 
