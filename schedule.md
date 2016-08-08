@@ -13,7 +13,7 @@ Hier findet ihr bald die aktuellen Stundenpläne (Seminargruppenpläne), in die 
 * **DIS**: Diskrete Strukturen (Einführung in die Mathematik für Informatiker)
 * **EMI**: Einführung in die Medieninformatik *(nur Bachelor)*
 * **LAG**: Lineare Algebra (Einführung in die Mathematik für Informatiker)
-           [[www]](http://www.math.tu-dresden.de/~baumann/lineare_algebra___einfuehrung_in_die_mathematik_fuer_informatiker.html){:target="_blank"}
+           [[www]](https://www.math.tu-dresden.de/~baumann/lineare_algebra___einfuehrung_in_die_mathematik_fuer_informatiker.html){:target="_blank"}
 * **RA**:  Rechnerarchitektur *(nur Diplom)*           
 * **TGI**: Technische Grundlagen *(nur Diplom)*, die Vorlesung **[TGI]** (Di., 3. DS) findet nur in der *geraden* Woche statt           
 

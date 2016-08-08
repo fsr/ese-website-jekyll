@@ -4,7 +4,7 @@ layout: index
 
 ## Was?
 
-Die **Erstsemestereinführung 2016** (kurz ESE) findet wie jedes Jahr in der Woche vor der ersten Vorlesungswoche statt. In der ESE sollt ihr, die neuen Erstsemester, einen leichten und schönen Einstieg in das Studium bekommen. Dafür gibt es über die ganze Woche verteilt Veranstaltungen. Manche Veranstaltungen überschneiden sich leider mit dem [Mathe Brückenkurs](https://tu-dresden.de/mn/math/studium/lehrangebot/brueckenkurs){:target="_blank"}. Wir empfehlen natürlich den Besuch der ESE, gerade weil auch dieses Jahr ein Online-Brückenkurs zur Verfügung steht. Im Zeitplan der ESE könnt ihr schon mal schauen was euch alles erwartet. Aber kommt einfach am Montag in die Fakultät Informatik und lasst euch nach einem Frühstück in den Tutorien von uns erzählen was alles wichitg ist.
+Die **Erstsemestereinführung 2016** (kurz ESE) findet wie jedes Jahr in der Woche vor der ersten Vorlesungswoche statt. In der ESE sollt ihr, die neuen Erstsemester, einen leichten und schönen Einstieg in das Studium bekommen. Dafür gibt es über die ganze Woche verteilt Veranstaltungen. Manche Veranstaltungen überschneiden sich leider mit dem [Mathe Brückenkurs](https://tu-dresden.de/mn/math/studium/lehrangebot/brueckenkurs){:target="_blank"}. Wir empfehlen natürlich den Besuch der ESE, gerade weil auch dieses Jahr ein Online-Brückenkurs zur Verfügung steht. Im Zeitplan der ESE könnt ihr schon mal schauen was euch alles erwartet. Aber kommt einfach am Dienstag in die Fakultät Informatik und lasst euch nach einem Frühstück in den Tutorien von uns erzählen was alles wichitg ist.
 
 
 Und falls ihr euch jetzt fragt wer hier "wir" ist: Wir sind die [ESE-Tutoren](fotos.html); Studenten aus höheren Semestern die in ihrer Freizeit gerne den neuen "Erstis" helfen. Uns erkennt ihr in der Woche an den gelben ESE-Shirts.
@@ -12,12 +12,12 @@ Und falls ihr euch jetzt fragt wer hier "wir" ist: Wir sind die [ESE-Tutoren](fo
 
 ## Wann?
 
-Die ESE startet dieses Jahr aufgrund des Feiertags am **Dienstag** den 04.10. mit Frühstück um 9 Uhr. Bring am Montag bitte deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit. Die Mensakarten könnt ihr jeden Tag beim Frühstück erwerben.
+Die ESE startet dieses Jahr aufgrund des Feiertags am **Dienstag** den 04.10. mit Frühstück um 9 Uhr. Bring am Dienstag bitte deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit. Die Mensakarten könnt ihr jeden Tag beim Frühstück erwerben.
 
 **Internationale Studierende in den deutschsprachigen Studiengängen**  
 Ansprechpartner: Simon Hanisch (simon@ifsr.de)
 
-*Wenn nicht anders angegeben, finden alle Veranstaltungen in dem Andreas-Pfitzmann-Bau im Raum E023 statt. (einfach im Foyer den Tutoren in gelben Shirts folgen).*
+*Wenn nicht anders angegeben, finden alle Veranstaltungen in dem [Andreas-Pfitzmann-Bau](https://navigator.tu-dresden.de/karten/dresden/geb/apb) im Raum E023 statt. (einfach im Foyer den Tutoren in gelben Shirts folgen).*
 
 
 <ul class="accordion" data-accordion="" role="tablist">

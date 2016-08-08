@@ -4,8 +4,8 @@ title: FAQ
 
 ### Who can I contact if I have questions or problems?
 
-In the ESE week you get to know many ESE tutors who love to help you with starting problems and are available for all possible questions. During the first semester you will have your seminar group tutors to help you, which you get to know in the ESE. For larger problems, there is the [Fachschaftsrat](http://ifsr.de "FSR"){:target="_blank"} and the student question-and-answer platform [auditorium](http://auditorium.inf.tu-dresden.de "auditorium"){:target="_blank"}. We also invite you in the university-wide forum [eXma](http://exma.de/ "exma"){:target="_blank"} to get in touch with other students.  
-In the areas of legal or social counseling the [Studentenwerk Dresden](http://www.studentenwerk-dresden.de/english/soziales/ "Studentenwerk Dresden"){:target="_blank"} and the [Studentenrat](http://www.stura.tu-dresden.de/beratung "StuRa"){:target="_blank"} provide different offers.
+In the ESE week you get to know many ESE tutors who love to help you with starting problems and are available for all possible questions. During the first semester you will have your seminar group tutors to help you, which you get to know in the ESE. For larger problems, there is the [Fachschaftsrat](https://ifsr.de "FSR"){:target="_blank"} and the student question-and-answer platform [auditorium](https://auditorium.inf.tu-dresden.de "auditorium"){:target="_blank"}. We also invite you in the university-wide forum [eXma](https://exmatrikulationsamt.de/ "exma"){:target="_blank"} to get in touch with other students.  
+In the areas of legal or social counseling the [Studentenwerk Dresden](https://www.studentenwerk-dresden.de/english/soziales/ "Studentenwerk Dresden"){:target="_blank"} and the [Studentenrat](https://www.stura.tu-dresden.de/beratung "StuRa"){:target="_blank"} provide different offers.
 
 ### How does the timetable work?
 
@@ -13,7 +13,7 @@ In the first semester you don’t have to worry about this too much. In later se
 
 ### How do I find my way around the campus?
 
-In the campus scavenger hunt during the ESE you will already get to know the campus a little. Otherwise you can find both [static maps](http://tu-dresden.de/service/lageplaene "static maps"){:target="_blank"} and the [campus navigator](http://navigator.tu-dresden.de/ "campus navigator"){:target="_blank"} on the service side of the TU Dresden which support you in reaching your goals.
+In the campus scavenger hunt during the ESE you will already get to know the campus a little. Otherwise you can find both [static maps](https://tu-dresden.de/service/lageplaene "static maps"){:target="_blank"} and the [campus navigator](https://navigator.tu-dresden.de/ "campus navigator"){:target="_blank"} on the service side of the TU Dresden which support you in reaching your goals.
 
 ### What can I expect at the start of the courses?
 
@@ -23,7 +23,7 @@ For the first semester you enrol yourself together with the tutors in the ESE we
 
 _“Umzugsbeihilfe”:_
 
-If you move to Dresden this year, you should not forget to apply for the [“Umzugsbeihilfe”](http://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html "\"){:target="_blank"} in the period January-March {{site.year}}.
+If you move to Dresden this year, you should not forget to apply for the [“Umzugsbeihilfe”](https://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html "\"){:target="_blank"} in the period January-March {{site.year}}.
 
 _Mensa:_
 
@@ -31,11 +31,11 @@ During the ESE week you get your Mensa card (remember to bring 5€ deposit and 
 
 _SLUB:_
 
-For lending books in the SLUB you need an account (which you can get for free). Information and the registration form can be found on the website of the [library](http://www.slub-dresden.de/service/anmelden/ "library"){:target="_blank"}.
+For lending books in the SLUB you need an account (which you can get for free). Information and the registration form can be found on the website of the [library](https://www.slub-dresden.de/service/anmelden/ "library"){:target="_blank"}.
 
 _Sports:_
 
-Those who want to can participate in one of the many offered sports courses, you just should not miss the deadline. You can find more information on the [website](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/usz){:target="_blank"} of the USZ (University Sports Centre).
+Those who want to can participate in one of the many offered sports courses, you just should not miss the deadline. You can find more information on the [website](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/usz){:target="_blank"} of the USZ (University Sports Centre).
 
 _Activate ZIH login:_
 
@@ -47,6 +47,6 @@ What is important here is that you already activated your ZIH login and set a pa
 
 ### What times are classes held and when do I have “semester break”?
 
-Each lecture or exercise is 90 minutes long, in between there are both a 20 minute breaks ([time pattern of the TU Dresden](http://tu-dresden.de/studium/organisation/vorlesungsverzeichnis/zeitraster/document_view?set_language=en "time pattern of the TU Dresden"){:target="_blank"}). All events start on time, not [c.t.](https://en.wikipedia.org/wiki/Academic_quarter_(class_timing) "cum tempore"){:target="_blank"}.
+Each lecture or exercise is 90 minutes long, in between there are both a 20 minute breaks ([time pattern of the TU Dresden](https://tu-dresden.de/studium/organisation/vorlesungsverzeichnis/zeitraster/document_view?set_language=en "time pattern of the TU Dresden"){:target="_blank"}). All events start on time, not [c.t.](https://en.wikipedia.org/wiki/Academic_quarter_(class_timing) "cum tempore"){:target="_blank"}.
 
-The [academic calendar](http://tu-dresden.de/studium/organisation/studienjahresablauf/index_html/document_view?set_language=en){:target="_blank"} (days off, lecture-free time, etc.) can be found on the website of the TU Dresden. During the holidays after the first semester the Einführungspraktikum takes place for one of two weeks.
+The [academic calendar](https://tu-dresden.de/studium/organisation/studienjahresablauf/index_html/document_view?set_language=en){:target="_blank"} (days off, lecture-free time, etc.) can be found on the website of the TU Dresden. During the holidays after the first semester the Einführungspraktikum takes place for one of two weeks.

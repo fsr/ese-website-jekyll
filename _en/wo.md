@@ -18,7 +18,7 @@ The [CountDown](http://countdown-dresden.de/){:target="_blank"} is located on G�
 
 {% include osm_kik.html %}
 
-The cinema called [Kino im Kasten](http://www.kino-im-kasten.de/){:target="_blank"} is located in the big lecture hall of the TU-building ABS. Nearby there is the bus stop Weberplatz (bus line 66) or the tram stop Strehlener Platz (tram line 11).
+The cinema called [Kino im Kasten](https://www.kino-im-kasten.de/){:target="_blank"} is located in the big lecture hall of the TU-building ABS. Nearby there is the bus stop Weberplatz (bus line 66) or the tram stop Strehlener Platz (tram line 11).
 
-© [OpenStreetMap](http://www.openstreetmap.org/copyright/de){:target="_blank"} contributors
+© [OpenStreetMap](https://www.openstreetmap.org/copyright/de){:target="_blank"} contributors
 

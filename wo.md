@@ -19,6 +19,6 @@ Das [CountDown](http://countdown-dresden.de/){:target="_blank"} befindet sich im
 
 {% include osm_kik.html %}
 
-Das [Kino im Kasten](http://www.kino-im-kasten.de/){:target="_blank"}  befindet sich im großen Hörsaal des TU-Gebäudes ABS. Anreisemöglichkeiten gibt es mit der Buslinie 66 zur Haltestelle Weberplatz oder der Straßenbahnlinie 11 am Strehlener Platz.
+Das [Kino im Kasten](https://www.kino-im-kasten.de/){:target="_blank"}  befindet sich im großen Hörsaal des TU-Gebäudes ABS. Anreisemöglichkeiten gibt es mit der Buslinie 66 zur Haltestelle Weberplatz oder der Straßenbahnlinie 11 am Strehlener Platz.
 
-© [OpenStreetMap](http://www.openstreetmap.org/copyright/de){:target="_blank"} -Mitwirkende
+© [OpenStreetMap](https://www.openstreetmap.org/copyright/de){:target="_blank"} -Mitwirkende
