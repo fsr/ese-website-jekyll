@@ -49,6 +49,11 @@ gems:
  - jekyll-git_metadata
  - jekyll-coffeescript
 
+keep_files:
+ - eva/keys
+ - eva/logs
+ - eva/questionnaires
+
 exclude:
   - .c9
   - .git
