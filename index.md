@@ -28,7 +28,7 @@ Ansprechpartner: Simon Hanisch (simon@ifsr.de)
     </div>
   </li>
   <li class="accordion-navigation">
-    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barierefreier Zeitplan</a>
+    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrierefreier Zeitplan</a>
     <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
    		{% include eventlist.html %}
     </div>

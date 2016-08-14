@@ -29,7 +29,7 @@ If not stated otherwise all events will take place in Andreas-Pfitzmann-Bau in t
     </div>
   </li>
   <li class="accordion-navigation">
-    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrierfree Schedule</a>
+    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrier-free Schedule</a>
     <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
    		{% include eventlist.html lang="en" %}
     </div>
