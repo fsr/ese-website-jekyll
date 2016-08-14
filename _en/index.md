@@ -21,10 +21,7 @@ If not stated otherwise all events will take place in Andreas-Pfitzmann-Bau in t
 
 **Important: Events marked with a green border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
 
-<div id="eventlist" class="show-for-small-only">
-	{% include eventlist.html lang="en" %}
-</div>
-<ul class="accordion hide-for-small-only" data-accordion="" role="tablist">
+<ul class="accordion" data-accordion="" role="tablist">
   <li class="accordion-navigation">
     <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Timetable</a>
     <div id="timetable" class="content active" role="tabpanel" aria-labelledby="timetable-heading">
