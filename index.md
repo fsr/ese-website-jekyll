@@ -12,7 +12,7 @@ Und falls ihr euch jetzt fragt wer hier "wir" ist: Wir sind die [ESE-Tutoren](fo
 
 ## Wann?
 
-Die ESE startet dieses Jahr aufgrund des Feiertags am **Dienstag** den 04.10. mit Frühstück um 9 Uhr. Bring am Dienstag bitte deinen **Studentenausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte mit. Die Mensakarten könnt ihr jeden Tag beim Frühstück erwerben.
+Die ESE startet dieses Jahr aufgrund des Feiertags am **Dienstag** den 04.10. mit Frühstück um 9 Uhr. Bring am Dienstag bitte deinen **Studentenausweis**, einen **Lichtbildausweis**, deine **E-Meal Bescheinigung** (Immatrikulationsbogen) und **10 Euro** (5€ Pfand + 5€ oder mehr als Guthaben) für die Mensakarte E-Meal mit. Mehr Infos zur E-Meal findet ihr auf der [Seite des Studentenwerks](http://www.studentenwerk-dresden.de/mensen/emeal.html). Die Mensakarten könnt ihr jeden Tag beim Frühstück erwerben.
 
 **Internationale Studierende in den deutschsprachigen Studiengängen**  
 Ansprechpartner: Simon Hanisch (simon@ifsr.de)
