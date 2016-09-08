@@ -44,8 +44,8 @@ Die [No Panic](https://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (PDF
     *   [Lehrveranstaltungspläne](https://www.inf.tu-dresden.de/index.php?node_id=423&ln=de "Lehrveranstaltungen der Fakultät Informatik"){:target="_blank"}
     *   [Fakultätsrechenzentrum](https://www.inf.tu-dresden.de/portal.php?node_id=1981&ln=de&group=18 "FRZ"){:target="_blank"}  (FRZ, gehört mit zum [ZIH](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih "Zentrum für Informationsdienste und Hochleistungsrechnen"){:target="_blank"} )
 *   Prüfungen
-    *   [Einschreibung](https://www.inf.tu-dresden.de/index.php?node_id=905&ln=de#a1.1.){:target="_blank"}
-    *   [Prüfungsamt](https://www.inf.tu-dresden.de/index.php?node_id=876&ln=de){:target="_blank"}
+    *   [Prüfungsamt / Prüfungsorganisation](https://tu-dresden.de/ing/informatik/studium/pruefungsorganisation){:target="_blank"}
+    *   [Einschreibung](https://tu-dresden.de/ing/informatik/studium/pruefungsorganisation/pruefungen/einschreibungen){:target="_blank"}
 
         _**Für alle ausländischen Studenten – DSE, CL Studenten und Austauschstudenten, die nur 1-2 Semester an der Fakultät studieren, ist das ‘Service Center for International Students’ im Raum INF/2018 zuständig.**_
 
