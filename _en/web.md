@@ -38,8 +38,8 @@ title: Web
     *   [jExam (de)](https://jexam.inf.tu-dresden.de/ "online enrolment"){:target="_blank"} (online enrolment) – **Enrolment for new students takes place in the ESE week!**
     *   [Course timetables](https://www.inf.tu-dresden.de/index.php?node_id=423&ln=en "Course timetables at the Faculty of Computer Science"){:target="_blank"}
 *   Exams
-    *   [Enrollment](https://www.inf.tu-dresden.de/index.php?node_id=905&amp%3Bln=de&ln=en "information about enrollment"){:target="_blank"}
-    *   [Exam Office (de)](https://www.inf.tu-dresden.de/index.php?node_id=876&ln=en "exam office"){:target="_blank"}  
+    *   [Exam Office (de)](https://tu-dresden.de/ing/informatik/studium/pruefungsorganisation?set_language=en "exam office"){:target="_blank"}
+    *   [Enrollment (de)](https://tu-dresden.de/ing/informatik/studium/pruefungsorganisation/pruefungen/einschreibungen "information about enrollment"){:target="_blank"}
         _**For foreign students – DSE, CL students and exchange students, who are just staying for 1-2 terms at this faculty, the ‘Service Center for International Students’ in room INF/2018 carries responsibility.**_
     *   [Regulations (de)](https://www.inf.tu-dresden.de/index.php?node_id=2717&ln=en "Regulations for examination"){:target="_blank"}
     *   [Counseling (de)](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung){:target="_blank"}
