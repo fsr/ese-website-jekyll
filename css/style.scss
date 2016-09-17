@@ -14,6 +14,7 @@ $brand-color: #2A7AE2;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "foundation/functions",
+        "fonts/haettenschweiler",
         "init",
         "custom",
         "foundation/settings",
