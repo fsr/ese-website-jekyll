@@ -17,6 +17,7 @@ The "ESE" will begin this year because of a holiday with breakfast on Tuesday at
 
 Contact person: Simon Hanisch (simon@ifsr.de)
 
+
 If not stated otherwise all events will take place in Andreas-Pfitzmann-Bau in the room E023. (just follow the people with the yellow shirts)
 
 **Important: Events marked with a green border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
@@ -38,8 +39,12 @@ If not stated otherwise all events will take place in Andreas-Pfitzmann-Bau in t
 
 [Download](ESE-en.ics) the current version of the timetable as iCal-file to import it into your calendar at home.
 
-**Information for students of Computational Science and Engineering:** 
+**Information on the hiking trip**<br/>
+Dresden isn't known only for the old town but as well for the beautiful hiking paradise, the Sächsische Schweiz. We'll meet on Saturday, the 15th of October, at the train station "Dresden Hauptbahnhof", platform 18, and we'll take the train S1 in the direction of Krippen at 8:29. Don't forget your student ID, it is your train ticket! It'll take us approximately five hours excluding breaks, so don't forget enough food for the day. We'll go back from Schmilka with the ferry and train.
+
+**Information for students of Computational Science and Engineering**<br/>
 No information available
 
-**Information for students of Computational Logic**
+**Information for students of Computational Logic**<br/>
+[https://ddll.inf.tu-dresden.de/web/MCL/IntroductoryWeek](https://ddll.inf.tu-dresden.de/web/MCL/IntroductoryWeek){:target="_blank"}<br/>
 [http://www.computational-logic.org/content/study/master/current.php?id=43](http://www.computational-logic.org/content/study/master/current.php?id=43){:target="_blank"}

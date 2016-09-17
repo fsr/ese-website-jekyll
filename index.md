@@ -37,8 +37,12 @@ Ansprechpartner: Simon Hanisch (simon@ifsr.de)
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal-Datei. Kann direkt in den Kalender importiert werden.
 
-**Informationen für Studenten von Computational Science and Engineering:**  
+**Informationen zur Wanderung**<br/>
+Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Naturpanorama. Eng verbunden mit Dresden ist die Sächsische Schweiz, eine Wanderung hier ist schon ein muss für jeden Studenten hier. Drum nutzen wir noch die verbliebenen guten Herbststunden um dem gerecht zu werden. Treffpunkt ist am Samstag dem 15.10.16 am Dresdner Hauptbahnhof Gleis 18, wo wir 8:29 mit der S1 gemeinsam nach Krippen fahren werden. Vergesst nicht euren Studentenausweis (als Zugticket)! Ansetzen würden wir rund fünf Stunden plus Pausen, nehmt euch genug Verpflegung mit. Zurück geht es von Schmilka wieder mit Fähre und Bahn nach Dresden.
+
+**Informationen für Studenten von Computational Science and Engineering**<br/>
 bisher keine Informationen verfügbar
 
-**Informationen für Studenten von Computational Logic**  
-[http://www.computational-logic.org/content/study/master/current.php?id=43](http://www.computational-logic.org/content/study/master/current.php?id=43){:target="_blank"}.
+**Informationen für Studenten von Computational Logic**<br/>
+[https://ddll.inf.tu-dresden.de/web/MCL/IntroductoryWeek](https://ddll.inf.tu-dresden.de/web/MCL/IntroductoryWeek){:target="_blank"}<br/>
+[http://www.computational-logic.org/content/study/master/current.php?id=43](http://www.computational-logic.org/content/study/master/current.php?id=43){:target="_blank"}

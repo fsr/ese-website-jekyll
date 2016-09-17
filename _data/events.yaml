@@ -1,5 +1,5 @@
-schedule-length: "12:45" # in stunden
-schedule-begin: 9 # Uhr
+schedule-length: "13:30" # in stunden
+schedule-begin: 8 # Uhr
 days:
   -
     name: "Mon&shy;tag"
@@ -153,6 +153,14 @@ days:
     name-en: Satur&shy;day
     date: 08.10.2016
     events:
+      -
+        title: "Start der Wan&shy;der&shy;ung"
+        title-en: "Start of the Hi&shy;king Trip"
+        location: "in der Sächsischen Schweiz, genauere Informationen unter dem Zeitplan"
+        location-en: "in Saxon Switzerland, more information below the timetable"
+        begin: "8:15"
+        duration: "1:15"
+        english: true
       -
         title: "Stadt&shy;führung"
         title-en: "Guided city tour"

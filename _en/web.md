@@ -10,7 +10,7 @@ title: Web
 
 ### No Panic!
 
-[No Panic](https://ese.ifsr.de/{{site.year}}/nopanic{{site.year}}.pdf) (ca. 3MB soon) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
+[No Panic](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 6,2 MB) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
 
 ### Finances
 
