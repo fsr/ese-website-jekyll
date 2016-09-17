@@ -59,7 +59,7 @@ html.js .js-only {
 }
 
 .sidebar-item {
-  color: invert($primary-color);
+  color: $white;
   background-color: $primary-color;
   margin-bottom: 0.35rem;
   padding-top: 0.475rem;
@@ -70,7 +70,7 @@ html.js .js-only {
   h4,
   h5,
   h6 {
-    color: invert($primary-color);
+    color: $white;
     text-align: left;
 
   }
@@ -79,13 +79,13 @@ html.js .js-only {
 
   }
   a {
-    color: invert($primary-color);
+    color: $white;
     text-decoration: underline;
 
     &:hover,
     &:active,
     &:focus {
-      color: lighten(invert($primary-color), 20%);
+      color: darken($white, 20%);
 
     }
   }

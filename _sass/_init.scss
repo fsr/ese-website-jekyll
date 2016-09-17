@@ -58,10 +58,10 @@ $accordion-content-active-bg-color: $white-smoke;
 $topbar-bg-color: $primary-color;
 $topbar-bg: $topbar-bg-color;
 
-$topbar-link-color: invert($primary-color);
-$topbar-link-color-hover: invert($primary-color);
-$topbar-link-color-active: invert($primary-color);
-$topbar-link-color-active-hover: invert($primary-color);
+// $topbar-link-color: invert($primary-color);
+// $topbar-link-color-hover: invert($primary-color);
+// $topbar-link-color-active: invert($primary-color);
+// $topbar-link-color-active-hover: invert($primary-color);
 
 $topbar-link-bg: $primary-color;
 $topbar-link-bg-hover: scale-color($primary-color, $lightness: -14%);
