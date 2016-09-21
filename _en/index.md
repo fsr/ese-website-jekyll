@@ -39,7 +39,7 @@ If not stated otherwise all events will take place in Andreas-Pfitzmann-Bau in t
 
 [Download](ESE-en.ics) the current version of the timetable as iCal-file to import it into your calendar at home.
 
-**Information on the hiking trip**<br/>
+**Hiking trip on the 15th October**<br/>
 Dresden isn't known only for the old town but as well for the beautiful hiking paradise, the Sächsische Schweiz. We'll meet on Saturday, the 15th of October, at the train station "Dresden Hauptbahnhof", platform 18, and we'll take the train S1 in the direction of Krippen at 8:29. Don't forget your student ID, it is your train ticket! It'll take us approximately five hours excluding breaks, so don't forget enough food for the day. We'll go back from Schmilka with the ferry and train.
 
 **Information for students of Computational Science and Engineering**<br/>

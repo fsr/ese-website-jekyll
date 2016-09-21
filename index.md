@@ -37,7 +37,7 @@ Ansprechpartner: Simon Hanisch (simon@ifsr.de)
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal-Datei. Kann direkt in den Kalender importiert werden.
 
-**Informationen zur Wanderung**<br/>
+**Wanderung am 15.10.2016**<br/>
 Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Naturpanorama. Eng verbunden mit Dresden ist die Sächsische Schweiz, eine Wanderung hier ist schon ein muss für jeden Studenten hier. Drum nutzen wir noch die verbliebenen guten Herbststunden um dem gerecht zu werden. Treffpunkt ist am Samstag dem 15.10.16 am Dresdner Hauptbahnhof Gleis 18, wo wir 8:29 mit der S1 gemeinsam nach Krippen fahren werden. Vergesst nicht euren Studentenausweis (als Zugticket)! Ansetzen würden wir rund fünf Stunden plus Pausen, nehmt euch genug Verpflegung mit. Zurück geht es von Schmilka wieder mit Fähre und Bahn nach Dresden.
 
 **Informationen für Studenten von Computational Science and Engineering**<br/>
