@@ -23,7 +23,7 @@ For the first semester you enrol yourself together with the tutors in the ESE we
 
 _“Umzugsbeihilfe”:_
 
-If you move to Dresden this year, you should not forget to apply for the [“Umzugsbeihilfe”](https://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html "\"){:target="_blank"} in the period January-March {{site.year}}.
+If you move to Dresden this year, you should not forget to apply for the [“Umzugsbeihilfe”](https://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html "\"){:target="_blank"} in the period January-March {{ site.year | plus: 1 }}.
 
 _Mensa:_
 
