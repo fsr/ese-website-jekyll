@@ -59,7 +59,7 @@ Die [No Panic](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/n
 *   [Mensen](https://www.studentenwerk-dresden.de/mensen/ "Studentenwerk Mensen"){:target="_blank"}
     *   [Speisepläne](https://www.studentenwerk-dresden.de/mensen/speiseplan/ "Studentenwerk Speisepläne"){:target="_blank"}
     *   [Standorte](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html "Studentenwerk Mensen Orte"){:target="_blank"}
-    *   [eMeal](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk eMeal"){:target="_blank"}
+    *   [Emeal](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}
 *   [Campusnavigator](https://navigator.tu-dresden.de/){:target="_blank"}  (inklusive Gebäudegrundrisse und Hörsaalsuche)
 *   [Microsoft Dreamspark](https://www.inf.tu-dresden.de/index.php?node_id=2023&ln=de "Infos zu Microsoft Dreamspark der Fakultät Informatik"){:target="_blank"}  (kostenlose Lizenzen für Microsoftprodukte)
 *   [ASCII](http://www.ascii-dresden.de/){:target="_blank"}  (Café der Fakultät Informatik)

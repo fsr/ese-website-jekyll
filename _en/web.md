@@ -51,7 +51,7 @@ title: Web
 *   [refectories and cafeterias (de)](https://www.studentenwerk-dresden.de/mensen/ "Studentenwerk refectories and cafeterias"){:target="_blank"}
     *   [menus (de)](https://www.studentenwerk-dresden.de/mensen/speiseplan/ "Studentenwerk menus"){:target="_blank"}
     *   [locations (de)](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html "Studentenwerk cafeterias locations"){:target="_blank"}
-    *   [eMeal](https://www.studentenwerk-dresden.de/english/mensen/emeal.html "Studentenwerk eMeal (mensa card)"){:target="_blank"}
+    *   [Emeal](https://www.studentenwerk-dresden.de/english/mensen/emeal.html "Studentenwerk Emeal (mensa card)"){:target="_blank"}
 *   [campus navigator (de)](https://navigator.tu-dresden.de/newnav/campusNavigator?do=navigator&do1=startseite&lang=en "campus navigator"){:target="_blank"} (including search for rooms and lecture halls)
 *   [Dreamspark (de)](https://www.inf.tu-dresden.de/index.php?node_id=2023&ln=en "Infos about Dreamspark (faculty of computer science)"){:target="_blank"} (free licences of microsoft products)
 *   [ASCII (de)](http://www.ascii-dresden.de/){:target="_blank"} (Café of the Faculty of Computer Science)

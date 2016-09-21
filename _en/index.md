@@ -11,7 +11,7 @@ As to who "we" are: We are the [ESE tutors](fotos.html), senior students who lik
 
 ## When?
 
-The "ESE" will begin this year because of a holiday with breakfast on Tuesday at 9am. Please bring your **student id-card** (Studentenausweis), your **photo identification**, **eMeal certificate** (e*Meal* Bescheinigung) and **10€** (5€ deposit and 5€ credit) for the canteen-card e*Meal*. You can find more information on the [website of the Studentenwerk Dresden](http://www.studentenwerk-dresden.de/english/mensen/emeal.html). You can get the canteen-card every day during the breakfast.
+The "ESE" will begin this year because of a holiday with breakfast on Tuesday at 9am. Please bring your **student id-card** (Studentenausweis), your **photo identification**, **Emeal certificate** (E*meal* Bescheinigung) and **10€** (5€ deposit and 5€ credit) for the canteen-card E*meal*. You can find more information on the [website of the Studentenwerk Dresden](http://www.studentenwerk-dresden.de/english/mensen/emeal.html). You can get the canteen-card every day during the breakfast.
 
 ### International Students in German-speaking course of studies
 
