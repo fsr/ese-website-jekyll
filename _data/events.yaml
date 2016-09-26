@@ -115,8 +115,8 @@ days:
         begin: "19:00"
         duration: "3:00"
         title-en: "ESE cinema"
-        location: "Kino im Kasten - Eintrittspreis vielleicht 2€"
-        location-en: "Kino im Kasten - entrance fee maybe 2€"
+        location: "Kino im Kasten - freier Eintritt!"
+        location-en: "Kino im Kasten - no entrance fee!"
   -
     name: "Frei&shy;tag"
     name-en: Fri&shy;day
