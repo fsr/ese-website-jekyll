@@ -8,7 +8,6 @@ days:
   - Donnerstag
   - Freitag
 timeslots:
-  - Nullte DS gibt's nicht. Yay für ~Quickfixes~ Hacks.
   - "7:30"
   - "9:20"
   - "11:10"
@@ -16,426 +15,865 @@ timeslots:
   - "14:50"
   - "16:40"
   - "18:30"
-shared: # Stunden, welche alle Stundenpläne gemeinsam haben
-  Montag:
-    -
-      title: LAG
-      type: V
-      slot: 3
-      teacher: Baumann
-      location: TRE/MATH
-    -
-      title: EMI
-      type: V
-      slot: 5
-      teacher: Weber
-      location: HSZ/0002
-      planfilter: Bachelor
-  Dienstag:
-    -
-      title: TGI
-      type: V
-      slot: 3
-      teacher: Spallek
-      location: HSZ/0002
-      planfilter: Diplom
-      week: yes
-# Webers Ausweichtermin?
-#    -
-#      title: EMI
-#      type: Ü
-#      slot: 4
-#      location: POT/0081
-    -
-      title: RA
-      type: V
-      slot: 5
-      teacher: Spallek
-      location: HSZ/0002
-      planfilter: Diplom
-  Mittwoch:
-    -
-      title: DIS
-      type: V
-      slot: 3
-      teacher: Bodirsky
-      location: HSZ/0002
-  Donnerstag:
-    -
-      title: TGI
-      type: V
-      slot: 2
-      teacher: Spallek
-      location: HSZ/0003
-      planfilter: Diplom
-# Mathe Lernraum?
-#    -
-#      title: Mathe
-#      type: Lernraum
-#      slot: 5
-#      location: WIL/B122
-#    -
-#      title: Mathe
-#      type: Lernraum
-#      slot: 6
-#      location: WIL/B122
-  Freitag:
-    -
-      title: AuD
-      type: V
-      slot: 2
-      teacher: Bodirsky
-      location: HSZ/AUDI
-    -
-      title: DIS
-      type: V
-      slot: 3
-      teacher: Bodirsky
-      location: HSZ/0003
-values:
+shared:
+values:  
   # Eine Liste der verschiedenen Stundenpläne bzw. aller Stunden in denen sie sich unterscheiden
   # Die Reihenfolge der Tage innerhalb der Stundenpläne ist egal.
   -
-    name: Bachelor/01
-    Donnerstag:
-      -
-        title: DIS
-        type: Ü
-        slot: 1
-        location: WIL/C104
-      -
-        title: EMI
-        type: Ü
-        slot: 2
-        location: APB/E065
-    Freitag:
-      -
-        title: LAG
-        type: Ü
-        slot: 1
-        location: WIL/C104
-      -
-        title: AuD
-        type: Ü
-        slot: 5
-        location: SE2/0103
-  -
-    name: Bachelor/02
-    Montag:
-      -
-        title: DIS
-        type: Ü
-        slot: 2
-        location: WIL/C106
-    Dienstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 2
-        location: SE2/0103
-      -
-        title: EMI
-        type: Ü
-        slot: 3
-        location: APB/E065
-    Donnerstag:
-      -
-        title: AuD
-        type: Ü
-        slot: 1
-        location: SE2/0022
-  -
-    name: Bachelor/03
+    # INF 1/11/01 
+    name: Bachelor/1
     Montag:
       -
         title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Mittwoch:
+      -
+        title: AuD
         type: Ü
-        slot: 6
-        location: APB/E065
-    Dienstag:
+        slot: 0
+        location: CHE/0184/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 0
+        location: WIL/C104/U
       -
         title: LAG
         type: Ü
         slot: 4
-        location: ASB/0114
-    Mittwoch:
+        location: WIL/B122/U
       -
-        title: DIS
+        title: EMI
         type: Ü
-        slot: 5
-        location: SE2/0211
+        slot: 1
+        location: 
     Freitag:
       -
         title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: DIS
+        type: Ü
+        slot: 0
+        location: WIL/C104/U
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/02 
+    name: Bachelor/2
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 3
+        location: GÖR/0127/U
+      -
+        title: DIS
         type: Ü
         slot: 1
-        location: SCH/A185
+        location: REC/D016/U
+      -
+        title: EMI
+        type: Ü
+        slot: 2
+        location: 
+    Mittwoch:
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 1
+        location: APB/E006/U
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
   -
-    name: Bachelor/04
+    # INF 1/11/03 
+    name: Bachelor/3
+    Montag:
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: 
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: DIS
+        type: Ü
+        slot: 3
+        location: SE1/0101/U
+    Mittwoch:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: SE2/0211/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 0
+        location: HSZ/0405/U
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/04 
+    name: Bachelor/4
+    Montag:
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: HSZ/0204/U
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
     Dienstag:
       -
         title: DIS
         type: Ü
         slot: 2
-        location: SE2/0022
+        location: WIL/C204/U
+      -
+        title: LAG
+        type: Ü
+        slot: 0
+        location: WIL/C103/U
+    Mittwoch:
+      -
+        title: EMI
+        type: Ü
+        slot: 0
+        location: 
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/15 
+    name: Bachelor/5
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: EMI
+        type: Ü
+        slot: 1
+        location: 
       -
         title: LAG
         type: Ü
         slot: 3
-        location: WIL/C104
+        location: WIL/C204/U
+    Mittwoch:
       -
         title: AuD
         type: Ü
-        slot: 6
-        location: ASB/0114
+        slot: 0
+        location: HSZ/0405/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+      -
+        title: DIS
+        type: Ü
+        slot: 2
+        location: WIL/C102/U
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/16 
+    name: Bachelor/6
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: EMI
+        type: Ü
+        slot: 1
+        location: 
+      -
+        title: DIS
+        type: Ü
+        slot: 2
+        location: WIL/C205/U
+    Mittwoch:
+      -
+        title: LAG
+        type: Ü
+        slot: 0
+        location: WIL/C205/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 0
+        location: HSZ/0301/U
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/17 
+    name: Bachelor/7
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 2
+        location: APB/E006/U
+      -
+        title: DIS
+        type: Ü
+        slot: 4
+        location: WIL/C106/U
+    Mittwoch:
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+      -
+        title: LAG
+        type: Ü
+        slot: 0
+        location: WIL/C107/U
+      -
+        title: EMI
+        type: Ü
+        slot: 2
+        location: 
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/18 
+    name: Bachelor/8
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 0
+        location: HSZ/0204/U
+      -
+        title: EMI
+        type: Ü
+        slot: 4
+        location: 
+    Mittwoch:
+      -
+        title: LAG
+        type: Ü
+        slot: 1
+        location: WIL/C129/H
+      -
+        title: DIS
+        type: Ü
+        slot: 5
+        location: WIL/C205/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: EMI
+        type: Ü
+        slot: 5
+        location: POT/0081/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/19 
+    name: Bachelor/9
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: DIS
+        type: Ü
+        slot: 0
+        location: WIL/C106/U
     Mittwoch:
       -
         title: EMI
         type: Ü
         slot: 1
-        location: APB/E065
-  -
-    # MB/01
-    name: Bachelor/05
-    Dienstag:
-      -
-        title: EMI
-        type: Ü
-        slot: 2
+        location: 
       -
         title: DIS
-        type: Ü
-        slot: 4
-        location: GER/09
+        type: V
+        slot: 2
+        location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 3
-        location: WIL/C106
-      -
-        title: AuD
-        type: Ü
         slot: 4
-        location: SCH/A184
-  -
-    # MB/02
-    name: Bachelor/06
-    Montag:
-      -
-        title: DIS
-        type: Ü
-        slot: 2
-        location: WIL/C105
-    Dienstag:
-      -
-        title: EMI
-        type: Ü
-        slot: 2
+        location: WIL/B122/U
       -
         title: LAG
         type: Ü
         slot: 3
-        location: WIL/C105
-    Mittwoch:
-      -
-        title: AuD
-        type: Ü
-        slot: 1
-        location: SCH/A185
-  -
-    # MB/03
-    name: Bachelor/07
-    Montag:
-      -
-        title: LAG
-        type: Ü
-        slot: 4
-        location: "<span class='error'>SE2/0123</span>"
-    Donnerstag:
-      -
-        title: DIS
-        type: Ü
-        slot: 1
-        location: WIL/C107
-      -
-        title: EMI
-        type: Ü
-        slot: 3
-        location: APB/E065
+        location: WIL/C102/U
     Freitag:
       -
         title: AuD
         type: Ü
         slot: 4
-        location: SCH/A184
-  -
-    # MB/04
-    name: Bachelor/08
-    Montag:
+        location: SE2/0211/U
       -
         title: AuD
-        type: Ü
-        slot: 2
-        location: WIL/C103
-    Dienstag:
-      -
-        title: EMI
-        type: Ü
-        slot: 5
-        location: APB/E065
-    Mittwoch:
-      -
-        title: DIS
-        type: Ü
-        slot: 2
-        location: SCH/A419
-    Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 2
-        location: SE2/0103
-  -
-    # MB/05
-    name: Bachelor/09
-    Dienstag:
-      -
-        title: AuD
-        type: Ü
+        type: V
         slot: 1
-        location: APB/E007
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/C102
-    Freitag:
+        location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 4
-        location: APB/E067
-    Donnerstag:
+        slot: 5
+        location: POT/0081/H
       -
         title: DIS
-        type: Ü
-        slot: 3
-        location: ASB/0114
+        type: V
+        slot: 2
+        location: TRE/MATH/H
   -
-    # MB/06
-    name: Bachelor/10
+    # INF 1/11/30 
+    name: Diplom/1
     Montag:
       -
         title: AuD
         type: Ü
-        slot: 4
-        location: SCH/A184
-    Mittwoch:
+        slot: 5
+        location: HSZ/0405/U
       -
         title: LAG
         type: Ü
-        slot: 1
-        location: WIL/C105
-      -
-        title: EMI
-        type: Ü
-        slot: 2
-    Donnerstag:
-      -
-        title: DIS
-        type: Ü
         slot: 4
-        location: SE2/0103
-  -
-    # Ehemals Diplom/04:
-    name: Diplom/01
-    Montag:
+        location: WIL/C105/U
       -
-        title: DIS
-        type: Ü
-        slot: 5
-        location: SCH/A185
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
     Dienstag:
       -
         title: TGI
         type: Ü
+        slot: 1
+        location: APB/E010/U
+      -
+        title: TGI
+        type: V
         slot: 2
-        location: APB/E010
-    Mittwoch:
+        location: HSZ/0002/E
       -
         title: RA
-        type: Ü
+        type: V
         slot: 4
-        location: APB/E006
+        location: HSZ/0002/E
+    Mittwoch:
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
     Donnerstag:
       -
-        title: AuD
-        type: Ü
-        slot: 5
-        location: SE2/0022
-    Freitag:
-      -
         title: LAG
         type: Ü
+        slot: 4
+        location: WIL/B122/U
+      -
+        title: TGI
+        type: V
         slot: 1
-        location: SCH/A252
-  -
-    name: Diplom/02
-    Montag:
+        location: HSZ/0003/H
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: DIS
+        type: Ü
+        slot: 3
+        location: BAR/0218/U
       -
         title: RA
         type: Ü
-        slot: 1
-        location: APB/E007
+        slot: 0
+        location: APB/E006/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/31 
+    name: Diplom/2
+    Montag:
+      -
+        title: DIS
+        type: Ü
+        slot: 3
+        location: WIL/C129/H
       -
         title: TGI
         type: Ü
-        slot: 6
-        location: APB/E007
+        slot: 5
+        location: APB/E007/U
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: TGI
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+      -
+        title: RA
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+    Mittwoch:
+      -
+        title: LAG
+        type: Ü
+        slot: 0
+        location: WIL/C107/U
+      -
+        title: RA
+        type: Ü
+        slot: 3
+        location: APB/E009/U
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+      -
+        title: TGI
+        type: V
+        slot: 1
+        location: HSZ/0003/H
+    Freitag:
+      -
+        title: AuD
+        type: Ü
+        slot: 0
+        location: CHE/0183/U
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+  -
+    # INF 1/11/32 
+    name: Diplom/3
+    Montag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/C205/U
+      -
+        title: DIS
+        type: Ü
+        slot: 5
+        location: WIL/C205/U
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: HSZ/0405/U
+      -
+        title: RA
+        type: Ü
+        slot: 0
+        location: APB/E023/U
+      -
+        title: TGI
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+      -
+        title: RA
+        type: V
+        slot: 4
+        location: HSZ/0002/E
     Mittwoch:
       -
         title: DIS
-        type: Ü
-        slot: 1
-        location: WIL/C107
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
       -
-        title: AuD
+        title: LAG
         type: Ü
         slot: 4
-        location: APB/E009
+        location: WIL/B122/U
+      -
+        title: TGI
+        type: V
+        slot: 1
+        location: HSZ/0003/H
     Freitag:
       -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: ASB/0114
-  -
-    name: Diplom/03
-    Montag:
-      -
-        title: LAG
-        type: Ü
-        slot: 4
-        location: WIL/C104
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
       -
         title: DIS
-        type: Ü
-        slot: 5
-        location: BZW/A255
-      -
-        title: AuD
-        type: Ü
-        slot: 6
-        location: SCH/A185
-    Freitag:
-      -
-        title: RA
-        type: Ü
-        slot: 4
-        location: APB/E010
+        type: V
+        slot: 2
+        location: TRE/MATH/H
       -
         title: TGI
         type: Ü
+        slot: 0
+        location: APB/E023/U
+  -
+    # INF 1/11/33 
+    name: Diplom/4
+    Montag:
+      -
+        title: AuD
+        type: Ü
+        slot: 5
+        location: HSZ/0103/U
+      -
+        title: DIS
+        type: Ü
+        slot: 3
+        location: WIL/C307/U
+      -
+        title: LAG
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+    Dienstag:
+      -
+        title: RA
+        type: Ü
+        slot: 0
+        location: APB/E023/U
+      -
+        title: TGI
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+      -
+        title: RA
+        type: V
+        slot: 4
+        location: HSZ/0002/E
+    Mittwoch:
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 4
+        location: WIL/B122/U
+      -
+        title: LAG
+        type: Ü
+        slot: 2
+        location: WIL/C104/U
+      -
+        title: TGI
+        type: V
         slot: 1
-        location: APB/E010
+        location: HSZ/0003/H
+    Freitag:
+      -
+        title: AuD
+        type: V
+        slot: 1
+        location: HSZ/AUDI/H
+      -
+        title: DIS
+        type: V
+        slot: 2
+        location: TRE/MATH/H
+      -
+        title: TGI
+        type: Ü
+        slot: 0
+        location: APB/E023/U

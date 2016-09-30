@@ -3,8 +3,7 @@ title: Stundenpläne
 layout: page
 ---
 
-[//]: # TODO: bald entfernen und include all-schedules.html wieder unten einfügen
-Hier findet ihr bald die aktuellen Stundenpläne (Seminargruppenpläne), in die ihr euch am Mittwochmorgen einschreiben könnt. Die Abkürzungen stehen für die folgenden Lehrveranstaltungen (mit [www] sind dahinter die offiziellen Webseiten verlinkt):
+Hier findet ihr die aktuellen Stundenpläne (Seminargruppenpläne), in die ihr euch am Mittwochmorgen einschreiben könnt. Die Abkürzungen stehen für die folgenden Lehrveranstaltungen (mit [www] sind dahinter die offiziellen Webseiten verlinkt):
 
 [//]: # TODO: Aktuelle Webseiten einfügen! Orientieren am Vorjahr!
 
@@ -20,3 +19,5 @@ Hier findet ihr bald die aktuellen Stundenpläne (Seminargruppenpläne), in die 
 Nicht eingezeichnet ist der **Mathe Lernraum** am Donnerstag in der 5. und 6. DS in Raum WIL/B122, wo ihr Fragen zu Mathe klären und und auch Hausaufgaben abgeben könnt.
 
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind - aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
+
+{% include all-schedules.html %}
