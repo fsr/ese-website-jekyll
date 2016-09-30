@@ -278,3 +278,48 @@ ul.accordion {
     }
   }
 }
+
+/**
+ * Schedules
+ */
+.schedulehead {
+  margin: .5em auto;
+  page-break-before: always;
+}
+
+table.schedule {
+  margin: .5em auto;
+  border: 2px solid white;
+  outline: 2px solid #eee;
+
+  td, th {
+    outline: 1px solid white;
+    border: none;
+    padding: .5em;
+  }
+}
+
+@media print {
+  .schedulehead {
+    font-size: 40pt;
+    display: block;
+    padding-top: 20pt;
+  }
+
+  table.schedule {
+    border: 0;
+    td, th {
+      font-size: 23pt;
+      height: 50pt;
+      line-height: 25pt;
+    }
+    td.data, td.empty {
+      outline: 1px solid black;
+    }
+  }
+  
+  hr {
+    display: none;
+  }
+}
+
