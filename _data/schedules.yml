@@ -8,6 +8,7 @@ days:
   - Donnerstag
   - Freitag
 timeslots:
+  - "\neq 0.DS"
   - "7:30"
   - "9:20"
   - "11:10"
@@ -26,60 +27,60 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Mittwoch:
       -
         title: AuD
         type: Ü
-        slot: 0
+        slot: 1
         location: CHE/0184/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C104/U
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: EMI
         type: Ü
-        slot: 1
+        slot: 2
         location: 
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: DIS
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C104/U
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/02 
@@ -88,61 +89,61 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: LAG
         type: Ü
-        slot: 3
+        slot: 4
         location: GÖR/0127/U
       -
         title: DIS
         type: Ü
-        slot: 1
+        slot: 2
         location: REC/D016/U
       -
         title: EMI
         type: Ü
-        slot: 2
+        slot: 3
         location: 
     Mittwoch:
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: AuD
         type: Ü
-        slot: 1
+        slot: 2
         location: APB/E006/U
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/03 
@@ -151,61 +152,61 @@ values:
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: 
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: DIS
         type: Ü
-        slot: 3
+        slot: 4
         location: SE1/0101/U
     Mittwoch:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: SE2/0211/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: AuD
         type: Ü
-        slot: 0
+        slot: 1
         location: HSZ/0405/U
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/04 
@@ -214,61 +215,61 @@ values:
       -
         title: AuD
         type: Ü
-        slot: 5
+        slot: 6
         location: HSZ/0204/U
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: DIS
         type: Ü
-        slot: 2
+        slot: 3
         location: WIL/C204/U
       -
         title: LAG
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C103/U
     Mittwoch:
       -
         title: EMI
         type: Ü
-        slot: 0
+        slot: 1
         location: 
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/15 
@@ -277,61 +278,61 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: EMI
         type: Ü
-        slot: 1
+        slot: 2
         location: 
       -
         title: LAG
         type: Ü
-        slot: 3
+        slot: 4
         location: WIL/C204/U
     Mittwoch:
       -
         title: AuD
         type: Ü
-        slot: 0
+        slot: 1
         location: HSZ/0405/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: DIS
         type: Ü
-        slot: 2
+        slot: 3
         location: WIL/C102/U
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/16 
@@ -340,61 +341,61 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: EMI
         type: Ü
-        slot: 1
+        slot: 2
         location: 
       -
         title: DIS
         type: Ü
-        slot: 2
+        slot: 3
         location: WIL/C205/U
     Mittwoch:
       -
         title: LAG
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C205/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: AuD
         type: Ü
-        slot: 0
+        slot: 1
         location: HSZ/0301/U
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/17 
@@ -403,61 +404,61 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: AuD
         type: Ü
-        slot: 2
+        slot: 3
         location: APB/E006/U
       -
         title: DIS
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/C106/U
     Mittwoch:
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: LAG
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C107/U
       -
         title: EMI
         type: Ü
-        slot: 2
+        slot: 3
         location: 
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/18 
@@ -466,61 +467,61 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: AuD
         type: Ü
-        slot: 0
+        slot: 1
         location: HSZ/0204/U
       -
         title: EMI
         type: Ü
-        slot: 4
+        slot: 5
         location: 
     Mittwoch:
       -
         title: LAG
         type: Ü
-        slot: 1
+        slot: 2
         location: WIL/C129/H
       -
         title: DIS
         type: Ü
-        slot: 5
+        slot: 6
         location: WIL/C205/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/19 
@@ -529,61 +530,61 @@ values:
       -
         title: EMI
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: DIS
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C106/U
     Mittwoch:
       -
         title: EMI
         type: Ü
-        slot: 1
+        slot: 2
         location: 
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: LAG
         type: Ü
-        slot: 3
+        slot: 4
         location: WIL/C102/U
     Freitag:
       -
         title: AuD
         type: Ü
-        slot: 4
+        slot: 5
         location: SE2/0211/U
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: EMI
         type: Ü
-        slot: 5
+        slot: 6
         location: POT/0081/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/30 
@@ -592,71 +593,72 @@ values:
       -
         title: AuD
         type: Ü
-        slot: 5
+        slot: 6
         location: HSZ/0405/U
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/C105/U
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: TGI
         type: Ü
-        slot: 1
+        slot: 2
         location: APB/E010/U
       -
         title: TGI
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
+        week: yes
       -
         title: RA
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
     Mittwoch:
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: TGI
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/0003/H
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: DIS
         type: Ü
-        slot: 3
+        slot: 4
         location: BAR/0218/U
       -
         title: RA
         type: Ü
-        slot: 0
+        slot: 1
         location: APB/E006/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/31 
@@ -665,71 +667,72 @@ values:
       -
         title: DIS
         type: Ü
-        slot: 3
+        slot: 4
         location: WIL/C129/H
       -
         title: TGI
         type: Ü
-        slot: 5
+        slot: 6
         location: APB/E007/U
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: TGI
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
+        week: yes
       -
         title: RA
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
     Mittwoch:
       -
         title: LAG
         type: Ü
-        slot: 0
+        slot: 1
         location: WIL/C107/U
       -
         title: RA
         type: Ü
-        slot: 3
+        slot: 4
         location: APB/E009/U
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: TGI
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/0003/H
     Freitag:
       -
         title: AuD
         type: Ü
-        slot: 0
+        slot: 1
         location: CHE/0183/U
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
   -
     # INF 1/11/32 
@@ -738,71 +741,72 @@ values:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/C205/U
       -
         title: DIS
         type: Ü
-        slot: 5
+        slot: 6
         location: WIL/C205/U
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: AuD
         type: Ü
-        slot: 5
+        slot: 6
         location: HSZ/0405/U
       -
         title: RA
         type: Ü
-        slot: 0
+        slot: 1
         location: APB/E023/U
       -
         title: TGI
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
+        week: yes
       -
         title: RA
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
     Mittwoch:
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: TGI
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/0003/H
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
       -
         title: TGI
         type: Ü
-        slot: 0
+        slot: 1
         location: APB/E023/U
   -
     # INF 1/11/33 
@@ -811,69 +815,70 @@ values:
       -
         title: AuD
         type: Ü
-        slot: 5
+        slot: 6
         location: HSZ/0103/U
       -
         title: DIS
         type: Ü
-        slot: 3
+        slot: 4
         location: WIL/C307/U
       -
         title: LAG
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
     Dienstag:
       -
         title: RA
         type: Ü
-        slot: 0
+        slot: 1
         location: APB/E023/U
       -
         title: TGI
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
+        week: yes
       -
         title: RA
         type: V
-        slot: 4
+        slot: 5
         location: HSZ/0002/E
     Mittwoch:
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: HSZ/0002/E
     Donnerstag:
       -
         title: LAG
         type: Ü
-        slot: 4
+        slot: 5
         location: WIL/B122/U
       -
         title: LAG
         type: Ü
-        slot: 2
+        slot: 3
         location: WIL/C104/U
       -
         title: TGI
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/0003/H
     Freitag:
       -
         title: AuD
         type: V
-        slot: 1
+        slot: 2
         location: HSZ/AUDI/H
       -
         title: DIS
         type: V
-        slot: 2
+        slot: 3
         location: TRE/MATH/H
       -
         title: TGI
         type: Ü
-        slot: 0
+        slot: 1
         location: APB/E023/U
