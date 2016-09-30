@@ -16,7 +16,7 @@ Hier findet ihr die aktuellen Stundenpläne (Seminargruppenpläne), in die ihr e
 * **RA**:  Rechnerarchitektur *(nur Diplom)*           
 * **TGI**: Technische Grundlagen *(nur Diplom)*, die Vorlesung **[TGI]** (Di., 3. DS) findet nur in der *geraden* Woche statt           
 
-Nicht eingezeichnet ist der **Mathe Lernraum** am Donnerstag in der 5. und 6. DS in Raum WIL/B122, wo ihr Fragen zu Mathe klären und und auch Hausaufgaben abgeben könnt.
+Nicht eingezeichnet ist der **Mathe Lernraum** am Donnerstag in der 5. und 6. DS in Raum WIL/B122, wo ihr Fragen zu Mathe klären und und auch Hausaufgaben abgeben könnt, sowie ein freigehaltener Ersatztermin für die EMI Vorlesung am Freitag in der 6. DS in Raum POT/0081/H.
 
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind - aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
 

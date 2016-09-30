@@ -52,11 +52,6 @@ values:
         slot: 1
         location: WIL/C104/U
       -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
-      -
         title: EMI
         type: Ü
         slot: 2
@@ -72,11 +67,6 @@ values:
         type: Ü
         slot: 1
         location: WIL/C104/U
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -124,22 +114,12 @@ values:
         type: Ü
         slot: 2
         location: APB/E006/U
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -187,22 +167,12 @@ values:
         type: Ü
         slot: 1
         location: HSZ/0405/U
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -249,23 +219,12 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-    Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -309,11 +268,6 @@ values:
         location: HSZ/0002/E
     Donnerstag:
       -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
-      -
         title: DIS
         type: Ü
         slot: 3
@@ -324,11 +278,6 @@ values:
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -376,22 +325,12 @@ values:
         type: Ü
         slot: 1
         location: HSZ/0301/U
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -432,11 +371,6 @@ values:
       -
         title: LAG
         type: Ü
-        slot: 5
-        location: WIL/B122/U
-      -
-        title: LAG
-        type: Ü
         slot: 1
         location: WIL/C107/U
       -
@@ -450,11 +384,6 @@ values:
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -501,23 +430,12 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-    Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
     Freitag:
       -
         title: AuD
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -558,11 +476,6 @@ values:
       -
         title: LAG
         type: Ü
-        slot: 5
-        location: WIL/B122/U
-      -
-        title: LAG
-        type: Ü
         slot: 4
         location: WIL/C102/U
     Freitag:
@@ -576,11 +489,6 @@ values:
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: EMI
-        type: Ü
-        slot: 6
-        location: POT/0081/H
       -
         title: DIS
         type: V
@@ -616,7 +524,7 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-        week: yes
+        week: 2
       -
         title: RA
         type: V
@@ -629,11 +537,6 @@ values:
         slot: 3
         location: HSZ/0002/E
     Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
       -
         title: TGI
         type: V
@@ -685,7 +588,7 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-        week: yes
+        week: 2
       -
         title: RA
         type: V
@@ -708,11 +611,6 @@ values:
         slot: 3
         location: HSZ/0002/E
     Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
       -
         title: TGI
         type: V
@@ -769,7 +667,7 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-        week: yes
+        week: 2
       -
         title: RA
         type: V
@@ -782,11 +680,6 @@ values:
         slot: 3
         location: HSZ/0002/E
     Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
       -
         title: TGI
         type: V
@@ -838,7 +731,7 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-        week: yes
+        week: 2
       -
         title: RA
         type: V
@@ -851,11 +744,6 @@ values:
         slot: 3
         location: HSZ/0002/E
     Donnerstag:
-      -
-        title: LAG
-        type: Ü
-        slot: 5
-        location: WIL/B122/U
       -
         title: LAG
         type: Ü
