@@ -52,7 +52,6 @@ gems:
 keep_files:
  - eva/keys
  - eva/logs
- - eva/questionnaires
 
 exclude:
   - .c9
