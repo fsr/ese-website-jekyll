@@ -156,8 +156,8 @@ days:
       -
         title: "Stadt&shy;führung"
         title-en: "Guided city tour"
-        location: "Treffpunkt wird noch angekündigt"
-        location-en: "Starting location is to be announced"
+        location: "Startpunkt ist der freie Platz vor der Altmarkt-Galerie in der Nähe der Haltestelle Prager Straße (51.047517, 13.736457)"
+        location-en: "Starting location is the free square in front of the Altmarkt-Galerie, near the station Prager Straße (51.047517, 13.736457)"
         begin: "13:00"
         duration: "2:30"
         english: true
