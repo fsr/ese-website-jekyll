@@ -266,12 +266,6 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
-    Donnerstag:
-      -
-        title: DIS
-        type: Ü
-        slot: 3
-        location: WIL/C102/U
     Freitag:
       -
         title: AuD
@@ -283,6 +277,11 @@ values:
         type: V
         slot: 3
         location: TRE/MATH/H
+      -
+        title: DIS
+        type: Ü
+        slot: 4
+        location: BAR/0218/U
   -
     # INF 1/11/16 
     name: Bachelor/6
@@ -298,11 +297,6 @@ values:
         slot: 3
         location: TRE/MATH/H
     Dienstag:
-      -
-        title: EMI
-        type: Ü
-        slot: 2
-        location: 
       -
         title: DIS
         type: Ü
@@ -336,6 +330,11 @@ values:
         type: V
         slot: 3
         location: TRE/MATH/H
+      -
+        title: EMI
+        type: Ü
+        slot: 4
+        location: 
   -
     # INF 1/11/17 
     name: Bachelor/7
@@ -542,17 +541,17 @@ values:
         type: V
         slot: 2
         location: HSZ/0003/H
+      -
+        title: DIS
+        type: Ü
+        slot: 3
+        location: WIL/C102/U
     Freitag:
       -
         title: AuD
         type: V
         slot: 2
         location: HSZ/AUDI/H
-      -
-        title: DIS
-        type: Ü
-        slot: 4
-        location: BAR/0218/U
       -
         title: RA
         type: Ü
