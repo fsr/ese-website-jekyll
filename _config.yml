@@ -50,10 +50,7 @@ gems:
  - jekyll-coffeescript
 
 keep_files:
- - eva/keys
- - eva/logs
- - eva/.htaccess
- - eva/.htusers
+ - eva
 
 exclude:
   - .c9
