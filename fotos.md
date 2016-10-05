@@ -3,7 +3,11 @@ title: Fotos
 layout: page
 ---
 
-Die Fotos von eurer ESE findet ihr bald hier!
+<div class="flex-video">
+<iframe src="https://users.ifsr.de/~vogel/slideshow.php" width="100%" frameborder="0"></iframe>
+</div>
+
+Alle Fotos eurer ESE findet ihr der <a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">Galerie</a>
 
 ![ESE-Tutoren](img/tutoren{{site.year}}.jpg)
 

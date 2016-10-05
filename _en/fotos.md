@@ -2,7 +2,11 @@
 title: Photos
 ---
 
-You can find the pictures of your ESE here later!
+<div class="flex-video">
+<iframe src="https://users.ifsr.de/~vogel/slideshow.php" width="100%" frameborder="0"></iframe>
+</div>
+
+You can find the pictures of your ESE in our <a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">gallery</a>
 
 ![ESE-Tutors](../img/tutoren{{site.year}}.jpg)
 
