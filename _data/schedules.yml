@@ -246,11 +246,6 @@ values:
         location: TRE/MATH/H
     Dienstag:
       -
-        title: EMI
-        type: Ü
-        slot: 2
-        location: 
-      -
         title: LAG
         type: Ü
         slot: 4
@@ -266,6 +261,12 @@ values:
         type: V
         slot: 3
         location: HSZ/0002/E
+    Donnerstag:
+      -
+        title: EMI
+        type: Ü
+        slot: 3
+        location: 
     Freitag:
       -
         title: AuD

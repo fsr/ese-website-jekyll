@@ -4,12 +4,11 @@ layout: page
 ---
 
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>WICHTIG - Aktuelle Änderungen</h4>
+<h4>WICHTIG - Aktuelle Änderungen (05.10.2016 - 08:30)</h4>
 <ul>
-<li><strong>Bachelor/5</strong>: Die DIS Übung aus der 3. DS am Donnerstag wurde auf den Freitag 4. DS gelegt</li>
-<li><strong>Bachelor/6</strong>: Die EMI Übung aus der 2. DS am Dienstag wurde auf den Freitag 4. DS gelegt</li>
-<li><strong>Diplom/1</strong>: Die DIS Übung aus der 4. DS am Freitag wurde auf den Donnerstag 3. DS gelegt</li>
-<li>Weiterhin wird bei <strong>Bachelor/5</strong> (und evtl. <strong>Bachelor/7</strong>) die EMI Übung nochmals angepasst. Dies passiert am Morgen vor der Einschreibung. Aktuelle Pläne wird es dann vor Ort geben. Bitte entschuldigt die Unannehmlichkeiten.</li>
+<li><strong>Bachelor/5</strong>: Die DIS Übung aus der 3. DS am Donnerstag wurde auf den Freitag 4. DS gelegt. Die EMI Übung aus der 2. DS am Dienstag wurde auf den Donnerstag 3. DS gelegt.</li>
+<li><strong>Bachelor/6</strong>: Die EMI Übung aus der 2. DS am Dienstag wurde auf den Freitag 4. DS gelegt.</li>
+<li><strong>Diplom/1</strong>: Die DIS Übung aus der 4. DS am Freitag wurde auf den Donnerstag 3. DS gelegt.</li>
 </ul>
 </div>
 
