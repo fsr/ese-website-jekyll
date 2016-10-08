@@ -478,12 +478,12 @@ values:
         type: Ü
         slot: 4
         location: WIL/C102/U
-    Freitag:
       -
         title: AuD
         type: Ü
-        slot: 5
-        location: SE2/0211/U
+        slot: 6
+        location: HSZ/0204
+    Freitag:
       -
         title: AuD
         type: V

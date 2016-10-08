@@ -3,6 +3,11 @@ title: Schedules
 ---
 
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
+<h4>Attention - current changes (08.10.2016 - 15:30)</h4>
+There were some small changes to 1 schedule (Bachelor/9).
+</div>
+
+<div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
 <h4>Attention - current changes (05.10.2016 - 08:30)</h4>
 There were some small changes to 3 schedules (Bachelor/5, Bachelor/6, Diplom/1).
 </div>
