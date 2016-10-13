@@ -1,6 +1,6 @@
 # Site settings
 title: "ESE 2016 | iFSR"
-email: ese@ifsr.de
+email: ese-orga@ifsr.de
 emailfsr: fsr@ifsr.de
 baseurl: "/2016" # the subpath of your site, e.g. /blog/
 url: "https://ese.ifsr.de" # the base hostname & protocol for your site
