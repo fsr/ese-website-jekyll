@@ -8,6 +8,7 @@ twitter_username: ifsr
 github_username:  fsr
 color: "#FDC412"
 year: "2016"
+repository: fsr/ese-website
 
 # Global Metatags
 metatag:
@@ -46,8 +47,8 @@ metatag:
 markdown: kramdown
 
 gems:
- - jekyll-git_metadata
  - jekyll-coffeescript
+ - jekyll-github-metadata
 
 keep_files:
  - eva/keys
