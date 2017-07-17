@@ -22,7 +22,7 @@
 	    	</td>
 			{% endfor %}
 		</tr>
-    {% assign max-slot = schedule-length | times: 4 %}
+    {% assign max-slot = schedule-length | times: 4 | round:0 %}
     {% for slot in (0..max-slot) %}
 
         {% assign is_hour = slot | modulo: 4 %}
