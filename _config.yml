@@ -45,7 +45,7 @@ metatag:
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
  - jekyll-git_metadata
  - jekyll-coffeescript
 
