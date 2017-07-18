@@ -1,13 +1,13 @@
 # Site settings
-title: "ESE 2016 | iFSR"
+title: "ESE 2017 | iFSR"
 email: ese@ifsr.de
 emailfsr: fsr@ifsr.de
-baseurl: "/2016" # the subpath of your site, e.g. /blog/
+baseurl: "/2017" # the subpath of your site, e.g. /blog/
 url: "https://ese.ifsr.de" # the base hostname & protocol for your site
 twitter_username: ifsr
 github_username:  fsr
 color: "#FDC412"
-year: "2016"
+year: "2017"
 
 # Global Metatags
 metatag:
@@ -46,8 +46,9 @@ metatag:
 markdown: kramdown
 
 plugins:
- - jekyll-git_metadata
  - jekyll-coffeescript
+ - jekyll-paginate
+ - jekyll-assets
 
 keep_files:
  - eva/keys
@@ -58,6 +59,7 @@ keep_files:
 exclude:
   - .c9
   - .git
+  - vendor/bundle
 
 permalink: none
 
@@ -100,3 +102,7 @@ collections:
   en:
     output: true
     permalink: en/:path:output_ext
+
+# force usage of digests by Jekyll Assets
+assets:
+  digest: true

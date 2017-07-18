@@ -40,9 +40,8 @@
 	<meta name="theme-color" content="{{ site.color }}" />
 	<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
 
-	{% for sheet in site.data.stylesheets.default.head %}
-		{% include stylesheet.html stylesheet=sheet %}
-	{% endfor %}
+	<!-- use liquid tag provieded by plugin Jekyll Assets and include the stylesheet -->
+	{% css style %}
 
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
