@@ -222,7 +222,7 @@ ul.accordion {
     }
   }
   img.language-icon {
-    filter: url(" #{$baseurl}/css/img/desaturate.svg#greyscale");
+    filter: url(asset_path('desaturate.svg'));
     margin-top: -0.2rem;
 
   }

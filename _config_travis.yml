@@ -1,0 +1,11 @@
+# GitHub Settings
+username: fsr
+repo: ese-website
+branch: development
+
+# build settings
+source: .
+destination: _site
+
+# change the baseurl when deploying to GitHub Pages
+baseurl: "/ese-website"

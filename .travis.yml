@@ -1,0 +1,34 @@
+# Travis CI configuration file to build a Jekyll project 
+# and deploy the static files to GitHub Pages afterwards
+# Maintained by Lutz Thies (https://github.com/7HAL32)
+# July 2017
+
+language: ruby
+rvm:
+  - 2.2
+
+sudo: false 
+# prevent Travis from starting clean everytime to speed up builds
+cache: bundler
+
+script:
+  # use additional config for CI (changes baseurl for GH Pages)
+  # settings defined in later files overwrite ones from earlier files
+  - bundle exec jekyll build --config _config.yml,_config_travis.yml 
+
+deploy:
+  # experimental feature to directly deploy static files to GH Pages
+  provider: pages
+  # prevent files from being removed
+  skip_cleanup: true
+  # set in travis-ci.org dashboard
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  target_branch: gh-pages
+  on:
+    branch: development
+
+env:
+  global:
+    # further speed up builds
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

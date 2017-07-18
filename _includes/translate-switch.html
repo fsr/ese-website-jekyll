@@ -12,12 +12,13 @@
 
 		<li class="language-switch i18n de">
 			<a class="language-link {% if langmodifier[1] != "en" %} active{% endif %}" href="{{ de-url }}" hreflang="de">
-				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/de.png?{{ site.git.last_commit.long_sha }}" alt="Flagge" /> De
+				<img class="language-icon" width="20" height="12" src="{% asset_path flags/de.png %}" alt="Flagge" /> De
 			</a>
 		</li>
+
 		<li class="language-switch i18n en">
 			<a class="language-link{% if langmodifier[1] == "en" %} active{% endif %}" href="{{ en-url }}" hreflang="en">
-				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/en.png?{{ site.git.last_commit.long_sha }}" alt="Flag" /> En
+				<img class="language-icon" width="20" height="12" src="{% asset_path flags/en.png %}" alt="Flag" /> En
 			</a>
 		</li>
 

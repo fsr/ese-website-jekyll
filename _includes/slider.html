@@ -2,9 +2,12 @@
     {% for image in site.data.switchheader.headers %}
         <div>
             {% if forloop.first %}
-                <img src="{{ site.baseurl }}/img/header/{{ image.src | append: '?' | append: site.git.last_commit.long_sha }}" alt="{{ image.alt }}" />
+
+
+                <img src="{% asset_path header/{{image.src}} %}" alt="{{ image.alt }}" />
             {% else %}
-        	   <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-lazy="{{ site.baseurl }}/img/header/{{ image.src | append: '?' | append: site.git.last_commit.long_sha }}" alt="{{ image.alt }}" />
+
+        	   <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-lazy="{% asset_path header/{{image.src}} %}" alt="{{ image.alt }}" />
             {% endif %}
         </div>
     {% endfor %}
