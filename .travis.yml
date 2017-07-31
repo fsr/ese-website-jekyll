@@ -9,7 +9,11 @@ rvm:
 
 sudo: false 
 # prevent Travis from starting clean everytime to speed up builds
-cache: bundler
+cache:
+  bundler: true
+  yarn: true
+  directories:
+  - node_modules
 
 script:
   # use additional config for CI (changes baseurl for GH Pages)

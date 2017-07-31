@@ -1,9 +1,10 @@
 ---
 index: 400
-title: Student Representatives
+title: Contact
 ---
 
+Student Representatives  
 Faculty of Computer Science 
 Nöthnitzer Straße 46  
-Raum APB E017  
-E-Mail: [{{ site.emailfsr }}](mailto:{{ site.emailfsr }})
+Room APB/E017  
+email: [{{ site.emailfsr }}](mailto:{{ site.emailfsr }})

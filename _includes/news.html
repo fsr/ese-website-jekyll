@@ -1,7 +1,7 @@
 {% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
 {% if news.size > 0 %}
   <div class="panel">
-    <h2>Wichtige News</h2>
+    <h3>News</h3>
     {% assign news = news | sort: 'date' | reverse %}
     {% for item in news %}
       <div class="{% unless forloop.first %}additional {% endunless %}news-item">{{ item.content }}</div>

@@ -1,0 +1,15 @@
+<!-- SLICK - for documentation see https://github.com/kenwheeler/slick/ -->
+<div class="slider-container">
+<div class="slider">
+    {% for image in site.data.switchheader.headers %}
+    <div>
+        {% if forloop.first %}
+        <img src="{% asset_path header/{{image.src}} %}" alt="{{ image.alt }}" /> 
+        {% else %}
+
+        <img data-lazy="{% asset_path header/{{image.src}} %}" alt="{{ image.alt }}" /> 
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+</div>

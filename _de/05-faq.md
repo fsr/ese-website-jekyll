@@ -1,5 +1,7 @@
 ---
 title: FAQ
+weight : 5
+permalink: /faq/
 layout: page
 ---
 

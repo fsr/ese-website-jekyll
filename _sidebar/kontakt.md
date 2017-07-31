@@ -1,6 +1,8 @@
 ---
 index: 300
-title: Fragen?
+title: Der FSR im Netz
 ---
 
-Schick' uns eine [E-Mail](mailto:{{ site.email }})
+[Facebook](https://www.facebook.com/iFSR.de/)  
+[Twitter](https://twitter.com/ifsr)  
+[Webseite](https://www.ifsr.de/)

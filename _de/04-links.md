@@ -1,5 +1,7 @@
 ---
-title: Web
+title: Linksammlung
+weight : 4
+permalink: /links/
 layout: page
 ---
 

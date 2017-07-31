@@ -1,5 +1,7 @@
 ---
 title: FAQ
+weight : 5
+permalink: /en/faq/
 ---
 
 ### Who can I contact if I have questions or problems?

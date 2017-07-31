@@ -1,6 +1,8 @@
 ---
 index: 300
-title: Questions?
+title: FSR on the Web
 ---
 
-Send an [eMail](mailto:{{ site.email }})
+[Facebook](https://www.facebook.com/iFSR.de/)  
+[Twitter](https://twitter.com/ifsr)  
+[Website](https://www.ifsr.de/)

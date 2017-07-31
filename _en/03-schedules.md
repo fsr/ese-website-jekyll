@@ -1,7 +1,10 @@
 ---
 title: Schedules
+weight : 3
+permalink: /en/schedules/
 ---
 
+<!--
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
 <h4>Attention - current changes (08.10.2016 - 15:30)</h4>
 There were some small changes to 1 schedule (Bachelor/9).
@@ -11,6 +14,7 @@ There were some small changes to 1 schedule (Bachelor/9).
 <h4>Attention - current changes (05.10.2016 - 08:30)</h4>
 There were some small changes to 3 schedules (Bachelor/5, Bachelor/6, Diplom/1).
 </div>
+-->
 
 Attention: Those links are yet not up to date but will be!
 Here you can find the current schedules from which you can choose one to enroll for on Wednesday. But first here's a list of the used abbreviations with links to their respective websites ([www]).
@@ -28,4 +32,6 @@ Not included in these plans is the **Math learning room** on Thursday, 5th and 6
 
 Information on any course not present here may be found on the website for the chair responsible for the course in question. Please be aware, these schedules are subject to change and not guaranteed to remain in their current form. Keep an eye on the linked websites for potential changes.
 
+<!--
 {% include all-schedules.html %}
+-->

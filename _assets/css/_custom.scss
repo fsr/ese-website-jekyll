@@ -1,6 +1,95 @@
-/**
- * Basic non modular styles
+/*
+ * Pace
  */
+
+.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.pace-inactive {
+}
+
+.pace .pace-progress {
+  background: darken($primary-color, 5%);
+  position: fixed;
+  z-index: 20000;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 3px;
+}
+
+/*
+ * Header and nav
+ */
+
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 222;
+  background-color: $primary-color;
+  box-shadow: 0 1.5px 3px rgba(0, 0, 0, .24), 0 3px 8px rgba(0, 0, 0, .05);
+}
+
+header a:hover{
+  text-decoration: none;
+
+}
+
+/* Topbar settings
+* overriding foundation
+$topbar-height: 5rem;
+.top-bar .menu a { 
+    height: $topbar-height;
+    line-height: $topbar-height;
+}
+.top-bar .menu > li:not(.menu-text) > a {
+    padding: 0 1rem;
+}
+ 
+.top-bar-section ul li>a {
+font-size: 1rem !important;
+}
+*/
+
+
+/*
+ * News
+ */
+
+.news {
+  padding: 0rem 3rem 1rem 3rem !important;
+  margin: 0rem -3rem 0rem;
+}
+.news .panel {
+  padding: 1.5rem 3rem 0.5rem 3rem;
+  border: 0;
+}
+
+/*
+ * Content
+ */
+
+#content{
+    background: #fff;
+    box-shadow: 0 1.5px 3px rgba(0, 0, 0, .24), 0 3px 8px rgba(0, 0, 0, .05);
+    padding: 0;
+    padding-top: 3.75em;
+}
+#content > section, #content > article{
+  padding: 0em 3em 3em;
+}
+
+#content > section:first-of-type, #content > article:first-of-type{
+  padding: 1em 3em 3em;
+}
+
+
 .show-more {
   @extend .small;
 
@@ -50,9 +139,19 @@ html.js .js-only {
   }
 }
 
-/**
- * Sidebar Styles
- */
+ /*
+  * Sidebar Styles
+  * override right padding for column to match with title bar
+  */
+
+.sidebar-column {
+  padding-right:0rem !important;
+}
+.sidebar{
+  padding-top:4.25rem;
+
+}
+
 .ese-logo {
   margin-bottom: 0.4rem;
 

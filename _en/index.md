@@ -3,48 +3,24 @@ layout: en-index
 index: false
 ---
 
-## What?
+### Welcome
 
-The **Freshmen week {{site.year}}** (we call it "ESE") will take place during the last week before the lectures begin, as per usual. During this time we try to make the start of your studies as smooth and easy as possible. There are several different events throughout the week covering topics such as enrollment and schedules, navigating the campus a tour through the city of Dresden and many more. Some of those event unfortunately take place parallel to the maths preparatory course ("Brückenkurs"), naturally we recommend attending the "ESE". You can have a look at the timetable for an overview of all the events that await you throughout the week. Or just come to the building of the computer science faculty on Monday morning and we'll tell you all about the things you'll need to know.
+Computer Science at TU Dresden. Unknown city, big campus, lots of new people. We are your student representatives, also known as FSR and warmly welcome you to the university. From now on, you are a student of the Faculty of Computer Science.
 
-As to who "we" are: We are the [ESE tutors](fotos.html), senior students who like to help freshmen in their spare time. You'll be able to recognize us by our yellow shirts.
+To make your start here go as smoothly and easily as possible, we have organized a lot of events during the week from 2nd to 6th of October before the lectures begin. At TU Dresden the *orientation week* is referred to as *ESE*. Unfortunately, some of those events take place during the maths preparatory courses ("Brückenkurs"). We recommend attending the "ESE", especially, as there is an online course available again this year.
 
-## When?
+### First Things First
 
-The "ESE" will begin this year because of a holiday with breakfast on Tuesday at 9am. Please bring your **student id-card** (Studentenausweis), your **photo identification**, **Emeal certificate** (E*meal* Bescheinigung) and **10€** (5€ deposit and 5€ credit) for the canteen-card E*meal*. You can find more information on the [website of the Studentenwerk Dresden](http://www.studentenwerk-dresden.de/english/mensen/emeal.html). You can get the canteen-card every day during the breakfast.
+The weel starts with breakfast on Monday, 2nd October at 9am. Please bring your **student id** (Studentenausweis), your **photo id**, the **Emeal certificate** (E*meal* Bescheinigung) and **10€** (5€ deposit and 5€ or more credit) for the canteen-card E*meal*. You can find more information on the [website of the Studentenwerk Dresden](http://www.studentenwerk-dresden.de/english/mensen/emeal.html). You can get your personal canteen-card every day during the breakfast.
 
-### International Students in German-speaking course of studies
+Every new student at the Faculty of Computer Science is invited to join the ESE. In addition to the main events organized by us there are dedicated introductory meetings for other study paths than pure Computer or Media Computer Science. Have a look:
 
-Contact person: Simon Hanisch (simon@ifsr.de)
+- [Master Distributed Systems Engineering](https://tu-dresden.de/ing/informatik/sya/se/master-dse?set_language=en)
+- [Diploma Information Systems Engineering](https://tu-dresden.de/ing/elektrotechnik/studium/studienbeginn/ese?set_language=en)
+- [Master Computational Logic](https://iccl.inf.tu-dresden.de/web/MCL/IntroductoryWeek)
+- [Master Computational Science and Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-science-and-engineering/informationen-fuer-studierende-im-1-semester)
+- [Teaching Studies
+](https://dil.inf.tu-dresden.de/dil/arbeitsgruppe/aktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=132&cHash=d5d450f1d4d8dc250f13ceb485585284)
 
+During the ESE week you can regonize helpers by their beautiful blue t-shirts. Simply walk up to them and ask your question. Of course you can always contact the FSR via email, phone or social media. The office should be occupied as well at all times during the week. 
 
-If not stated otherwise all events will take place in Andreas-Pfitzmann-Bau in the room E023. (just follow the people with the yellow shirts)
-
-**Important: Events marked with a green border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
-
-<ul class="accordion" data-accordion="" role="tablist">
-  <li class="accordion-navigation">
-    <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Timetable</a>
-    <div id="timetable" class="content active" role="tabpanel" aria-labelledby="timetable-heading">
-			{% include timetable.html lang="en" %}
-    </div>
-  </li>
-  <li class="accordion-navigation">
-    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrier-free Schedule</a>
-    <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
-   		{% include eventlist.html lang="en" %}
-    </div>
-  </li>
-</ul>
-
-[Download](ESE-en.ics) the current version of the timetable as iCal-file to import it into your calendar at home.
-
-**Hiking trip on the 15th October**<br/>
-Dresden isn't known only for the old town but as well for the beautiful hiking paradise, the Sächsische Schweiz. We'll meet on Saturday, the 15th of October, at the train station "Dresden Hauptbahnhof", platform 18, and we'll take the train S1 in the direction of Krippen at 8:29. Don't forget your student ID, it is your train ticket! It'll take us approximately five hours excluding breaks, so don't forget enough food for the day. We'll go back from Schmilka with the ferry and train.
-
-**Information for students of Computational Science and Engineering**<br/>
-No information available
-
-**Information for students of Computational Logic**<br/>
-[https://ddll.inf.tu-dresden.de/web/MCL/IntroductoryWeek](https://ddll.inf.tu-dresden.de/web/MCL/IntroductoryWeek){:target="_blank"}<br/>
-[http://www.computational-logic.org/content/study/master/current.php?id=43](http://www.computational-logic.org/content/study/master/current.php?id=43){:target="_blank"}

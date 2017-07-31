@@ -1,8 +1,8 @@
 {% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
-<section>
-	<div class="column small-12">
+
+{% include slideshow.html %}
+<section class="news">
 	  {% include news.html news=news %}
-	</div>	
 </section>
 <section>
 	{{ content }}

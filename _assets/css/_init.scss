@@ -7,7 +7,10 @@
 $base-font-size: 100%;
 $base-line-height: 150%;
 
-$font-family-sans-serif: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+$font-family-sans-serif: "Open Sans", Arial, sans-serif;
 $font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 $font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
 
@@ -55,6 +58,13 @@ $accordion-navigation-font-color: $vapor;
 $accordion-content-active-bg-color: $white-smoke;
 
 // Top-Bar
+$topbar-height: rem-calc(60);
+// $topbar-margin-bottom: 0;
+
+// Controlling the styles for the title in the top bar
+// $topbar-title-weight: $font-weight-normal;
+//$topbar-title-font-size: rem-calc(20);
+
 $topbar-bg-color: $primary-color;
 $topbar-bg: $topbar-bg-color;
 

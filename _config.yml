@@ -49,6 +49,7 @@ plugins:
  - jekyll-coffeescript
  - jekyll-paginate
  - jekyll-assets
+ - jemoji
 
 keep_files:
  - eva/keys
@@ -70,6 +71,9 @@ compress_html:
   profile: false
   ignore:
     envs: []
+
+
+include: ['_de']
 
 defaults:
   -

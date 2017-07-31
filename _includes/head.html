@@ -42,6 +42,8 @@
 
 	<!-- use liquid tag provieded by plugin Jekyll Assets and include the stylesheet -->
 	{% css style %}
+	<!-- TODO: move slick to assets -->
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/node_modules/slick-carousel/slick/slick.css"/>
 
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
@@ -49,4 +51,5 @@
 	{% for s in site.data.scripts.default.pre %}
 		{% include script.html script=s %}
 	{% endfor %}
+
 </head>

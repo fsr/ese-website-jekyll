@@ -1,8 +1,11 @@
 ---
 title: Stundenpläne
+weight : 3
+permalink: /schedules/
 layout: page
 ---
 
+<!--
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
 <h4>WICHTIG - Aktuelle Änderungen (08.10.2016 - 15:30)</h4>
 <ul>
@@ -17,6 +20,7 @@ layout: page
 <li><strong>Diplom/1</strong>: Die DIS Übung aus der 4. DS am Freitag wurde auf den Donnerstag 3. DS gelegt.</li>
 </ul>
 </div>
+-->
 
 Hier findet ihr die aktuellen Stundenpläne (Seminargruppenpläne), in die ihr euch am Mittwochmorgen einschreiben könnt. Die Abkürzungen stehen für die folgenden Lehrveranstaltungen (mit [www] sind dahinter die offiziellen Webseiten verlinkt):
 
@@ -35,4 +39,6 @@ Nicht eingezeichnet ist der **Mathe Lernraum** am Donnerstag in der 5. und 6. DS
 
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind - aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
 
+<!--
 {% include all-schedules.html %}
+-->
