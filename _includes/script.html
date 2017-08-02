@@ -1,5 +1,0 @@
-{% if include.script %}
-  {% assign script = include.script %}
-{% endif %}
-
-<script type="{% if script.type %}{{ script.type }}{% else %}text/javascript{% endif %}" src="{{ script.src | prepend: site.baseurl | append: '?' | append: site.git.last_commit.long_sha }}"></script>

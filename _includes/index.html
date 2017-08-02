@@ -1,9 +1,0 @@
-{% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
-
-{% include slideshow.html %}
-<section class="news">
-	  {% include news.html news=news %}
-</section>
-<section>
-	{{ content }}
-</section>

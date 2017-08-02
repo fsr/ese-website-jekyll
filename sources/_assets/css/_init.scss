@@ -1,0 +1,80 @@
+/**
+ * Foundation Settings
+ * 
+ * You should not need to modify them otherwise
+ * You can find the default values under foundation/settings
+ */
+$base-font-size: 100%;
+$base-line-height: 150%;
+
+$font-family-sans-serif: "Open Sans", Arial, sans-serif;
+$font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+$font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
+
+// We use this to control font-smoothing
+$font-smoothing: antialiased;
+
+// Shades of Grey
+$white       : #FFFFFF;
+$ghost       : #FAFAFA;
+$snow        : #F9F9F9;
+$vapor       : #F6F6F6;
+$white-smoke : #F5F5F5;
+$silver      : #EFEFEF;
+$smoke       : #EEEEEE;
+$gainsboro   : #DDDDDD;
+$iron        : #CCCCCC;
+$base        : #AAAAAA;
+$aluminum    : #999999;
+$jumbo       : #888888;
+$monsoon     : #777777;
+$steel       : #666666;
+$charcoal    : #555555;
+$tuatara     : #444444;
+$oil         : #333333;
+$jet         : #222222;
+$black       : #000000;
+
+// We use these as default colors throughout
+$primary-color    : $year-color;
+$secondary-color  : #E7E7E7;
+$alert-color      : #F04124;
+$success-color    : #43AC6A;
+$warning-color    : #F08A24;
+$info-color       : #A0D3E8;
+
+// We use these to control various global styles
+$body-bg: $white-smoke;
+$body-font-color: #323232;
+
+// Accordion
+$accordion-navigation-bg-color: $brand-color;
+$accordion-navigation-font-color: $vapor;
+
+$accordion-content-active-bg-color: $white-smoke;
+
+// Top-Bar
+$topbar-height: rem-calc(60);
+// $topbar-margin-bottom: 0;
+
+// Controlling the styles for the title in the top bar
+// $topbar-title-weight: $font-weight-normal;
+//$topbar-title-font-size: rem-calc(20);
+
+$topbar-bg-color: $primary-color;
+$topbar-bg: $topbar-bg-color;
+
+// $topbar-link-color: invert($primary-color);
+// $topbar-link-color-hover: invert($primary-color);
+// $topbar-link-color-active: invert($primary-color);
+// $topbar-link-color-active-hover: invert($primary-color);
+
+$topbar-link-bg: $primary-color;
+$topbar-link-bg-hover: scale-color($primary-color, $lightness: -14%);
+$topbar-link-bg-active: $primary-color;
+$topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+
+$topbar-dropdown-bg: $primary-color;
+
+$topbar-breakpoint: 780px; // Change to 9999px for always mobile layout
+$topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;

@@ -1,0 +1,53 @@
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{% if page.title %}{{ page.title | append: ' | ' | append:  site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+	{% case include.lang %}
+	{% when "en" %}
+		{% assign metatags=site.metatag.en %}
+	{% else %}
+		{% assign metatags=site.metatag.de %}
+	{% endcase %}
+	{% for metatag in metatags %}
+		{% assign key = metatag[0] %}
+		{% if page.metatag[key] %}
+			<meta name="{{ metatag[0] }}" content="{{ page.metatag[key] }}" />
+		{% elsif key == "description" and page.excerpt %}
+			<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
+		{% elsif metatag[1] %}
+			<meta name="{{ metatag[0] }}" content="{{ metatag[1] }}" />
+		{% endif %}
+	{% endfor %}
+
+	{% assign path = site.data.icons.apple.path %}
+	{% for group in site.data.icons.groups %}
+		{% assign path = group.path %}
+		{% capture rel %}{% if group.rel %}{{ group.rel }}{% else %}icon{% endif %}{% endcapture %}
+		{% for size in group.sizes %}
+			{% if group.type == "ms" %}
+				<meta name="msapplication-TileImage" content="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" />
+			{% else %}
+				<link rel="{{ rel }}" type="image/png" href="{{ path | append: size | append: ".png" | prepend: site.baseurl }}" sizes="{{ size }}" />
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	<link rel="manifest" href="{{ site.data.icons.android-manifest | prepend: site.baseurl }}" />
+	<meta name="msapplication-TileColor" content="{{ site.data.icons.ms-tilecolor }}" />
+	<meta name="theme-color" content="{{ site.color }}" />
+	<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
+
+	<!-- use liquid tag provided by plugin Jekyll Assets and include the main stylesheet -->
+	{% css style %}
+
+	<!-- bundle files create by webpack -->
+	{% js manifest %}
+	{% css app_preload-bundle %}
+	{% js app_preload-bundle %}
+
+</head>

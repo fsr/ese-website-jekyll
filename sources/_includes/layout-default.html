@@ -1,0 +1,47 @@
+{% if include.sidebar-items %}
+	{% assign items = include.sidebar-items %}
+{% else %}
+	{% assign items = site.sidebar %}
+{% endif %}
+{% if include.pages %}
+	{% assign pages = include.pages %}
+{% else %}
+	{% assign pages = site.pages %}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+{% include head.html lang=include.lang %}
+<body>
+    <div id="skip-link">
+        <a class="element-invisible element-focusable" href="#content">Skip to Content</a>
+    </div>
+    <div role="document">
+        {% include header.html pages=pages %}
+        <main>
+            <div class="row">
+                <article id="content" class="column small-12 medium-9">
+                    {{ content }}
+                </article>
+                <aside class="column small-12 medium-3 text-right small-only-text-left sidebar-column">
+                    {% include sidebar.html items=items pageurl=page.url %}
+                </aside>
+            </div>
+        </main>
+        {% include footer.html %}
+    </div>
+    <!-- Bundles created by webpack 
+  		 NOTE: order may be important
+  		 TODO: check for existence -->
+    {% js vendors-bundle %}
+    {% css app_postload-bundle %}
+    {% js app_postload-bundle %}
+    <!-- Any dev stuff not being included in production build -->
+    {% if jekyll.environment == "development" %}
+    <!-- Display warning sign for GitHub pages and lock out SE-bots -->
+    {% include developer-preview.html %}
+    {% js dev_postload-bundle %}
+    {% endif %}
+</body>
+
+</html>

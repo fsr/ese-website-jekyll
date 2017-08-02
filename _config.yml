@@ -44,6 +44,9 @@ metatag:
 
 # Build settings
 markdown: kramdown
+source: sources
+destination: site
+
 
 plugins:
  - jekyll-coffeescript
@@ -60,7 +63,6 @@ keep_files:
 exclude:
   - .c9
   - .git
-  - vendor/bundle
 
 permalink: none
 
@@ -94,9 +96,6 @@ defaults:
       type: "en"
     values:
       layout: "en-page"
-
-sass:
-  style: :compressed
 
 collections:
   news:

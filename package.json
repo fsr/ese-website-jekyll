@@ -1,5 +1,22 @@
 {
   "dependencies": {
-    "slick-carousel": "^1.6.0"
+    "jquery": "^2.2.4",
+    "modernizr": "^3.5.0",
+    "pace-progress": "^1.0.2",
+    "slick-carousel": "^1.6.0",
+    "typeface-open-sans": "^0.0.31",
+    "typeface-work-sans": "^0.0.31"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "expose-loader": "^0.7.3",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "script-loader": "^0.7.0",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.4.1"
   }
 }
