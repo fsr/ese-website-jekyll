@@ -20,12 +20,17 @@
         {% include header.html pages=pages %}
         <main>
             <div class="row">
-                <article id="content" class="column small-12 medium-9">
-                    {{ content }}
-                </article>
-                <aside class="column small-12 medium-3 text-right small-only-text-left sidebar-column">
-                    {% include sidebar.html items=items pageurl=page.url %}
+            	<!-- TODO: show for lage-up  -->
+				<aside class="column show-for-large-up sidebar-column">
+                    {% include sidebar.html items=items pageurl=page.url pages=pages %}
                 </aside>
+
+                <article id="content">
+                	<div class="background">
+                    {{ content }}
+                	</div>
+                </article>
+
             </div>
         </main>
         {% include footer.html %}

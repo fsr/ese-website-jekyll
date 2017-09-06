@@ -1,6 +1,6 @@
 ---
 title: Stundenpläne
-weight : 3
+weight : 300
 permalink: /schedules/
 layout: page
 ---

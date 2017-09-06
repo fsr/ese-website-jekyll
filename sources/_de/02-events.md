@@ -1,6 +1,6 @@
 ---
 title: Veranstaltungen
-weight : 2
+weight : 200
 permalink: /events/
 layout: page
 ---

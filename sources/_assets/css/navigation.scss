@@ -1,0 +1,19 @@
+.sidebar {
+    font-size: 13px;
+    line-height: 1em
+}
+nav ul{
+    list-style: none
+}
+
+@media #{$large-up} {
+
+nav{
+    width:300px;
+}
+
+#content{
+    padding-left:300px;
+}
+
+}

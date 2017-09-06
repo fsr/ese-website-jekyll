@@ -98,8 +98,8 @@ defaults:
       layout: "en-page"
 
 collections:
-  news:
-  sidebar:
+  de-news:
+  de-sidebar:
   en-news:
   en-sidebar:
   en:

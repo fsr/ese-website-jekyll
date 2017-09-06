@@ -1,6 +1,6 @@
 ---
 title: Schedules
-weight : 3
+weight : 300
 permalink: /en/schedules/
 ---
 

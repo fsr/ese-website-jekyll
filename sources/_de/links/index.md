@@ -1,6 +1,6 @@
 ---
 title: Linksammlung
-weight : 4
+weight : 400
 permalink: /links/
 layout: page
 ---

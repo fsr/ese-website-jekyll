@@ -1,6 +1,6 @@
 ---
 title: News
-weight : 1
+weight : 100
 permalink: /en/news/
 ---
 

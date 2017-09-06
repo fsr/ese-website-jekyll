@@ -16,4 +16,4 @@ manifest.js
 *.bundle*
 
 # fonts from npm are copied to this directory
-static/fonts/
+/sources/static/fonts/

@@ -1,6 +1,6 @@
 ---
 title: Events
-weight : 2
+weight : 200
 permalink: /en/events/
 ---
 

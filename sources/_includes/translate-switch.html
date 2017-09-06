@@ -9,16 +9,17 @@
       {% assign de-url = page.url %}
       {% assign en-url = page.url | prepend: '/en' | prepend: site.baseurl %}
     {% endcase %}
+    
 
 		<li class="language-switch i18n de">
 			<a class="language-link {% if langmodifier[1] != "en" %} active{% endif %}" href="{{ de-url }}" hreflang="de">
-				<img class="language-icon" width="20" height="12" src="{% asset_path flags/de.png %}" alt="Flagge" /> De
+				<img class="language-icon" width="20" height="12" src="{% asset_path flags/de.png %}" alt="Flagge" /> Deutsch
 			</a>
 		</li>
 
 		<li class="language-switch i18n en">
 			<a class="language-link{% if langmodifier[1] == "en" %} active{% endif %}" href="{{ en-url }}" hreflang="en">
-				<img class="language-icon" width="20" height="12" src="{% asset_path flags/en.png %}" alt="Flag" /> En
+				<img class="language-icon" width="20" height="12" src="{% asset_path flags/en.png %}" alt="Flag" /> English
 			</a>
 		</li>
 

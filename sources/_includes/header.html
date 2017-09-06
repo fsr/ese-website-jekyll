@@ -4,26 +4,37 @@
     {% assign pages = site.pages %}
 {% endif %}
 
+    {% assign langmodifier = page.url | split: "/" %}
+    {% case langmodifier[1] %}
+    {% when "en" %}
+      {% assign de-url = page.url | remove_first: '/en' | prepend: site.baseurl %}
+      {% assign en-url = page.url %}
+      {% assign context = "/en/" %}
+    {% else %}
+      {% assign de-url = page.url %}
+      {% assign en-url = page.url | prepend: '/en' | prepend: site.baseurl %}
+      {% assign context = "/" %}
+    {% endcase %}
+
 <header>
     <div class="row">
         <div class="top-bar site-nav small-12" data-topbar="" role="navigation">
             <ul class="title-area">
-                <li class="name">
+                
+                <li class="name hide-for-large-up">
                     <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
                 </li>
+                
                 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
+            <section class="top-bar-section right show-for-large-up">
+                {% include translate-switch.html %}
+            </section>
 
-            <nav class="top-bar-section right">
-                <ul>
-                    {% for page in pages %} 
-                        {% unless page.index or page.index == false %} 
-                        {% if page.title %}
-                            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-                        {% endif %}
-                        {% endunless %}
-                    {% endfor %}
-                </ul>
+            <!-- previously navigation, now used for language switcher, first aid, etc. -->
+            <nav class="top-bar-section hide-for-large-up">
+                {% include translate-switch.html %}
+                {% include navigation.html context=context pages=pages %}
             </nav>
         </div>
     </div>

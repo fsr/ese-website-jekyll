@@ -1,13 +1,55 @@
-{% if include.items %}{% assign items = include.items %}{% else %}{% assign items = site.sidebar %}{% endif %}
-<div class="sidebar">
+{% if include.items %}
+    {% assign items = include.items %}
+{% else %}
+    {% assign items = site.de-sidebar %}
+{% endif %}
 
-  {% assign items = items | sort: 'index' %}
-  <div>
-    <div class="sidebar-item column">
-      {% include translate-switch.html %}
-    </div>
+{% if include.pages %}
+    {% assign pages = include.pages %}
+{% else %}
+    {% assign pages = site.pages %}
+{% endif %}
+
+    {% assign langmodifier = page.url | split: "/" %}
+    {% case langmodifier[1] %}
+    {% when "en" %}
+      {% assign de-url = page.url | remove_first: '/en' | prepend: site.baseurl %}
+      {% assign en-url = page.url %}
+      {% assign context = "/en/" %}
+    {% else %}
+      {% assign de-url = page.url %}
+      {% assign en-url = page.url | prepend: '/en' | prepend: site.baseurl %}
+      {% assign context = "/" %}
+    {% endcase %}
+
+<div class="sidebar">
+  
+  <a class="banner hide-for-small-only" href="{{ site.baseurl }}{{ context }}">
+      <div class="banner">
+          <div class="logo">
+              {% image karlchen.svg alt:'ESE Logo' %}
+          </div>
+          <div class="name">
+              <span>
+      ESE<br/> {{ site.year }}
+    </span>
+          </div>
+          <div class="clear"></div>
+      </div>
+  </a>
+  
+  <hr>
+
+  <nav class="nav">
+      {% include navigation.html context=context pages=pages %}
+  </nav>
+  
+  <hr>
+
+  <section class="additionals">
+      {% assign items = items | sort: 'index' %}
     {% for item in items %}
-      <div class="sidebar-item column">
+      <div>
         {% if item.title != "false" and item.title %}
           <h4>{{ item.title }}</h4>
         {% endif %}
@@ -15,6 +57,8 @@
           {{ item.content }}
         </div>
       </div>
+
     {% endfor %}
-  </div>
+  </section>
+
 </div>

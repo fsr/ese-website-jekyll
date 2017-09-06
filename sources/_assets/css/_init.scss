@@ -14,6 +14,10 @@ $font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
 // We use this to control font-smoothing
 $font-smoothing: antialiased;
 
+$row-width: rem-calc(1200);
+//$column-gutter: rem-calc(30);
+$total-columns: 12 ;
+
 // Shades of Grey
 $white       : #FFFFFF;
 $ghost       : #FAFAFA;
@@ -76,5 +80,5 @@ $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 
 $topbar-dropdown-bg: $primary-color;
 
-$topbar-breakpoint: 780px; // Change to 9999px for always mobile layout
+$topbar-breakpoint: 64.0625em; // Change to 9999px for always mobile layout
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;

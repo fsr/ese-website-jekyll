@@ -1,0 +1,39 @@
+{% if include.pages %}
+    {% assign pages = include.pages %}
+{% else %}
+    {% assign pages = site.pages %}
+{% endif %}
+
+
+{% capture html %}
+
+<ul>
+    <!-- in-/exclude index -->
+    <!--
+    {% if include.context == "/" or include.context == "/en/" %}
+        <li class="{% if page.url == "/" %}active{% endif %}">
+            <a href="{{ site.baseurl }}{{ include.context }}">{{ site.title }}</a>
+        </li>
+    {% endif %}
+    -->
+
+    <!-- sort entries by their specified weight -->
+    {% assign entries = pages | sort: "weight" %}
+
+    {% for entry in entries %}
+
+        {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+        {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+
+        {% if current == include.context and entry.index != false %}
+            <li class="{% if page.url contains entry.url %}active{% endif %}">
+                <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+                {% include navigation.html context=entry.url pages=pages %}
+            </li>
+        {% endif %}
+
+    {% endfor %}
+</ul>
+{% endcapture %}
+
+{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}

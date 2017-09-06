@@ -1,6 +1,6 @@
 ---
 title: Aktuelles
-weight : 1
+weight : 100
 permalink: /news/
 layout: page
 ---
