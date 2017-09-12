@@ -1,5 +1,4 @@
-<div class="language-switcher i18n">
-	<ul class="language-list i18n inline-list">
+
     {% assign langmodifier = page.url | split: "/" %}
     {% case langmodifier[1] %}
     {% when "en" %}
@@ -11,17 +10,14 @@
     {% endcase %}
     
 
-		<li class="language-switch i18n de">
-			<a class="language-link {% if langmodifier[1] != "en" %} active{% endif %}" href="{{ de-url }}" hreflang="de">
+		<li class="language-switch i18n de {% if langmodifier[1] != "en" %} hidden {% endif %}">
+			<a class="language-link" href="{{ de-url }}" hreflang="de">
 				<img class="language-icon" width="20" height="12" src="{% asset_path flags/de.png %}" alt="Flagge" /> Deutsch
 			</a>
 		</li>
 
-		<li class="language-switch i18n en">
-			<a class="language-link{% if langmodifier[1] == "en" %} active{% endif %}" href="{{ en-url }}" hreflang="en">
+		<li class="language-switch i18n en {% if langmodifier[1] == "en" %} hidden {% endif %}">
+			<a class="language-link" href="{{ en-url }}" hreflang="en">
 				<img class="language-icon" width="20" height="12" src="{% asset_path flags/en.png %}" alt="Flag" /> English
 			</a>
 		</li>
-
-	</ul>
-</div>

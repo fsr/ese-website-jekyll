@@ -1,0 +1,67 @@
+/*
+ * CONTENT
+ * includes: NEWS
+ * TODO: add SLIDER
+ */
+
+#content {
+    padding-top: 3.75em;
+}
+
+#content .background {
+    background: #fff;
+    box-shadow: 0 1.5px 3px rgba(0, 0, 0, .24), 0 3px 8px rgba(0, 0, 0, .05);
+}
+
+.news {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.news .panel {
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    border: 0;
+}
+
+#content .background>section,
+#content .background>article {
+    padding-top: 0;
+    padding-bottom: 3rem;
+}
+
+#content .background>section:first-of-type,
+#content .background>article:first-of-type {
+    padding-top: 1rem;
+
+}
+
+
+@media #{$small-only} {
+
+    #content .background>section,
+    #content .background>article,
+    .news .panel {
+        padding-left: 1.5em;
+        padding-right: 1.5em;
+    }
+}
+
+@media #{$medium-only} {
+    #content .background>section,
+    #content .background>article,
+    .news .panel {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+}
+
+@media #{$large-up} {
+
+    #content .background>section,
+    #content .background>article,
+    .news .panel {
+        padding-left: 3em;
+        padding-right: 3em;
+    }
+}

@@ -1,0 +1,96 @@
+/* 
+ * SIDEBAR
+ * includes: LOGO, NAVIGATION, SOCIAL MEDIA 
+ */
+
+
+.sidebar {
+    font-size: 13px;
+    line-height: 1em
+}
+
+nav ul {
+    list-style: none
+}
+
+@media #{$large-up} {
+
+    nav {
+        width: 300px;
+    }
+
+    #content {
+        padding-left: 300px;
+    }
+}
+
+nav,
+.sidebar section {
+    margin: 1rem;
+}
+
+nav.top-bar-section{
+    text-align: center;
+}
+
+nav li>a {
+    color: black;
+}
+
+nav li>a:hover {
+    color: scale-color($primary-color, $lightness: -14%);
+}
+
+nav li.active>a {
+    color: scale-color($primary-color, $lightness: -14%);
+}
+
+
+
+a.banner{
+  display:block;
+}
+
+div.banner {
+    padding: 20px;
+    margin-left: 1rem;
+}
+
+div.banner .logo {
+    float: left;
+}
+
+div.banner .logo img {
+    height: 100px;
+}
+
+div.banner .name {
+    height: 100px;
+    float: left;
+    margin-left: 5px;
+    font-size: 3.2rem;
+    line-height: 1em;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    color: $primary-color;
+    display: table;
+}
+
+div.banner .name span {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.sidebar-column {
+    width: 300px !important;
+    /* position: fixed !important; */
+}
+
+.sidebar hr {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.additionals p {
+    margin-bottom: 0.2rem;
+}

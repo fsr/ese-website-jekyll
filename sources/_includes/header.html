@@ -22,18 +22,16 @@
             <ul class="title-area">
                 
                 <li class="name hide-for-large-up">
-                    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+                    <h1><a" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
                 </li>
-                
-                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-            </ul>
-            <section class="top-bar-section right show-for-large-up">
+                <div>
                 {% include translate-switch.html %}
-            </section>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+                </div>
+            </ul>
 
             <!-- previously navigation, now used for language switcher, first aid, etc. -->
             <nav class="top-bar-section hide-for-large-up">
-                {% include translate-switch.html %}
                 {% include navigation.html context=context pages=pages %}
             </nav>
         </div>
