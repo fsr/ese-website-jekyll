@@ -26,8 +26,8 @@ layout: page
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal-Datei. Kann direkt in den Kalender importiert werden.
 
-**Wanderung am 15.10.2016**<br/>
-Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Naturpanorama. Eng verbunden mit Dresden ist die Sächsische Schweiz, eine Wanderung hier ist schon ein muss für jeden Studenten hier. Drum nutzen wir noch die verbliebenen guten Herbststunden um dem gerecht zu werden. Treffpunkt ist am Samstag dem 15.10.16 am Dresdner Hauptbahnhof Gleis 18, wo wir 8:29 mit der S1 gemeinsam nach Krippen fahren werden. Vergesst nicht euren Studentenausweis (als Zugticket)! Ansetzen würden wir rund fünf Stunden plus Pausen, nehmt euch genug Verpflegung mit. Zurück geht es von Schmilka wieder mit Fähre und Bahn nach Dresden.
+**Wanderung am 03.10.2016**<br/>
+Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Naturpanorama. Eng verbunden mit Dresden ist die Sächsische Schweiz, eine Wanderung ist für jeden Studierenden hier eigentlich ein Muss. Drum nutzen wir noch die verbliebenen guten Herbststunden und machen gemeinsam einen Ausflug. Treffpunkt ist der Dresdner Hauptbahnhof am Dienstag, den 03.10 auf Gleis 18, wo wir 08:29 mit der S1 gemeinsam nach Krippen fahren werden. Vergess nicht deinen Studierendenausweis (als Zugticket)! Ansetzen würden wir rund fünf Stunden plus Pausen, nehmt euch genug Verpflegung mit. Zurück geht es von Schmilka wieder mit Fähre und Bahn nach Dresden.
 
 
 
@@ -35,13 +35,13 @@ Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Nat
 
 {% include osm_apb.html %}
 
-Direkt vor der Fakultät halt die Bus-Linie 85 an der Haltestelle Helmholtzstraße.
+Direkt vor der Fakultät hält die Bus-Linie 85 an der Haltestelle Helmholtzstraße.
 
 ### Studentenclub Count Down
 
 {% include osm_cd.html %}
 
-Das [CountDown](http://countdown-dresden.de/){:target="_blank"} befindet sich im Studentenwohnheim in der Güntzstraße 22. Südlich liegt der Straßburger Platz (hier halten die Straßenbahnen 1, 2, 4, 10, 12 und 13) und nördlich die Haltestelle St.-Benno-Gymnasium (hier hält die 13 und die Bus-Linie 62).
+Das [Count Down](http://countdown-dresden.de/){:target="_blank"} befindet sich im Studentenwohnheim in der Güntzstraße 22. Südlich liegt der Straßburger Platz (hier halten die Straßenbahnen 1, 2, 4, 10, 12 und 13) und nördlich die Haltestelle St.-Benno-Gymnasium (hier hält die 13 und die Bus-Linie 62).
 
 ### Kino im Kasten
 

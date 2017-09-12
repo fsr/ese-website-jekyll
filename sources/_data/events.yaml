@@ -1,5 +1,5 @@
-schedule-length: "12:45" # in stunden
-schedule-begin: 9 # Uhr
+schedule-length: "13:45" # in stunden
+schedule-begin: 8 # Uhr
 days:
   -
     name: "Montag"
@@ -16,7 +16,7 @@ days:
         -
             begin: "10:00"
             duration: "2:30"
-            title: "Be&shy;grü&shy;ßung und Tu&shy;torien"
+            title: "Begrüßung und Tutorien"
             title-en: "Greeting and Tutorials"
             location: "POT/81/A"
         -
@@ -30,14 +30,16 @@ days:
             duration: "4:00"
             title: "Bunter Nach&shy;mittag"
             title-en: "Get together"
-            location: "APB"
+            location: "Foyer des APB"
+            location-en: "Entrance hall of the APB"
             english: true
         -
             begin: "17:30"
             duration: "4:30"
             title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
             title-en: "Games night and barbecue"
-            location: "APB"
+            location: "Foyer des APB"
+            location-en: "Entrance hall of the APB"
             english: true
   -
     name: "Dienstag"
@@ -46,18 +48,18 @@ days:
     events:
         -
             title: "Wanderung"
-            title-en: "Hiking tour"
-            begin: "10:00"
+            title-en: "Hiking&nbsp;tour"
+            begin: "08:15"
             duration: "7:00"
-            location: "Treffpunkt noch nicht fest&shy;gelegt"
-            location-en: "Start not yet determined"
+            location: "Start am &nbsp;Hauptbahnhof auf Gleis 18 <br/> S1 Richtung Schöna um 08:29 Uhr"
+            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform 18 <br/> S1 to Schöna at 08:29 am"
             english: true
         -
-            title: "Club&shy;wan&shy;de&shy;rung"
+            title: "Clubwanderung"
             title-en: "Club tour"
             begin: "20:00"
             duration: "2:00"
-            location: "Start am Count Down"
+            location: "Start am Club Count Down"
             location-en: "Start at club Count Down"
             english: true
   -
@@ -79,19 +81,19 @@ days:
             duration: "1:00"
             english: true
         -
-            title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
+            title: "Seminar&shy;gruppen&shy;treffen"
             title-en: Seminar group meeting
             begin: "13:00"
             duration: "2:00"
-            location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
+            location: "Folge deinem Mentor"
             location-en: "Follow your mentor"
         -
-            title: "Se&shy;mi&shy;nar&shy;grup&shy;pen&shy;tref&shy;fen"
+            title: "Seminar&shy;gruppen&shy;treffen"
             title-en: Seminar group meeting
             begin: "15:00"
             duration: "2:00"
-            location-en: "Follow your men&shy;tor"
-            location: "Eu&shy;rem Men&shy;tor fol&shy;gen"
+            location-en: "Follow your mentor"
+            location: "Folge deinem Mentor"
         -
             begin: "20:15"
             duration: "2:00"
@@ -101,8 +103,8 @@ days:
             location-en: "Kino im Kasten (KiK) - free entry!"    
             english: true
   -
-    name: "Don&shy;ners&shy;tag"
-    name-en: Thurs&shy;day
+    name: "Donnerstag"
+    name-en: Thursday
     date: 05.10.2017
     events:
       -
@@ -113,8 +115,8 @@ days:
         location: "APB/E023"
         english: true
       -
-        title: "Vor&shy;stel&shy;lung der Lehr&shy;enden"
-        title-en: Meet the teachers
+        title: "Vorstellung der Lehr&shy;enden"
+        title-en: Meet the lecturers
         begin: "10:00"
         duration: "2:00"
         location: "APB/E023"
@@ -125,10 +127,10 @@ days:
         duration: "1:00"
         english: true
       -
-        title: "Cam&shy;pus&shy;schni&shy;tzel&shy;jagd"
+        title: "Cammpus&shy;schnitzel&shy;jagd"
         title-en: Campus scavenger hunt
-        location: "Treff im Fo&shy;yer der Informatik"
-        location-en: Meet in the foyer of the faculty building
+        location: "Foyer des APB"
+        location-en: "Entrance hall of the APB"
         begin: "15:00"
         duration: "3:00"
         english: true
@@ -153,13 +155,13 @@ days:
         location: "APB/E023"
         english: true
       -
-        title: "Vor&shy;träge"
+        title: "Vorträge"
         title-en: Talks
         begin: "10:00"
         duration: "2:00"
         location: "APB/E023"
       -
-        title: "Mit&shy;tags&shy;pau&shy;se"
+        title: "Mittagspause"
         title-en: Lunch
         begin: "12:00"
         duration: "1:00"
@@ -169,11 +171,11 @@ days:
         duration: "2:45"
         title: "ESE-Spiel"
         title-en: "ESE-game"
-        location: "Foyer APB"
-        location-en: "Hall of APB"
+        location: Foyer des APB
+        location-en: "Entrance hall of the APB"
   -
-    name: "Sams&shy;tag"
-    name-en: Satur&shy;day
+    name: "Samstag"
+    name-en: Saturday
     date: 08.10.2017
     events:
       -
