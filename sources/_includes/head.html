@@ -34,6 +34,10 @@
 		{% endfor %}
 	{% endfor %}
 
+	<link rel="apple-touch-icon" sizes="180x180" href="{% asset_path icons/apple-touch-icon %} ">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.color }}">
+
+
 	<link rel="manifest" href="{{ site.data.icons.android-manifest | prepend: site.baseurl }}" />
 	<meta name="msapplication-TileColor" content="{{ site.data.icons.ms-tilecolor }}" />
 	<meta name="theme-color" content="{{ site.color }}" />
