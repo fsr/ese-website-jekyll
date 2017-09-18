@@ -5,7 +5,7 @@ permalink: /media/
 layout: page
 ---
 
-Während deiner ESE findest du hier die Fotos und Videos. Solange kannst du dir ja schon mal Eindrücke der vergangenen Jahres anschauen.
+Während deiner ESE findest du hier die Fotos und Videos. Solange kannst du dir ja schon mal Eindrücke der vergangenen Jahre anschauen.
 
 <a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">Foto-Galerie der ESE 2016</a>
 
