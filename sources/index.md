@@ -29,7 +29,7 @@ Bei Fragen zögere nicht, die Helferinnen und Helfer in der ESE-Woche anzusprech
 
 Hier eine kurze Übersicht des Programms. Änderungen werden auch über unsere sozialen Kanäle bekannt gegeben. Damit du nichts verpasst, folge uns einfach schon mal auf [Twitter](https://twitter.com/ifsr) und [Facebook](https://www.facebook.com/iFSR.de/). Es gibt übrigens auch eine eigene [Facebook-Gruppe](https://www.facebook.com/groups/TUDInf2017/) für alle Informatik-Studierenden eines Jahrgangs.
 
-Im [Zeitplan der ESE](events.html) kannst du schon mal schauen, was dich alles erwartet. Dort gibt's das Ganze auch in Form einer Tabelle oder einer iCal-Datei zum Download. Schau auf jeden Fall am Montag vorbei, dann werden wir dir erzählen, wie die Woche ablaufen wird.
+Im [Zeitplan der ESE](events) kannst du schon mal schauen, was dich alles erwartet. Dort gibt's das Ganze auch in Form einer Tabelle oder einer iCal-Datei zum Download. Schau auf jeden Fall am Montag vorbei, dann werden wir dir erzählen, wie die Woche ablaufen wird.
 
 #### Täglich
 
