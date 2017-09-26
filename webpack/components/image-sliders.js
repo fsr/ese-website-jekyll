@@ -6,7 +6,7 @@ $('.slider').not('.slick-initialized').slick({
         dots: false,
         infinite: true,
         autoplay: true,
-        autoplaySpeed: 10000,
+        autoplaySpeed: 5000,
         slidesToShow: 1,
         accessbility: true,
         arrows: false

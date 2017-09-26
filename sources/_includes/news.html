@@ -1,6 +1,6 @@
 {% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
 {% if news.size > 0 %}
-  <div class="panel">
+  <div class="news dark">
     <h3>News</h3>
     {% assign news = news | sort: 'date' | reverse %}
     {% for item in news %}

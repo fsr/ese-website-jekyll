@@ -1,4 +1,22 @@
 headers:
   - 
-    src: temp-opener.jpg
-    alt: Fassade des APB
+    src: APB_front
+    alt: Die Vorderseite des APB
+  - 
+    src: ESE_marching
+    alt: Die vielen Erstis auf dem Weg über den Campus zum Begrüßungsvortrag
+  - 
+    src: APB_architecture_indoor
+    alt: Architektur der Fensterfronten im APB
+  - 
+    src: ESE_people
+    alt: Neugierige Erstis beim morgentlichen Frühstück
+  - 
+    src: APB_back
+    alt: Die Rückeite des APB
+  - 
+    src: OUTPUT_pond
+    alt: Entspannte Atmosphäre im Sommer draußen am Teich hinter dem APB
+  - 
+    src: APB_architecture_outdoor
+    alt: Architektur der Außenfassade des APB

@@ -4,6 +4,11 @@
  * TODO: add SLIDER
  */
 
+.slider-container {
+    /* to allow news overlay */
+    position: relative;
+}
+
 #content {
     padding-top: 3.75em;
 }
@@ -13,16 +18,61 @@
     box-shadow: 0 1.5px 3px rgba(0, 0, 0, .24), 0 3px 8px rgba(0, 0, 0, .05);
 }
 
+
+/* 
+ * NEWS 
+ * By default the news box appears as an overlay on the bottom of the slider
+ * However, on small screens it will pe positioned below the slider
+ */
+
 .news {
-    padding: 0 !important;
+    padding-top:0.75rem;
+    padding-bottom: 1.25rem !important;
+    position: relative;
     margin: 0 !important;
+    width:100%;
 }
 
-.news .panel {
-    padding-top: 1.5em;
-    padding-bottom: 0.5em;
-    border: 0;
+.news p{
+    margin: 0;
 }
+
+@media #{$small-only} {
+.news {
+    position: relative;
+    }}
+@media #{$medium-up} {
+    .news {
+    
+        position: absolute;
+        bottom: 0;
+    }
+}
+
+/* light background */
+.news.light{
+    background: rgba(222,222,222,0.85);
+    color: #333;
+}
+.news.light h3{
+    color: #333 !important;
+}
+
+
+/* dark background */
+.news.dark{
+
+    background: rgba(42,42,42,0.75);
+    color: #fff !important;
+}
+.news.dark h3{
+    color: #fff !important;
+}
+
+/* 
+ * CONTENT 
+ * Note: some defintions are also applied to news
+ */
 
 #content .background>section,
 #content .background>article {
@@ -33,15 +83,15 @@
 #content .background>section:first-of-type,
 #content .background>article:first-of-type {
     padding-top: 1rem;
-
 }
 
+/* change side margins depending on screen width */
 
 @media #{$small-only} {
 
     #content .background>section,
     #content .background>article,
-    .news .panel {
+    .news {
         padding-left: 1.5em;
         padding-right: 1.5em;
     }
@@ -50,7 +100,7 @@
 @media #{$medium-only} {
     #content .background>section,
     #content .background>article,
-    .news .panel {
+    .news {
         padding-left: 2em;
         padding-right: 2em;
     }
@@ -60,7 +110,7 @@
 
     #content .background>section,
     #content .background>article,
-    .news .panel {
+    .news{
         padding-left: 3em;
         padding-right: 3em;
     }
