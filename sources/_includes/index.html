@@ -4,10 +4,8 @@
 	{% assign news = site.de-news %}
 {% endif %}
 
-{% include slideshow.html %}
-<div class="news">
-	  {% include news.html news=news %}
-</div>
+{% include slideshow.html news=news %}
+
 <section>
 	{{ content }}
 </section>

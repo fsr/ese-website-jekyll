@@ -5,7 +5,24 @@ permalink: /links/studies/
 layout: page
 ---
 
-### Studium
+#### Service
+
+* jExam
+* FSR
+* 
+
+*   [Mensen](https://www.studentenwerk-dresden.de/mensen/ "Studentenwerk Mensen"){:target="_blank"}
+    *   [Speisepläne](https://www.studentenwerk-dresden.de/mensen/speiseplan/ "Studentenwerk Speisepläne"){:target="_blank"}
+    *   [Standorte](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html "Studentenwerk Mensen Orte"){:target="_blank"}
+    *   [Emeal](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}
+*   [Campusnavigator](https://navigator.tu-dresden.de/){:target="_blank"}  (inklusive Gebäudegrundrisse und Hörsaalsuche)
+*   [Microsoft Dreamspark](https://www.inf.tu-dresden.de/index.php?node_id=2023&ln=de "Infos zu Microsoft Dreamspark der Fakultät Informatik"){:target="_blank"}  (kostenlose Lizenzen für Microsoftprodukte)
+*   [ASCII](http://www.ascii-dresden.de/){:target="_blank"}  (Café der Fakultät Informatik)
+*   [eXma](https://exmatrikulationsamt.de){:target="_blank"}  (Studentenforum Dresden e.V.)
+*   [SLUB](https://www.slub-dresden.de/){:target="_blank"}  (Staats-, Landes- und Universitätsbibliothek)
+    *   [Login](https://webopac.slub-dresden.de/libero/WebOpac.cls?login=member){:target="_blank"}  (z.B. zum Verlängern von Büchern)
+    *   [Gebühren](https://www.slub-dresden.de/service/gebuehren-entgelte/){:target="_blank"}
+
 
 #### Beratung
 
@@ -37,16 +54,3 @@ layout: page
 *   [Fremdsprachen](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/lsk "LSK Seite"){:target="_blank"}  (LSK, Lehrzentrum Sprachen und Kulturen)
 *   [studium generale](https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/studium-generale){:target="_blank"}
 
-#### Service
-
-*   [Mensen](https://www.studentenwerk-dresden.de/mensen/ "Studentenwerk Mensen"){:target="_blank"}
-    *   [Speisepläne](https://www.studentenwerk-dresden.de/mensen/speiseplan/ "Studentenwerk Speisepläne"){:target="_blank"}
-    *   [Standorte](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html "Studentenwerk Mensen Orte"){:target="_blank"}
-    *   [Emeal](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}
-*   [Campusnavigator](https://navigator.tu-dresden.de/){:target="_blank"}  (inklusive Gebäudegrundrisse und Hörsaalsuche)
-*   [Microsoft Dreamspark](https://www.inf.tu-dresden.de/index.php?node_id=2023&ln=de "Infos zu Microsoft Dreamspark der Fakultät Informatik"){:target="_blank"}  (kostenlose Lizenzen für Microsoftprodukte)
-*   [ASCII](http://www.ascii-dresden.de/){:target="_blank"}  (Café der Fakultät Informatik)
-*   [eXma](https://exmatrikulationsamt.de){:target="_blank"}  (Studentenforum Dresden e.V.)
-*   [SLUB](https://www.slub-dresden.de/){:target="_blank"}  (Staats-, Landes- und Universitätsbibliothek)
-    *   [Login](https://webopac.slub-dresden.de/libero/WebOpac.cls?login=member){:target="_blank"}  (z.B. zum Verlängern von Büchern)
-    *   [Gebühren](https://www.slub-dresden.de/service/gebuehren-entgelte/){:target="_blank"}

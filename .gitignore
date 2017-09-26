@@ -17,3 +17,7 @@ manifest.js
 
 # fonts from npm are copied to this directory
 /sources/static/fonts/
+# emoji are copied to this directory
+# unfortunately, Travis cannot extract the emoji, so we really need to add them to the repo
+#/sources/static/emoji/
+

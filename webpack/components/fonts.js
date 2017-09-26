@@ -6,5 +6,4 @@
 // All fonts from fonts.google.com are available 
 // Check out the repo: https://github.com/KyleAMathews/typefaces
 
-import 'typeface-open-sans';
-import 'typeface-work-sans';
+import 'typeface-nunito-sans';

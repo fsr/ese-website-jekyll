@@ -2965,13 +2965,9 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
 
-typeface-open-sans@^0.0.31:
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/typeface-open-sans/-/typeface-open-sans-0.0.31.tgz#009beb571b7ddf6c3d30f45898a7c474d839341c"
-
-typeface-work-sans@^0.0.31:
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/typeface-work-sans/-/typeface-work-sans-0.0.31.tgz#3024ea398afae7a413ce391928d5d03ea244b0a5"
+typeface-nunito-sans@^0.0.35:
+  version "0.0.35"
+  resolved "https://registry.yarnpkg.com/typeface-nunito-sans/-/typeface-nunito-sans-0.0.35.tgz#7e1547ba39b5065f8da5080969a7d43263d69ba7"
 
 uglify-js@^2.8.29:
   version "2.8.29"

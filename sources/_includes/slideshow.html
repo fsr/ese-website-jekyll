@@ -1,15 +1,18 @@
+{% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
 <!-- SLICK - for documentation see https://github.com/kenwheeler/slick/ -->
 <div class="slider-container">
 <div class="slider">
     {% for image in site.data.switchheader.headers %}
     <div>
         {% if forloop.first %}
-        <img src="{% asset_path header/{{image.src}} %}" alt="{{ image.alt }}" /> 
+        <!-- srcset being used for adaptive image sizes -->
+        <img src="{% asset_path header/{{image.src}}-small.jpg %}" srcset="{% asset_path header/{{image.src}}-medium.jpg %} 640w, {% asset_path header/{{image.src}}-large.jpg %} 1000w" alt="{{ image.alt }}" /> 
         {% else %}
 
-        <img data-lazy="{% asset_path header/{{image.src}} %}" alt="{{ image.alt }}" /> 
+        <img data-lazy="{% asset_path header/{{image.src}}-small.jpg %}" srcset="{% asset_path header/{{image.src}}-medium.jpg %} 640w, {% asset_path header/{{image.src}}-large.jpg %} 1000w" alt="{{ image.alt }}" /> 
         {% endif %}
     </div>
     {% endfor %}
 </div>
+{% include news.html news=news %}
 </div>

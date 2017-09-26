@@ -14,12 +14,12 @@ $paragraph-font-weight: $body-font-weight;
     clear: both;
 }
 
-footer{
-  height: 500px;
-  width: 100%;
-  background: #323232;
-
+footer {
+    height: 500px;
+    width: 100%;
+    background: #323232;
 }
+
 
 /*
 .banner .logo img {
@@ -38,6 +38,9 @@ footer{
 
 body {
     overflow-x: hidden;
+    font-size: 1em;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
 }
 
 
@@ -47,20 +50,17 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Work Sans', sans-serif !important;
+font-weight:600 !important;
 }
 
-.sidebar h4 {
-    font-weight: 300;
+a,
+p,
+span,
+li {
+    font-size: 95% !important;
 }
 
-p {
-    font-weight: 300 !important;
-}
 
-strong {
-    font-weight: 400 !important;
-}
 
 /*
  * Pace
@@ -87,10 +87,10 @@ strong {
     height: 3px;
 }
 
+
 /*
  * News
  */
-
 
 .show-more {
     @extend .small;
@@ -100,18 +100,36 @@ strong {
     display: none !important;
 }
 
+
+/* fancy dotted highlighting for links */
+p a{
+    transition: color ease-in-out 0.22s, background-image ease-in-out 0.22s;
+
+    background-image: linear-gradient(to right, darken($primary-color, 5%) 35%, rgba(255, 255, 255, 0) 20%);
+    background-position: bottom;
+    background-size: 3px 1px;
+    background-repeat: repeat-x;
+
+    &:hover{
+        color: darken($primary-color, 15%) !important;
+        background-image: linear-gradient(to right, darken($primary-color, 15%) 35%, rgba(255, 255, 255, 0) 20%);
+    }
+}
+
 a {
     outline: 0;
-
+    transition: color ease-in-out 0.22s;
+    
     &:hover,
     &:active,
     &:focus {
         outline: 0;
     }
     &:hover {
-        text-decoration: underline;
+        color: darken($primary-color, 15%);
     }
 }
+
 
 
 /**
@@ -132,6 +150,7 @@ html.js .js-only {
         display: inline-block;
     }
 }
+
 
 
 /*
@@ -182,6 +201,7 @@ html.js .js-only {
 }
 
 
+
 /**
  * Slick Slider
  */
@@ -189,6 +209,7 @@ html.js .js-only {
 .slider.slick-slider {
     margin-bottom: 0;
 }
+
 
 
 /**
@@ -271,6 +292,7 @@ ul.accordion {
 }
 
 
+
 /**
  *   Styles for the Skip link
  */
@@ -289,6 +311,7 @@ ul.accordion {
         position: static !important;
     }
 }
+
 
 
 /**
@@ -346,6 +369,7 @@ ul.accordion {
 }
 
 
+
 /**
  * Icons
  */
@@ -363,6 +387,7 @@ ul.accordion {
         }
     }
 }
+
 
 
 /**
@@ -411,4 +436,7 @@ table.schedule {
     hr {
         display: none;
     }
+}
+footer{
+    display:none !important;
 }
