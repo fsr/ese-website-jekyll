@@ -24,14 +24,15 @@
                 <li class="name hide-for-large-up">
                     <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
                 </li>
-                <div>
+                <div class="show-for-large-only">
                 {% include translate-switch.html %}
+            </div>
                 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-                </div>
             </ul>
 
             <!-- previously navigation, now used for language switcher, first aid, etc. -->
             <nav class="top-bar-section hide-for-large-up">
+                                {% include translate-switch.html %}
                 {% include navigation.html context=context pages=pages %}
             </nav>
         </div>

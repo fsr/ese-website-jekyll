@@ -56,6 +56,7 @@ header a:hover {
     justify-content: space-between;
 }
 
+
 .title-area div {
     display: inline-block;
 }
@@ -70,6 +71,7 @@ header a:hover {
 	display: block;
 	    padding: 0rem 1rem;
 }
+/*
 .top-bar .toggle-topbar {
     position: relative !important;
 }
@@ -77,6 +79,11 @@ header a:hover {
 .top-bar .toggle-topbar.menu-icon {
     margin-top: 0 !important;
     top: 0 !important;
+}
+*/
+
+li.language-switch{
+    list-style: none;
 }
 
 .title-area .language-switch:hover {
