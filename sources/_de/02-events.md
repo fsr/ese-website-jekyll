@@ -26,8 +26,8 @@ layout: page
 
 [Download](ESE.ics) des aktuellen Zeitplans als iCal-Datei. Kann direkt in den Kalender importiert werden.
 
-**Wanderung am 03.10.2016**<br/>
-Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Naturpanorama. Eng verbunden mit Dresden ist die Sächsische Schweiz, eine Wanderung ist für jeden Studierenden hier eigentlich ein Muss. Drum nutzen wir noch die verbliebenen guten Herbststunden und machen gemeinsam einen Ausflug. Treffpunkt ist der Dresdner Hauptbahnhof am Dienstag, den 03.10. auf Gleis 18, wo wir 08:29 Uhr mit der S1 gemeinsam nach Krippen fahren werden. Vergiss nicht deinen Studierendenausweis (als Zugticket)! Ansetzen würden wir rund fünf Stunden plus Pausen, nehmt euch genug Verpflegung mit. Zurück geht es von Schmilka wieder mit Fähre und Bahn nach Dresden.
+<!-- **Wanderung am 03.10.2016**<br/> -->
+<!-- Dresden besteht nicht nur aus Stadt, die Umgebung bietet auch ein herrliches Naturpanorama. Eng verbunden mit Dresden ist die Sächsische Schweiz, eine Wanderung ist für jeden Studierenden hier eigentlich ein Muss. Drum nutzen wir noch die verbliebenen guten Herbststunden und machen gemeinsam einen Ausflug. Treffpunkt ist der Dresdner Hauptbahnhof am Dienstag, den 03.10. auf Gleis 18, wo wir 08:29 Uhr mit der S1 gemeinsam nach Krippen fahren werden. Vergiss nicht deinen Studierendenausweis (als Zugticket)! Ansetzen würden wir rund fünf Stunden plus Pausen, nehmt euch genug Verpflegung mit. Zurück geht es von Schmilka wieder mit Fähre und Bahn nach Dresden. -->
 
 
 

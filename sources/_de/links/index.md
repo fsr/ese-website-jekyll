@@ -1,5 +1,5 @@
 ---
-title: Linksammlung
+title: Rund ums Studium
 weight : 400
 permalink: /links/
 layout: page
