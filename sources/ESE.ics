@@ -3,7 +3,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0{% for day in site.data.events.days %}{% for event in day.events %}
 BEGIN:VEVENT{% if event.id %}
-UID:{{ event.id %}}{% endif %}
+UID:{{ event.id }}{% endif %}
 DTSTART;TZID=Europe/Berlin:{{ day.date | date: "%Y%m%d" }}T{% assign begin = event.begin | split: ':' %}{% assign begin_hours = begin[0] | plus: 0 %}{% assign begin_minutes = begin[1] | plus: 0 %}{% if begin_hours < 10 %}0{% endif %}{{ begin_hours }}{% if begin_minutes < 10 %}0{% endif %}{{ begin_minutes }}00
 DTEND;TZID=Europe/Berlin:{% assign start = event.begin | split: ':' %}{% assign duration = event.duration | split: ':' %}{% assign overflow = start[1] | plus: duration[1] | divided_by: 60 %}{% assign end_hours = start[0] | plus: overflow | plus: duration[0] | mod: 24 %}{% assign end_minutes = start[1] | plus: duration[1] | mod: 60 %}{{ day.date | date: "%Y%m%d" }}T{% if end_hours < 10 %}0{% endif %}{{ end_hours }}{% if end_minutes < 10 %}0{% endif %}{{ end_minutes }}00
 SUMMARY:{{ event.title | remove: "&shy;" }}
