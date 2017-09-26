@@ -30,16 +30,16 @@ days:
             duration: "4:00"
             title: "Bunter Nach&shy;mittag"
             title-en: "Get together"
-            location: "Foyer des APB"
-            location-en: "Entrance hall of the APB"
+            location: "Atrium des APB"
+            location-en: "Atrium of the APB"
             english: true
         -
             begin: "17:30"
             duration: "4:30"
             title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
             title-en: "Games night and barbecue"
-            location: "Foyer des APB"
-            location-en: "Entrance hall of the APB"
+            location: "Atrium des APB"
+            location-en: "Atrium of the APB"
             english: true
   -
     name: "Dienstag"
@@ -129,18 +129,18 @@ days:
       -
         title: "Cammpus&shy;schnitzel&shy;jagd"
         title-en: Campus scavenger hunt
-        location: "Foyer des APB"
-        location-en: "Entrance hall of the APB"
+        location: "Atrium des APB"
+        location-en: "Atrium of the APB"
         begin: "15:00"
         duration: "3:00"
         english: true
       -
         title: "Impro-Theater"
         title-en: Impro theater
-        location: "Ort noch nicht festgelegt"
-        location-en: Location not yet determined
-        begin: "20:00"
-        duration: "2:00"
+        location: "WEB/222/U"
+        location-en: "WEB/222/U"
+        begin: "19:00"
+        duration: "2:30"
         english: true
   -
     name: "Freitag"
@@ -171,8 +171,8 @@ days:
         duration: "2:45"
         title: "ESE-Spiel"
         title-en: "ESE-game"
-        location: Foyer des APB
-        location-en: "Entrance hall of the APB"
+        location: Atrium des APB
+        location-en: "Atrium of the APB"
   -
     name: "Samstag"
     name-en: Saturday
