@@ -5,3 +5,7 @@ branch: development
 
 # change the baseurl when deploying to GitHub Pages
 baseurl: "/ese-website"
+
+# serve emoji locally to avoid CSP issues
+emoji:
+  src: "/ese-website/static/"

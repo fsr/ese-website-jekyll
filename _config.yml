@@ -109,3 +109,7 @@ collections:
 # force usage of digests by Jekyll Assets
 assets:
   digest: true
+
+# serve emoji locally to avoid CSP issues
+emoji:
+  src: "/2017/static/"
