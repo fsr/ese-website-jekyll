@@ -21,9 +21,13 @@
         <div class="top-bar site-nav small-12" data-topbar="" role="navigation">
             <ul class="title-area">
                 
-                <li class="name hide-for-large-up">
-                    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+                <li class="title hide-for-large-up">
+                    <h1><a href="{{ site.baseurl }}/">{% image bobbel.png alt:'OSM APB' %}{{ site.title }}</a></h1>
                 </li>
+                 <li class="title show-for-large-up">
+                    <h1><a href="{{ site.baseurl }}/">{% image bobbel.png alt:'OSM APB' %} FSR Informatik</a></h1>
+                </li>
+                
                 <div class="show-for-large-only">
                 {% include translate-switch.html %}
             </div>

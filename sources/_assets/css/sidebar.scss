@@ -6,11 +6,20 @@
 
 .sidebar {
     font-size: 13px;
-    line-height: 1em
+    line-height: 1em;
+    position: fixed;
 }
 
 nav ul {
     list-style: none
+}
+nav ul li{
+    font-size: 1.0rem !important;
+    padding-top: 7px;
+    font-weight: 600;
+}
+nav ul li ul li{
+    font-weight: 400!important;
 }
 
 @media #{$large-up} {
@@ -72,8 +81,7 @@ div.banner .name {
     margin-left: 5px;
     font-size: 3.2rem;
     line-height: 1em;
-    font-family: "Open Sans", sans-serif;
-    font-weight: 300;
+    font-weight: 700;
     color: $primary-color;
     display: table;
 }

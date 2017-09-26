@@ -3,9 +3,11 @@
  * includes: TITLE, LANGUAGE SWITCHER, MENU BUTTON
  */
 
+
 /* Fixes the header 
 TODO: clean up
 */
+
 
 /* Topbar settings
 * overriding foundation
@@ -22,7 +24,6 @@ $topbar-height: 5rem;
 font-size: 1rem !important;
 }
 */
-
 
 header {
     position: fixed;
@@ -44,10 +45,20 @@ header a:hover {
     color: white;
 }
 
-.name,
-.name h1,
-.name h1 a {
-    display: inline !important;
+.title{
+    padding: 0 1.25rem;
+    display: inline;
+}
+.title h1{
+    font-size: 1.0625rem;
+    line-height: 3.75rem;
+    margin: 0;
+}
+.title h1 a img{
+        height: 34px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    width: auto;
 }
 
 .title-area {
@@ -65,12 +76,14 @@ header a:hover {
     display: inline-block;
     line-height: 3.75rem;
     font-size: 0.8125rem;
+}
 
+.title-area div li a {
+    display: block;
+    padding: 0rem 1rem;
 }
-.title-area div li a{
-	display: block;
-	    padding: 0rem 1rem;
-}
+
+
 /*
 .top-bar .toggle-topbar {
     position: relative !important;
@@ -82,14 +95,14 @@ header a:hover {
 }
 */
 
-li.language-switch{
+li.language-switch {
     list-style: none;
 }
 
 .title-area .language-switch:hover {
     background-color: scale-color($primary-color, $lightness: -14%);
 }
-.language-icon{
-	vertical-align: unset !important;
-}
 
+.language-icon {
+    vertical-align: unset !important;
+}

@@ -1,8 +1,5 @@
 headers:
   - 
-    src: APB_front
-    alt: Die Vorderseite des APB
-  - 
     src: ESE_marching
     alt: Die vielen Erstis auf dem Weg über den Campus zum Begrüßungsvortrag
   - 
@@ -20,3 +17,6 @@ headers:
   - 
     src: APB_architecture_outdoor
     alt: Architektur der Außenfassade des APB
+  - 
+    src: APB_front
+    alt: Die Vorderseite des APB
