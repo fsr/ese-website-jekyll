@@ -33,7 +33,8 @@ before_script:
 script:
   # pack libs, fonts, etc. together
   - node_modules/.bin/webpack -p
-  - bundle exec gemoji extract sources/static/emoji
+  # unfortunately this only works on macOS for now :/
+  # - bundle exec gemoji extract sources/static/emoji
   # use additional config for CI (changes baseurl for GH Pages)
   # settings defined in later files overwrite ones from earlier files
   - bundle exec jekyll build --config _config.yml,_config_travis.yml 
