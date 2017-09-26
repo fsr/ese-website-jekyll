@@ -1,5 +1,5 @@
 # Site settings
-title: "ESE 2017 | iFSR"
+title: "ESE 2017 | FSR Informatik"
 email: ese@ifsr.de
 emailfsr: fsr@ifsr.de
 baseurl: "/2017" # the subpath of your site, e.g. /blog/
@@ -12,11 +12,11 @@ year: "2017"
 # Global Metatags
 metatag:
   de:
-    description: "Die offizielle Seite der ESE 2016. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
+    description: "Hier findest du den Ablaufplan und die wichtigsten Informationen der Erstsemestereinführung (ESE) für Informatik an der TU Dresden."
     abstract:
     keywords:
-    "og:title": "ESE 2016 | iFSR"
-    "og:description": "Die offizielle Seite der ESE 2016. Hier findet Ihr alle wichtigen Informationen über die Erst Semester Einführung der Informatik an der TU Dresden."
+    "og:title": "ESE 2017 | FSR Informatik"
+    "og:description": "Hier findest du den Ablaufplan und die wichtigsten Informationen der Erstsemestereinführung (ESE) für Informatik an der TU Dresden."
     "og:locale":
     "og:locale:alternate":
     "og:image":
@@ -27,11 +27,11 @@ metatag:
     "og:type":
     HandheldFriendly: true
   en:
-    description: "This is the official site of ESE 2016. Here you can find all relevant information about the Erst Semester Einführung of computer science at the TU Dresden."
+    description: "Here you can find the schedule and most important information of the orientation week (ESE) for Computer Science at TU Dresden."
     abstract:
     keywords:
-    "og:title": "ESE 2016 | iFSR"
-    "og:description": "This is the official site of ESE 2016. Here you can find all relevant information about the Erst Semester Einführung of computer science at the TU Dresden."
+    "og:title": "ESE 2017 | FSR Computer Science"
+    "og:description": "Here you can find the schedule and most important information of the orientation week (ESE) for Computer Science at TU Dresden."
     "og:locale":
     "og:ocale-alternate":
     "og:image":
