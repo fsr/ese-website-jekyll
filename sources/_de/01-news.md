@@ -5,4 +5,7 @@ permalink: /news/
 layout: page
 ---
 
-Hier findest du bald das Archiv für Neuigkeiten von deiner ESE.
+<div class="panel">
+  <h5>Neue Neuigkeiten sind neu.</h5>
+  <p>Hier findest du bald das Archiv für Neuigkeiten von deiner ESE.</p>
+</div>
