@@ -21,9 +21,15 @@ nav ul li{
     font-weight: 600;
 }
 
-nav ul li ul {
-    border-left: 2px solid #ccc;
-    padding-left: .75rem;
+@media #{$large-up} {
+    nav ul li ul li {
+        border-left: 2px solid #ccc;
+        padding-left: .75rem;
+    }
+
+    nav ul li ul li:first-child {
+       margin-top: .25rem;
+    }
 }
 
 nav ul li ul li{
@@ -105,8 +111,9 @@ div.description {
     padding: 0 2.5rem 0 2rem;
 }
 
-
-
+div.description p {
+    color: #969696;
+}
 
 .sidebar-column {
      width: 300px !important;
