@@ -14,17 +14,23 @@
 nav ul {
     list-style: none
 }
+
 nav ul li{
     font-size: 1.0rem !important;
-    padding-top: 7px;
+    padding: 3.5px 0;
     font-weight: 600;
 }
+
+nav ul li ul {
+    border-left: 2px solid #ccc;
+    padding-left: .75rem;
+}
+
 nav ul li ul li{
     font-weight: 400!important;
 }
 
 @media #{$large-up} {
-
     nav {
         width: 300px;
     }
@@ -33,17 +39,18 @@ nav ul li ul li{
         padding-left: 300px;
     }
 
-    nav li>a, nav li>a:visited {
-    color: black;
-}
+    nav li>a,
+    nav li>a:visited {
+        color: black;
+    }
 
-nav li>a:hover {
-    color: scale-color($primary-color, $lightness: -14%);
-}
+    nav li>a:hover {
+        color: scale-color($primary-color, $lightness: -14%);
+    }
 
-nav li.active>a {
-    color: scale-color($primary-color, $lightness: -14%);
-}
+    nav li.active>a {
+        color: scale-color($primary-color, $lightness: -14%);
+    }
 }
 
 nav,
@@ -56,9 +63,8 @@ nav.top-bar-section{
 }
 
 
-
-
-
+/* Logo
+*************************************/
 a.banner{
   display:block;
 }
@@ -92,10 +98,20 @@ div.banner .name span {
     vertical-align: middle;
 }
 
-.sidebar-column {
-    width: 300px !important;
-    /* position: fixed !important; */
+
+/* Description
+*************************************/
+div.description {
+    padding: 0 2.5rem 0 2rem;
 }
+
+
+
+
+.sidebar-column {
+     width: 300px !important;
+     /* position: fixed !important; */
+ }
 
 .sidebar hr {
     width: 90%;
