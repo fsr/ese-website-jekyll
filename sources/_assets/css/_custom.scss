@@ -115,7 +115,7 @@ p a{
     background-repeat: repeat-x;
 
     &:hover{
-        color: darken($primary-color, 15%) !important;
+        color: darken($primary-color, 15%);
         background-image: linear-gradient(to right, darken($primary-color, 15%) 35%, rgba(255, 255, 255, 0) 20%);
     }
 }
@@ -443,4 +443,7 @@ table.schedule {
 }
 footer{
     display:none !important;
+}
+span.label a{
+    background-image: none;
 }
