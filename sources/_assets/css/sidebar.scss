@@ -21,9 +21,15 @@ nav ul li{
     font-weight: 600;
 }
 
-nav ul li ul {
-    border-left: 2px solid #ccc;
-    padding-left: .75rem;
+@media #{$large-up} {
+    nav ul li ul li {
+        border-left: 2px solid #ccc;
+        padding-left: .75rem;
+    }
+
+    nav ul li ul li:first-child {
+       margin-top: .25rem;
+    }
 }
 
 nav ul li ul li{
@@ -78,6 +84,8 @@ div.banner .logo {
     float: left;
     background: #fff;
     border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
     overflow: hidden;
     width: 90px;
     height: 90px;
