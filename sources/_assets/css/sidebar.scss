@@ -76,17 +76,22 @@ div.banner {
 
 div.banner .logo {
     float: left;
+    background: #fff;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 90px;
+    height: 90px;
 }
 
 div.banner .logo img {
-    height: 100px;
+    height: 100%;
 }
 
 div.banner .name {
-    height: 100px;
+    height: 90px;
     float: left;
-    margin-left: 5px;
-    font-size: 3.2rem;
+    margin-left: 1rem;
+    font-size: 2.6rem;
     line-height: 1em;
     font-weight: 700;
     color: $primary-color;
