@@ -119,3 +119,22 @@
 div#timetable {
     overflow-y: auto;
 }
+
+#content ul {
+  list-style: none;
+  margin-left: 1.8rem;
+}
+
+#content ul li {
+  position: relative;
+}
+
+#content ul li:before {
+  content: '';
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiP…MxODMuNCwzMzYuOSwxODMuNCwzNDUuMywxODguNSwzNTAuNXoiLz48L2c+PC9nPjwvc3ZnPg==);
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: -1.2rem;
+  top: 6px;
+}
