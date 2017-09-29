@@ -24,26 +24,26 @@ layout: page
 
 
 <div class="panel">
-  <h5>Hab etwas Geduld.</h5>
-  <p>Die Stundenpläne brauchen noch ein bisschen.</p>
+  <h5>Stundenpläne sind vorläufig</h5>
+  <p>Hier findest du alle Stundenpläne. Es kann noch zu Änderungen kommen.</p>
 </div>
 
-Hier findest du die aktuellen Stundenpläne (Seminargruppenpläne), in die du dich am Mittwochmorgen einschreiben kannst. Die Abkürzungen stehen für die folgenden Lehrveranstaltungen:
+Hier findest du die aktuellen Stundenpläne (Seminargruppenpläne), in die du dich am Mittwochmorgen einschreiben kannst. Nicht verpassen :wink:
+
+Die Abkürzungen stehen für die folgenden Lehrveranstaltungen:
 
 
 [//]: # TODO: Aktuelle Webseiten einfügen! Orientieren am Vorjahr!
 
-* **AuD**: [Algorithmen und Datenstrukturen](https://www.inf.tu-dresden.de/index.php?node_id=3749){:target="_blank"}
+* **AUD**: [Algorithmen und Datenstrukturen](https://www.inf.tu-dresden.de/index.php?node_id=3749){:target="_blank"}
 * **DIS**: Diskrete Strukturen (Einführung in die Mathematik für Informatiker)
 * **EMI**: [Einführung in die Medieninformatik](https://tu-dresden.de/ing/informatik/ai/mci/studium/lehrveranstaltungen-1/einfuehrung-in-die-medieninformatik){:target="_blank"}  *(nur Bachelor)*
 * **LAG**: [Lineare Algebra](https://www.math.tu-dresden.de/~baumann/lineare_algebra___einfuehrung_in_die_mathematik_fuer_informatiker.html){:target="_blank"} (Einführung in die Mathematik für Informatiker)
-* **RA**:  Rechnerarchitektur *(nur Diplom)*           
+* **RA1**:  Rechnerarchitektur *(nur Diplom)*           
 * **TGI**: Technische Grundlagen *(nur Diplom)*, die Vorlesung (Di., 3. DS) findet nur in der *geraden* Woche statt           
 
 Nicht eingezeichnet ist der **Mathe-Lernraum** am Donnerstag in der 5. und 6. DS in Raum WIL/B122, wo ihr Fragen zu Mathe klären und und auch Hausaufgaben abgeben könnt, sowie ein freigehaltener Ersatztermin für die EMI-Vorlesung am Freitag in der 6. DS in Raum POT/0081/H.
 
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind - aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
 
-<!--
 {% include all-schedules.html %}
--->
