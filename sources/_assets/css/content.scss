@@ -14,6 +14,7 @@
 }
 
 #content .background {
+    min-height: 100vh;
     background: #fff;
     box-shadow: 0 1.5px 3px rgba(0, 0, 0, .24), 0 3px 8px rgba(0, 0, 0, .05);
 }
@@ -138,3 +139,13 @@ div#timetable {
   left: -1.2rem;
   top: 6px;
 }
+
+ul.accordion{
+        margin-left: 0 !important;
+}
+ul.accordion li:before{
+
+    background-image: none !important;
+    height: none !important;
+    width: none !important;
+} 
