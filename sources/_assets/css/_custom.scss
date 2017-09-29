@@ -15,7 +15,7 @@ $paragraph-font-weight: $body-font-weight;
 }
 
 footer {
-    height: 500px;
+    padding: 2rem 0;
     width: 100%;
     background: #323232;
 }
@@ -437,9 +437,7 @@ table.schedule {
         display: none;
     }
 }
-footer{
-    display:none !important;
-}
+
 span.label a{
     background-image: none;
 }

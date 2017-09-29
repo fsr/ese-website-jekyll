@@ -68,6 +68,12 @@ nav.top-bar-section{
     text-align: center;
 }
 
+@media (max-width: 990px) and (orientation: landscape) {
+    nav.top-bar-section {
+        max-height: 200px;
+        overflow-y: scroll;
+    }
+}
 
 /* Logo
 *************************************/
