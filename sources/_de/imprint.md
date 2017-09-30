@@ -5,7 +5,7 @@ layout: page
 index: false
 ---
 
-Die ist eine Website des Fachschaftsrat Informatik der Technischen Universität Dresden.
+Die ist eine Website vom Fachschaftsrat Informatik der Technischen Universität Dresden.
 
 ### Diensteanbieter im Sinne des TMG/ RStV
 
@@ -21,6 +21,15 @@ Nöthnitzer Straße 46
 
 E-Mail: fsr@ifsr.de  
 Tel.: +49 (0) 351 463-38226
+
+###  Verantwortlich für journalistisch-redaktionelle Angebote im Sinne des § 55 RStV 
+
+Sprecher des FSR Informatik  
+Lutz Thies  
+Nöthnitzer Straße 46  
+01187 Dresden
+
+### Rechtsaufsicht
 
 Der Fachschaftsrat vertritt die Studierenden der Fachschaft Informatik im Rahmen seiner Aufgaben nach § 7 Abs. 2, Grundordnung des Studierendenrates der TU Dresden. Die Fachschaft Informatik ist eine rechtsfähige Teilkörperschaft
 der TU Dresden und ihrer Studierendenschaft. Die Studierendenschaft der TU Dresden besteht aus den Studierenden der Hochschule gemäß § 24 Abs. 1, SächsHSFG. Sie ist eine rechtsfähige Teilkörperschaft der Hochschule und hat das Recht der Selbstverwaltung im Rahmen der Gesetze, § 24 Abs. 2 Satz 1 des SächsHSFG. 
@@ -40,13 +49,6 @@ E-Mail: rektor@tu-dresden.de
 Tel.: +49 (0) 351 463-34312  
 Fax: +49 (0) 351 463-37121  
 
-###  Verantwortlich für journalistisch-redaktionelle Angebote im Sinne des § 55 RStV 
-
-FSR Informatik  
-Sprecher  
-Lutz Thies  
-Nöthnitzer Straße 46  
-01187 Dresden
 
 ### Haftungsausschluss
 
