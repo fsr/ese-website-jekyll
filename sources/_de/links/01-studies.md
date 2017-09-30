@@ -108,7 +108,7 @@ Für den Studiengang Medieninformatik gibt es den Studienablaufplan auch als sep
     *   [Studienberatung](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung "Studienberatung des Fakultät und des FSR"){:target="_blank"}
     *   [Seminargruppen](https://www.ifsr.de/studium:seminargruppen "Seminargruppen"){:target="_blank"}
 *   [Studierendenrat](https://www.stura.tu-dresden.de){:target="_blank"}  (StuRa)
-*   [Arbeiterkind](http://www.arbeiterkind.de/ "Arbeiterkind"){:target="_blank"}  (Hilfsseite für Bafög und Co.)
+*   [Arbeiterkind](http://www.arbeiterkind.de/ "Arbeiterkind"){:target="_blank"}  (Hilfsseite für BAföG und Co.)
 
 
 

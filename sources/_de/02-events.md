@@ -31,7 +31,7 @@ Mehr Infos zur Emeal findest du auf der [Seite des Studierendenwerkes](http://ww
 <br>
 
 Den aktuellen Zeitplans gibt's auch als **iCal-Datei**, um ihn direkt in den Kalender zu importieren:  
-<button class="button small secondary" href="/2017/ESE.ics">Download</button>
+<a class="button small secondary" href="/2017/ESE.ics">Download</a>
 
 
 <!-- ### Fakultät Informatik (Andreas-Pfitzmann-Bau, APB)
