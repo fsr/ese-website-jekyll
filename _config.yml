@@ -6,7 +6,7 @@ baseurl: "/2017" # the subpath of your site, e.g. /blog/
 url: "https://ese.ifsr.de" # the base hostname & protocol for your site
 twitter_username: ifsr
 github_username:  fsr
-color: "#FDC412"
+color: "#0D5F98"
 year: "2017"
 
 # Global Metatags
