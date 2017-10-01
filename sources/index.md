@@ -29,7 +29,7 @@ Bei Fragen zögere nicht, die Helferinnen und Helfer in der ESE-Woche anzusprech
 
 Die ESE hat viel für dich zu bieten. Hier ein paar Highlights:
 * **Frühstück** - Jeden Morgen kannst du dich hier mit anderen Erstis zum Frühstücken treffen.
-* **Spieleabend** - Lerne deine Kommolitonen bei verschiedenen Gesellschaftsspielen besser kennen.
+* **Spieleabend** - Lerne deine Kommilitonen bei verschiedenen Gesellschaftsspielen besser kennen.
 * **Wanderung** - Erkunde die schöne Natur der sächsischen Schweiz.
 * **Clubwanderung** - Gemeinsam mit Tutoren kannst du die Studierendenclubs der Stadt erkunden.
 * **Kino-Abend** - Ein kostenloser Abend in einem studentischen Kino. Der Film ist geheim!

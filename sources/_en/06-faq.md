@@ -6,7 +6,7 @@ permalink: /en/faq/
 
 ### Who can I contact if I have questions or problems?
 
-In the ESE week you get to know many ESE tutors who love to help you with starting problems and are available for all possible questions. During the first semester you will have your seminar group tutors to help you, which you get to know in the ESE. For larger problems, there is the [Fachschaftsrat](https://ifsr.de "FSR"){:target="_blank"} and the student question-and-answer platform [auditorium](https://auditorium.inf.tu-dresden.de "auditorium"){:target="_blank"}. We also invite you in the university-wide forum [eXma](https://exmatrikulationsamt.de/ "exma"){:target="_blank"} to get in touch with other students.  
+In the ESE week you get to know many ESE tutors who love to help you with starting problems and are available for all possible questions. During the first semester you will have your seminar group tutors to help you, which you get to know in the ESE. For larger problems, there is the [Fachschaftsrat](https://ifsr.de "FSR"){:target="_blank"}. We also invite you in the university-wide forum [eXma](https://exmatrikulationsamt.de/ "exma"){:target="_blank"} to get in touch with other students.  
 In the areas of legal or social counseling the [Studentenwerk Dresden](https://www.studentenwerk-dresden.de/english/soziales/ "Studentenwerk Dresden"){:target="_blank"} and the [Studentenrat](https://www.stura.tu-dresden.de/beratung "StuRa"){:target="_blank"} provide different offers.
 
 ### How does the timetable work?

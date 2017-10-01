@@ -30,7 +30,7 @@ Wenn die Wiese am Teich hinter der Fakultät nicht mehr ausreicht, empfehlen wir
 Etwas aktiver kannst du deine freie Zeit auch bei einem Spaziergang in der Dresdner Heide oder einer Fahrradtour entlang der Elbe nutzen.
 
 #### Gibt es Studierendenclubs?
-Natürlich, und in Dresden gleich 14 an der Zahl. Eine Übersicht findest du auf der [Seite des Studentenwerks](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}.
+Natürlich, und in Dresden gleich 13 an der Zahl. Eine Übersicht findest du auf der [Seite des Studierendenwerks](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}.
 
 Jedes Jahr im Mai findet die [Dresdner Nachtwanderung](https://www.dresdner-nachtwanderung.de/){:target="_blank"} statt. Es gibt Livemusik, Freigetränke und Shuttlebusse, die zwischen allen Clubs fahren.
 

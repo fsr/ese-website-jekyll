@@ -8,7 +8,7 @@ During the ESE week you will find photos and videos on this page.
 Until then, feel free to take a look at some impressions from the last years.
 
 
-<a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">Photo gallery of ESE 2016</a>
+<!-- <a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">Photo gallery of ESE 2016</a> -->
 
 
 

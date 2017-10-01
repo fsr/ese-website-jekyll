@@ -68,7 +68,7 @@ Deine Küche ist noch nicht aufgebaut oder du hast noch keinen Lieblingsbäcker 
 #### Montag
 
 **Einführungsveranstaltung** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 10 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}POT/81](https://navigator.tu-dresden.de/etplan/pot/01/raum/325501.0090)</span>  
-Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung und Einführung wirst du einer Seminargruppe für das erste Semester zugeteilt. Als Dankeschön für dein vorbildliches Erscheinen bekommst du dafür einen Ersti-Beutel mit vielem coolen Zeug.
+Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug.
 
 **Bunter Nachmittag** <span class="secondary round 20px label">{% image icons/clock alt:'' %} ab 13:30 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/Foyer](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2010)</span>  
 Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät und du kannst einen Blick in viele interessante Räume werfen. Schau dir zum Beispiel die Display Wall an oder sei bei einer exklusiven Führung durchs Rechenzentrum mit Prof. Nagel höchstpersönlich dabei. Es warten viele weitere Veranstaltungen und Workshops auf dich. Egal, ob du schon immer Linux auf deinem Rechner installieren oder einfach mal Brause selbst herstellen wolltest, am Bunten Nachmittag ist für jeden was dabei.
@@ -89,11 +89,11 @@ Falls du nach dem Ausflug zu viel frische Luft abbekommen hast, bist du eingelad
 **Stundenplanbrunch** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 10 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310)</span>  
 Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester.
 
-**Seminargruppen-Treffen** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 13 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310)</span>  
-Lerne deinen Mentor sowie die anderen Leute deiner Seminar-Gruppe kennen und werde deine dringensten Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen.
+**Seminargruppentreffen** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 13 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310)</span>  
+Lerne deinen Mentor sowie die anderen Leute deiner Seminar-Gruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen.
 
 **Kino-Abend** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 20:17 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}Kino im Kasten](http://www.openstreetmap.org/?mlat=51.03012&mlon=13.75400&zoom=16#map=15/51.0311/13.7517)</span>  
-Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit der Fachschaft Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. 
+Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. 
 
 #### Donnerstag
 
@@ -112,7 +112,7 @@ Das System Uni verstehen die meisten Studierenden selbst bei ihrem Abschluss noc
 Spiel, Spannung, Spaß. Wir simulieren den gesamten Verlauf des ersten Semesters in nur wenigen Stunden. Wer wird siegreich hervorgehen und wer zwangsexmatrikuliert? Der Abschluss der Woche wird nochmal äußert unterhaltsam.
 
 
-*Info: Bei den etwas kryptischen Zeichenkombinationen der Ortsangabe handelt es sich um das Bennenungsschema für Räumlichkeiten der TU Dresden. Einfach draufklicken und schon hilft dir der Campus Navigator weiter. Allgemeine Informationen zu Gebäuden und Navigation findest du im Abschnitt "Orientierung"*
+*Info: Bei den etwas kryptischen Zeichenkombinationen der Ortsangabe handelt es sich um das Bennenungsschema für Räumlichkeiten der TU Dresden. Einfach draufklicken und schon hilft dir der Campus Navigator weiter. Allgemeine Informationen zu Gebäuden und zur Navigation findest du im Abschnitt "Orientierung"*
 
 <!-- Das wichtigste Gebäude für dich ist die Fakultät Informatik im Andreas-Pfitzmann-Bau, kurz APB. Außerdem wirst du im ersten Semester viele Veranstaltungen im Hörsaalzentrum (HSZ) und Trefftz-Bau (TRE) haben.
 Trotzdem verirrt? Dann schau dir mal den [Campus Navigator](https://navigator.tu-dresden.de/) an.* -->

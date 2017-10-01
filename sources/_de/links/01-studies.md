@@ -22,12 +22,12 @@ In späteren Semestern stellst du deinen Stundenplan selbst zusammen und schreib
 
 #### Studienablaufplan
 
-Im Studienablaufplan wird festgelegt, welche Lehrveranstaltungen du in welchem Semester belegen solltest, wie viel Zeit sie in Anspruch nehmen und wie viele Leistungspunkte sie erbringen. Mit dem Studienablaufplane erhältst du einen Überblick, wann du ein Praktikum belegen sollst oder wann du Zeit für Urlaub hast. Bei dem Plan handelt es sich lediglich um eine Empfehlung, er ist nicht bindend.  
-Den Studienablaufplan findest du auf der letzten Seite der [Studienordnung](#).
+Im Studienablaufplan wird festgelegt, welche Lehrveranstaltungen du in welchem Semester belegen solltest, wie viel Zeit sie in Anspruch nehmen und wie viele Leistungspunkte sie erbringen. Mit dem Studienablaufplan erhältst du einen Überblick, wann du ein Praktikum belegen sollst oder wann du Zeit für Urlaub hast. Bei dem Plan handelt es sich lediglich um eine Empfehlung, er ist nicht bindend.  
+Den Studienablaufplan findest du auf der letzten Seite der [Studienordnung](#studienordnung).
 
 #### Module/Lehrveranstaltungen
 
-Module können Vorlesungen, Übungen und Praktika beinhalten. Der Inhalt eines Moduls ist in der zugehörigen Modulbeschreibung festgehalten, die du auf der der Webseite des Moduls oder in der PDF der [Studienordnung](#) zu finden ist. Hier findest du die Inhalte und Ziele der Lehrveranstaltung, die fachlichen Voraussetzungen und die zu erbringenden Prüfungsleistungen.
+Module können Vorlesungen, Übungen und Praktika beinhalten. Der Inhalt eines Moduls ist in der zugehörigen Modulbeschreibung festgehalten, die du auf der der Webseite des Moduls oder in der PDF der [Studienordnung](#studienordnung) zu finden ist. Hier findest du die Inhalte und Ziele der Lehrveranstaltung, die fachlichen Voraussetzungen und die zu erbringenden Prüfungsleistungen.
 
 #### Leistungspunkte
 
@@ -35,7 +35,7 @@ In Leistungspunkten wird der Arbeitsaufwand des Studierenden pro Modul bzw. pro 
 
 #### ZIH-Login
 
-Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhälts du deinen persönlichen **Uni-Login**, mit dem du dich in deinen [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, im WLAN "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" und allen anderen Uni-Plattformen anmelden kannst. Außerdem kannst du ihn auf vielen Platformen verwenden um Studierendenangebote zu nutzen, wie zum Beispiel von [Microsoft](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Kostenlose Microsoft-Lizenzen"){:target="_blank"} (Kostenlose Lizenzen), Spotify und vielen mehr.
+Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhältst du deinen persönlichen **Uni-Login**, mit dem du dich in deinen [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, im WLAN "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" und allen anderen Uni-Plattformen anmelden kannst. Außerdem kannst du ihn auf vielen Platformen verwenden um Studierendenangebote zu nutzen, wie zum Beispiel von [Microsoft](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Kostenlose Microsoft-Lizenzen"){:target="_blank"} (Kostenlose Lizenzen), Spotify und vielen mehr.
 
 #### jExam (Einschreibung)
 
@@ -61,11 +61,12 @@ Auf dem Campus gibt es mehrere [Mensen](https://www.studentenwerk-dresden.de/men
 
 #### SLUB (Sächsische Landes-, Staats-, und Universitätsbibliothek)
 
-Was in anderen Städten einfach Bib heißt, heißt bei uns [SLUB](https://navigator.tu-dresden.de/karten/dresden/geb/slub){:target="_blank"}. In der SLUB kannst du kostenlos Lehrbücher, Lexika und vieles mehr ausleihen. Melde dich einfach [online](https://www.slub-dresden.de/service/nutzer-der-slub-werden/){:target="_blank"} an. Solltest du ein Buch in der SLUB nicht finden, kannst du eine Anfrage schicken und die SLUB fügt es zum Sortiment hinzu, sofern es sich dabei um eine sinnvolle Anschaffung handelt. Viele Studieren nutzen die SLUB zum Lernen, weil es dort leise ist es viele Arbeitsplätze gibt. Wer in der Gruppe lernen will, kann sich kostenlos einen Arbeitsraum buchen.
+Was in anderen Städten einfach Bib heißt, heißt bei uns [SLUB](https://navigator.tu-dresden.de/karten/dresden/geb/slub){:target="_blank"}. In der SLUB kannst du kostenlos Lehrbücher, Lexika und vieles mehr ausleihen. Melde dich einfach [online](https://www.slub-dresden.de/service/nutzer-der-slub-werden/){:target="_blank"} an. Solltest du ein Buch in der SLUB nicht finden, kannst du eine Anfrage schicken und die SLUB fügt es zum Sortiment hinzu, sofern es sich dabei um eine sinnvolle Anschaffung handelt. Viele Studierende nutzen die SLUB zum Lernen, weil es dort leise ist und es viele Arbeitsplätze gibt. Wer in der Gruppe lernen will, kann sich kostenlos einen Arbeitsraum buchen.
 
 #### ascii
 
 Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufentahltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das wird dir weiterhelfen.
+<a id="studienordnung"></a>
 
 ### Studiendokumente und Links
 
@@ -90,7 +91,7 @@ Für den Studiengang Medieninformatik gibt es den Studienablaufplan auch als sep
 
 #####  Lehre
 
-*   [Lehrveranstaltungspläne](https://tu-dresden.de/ing/informatik/studium/lehre/stundenplaene "Lehrveranstaltungen der Fakultät Informatik"){:target="_blank"}
+*   [Lehrveranstaltungspläne](https://tu-dresden.de/ing/informatik/studium/lehre/lehrangebotskataloge/index "Lehrveranstaltungen der Fakultät Informatik"){:target="_blank"}
 *   Prüfungen
     *   [Prüfungsamt / Prüfungsorganisation](https://tu-dresden.de/ing/informatik/studium/pruefungsorganisation){:target="_blank"}
     <!-- *   [Einschreibung](https://tu-dresden.de/ing/informatik/studium/pruefungsorganisation/pruefungen/einschreibungen){:target="_blank"} -->
