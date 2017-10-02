@@ -65,7 +65,7 @@ Was in anderen Städten einfach Bib heißt, heißt bei uns [SLUB](https://naviga
 
 #### ascii
 
-Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufentahltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das wird dir weiterhelfen.
+Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufenthaltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das wird dir weiterhelfen.
 <a id="studienordnung"></a>
 
 ### Studiendokumente und Links
