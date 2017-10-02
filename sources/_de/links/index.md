@@ -45,7 +45,7 @@ Die [No Panic](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/n
 #### Freizeit
 
 *   [Unisport](https://www.usz.tu-dresden.de/){:target="_blank"}
-*   [Studierendenclubs](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}   ([Vereinigung Dresdner Studentenclubs](https://vdsc.de/){:target="_blank"} )
+*   [Studierendenclubs](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}   ([Vereinigung Dresdner Studentenclubs](https://vdsc.de/){:target="_blank"})
 
 #### Reisen
 

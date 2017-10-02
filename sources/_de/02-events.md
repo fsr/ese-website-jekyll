@@ -79,7 +79,7 @@ In einem nahtlosen Übergang beginnt dann nach dem Ende des Bunten Nachmittags e
 #### Dienstag 
 
 **Wanderung** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 8:15 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}Hauptbahnhof Gleis 18](http://www.openstreetmap.org/?mlat=%2051.0402452&mlon=13.7320768#map=15/51.0342/13.7281)</span>  
-Es ist Feiertag, also schalten wir nach einem aufregenden Montag einen Gang zurück. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächschische Schweiz etwas ruhen lassen und erstmal die Natur genießen.
+Es ist Feiertag, also schalten wir nach einem aufregenden Montag einen Gang zurück. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen.
 
 **Kneipen-Tour** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 20 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}Club Count Down](http://www.openstreetmap.org/?mlat=51.0484&mlon=13.7570&zoom=15#map=14/51.0456/13.7525)</span>  
 Falls du nach dem Ausflug zu viel frische Luft abbekommen hast, bist du eingeladen am Abend in etwas stickerer Umgebung das studentische Nachtleben besser kennenzulernen. Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort.
@@ -90,7 +90,7 @@ Falls du nach dem Ausflug zu viel frische Luft abbekommen hast, bist du eingelad
 Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester.
 
 **Seminargruppentreffen** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 13 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310)</span>  
-Lerne deinen Mentor sowie die anderen Leute deiner Seminar-Gruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen.
+Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen.
 
 **Kino-Abend** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 20:17 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}Kino im Kasten](http://www.openstreetmap.org/?mlat=51.03012&mlon=13.75400&zoom=16#map=15/51.0311/13.7517)</span>  
 Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. 
@@ -109,10 +109,10 @@ Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben.
 Das System Uni verstehen die meisten Studierenden selbst bei ihrem Abschluss noch nicht vollständig. Mit ein paar unterhaltsamen und interaktiven Vorträgen wollen wir dir Wissen mitgeben, das wir uns selbst zum Studienstart gewünscht hätten.
 
 **ESE-Spiel** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 13 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/Foyer](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2010)</span>  
-Spiel, Spannung, Spaß. Wir simulieren den gesamten Verlauf des ersten Semesters in nur wenigen Stunden. Wer wird siegreich hervorgehen und wer zwangsexmatrikuliert? Der Abschluss der Woche wird nochmal äußert unterhaltsam.
+Spiel, Spannung, Spaß. Wir simulieren den gesamten Verlauf des ersten Semesters in nur wenigen Stunden. Wer wird siegreich hervorgehen und wer zwangsexmatrikuliert? Der Abschluss der Woche wird nochmal äußerst unterhaltsam.
 
 
-*Info: Bei den etwas kryptischen Zeichenkombinationen der Ortsangabe handelt es sich um das Bennenungsschema für Räumlichkeiten der TU Dresden. Einfach draufklicken und schon hilft dir der Campus Navigator weiter. Allgemeine Informationen zu Gebäuden und zur Navigation findest du im Abschnitt "Orientierung"*
+*Info: Bei den etwas kryptischen Zeichenkombinationen der Ortsangabe handelt es sich um das Bennenungsschema für Räumlichkeiten der TU Dresden. Einfach draufklicken und schon hilft dir der Campus Navigator weiter.*
 
 <!-- Das wichtigste Gebäude für dich ist die Fakultät Informatik im Andreas-Pfitzmann-Bau, kurz APB. Außerdem wirst du im ersten Semester viele Veranstaltungen im Hörsaalzentrum (HSZ) und Trefftz-Bau (TRE) haben.
 Trotzdem verirrt? Dann schau dir mal den [Campus Navigator](https://navigator.tu-dresden.de/) an.* -->
