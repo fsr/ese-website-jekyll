@@ -29,7 +29,7 @@ If the meadow at the pond behind the faculty is no longer sufficient, we recomme
 You can also use your free time more actively by taking a walk in the forests of the Dresdner Heide or a bicycle tour along the Elbe.
 
 #### Are there student clubs?
-Of course, and in Dresden there are 14 of them. You can find an overview on the [page of the Studentenwerk](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}.
+Of course, and in Dresden there are 13 of them. You can find an overview on the [page of the Studentenwerk](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}.
 
 Every year in May the [Dresden night hike](https://www.dresdner-nachtwanderung.de/){:target="_blank"} takes place. There is live music, free drinks and shuttle buses between all the clubs.
 

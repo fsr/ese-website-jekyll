@@ -19,6 +19,7 @@ GEM
       forwardable-extended (~> 2.5)
     fastimage (2.1.0)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     html-pipeline (2.6.0)
@@ -67,6 +68,8 @@ GEM
     minitest (5.10.3)
     nokogiri (1.8.0)
       mini_portile2 (~> 2.2.0)
+    nokogiri (1.8.0-x64-mingw32)
+      mini_portile2 (~> 2.2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -90,6 +93,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll
@@ -99,4 +103,4 @@ DEPENDENCIES
   jemoji
 
 BUNDLED WITH
-   1.15.2
+   1.15.4

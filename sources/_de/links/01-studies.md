@@ -27,7 +27,7 @@ Den Studienablaufplan findest du auf der letzten Seite der [Studienordnung](#stu
 
 #### Module/Lehrveranstaltungen
 
-Module können Vorlesungen, Übungen und Praktika beinhalten. Der Inhalt eines Moduls ist in der zugehörigen Modulbeschreibung festgehalten, die du auf der der Webseite des Moduls oder in der PDF der [Studienordnung](#studienordnung) zu finden ist. Hier findest du die Inhalte und Ziele der Lehrveranstaltung, die fachlichen Voraussetzungen und die zu erbringenden Prüfungsleistungen.
+Module können Vorlesungen, Übungen und Praktika beinhalten. Der Inhalt eines Moduls ist in der zugehörigen Modulbeschreibung festgehalten, die auf der Webseite des Moduls oder in der PDF der [Studienordnung](#studienordnung) zu finden ist. Hier findest du die Inhalte und Ziele der Lehrveranstaltung, die fachlichen Voraussetzungen und die zu erbringenden Prüfungsleistungen.
 
 #### Leistungspunkte
 
@@ -35,15 +35,17 @@ In Leistungspunkten wird der Arbeitsaufwand des Studierenden pro Modul bzw. pro 
 
 #### ZIH-Login
 
-Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhältst du deinen persönlichen **Uni-Login**, mit dem du dich in deinen [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, im WLAN "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" und allen anderen Uni-Plattformen anmelden kannst. Außerdem kannst du ihn auf vielen Platformen verwenden um Studierendenangebote zu nutzen, wie zum Beispiel von [Microsoft](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Kostenlose Microsoft-Lizenzen"){:target="_blank"} (Kostenlose Lizenzen), Spotify und vielen mehr.
+Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhältst du deinen persönlichen **Uni-Login**, mit dem du dich in deinen [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, im WLAN "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" und allen anderen Uni-Plattformen anmelden kannst. Außerdem kannst du ihn auf vielen Plattformen für Studierendenangebote nutzen, wie zum Beispiel von [Microsoft](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Kostenlose Microsoft-Lizenzen"){:target="_blank"} (kostenlose Lizenzen), [Campus Sachsen](https://campussachsen.tu-dresden.de/){:target="_blank"} (Office 365), Spotify und vielen mehr.
 
 #### jExam (Einschreibung)
 
 In der Online-Plattform jExam schreibst du dich für deine Seminargruppe und Lehrveranstaltungen ein und rufst deine **Prüfungsergebnisse** ab. Am **[Mittwoch](/2017/events)** wirst du dich dort zusammen mit einem Tutor für deine Seminargruppe einschreiben.  
   
-***Für alle ausländischen Studierenden – DSE, CL Studierende und Austauschstudierende, die nur 1-2 Semester an der Fakultät studieren, ist das ‘Service Center for International Students’ im Raum INF/2018 zuständig.***
+***Für alle ausländischen Studierenden – DSE, CL Studierende und Austauschstudierende, die nur 1-2 Semester an der Fakultät studieren – ist das ‘Service Center for International Students’ im Raum INF/2018 zuständig.***
 
 #### Mailinglisten
+
+Über Mailinglisten werden nützliche Informationen an alle Studierenden verteilt. Eine Übersicht findest du auf der [Seite des FSR](https://www.ifsr.de/studium:mailinglisten){:target="_blank"}.
 
 ### Campus
 
@@ -57,15 +59,15 @@ Der [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blan
 
 #### Mensen
 
-Auf dem Campus gibt es mehrere [Mensen](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} mit täglich wechselnden [Speiseplänen](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. Die nächste Mensa am APB ist die [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. Zum Bezahlen wird die [Emeal-Karte](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"} verwendet. Sie kann zur ESE **jeden Tag beim Frühstück** erworben werden. Beachte dabei die [Hinweise](/2017/events), was du mitbringen musst.
+Auf dem Campus gibt es mehrere [Mensen](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} mit täglich wechselnden [Speiseplänen](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. Die nächstgelegene Mensa zum APB ist die [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. Zum Bezahlen wird die [Emeal-Karte](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"} verwendet. Sie kann zur ESE **jeden Tag beim Frühstück** erworben werden. Beachte dabei die [Hinweise](/2017/events), was du mitbringen musst.
 
-#### SLUB (Sächsische Landes-, Staats-, und Universitätsbibliothek)
+#### SLUB (Sächsische Landes-, Staats- und Universitätsbibliothek)
 
 Was in anderen Städten einfach Bib heißt, heißt bei uns [SLUB](https://navigator.tu-dresden.de/karten/dresden/geb/slub){:target="_blank"}. In der SLUB kannst du kostenlos Lehrbücher, Lexika und vieles mehr ausleihen. Melde dich einfach [online](https://www.slub-dresden.de/service/nutzer-der-slub-werden/){:target="_blank"} an. Solltest du ein Buch in der SLUB nicht finden, kannst du eine Anfrage schicken und die SLUB fügt es zum Sortiment hinzu, sofern es sich dabei um eine sinnvolle Anschaffung handelt. Viele Studierende nutzen die SLUB zum Lernen, weil es dort leise ist und es viele Arbeitsplätze gibt. Wer in der Gruppe lernen will, kann sich kostenlos einen Arbeitsraum buchen.
 
 #### ascii
 
-Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufenthaltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das wird dir weiterhelfen.
+Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufenthaltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das dir weiterhelfen wird.
 <a id="studienordnung"></a>
 
 ### Studiendokumente und Links
