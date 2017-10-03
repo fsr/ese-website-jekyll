@@ -1,6 +1,6 @@
 ---
-date: 2017-09-30
-title: Bald geht's los
+date: 2017-10-03
+title: Einschreibung
 ---
 
-Bald geht's los. Wir sehen uns am Montag beim Frühstück :blush:
+Nicht vergessen: Am Mittwoch findet die Einschreibung statt. :blush:

@@ -1,6 +1,6 @@
 ---
-date: 2017-09-30
-title: ESE starts soon.
+date: 2017-10-03
+title: Enrollment
 ---
 
-ESE starts soon. See you on Monday at the breakfast :blush:
+Don't forget: On Wednesday is enrollment :blush:
