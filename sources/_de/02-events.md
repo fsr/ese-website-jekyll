@@ -111,6 +111,10 @@ Das System Uni verstehen die meisten Studierenden selbst bei ihrem Abschluss noc
 **ESE-Spiel** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 13 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/Foyer](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2010)</span>  
 Spiel, Spannung, Spaß. Wir simulieren den gesamten Verlauf des ersten Semesters in nur wenigen Stunden. Wer wird siegreich hervorgehen und wer zwangsexmatrikuliert? Der Abschluss der Woche wird nochmal äußerst unterhaltsam.
 
+#### Samstag
+
+**Stadtführung** <span class="secondary round 20px label">{% image icons/clock alt:'' %} 13 Uhr</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}vor der Altmarkt-Galerie](http://www.openstreetmap.org/?mlat=%2051.047517&mlon=13.736457#map=18/51.04750/13.73650)</span>  
+
 
 *Info: Bei den etwas kryptischen Zeichenkombinationen der Ortsangabe handelt es sich um das Bennenungsschema für Räumlichkeiten der TU Dresden. Einfach draufklicken und schon hilft dir der Campus Navigator weiter.*
 
