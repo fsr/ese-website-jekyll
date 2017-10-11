@@ -5,22 +5,12 @@ permalink: /schedules/
 layout: page
 ---
 
-<!--
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>WICHTIG - Aktuelle Änderungen (08.10.2016 - 15:30)</h4>
+<h4>WICHTIG - Aktuelle Änderungen (11.10.2017 - 18:00)</h4>
 <ul>
-<li><strong>Bachelor/9</strong>: Die AuD Übung aus der 5. DS am Freitag wurde auf den Donnerstag 6. DS gelegt.</li>
-</ul>
-
-</div><div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>WICHTIG - Aktuelle Änderungen (05.10.2016 - 08:30)</h4>
-<ul>
-<li><strong>Bachelor/5</strong>: Die DIS Übung aus der 3. DS am Donnerstag wurde auf den Freitag 4. DS gelegt. Die EMI Übung aus der 2. DS am Dienstag wurde auf den Donnerstag 3. DS gelegt.</li>
-<li><strong>Bachelor/6</strong>: Die EMI Übung aus der 2. DS am Dienstag wurde auf den Freitag 4. DS gelegt.</li>
-<li><strong>Diplom/1</strong>: Die DIS Übung aus der 4. DS am Freitag wurde auf den Donnerstag 3. DS gelegt.</li>
+<li><strong>Diplom/3</strong>: Die TGI Übung aus der 2. DS am Dienstag wurde auf Donnerstag 4. DS gelegt.</li>
 </ul>
 </div>
--->
 
 
 <div class="panel">

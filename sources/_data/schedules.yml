@@ -486,11 +486,6 @@ values:
         location: WIL/C106/U
       -
         title: TGI
-        type: Ü
-        slot: 2
-        location: APB/E010/U
-      -
-        title: TGI
         type: V
         slot: 3
         location: HSZ/0002/E
@@ -512,6 +507,11 @@ values:
         type: V
         slot: 2
         location: HSZ/0003/H
+      -
+        title: TGI
+        type: Ü
+        slot: 4
+        location: APB/E006/U
       -
         title: RA1
         type: Ü
