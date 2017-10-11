@@ -4,17 +4,12 @@ weight : 300
 permalink: /en/schedules/
 ---
 
-<!--
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>Attention - current changes (08.10.2016 - 15:30)</h4>
-There were some small changes to 1 schedule (Bachelor/9).
+<h4>Attention - current changes (11.10.2017 - 18:00)</h4>
+<ul>
+<li><strong>Diplom/3</strong>: The TGI exercise was moved from Tuesday 2. DS to Thursday 4.DS.</li>
+</ul>
 </div>
-
-<div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>Attention - current changes (05.10.2016 - 08:30)</h4>
-There were some small changes to 3 schedules (Bachelor/5, Bachelor/6, Diplom/1).
-</div>
--->
 
 
 <div class="panel">
