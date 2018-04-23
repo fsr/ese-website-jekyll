@@ -1,15 +1,41 @@
-{% assign schedule-length = site.data.events.schedule-length | split: ':' %}
-{% assign schedule-length = schedule-length[1] | divided_by: 60.0 | plus: schedule-length[0] %}
-{% assign schedule-begin = site.data.events.schedule-begin %}
 {% for day in site.data.events.days %}
-<h4>
-	{% if include.lang == "en" and day.name-en %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %} {{ day.date | date: "%-d.%m.%Y" }}
-</h4>
-<ul>
-	{% for event in day.events %}
-	<li{% if include.lang == "en" and event.english == true %} class="en"{% endif %}>
-		{{ event.begin }} <strong>{% if include.lang == "en" and event.title-en %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</strong> <small>{% if include.lang == "en" and event.location-en %}{{ event.location-en }}{% else %}{{ event.location }}{% endif %}</small>
-	</li>
-	{% endfor %}
-</ul>
+<td class="date">
+    <div>
+        <h4 class="hide-for-medium-only">{% if include.lang == "en" %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %}</h4>
+        {% for event in day.events %}
+        <p id="{{ day.name }}-{{ forloop.index }}" class="event">
+            <strong>{% if include.lang == "en" %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</strong>
+            <!-- time -->
+            <span class="secondary round 20px label">{% image icons/clock alt:'' %} {{ event.begin }} Uhr</span>
+            <!-- location -->
+            {% if event.location %}
+            <span class="secondary round 20px label">
+                {% if site.data.locations.[event.location] %}
+                    <a href="{{ site.data.locations.[event.location].url }}">
+                        {% image icons/map-marker alt:'' %}
+                        {% if include.lang == "en" and site.data.locations.[event.location].name-en %}
+                            {{ site.data.locations.[event.location].name-en }}
+                        {% else %}
+                            {{ site.data.locations.[event.location].name }}
+                        {% endif %}
+                    </a>
+                {% else %}
+                    {% if include.lang == "en" and event.location-en %}
+                        {{ event.location-en }}
+                    {% else %}
+                        {{ event.location }}
+                    {% endif %}
+                {% endif %}
+            </span>
+            {% endif %}
+            <br/>
+            {% if include.lang == "en" %}
+                {{ event.description-en }}
+            {% else %}
+                {{ event.description }}
+            {% endif %}
+        </p>
+        {% endfor %}
+    </div>
+</td>
 {% endfor %}

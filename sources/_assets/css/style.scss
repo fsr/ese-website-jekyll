@@ -6,7 +6,7 @@ $baseurl: "{{ site.baseurl }}";
  * Yearly settings
  */
 $year-color: #CB6040;
-$brand-color: green;
+$brand-color: lighten($year-color, 20%);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

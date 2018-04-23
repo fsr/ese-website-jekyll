@@ -1,0 +1,24 @@
+"APB/E023":
+  name: "APB/E023"
+  url: "https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310"
+"POT/81/A":
+  name: "POT/81/A"
+  url: "https://navigator.tu-dresden.de/etplan/pot/01/raum/325501.0090"
+"APB/Foyer":
+  name: "Foyer des APB"
+  name-en: "Foyer of the APB"
+  url: "https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2010"
+"WEB/222/U":
+  name: "WEB/222/U"
+  url: "https://navigator.tu-dresden.de/etplan/web/02/raum/351202.0900"
+"countdown":
+  name: "Club Count Down"
+  name-en: "club Count Down"
+  url: "http://www.openstreetmap.org/?mlat=51.0484&mlon=13.7570&zoom=15#map=14/51.0456/13.7525"
+"kik":
+  name: "Kino im Kasten"
+  url: "http://www.openstreetmap.org/?mlat=51.03012&mlon=13.75400&zoom=16#map=15/51.0311/13.7517)"
+"altmarkt-galerie":
+  name: "vor der Altmarktgalerie"
+  url: "http://www.openstreetmap.org/?mlat=%2051.047517&mlon=13.736457#map=18/51.04750/13.73650"
+

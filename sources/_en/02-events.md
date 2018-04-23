@@ -14,13 +14,13 @@ permalink: /en/events/
   <li class="accordion-navigation">
     <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrier-free Schedule</a>
     <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
-   		{% include eventlist.html lang="en" %}
+   		{% include timetable-barrierfree.html lang="en" %}
     </div>
   </li>
 </ul>
 
 
-**Important: Events marked with a green border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
+**Important: Events marked with a orange border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
 
 
 
@@ -44,14 +44,15 @@ Das [Kino im Kasten](https://www.kino-im-kasten.de/){:target="_blank"}  befindet
 
 © [OpenStreetMap](https://www.openstreetmap.org/copyright/de){:target="_blank"} -Mitwirkende -->
 
-<!-- 
 ### Die Highlights der Woche
 
 Hier eine kurze Übersicht des Programms. Änderungen werden auch über unsere sozialen Kanäle bekannt gegeben. Damit du nichts verpasst, folge uns einfach schon mal auf [Twitter](https://twitter.com/ifsr) und [Facebook](https://www.facebook.com/iFSR.de/). Es gibt übrigens auch eine eigene [Facebook-Gruppe](https://www.facebook.com/groups/TUDInf2017/) für alle Informatik-Studierenden eines Jahrgangs.
 
-Im [Zeitplan der ESE](events) kannst du schon mal schauen, was dich alles erwartet. Dort gibt's das Ganze auch in Form einer Tabelle oder einer iCal-Datei zum Download. Schau auf jeden Fall am Montag vorbei, dann werden wir dir erzählen, wie die Woche ablaufen wird. -->
+Im [Zeitplan der ESE](events) kannst du schon mal schauen, was dich alles erwartet. Dort gibt's das Ganze auch in Form einer Tabelle oder einer iCal-Datei zum Download. Schau auf jeden Fall am Montag vorbei, dann werden wir dir erzählen, wie die Woche ablaufen wird.
 
-<!-- #### Every day
+#### Every day
 
 **Breakfast** <span class="secondary round 20px label">{% image icons/clock alt:'' %} from 9.00 to 10.00</span> <span class="secondary round 20px label">[{% image icons/map-marker alt:'' %}APB/E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310)</span>  
-Your kitchen is not set up yet or you did not find your favourite bakery yet? We prepare breakfast for you every day, with rolls, coffee, tea, juice and all that goes with it. Of cause it is - like everything else in the ESE - for free. -->
+Your kitchen is not set up yet or you did not find your favourite bakery yet? We prepare breakfast for you every day, with rolls, coffee, tea, juice and all that goes with it. Of cause it is - like everything else in the ESE - for free.
+
+{% include eventlist.html lang="en" %}

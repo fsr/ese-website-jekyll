@@ -52,10 +52,24 @@
               {% capture filler %}{% endcapture %}
 
               <td rowspan="{{ duration | remove: ".0" }}" class="data{% if include.lang == "en" and event.english == true %} en{% endif %}">
-                <div class="data">
+                <a class="data" href="#{{ day.name }}-{{forloop.index}}">
                   <b>{% if include.lang == "en" and event.title-en %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</b><br />
-                  <small>{% if include.lang == "en" and event.location-en %}{{ event.location-en }}{% else %}{{ event.location }}{% endif %}</small>
-                </div>
+                  <small>
+                    {% if site.data.locations.[event.location] %}
+                      {% if include.lang == "en" and site.data.locations.[event.location].name-en %}
+                        {{ site.data.locations.[event.location].name-en }}
+                      {% else %}
+                        {{ site.data.locations.[event.location].name }}
+                      {% endif %}
+                    {% else %}
+                      {% if include.lang == "en" and event.location-en %}
+                        {{ event.location-en }}
+                      {% else %}
+                        {{ event.location }}
+                      {% endif %}
+                    {% endif %}
+                  </small>
+                </a>
               </td>
 
             {% elsif begin <= slot and end > slot %}

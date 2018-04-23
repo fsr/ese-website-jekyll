@@ -287,12 +287,25 @@ table {
                 &.data {
                     border: 1px solid black;
                     padding: 0.4rem;
+                    overflow: hidden;
 
                     &:hover {
-                        background-color: $gainsboro;
+                        background-color: $brand-color;
+                        cursor: pointer;
                     }
+
                     &.en {
-                        box-shadow: inset 0 0 10px $success-color;
+                        box-shadow: inset 0 0 10px $year-color;
+                    }
+
+                    a {
+                        $arbitrary-large-number-to-make-whole-cell-clickable: 1000px;
+                        margin: -$arbitrary-large-number-to-make-whole-cell-clickable;
+                        padding: $arbitrary-large-number-to-make-whole-cell-clickable;
+
+                        &:hover {
+                            color: $black;
+                        }
                     }
                 }
 
@@ -332,7 +345,12 @@ ul.accordion {
     }
 }
 
-
+.event {
+    // hack to avoid hiding of link targets by fixed header
+    $top-bar-height-from-foundation: 3.75rem + 3rem;
+    padding-top: $top-bar-height-from-foundation;
+    margin-top: -$top-bar-height-from-foundation;
+}
 
 /**
  *   Styles for the Skip link

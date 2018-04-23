@@ -6,7 +6,7 @@ layout: page
 ---
 
 <!-- <a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">Foto-Galerie der ESE 2016</a> -->
-<a href="https://users.ifsr.de/~vogel/2017/" class="button radius large" style="color:#ffffff">Fotos der aktuellen ESE</a>
+<a href="https://users.ifsr.de/~vogel/2017/" class="button radius large" style="color:#ffffff">Fotos der letzten ESE</a>
 
 <div class="inline-list">
 <a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="button radius large" style="color:#ffffff">Video der ESE 2016 (YouTube)</a>
