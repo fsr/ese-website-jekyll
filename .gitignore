@@ -21,3 +21,6 @@ manifest.js
 # unfortunately, Travis cannot extract the emoji, so we really need to add them to the repo
 #/sources/static/emoji/
 
+
+# ide
+.idea
