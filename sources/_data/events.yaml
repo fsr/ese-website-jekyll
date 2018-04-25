@@ -4,7 +4,7 @@ days:
   -
     name: "Montag"
     name-en: Monday
-    date: 02.10.2017
+    date: 02.10.2018
     events:
         -
             begin: "9:00"
@@ -50,7 +50,7 @@ days:
   -
     name: "Dienstag"
     name-en: Tuesday
-    date: 03.10.2017
+    date: 03.10.2018
     events:
         -
             title: "Wanderung"
@@ -72,7 +72,7 @@ days:
   -
     name: "Mittwoch"
     name-en: Wednesday
-    date: 04.10.2017
+    date: 04.10.2018
     events:
         -
             begin: "9:00"
@@ -115,7 +115,7 @@ days:
   -
     name: "Donnerstag"
     name-en: Thursday
-    date: 05.10.2017
+    date: 05.10.2018
     events:
       -
         title: "Frühstück"
@@ -157,7 +157,7 @@ days:
   -
     name: "Freitag"
     name-en: Friday
-    date: 06.10.2017
+    date: 06.10.2018
     events:
       -
         title: "Frühstück"
@@ -190,7 +190,7 @@ days:
   -
     name: "Samstag"
     name-en: Saturday
-    date: 07.10.2017
+    date: 07.10.2018
     events:
       -
         title: "Stadt&shy;führung"

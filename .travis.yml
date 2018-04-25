@@ -1,7 +1,7 @@
 # Travis CI configuration file to build a Jekyll project 
 # and deploy the static files to GitHub Pages afterwards
 # Maintained by Lutz Thies (https://github.com/7HAL32)
-# July 2017
+# July 2018
 
 language: ruby
 rvm:

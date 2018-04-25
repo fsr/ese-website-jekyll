@@ -17,7 +17,7 @@ Every seminar group comes with a tutor who will give you all the information you
 
 You get a schedule according to your seminar group of choice in your first semester. That way you have less organisatory work to do and it is ensured that everyone get's a place in the (sometimes small) classes, but you can still choose the best schedule for you. The schedules are all oriented towards the planned modules for the first semester according to the official study schedule.
 
-<a class="button expand tiny secondary" href="/2017/schedules">This way to the schedules</a>
+<a class="button expand tiny secondary" href="/2018/schedules">This way to the schedules</a>
 
 In the following semesters you'll have to build your own schedule and enroll in lectures and exercises by yourself.
 
@@ -40,7 +40,7 @@ You will receive your own personal **Uni-Login** from the ZIH (the centre for in
 
 #### jExam (Enrollment)
 
-On the online-platform jExam you will enroll in your seminar group and courses, and later receive your **exam results**. On **[Wednesday](/2017/events)** you will enroll together with a tutor from your seminar group.
+On the online-platform jExam you will enroll in your seminar group and courses, and later receive your **exam results**. On **[Wednesday](/2018/events)** you will enroll together with a tutor from your seminar group.
 
 ***For all international students - DSE, CL Students and Exchangestudents, who only partake in 1-2 semesters at the faculty: please refer to the 'Service Center for International Students' in the room INF/2018.***
 
@@ -58,7 +58,7 @@ The [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blan
 
 #### Canteen
 
-On campus there are multiple [canteens](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} with daily changing [menues](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. The nearest canteen to the APB is the [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. You pay with your [Emeal-Card](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}. The card can be acquired at ESE **everyday during breakfast**. Please note the [requirements](/2017/events).
+On campus there are multiple [canteens](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} with daily changing [menues](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. The nearest canteen to the APB is the [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. You pay with your [Emeal-Card](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}. The card can be acquired at ESE **everyday during breakfast**. Please note the [requirements](/2018/events).
 
 
 #### SLUB (Saxon State and University Library)

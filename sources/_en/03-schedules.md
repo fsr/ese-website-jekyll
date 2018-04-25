@@ -5,7 +5,7 @@ permalink: /en/schedules/
 ---
 
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>Attention - current changes (11.10.2017 - 18:00)</h4>
+<h4>Attention - current changes (11.10.2018 - 18:00)</h4>
 <ul>
 <li><strong>Diplom/3</strong>: The TGI exercise was moved from Tuesday 2. DS to Thursday 4.DS.</li>
 </ul>

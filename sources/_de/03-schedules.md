@@ -6,7 +6,7 @@ layout: page
 ---
 
 <div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>WICHTIG - Aktuelle Änderungen (11.10.2017 - 18:00)</h4>
+<h4>WICHTIG - Aktuelle Änderungen (11.10.2018 - 18:00)</h4>
 <ul>
 <li><strong>Diplom/3</strong>: Die TGI Übung aus der 2. DS am Dienstag wurde auf Donnerstag 4. DS gelegt.</li>
 </ul>

@@ -31,28 +31,7 @@ Mehr Infos zur Emeal findest du auf der [Seite des Studierendenwerkes](http://ww
 <br>
 
 Den aktuellen Zeitplans gibt's auch als **iCal-Datei**, um ihn direkt in den Kalender zu importieren:  
-<a class="button small secondary" href="/2017/ESE.ics">Download</a>
-
-
-<!-- ### Fakultät Informatik (Andreas-Pfitzmann-Bau, APB)
-
-% include osm_apb.html %}
-
-Direkt vor der Fakultät hält die Bus-Linie 85 an der Haltestelle Helmholtzstraße.
-
-### Studentenclub Count Down
-
-% include osm_cd.html %}
-
-Das [Count Down](http://countdown-dresden.de/){:target="_blank"} befindet sich im Studentenwohnheim in der Güntzstraße 22. Südlich liegt der Straßburger Platz (hier halten die Straßenbahnen 1, 2, 4, 10, 12 und 13) und nördlich die Haltestelle St.-Benno-Gymnasium (hier hält die 13 und die Bus-Linie 62).
-
-### Kino im Kasten
-
-% include osm_kik.html %}
-
-Das [Kino im Kasten](https://www.kino-im-kasten.de/){:target="_blank"}  befindet sich im großen Hörsaal des TU-Gebäudes ABS. Anreisemöglichkeiten gibt es mit der Buslinie 66 zur Haltestelle Weberplatz oder der Straßenbahnlinie 11 am Strehlener Platz.
-
-© [OpenStreetMap](https://www.openstreetmap.org/copyright/de){:target="_blank"} -Mitwirkende -->
+<a class="button small secondary" href="/2018/ESE.ics">Download</a>
 
 <!-- 
 ### Die Highlights der Woche

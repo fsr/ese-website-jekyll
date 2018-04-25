@@ -16,7 +16,7 @@ Als Unterstützung gibt es einen Mentor, der dafür verantwortlich ist, euch die
 
 Deinen Stundenplan für das erste Semester erhältst du entsprechend deiner gewählten Seminargruppe. So kriegst du die Arbeit abgenommen, es ist gesichert, dass jeder einen Platz in den Übungsräumen erhält, und du hast trotzdem noch die Wahl zwischen verschiedenen Stundenplänen. Die Stundenpläne richten sich dabei alle nach den im Studienablaufplan für das erste Semester vorgesehenen Modulen.  
 
-<a class="button expand tiny secondary" href="/2017/schedules">Hier geht's zu den Stundenplänen</a>
+<a class="button expand tiny secondary" href="/2018/schedules">Hier geht's zu den Stundenplänen</a>
 
 In späteren Semestern stellst du deinen Stundenplan selbst zusammen und schreibst dich für die Vorlesungen und Übungen einzeln ein.
 
@@ -39,7 +39,7 @@ Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhälts
 
 #### jExam (Einschreibung)
 
-In der Online-Plattform jExam schreibst du dich für deine Seminargruppe und Lehrveranstaltungen ein und rufst deine **Prüfungsergebnisse** ab. Am **[Mittwoch](/2017/events)** wirst du dich dort zusammen mit einem Tutor für deine Seminargruppe einschreiben.  
+In der Online-Plattform jExam schreibst du dich für deine Seminargruppe und Lehrveranstaltungen ein und rufst deine **Prüfungsergebnisse** ab. Am **[Mittwoch](/2018/events)** wirst du dich dort zusammen mit einem Tutor für deine Seminargruppe einschreiben.  
   
 ***Für alle ausländischen Studierenden – DSE, CL Studierende und Austauschstudierende, die nur 1-2 Semester an der Fakultät studieren – ist das ‘Service Center for International Students’ im Raum INF/2018 zuständig.***
 
@@ -59,7 +59,7 @@ Der [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blan
 
 #### Mensen
 
-Auf dem Campus gibt es mehrere [Mensen](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} mit täglich wechselnden [Speiseplänen](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. Die nächstgelegene Mensa zum APB ist die [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. Zum Bezahlen wird die [Emeal-Karte](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"} verwendet. Sie kann zur ESE **jeden Tag beim Frühstück** erworben werden. Beachte dabei die [Hinweise](/2017/events), was du mitbringen musst.
+Auf dem Campus gibt es mehrere [Mensen](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} mit täglich wechselnden [Speiseplänen](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. Die nächstgelegene Mensa zum APB ist die [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. Zum Bezahlen wird die [Emeal-Karte](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"} verwendet. Sie kann zur ESE **jeden Tag beim Frühstück** erworben werden. Beachte dabei die [Hinweise](/2018/events), was du mitbringen musst.
 
 #### SLUB (Sächsische Landes-, Staats- und Universitätsbibliothek)
 

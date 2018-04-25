@@ -5,8 +5,8 @@ permalink: /links/
 layout: page
 ---
 
-<a class="button expand" href="/2017/links/studies/">Informationen zum Studium</a>
-<a class="button expand" href="/2017/links/dresden/">Informationen zu Dresden</a>
+<a class="button expand" href="/2018/links/studies/">Informationen zum Studium</a>
+<a class="button expand" href="/2018/links/dresden/">Informationen zu Dresden</a>
 
 ### ESE auf Facebook
 
