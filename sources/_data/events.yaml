@@ -8,13 +8,13 @@ days:
     events:
         -
             begin: "9:00"
-            duration: "1:00"
+            duration: "0:45"
             title: "Früh&shy;stück"
             title-en: "Break&shy;fast"
             location: "APB/E023"
             english: true
-            description: "Lorem Ipsum de"
-            description-en: "Lorem Ipsum en"
+            description: "Kommt vorbei und startet gemeinsam mit uns in den Tag. Das Frühstück bietet euch bereits die perfekte Gelegenheit eure Kommilitonen kennenzulernen."
+            description-en: "We start our day together with a nice breakfast. This is a great opportunity for you to meet your fellow students"
         -
             begin: "10:00"
             duration: "2:30"
@@ -22,30 +22,42 @@ days:
             title-en: "Greeting and Tutorials"
             location: "POT/81/A"
             description-de: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug."
-            description-en: "Lorem Ipsum en"
+            description-en: "After a new welcoming speeches, you'll get all the important informations you need for your first semester. Afterwards you get your amazing uni-bag with a lot of cool stuff"
         -
             begin: "12:30"
             duration: "1:00"
             title: "Mit&shy;tags&shy;pause"
             title-en: "Lunch"
             english: true
-            description: "Lorem Ipsum de"
-            description-en: "Lorem Ipsum en"
+            description: "Zeit für eine kleine Essenspause."
+            description-en: "Let's take a break and get some food."
         -
+            title: "Vorstellung der Lehrenden"
+            title-en: "Meet the lecturers"
             begin: "13:30"
-            duration: "4:00"
-            title: "Bunter Nach&shy;mittag"
-            title-en: "Get together"
+            duration: "2:00"
             location: "APB/Foyer"
-            description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät und du kannst einen Blick in viele interessante Räume werfen. Schau dir zum Beispiel die Display Wall an oder sei bei einer exklusiven Führung durchs Rechenzentrum mit Prof. Nagel höchstpersönlich dabei. Es warten viele weitere Veranstaltungen und Workshops auf dich. Egal, ob du schon immer Linux auf deinem Rechner installieren oder einfach mal Brause selbst herstellen wolltest, am Bunten Nachmittag ist für jeden was dabei."
+            location-en: "APB/Foyer"
+            description: "Nach dieser Veranstaltung kennst du einige der Gesichter, die dir in Vorlesungen vorne häufig begegnen werden. Die Vortragenden erzählen ein bisschen über sich, ihre Themengebiete und die Pflichtvorlesungen der ersten Semester. Inklusive Anekdoten, da bleibt kein Auge trocken!"
+            description-en: "This is your chance to get to know the professors before the lectures are starting. They are gonna talk about themself and what they are doing exactly."
             english: true
         -
-            begin: "17:30"
-            duration: "4:30"
-            title: "Ken&shy;nen&shy;lern-Spie&shy;le&shy;abend mit Gril&shy;len"
+            begin: "15:30"
+            duration: "3:00"
+            title: "Bunter Nachmittag"
+            title-en: "Get together"
+            location: "APB/Foyer"
+            description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät und du kannst einen Blick in viele interessante Räume werfen. Schau dir zum Beispiel die Display Wall an oder sei bei einer exklusiven Führung durchs Rechenzentrum mit Prof. Nagel höchstpersönlich dabei. "
+            description-en: "Where can I go to study? If I need some advice for my study to whom can I talk? Follows us on a tour through the faculty and we answer all your questions. Besides you get the change to visit  Prof. Nagels data center."
+            english: true
+        -
+            begin: "18:30"
+            duration: "3:30"
+            title: "Kennlern-Spieleabend mit Grillen"
             title-en: "Games night and barbecue"
             location: "APB/Foyer"
             description: "In einem nahtlosen Übergang beginnt dann nach dem Ende des Bunten Nachmittags einer unserer legendären Spieleabende. Bring gerne deine Freunde mit und auch eigene Brett- oder Videospiele. Es wird gegrillt und für Getränke ist natürlich auch gesorgt."
+            description-en: "Come to our games night, which takes place once a month in our faculty. But this time we have special games like speed-friends to you can meet a lot of new people. Also there will be a barbecue with drinks, meat and vegetarain/vega food. "
             english: true
   -
     name: "Dienstag"
@@ -53,21 +65,50 @@ days:
     date: 03.10.2018
     events:
         -
-            title: "Wanderung"
-            title-en: "Hiking&nbsp;tour"
-            begin: "08:15"
-            duration: "7:00"
-            location: "Start am &nbsp;Hauptbahnhof auf Gleis 18 <br/> S1 Richtung Schöna um 08:29 Uhr"
-            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform 18 <br/> S1 to Schöna at 08:29 am"
-            description: "Es ist Feiertag, also schalten wir nach einem aufregenden Montag einen Gang zurück. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen."
+            begin: "9:00"
+            duration: "1:00"
+            title: "Früh&shy;stück"
+            title-en: "Break&shy;fast"
+            location: "APB/E023"
+            english: true
+            description: "Kommt vorbei und started gemeinsam mit uns in den Tag. Das Frühstück bietet euch bereits die perfekte Gelegenheit eure Kommilitonen kennenzulernen."
+            description-en: "We start our day together with a nice breakfast. This is a great opportunity for you to meet your fellow students"
+        -
+            title: "Vorträge zum Studium"
+            title-en: "Talks about the the Uni"
+            begin: "10:00"
+            duration: "2:00"
+            location: "APB/E023"
+            location-en: "APB/E023"
+            description: "In verschiedenen Vorträgen werden dir alle wichtigen Informationen rund ums Studium vermittelt"
+            description-en: "JUst sit down and listen. You will get all the information about the university and your studies you'll need."
+            english: true
+        -
+            begin: "12:00"
+            duration: "2:00"
+            title: "Mit&shy;tags&shy;pause"
+            title-en: "Lunch"
+            english: true
+            description: "Zeit für eine kleine Essenspause."
+            description-en: "Let's take a break and get some food."
+        -
+            title: "Cammpus&shy;schnitzel&shy;jagd"
+            title-en: "Campus scavenger hunt"
+            location: "APB/Foyer"
+            location-en: "Foyer of the APB"
+            begin: "14:00"
+            duration: "3:00"
+            description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
+            description: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
             english: true
         -
             title: "Clubwanderung"
             title-en: "Club tour"
             begin: "20:00"
-            duration: "2:00"
-            location: "countdown"
-            description: "Falls du nach dem Ausflug zu viel frische Luft abbekommen hast, bist du eingeladen am Abend in etwas stickerer Umgebung das studentische Nachtleben besser kennenzulernen. Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
+            duration: "4:00"
+            location: "Count Down"
+            locationen: "Count Down"
+            description: "Wir laden dich ein den Abend mit uns zu verbringen und dich ins studentische Nachtleben zustürzen.Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten. Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
             english: true
   -
     name: "Mittwoch"
@@ -75,42 +116,33 @@ days:
     date: 04.10.2018
     events:
         -
-            begin: "9:00"
-            duration: "3:00"
-            title: "Ein&shy;schrei&shy;bung, parallel ewi&shy;ges Früh&shy;stück"
-            title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
-            location: "APB/E023"
-            description: "Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester."
+            title: "Wanderung"
+            title-en: "Hiking&nbsp;tour"
+            begin: "08:15"
+            duration: "7:00"
+            location: "Start am &nbsp;Hauptbahnhof auf Gleis ?? <br/> ?? Richtung ?? um ?? Uhr"
+            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform ?? <br/> ?? to ?? at ?? am"
+            description: "Es ist Feiertag, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht."
+            description: "Today is a bankholiday and we are going on a nice hiking tour through the Saxon Switzerland. Something totally different after yesterdays party. Since we can't change the weather (believe us we tried) please weare suitable clothes and on't forget to pack some lunch, bring water(!) and a camera."
             english: true
         -
-            title: "Mit&shy;tags&shy;pause"
-            title-en: "Lunch"
-            begin: "12:00"
-            duration: "1:00"
-            english: true
+
+            #title: "Seminar&shy;gruppen&shy;treffen"
+            #title-en: Seminar group meeting
+            #begin: "13:00"
+            #duration: "2:00"
+            #location: "Folge deinem Mentor"
+            #location-en: "Follow your mentor"
+            #description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen."
         -
-            title: "Seminar&shy;gruppen&shy;treffen"
-            title-en: Seminar group meeting
-            begin: "13:00"
+            begin: "20:00"
             duration: "2:00"
-            location: "Folge deinem Mentor"
-            location-en: "Follow your mentor"
-            description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen."
-        -
-            title: "Seminar&shy;gruppen&shy;treffen"
-            title-en: Seminar group meeting
-            begin: "15:00"
-            duration: "2:00"
-            location-en: "Follow your mentor"
-            location: "Folge deinem Mentor"
-            description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen."
-        -
-            begin: "20:15"
-            duration: "2:00"
-            title: "Kino"
-            title-en: "Cinema"
-            location: "kik"
-            description: "Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. freier Eintritt!"
+            title: "Ascii Abend"
+            title-en: "Ascii Abend"
+            location: "APB/Ascii"
+            location-en: "APB/Ascii"
+            description: "Kennst du schon unser Studentencafe im unserer Fakultät? Das Ascii versorgt dich mit dem nötigen Koffein oder der Mate, die zum Überleben deines Studiums brauchen wirst. Komm vorbei und lerne das Ascii und sein Team kennen. Sie haben sich ein cooles und sehr unterhaltsames Programm ausgedacht"
+            description-en: "Did you know what we have our own student coffeshop right at our building? Join us at the Ascii and relax after todays hike."
             english: true
   -
     name: "Donnerstag"
@@ -118,19 +150,15 @@ days:
     date: 05.10.2018
     events:
       -
-        title: "Frühstück"
-        title-en: Breakfast
         begin: "9:00"
-        duration: "1:00"
+        duration: "3:00"
+        title: "Ein&shy;schrei&shy;bung, parallel ewi&shy;ges Früh&shy;stück"
+        title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
         location: "APB/E023"
+        location-en: "APB/E023"
+        description: "Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester."
+        description-en: "This is one of the most impportant appointments of this week. We will sign you up for your timetable and we will give you some last important informations. Make sure you won't mis it!"
         english: true
-      -
-        title: "Vorstellung der Lehr&shy;enden"
-        title-en: Meet the lecturers
-        begin: "10:00"
-        duration: "2:00"
-        location: "APB/E023"
-        description: "Nach dieser Veranstaltung kennst du einige der Gesichter, die dir in Vorlesungen vorne häufig begegnen werden. Die Vortragenden erzählen ein bisschen über sich, ihre Themengebiete und die Pflichtvorlesungen der ersten Semester. Inklusive Anekdoten, da bleibt kein Auge trocken!"
       -
         title: "Mit&shy;tags&shy;pause"
         title-en: Lunch
@@ -138,22 +166,43 @@ days:
         duration: "1:00"
         english: true
       -
-        title: "Cammpus&shy;schnitzel&shy;jagd"
-        title-en: Campus scavenger hunt
-        location: "APB/Foyer"
-        location-en: "Foyer of the APB"
-        begin: "15:00"
-        duration: "3:00"
-        description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
+        title: "Taschenausgabe"
+        title-en: "Get your welcome-bag"
+        location: "HSZ"
+        location-en: "HSZ"
+        begin: "13:00"
+        duration: "1:00"
+        description: "Vergiss nicht deinen Gutschein mitzubringen."
+        description-en: "Don't forget to bring your voucher."
         english: true
       -
-        title: "Impro-Theater"
-        title-en: Impro theater
-        location: "WEB/222/U"
-        location-en: "WEB/222/U"
-        begin: "19:00"
-        duration: "2:30"
+        title: "Info-Markt"
+        title-en: "Info-MArket"
+        location: "HSZ"
+        location-en: "HSZ"
+        begin: "13:00"
+        duration: "3:00"
         english: true
+
+        -
+        title: "Immatrikulations Veranstaltung"
+        title-en: "Matriculation Celebration"
+        location: "HSZ"
+        location-en: "HSZ"
+        begin: "13:00"
+        duration: "3:00"
+        english: true
+
+        -
+        title: "Kino Abend"
+        title-en: "Movie Night"
+        location: "KiK"
+        location-en: "KiK"
+        begin: "20:15"
+        duration: "2:00"
+        description: "Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. freier Eintritt!"
+        description: "Did you know what we have a student cinema? Join us and enjoy a 'secret movie'"
+        englisch: true
   -
     name: "Freitag"
     name-en: Friday
@@ -162,40 +211,45 @@ days:
       -
         title: "Frühstück"
         title-en: Breakfast
-        begin: "9:00"
+        begin: "8:00"
         duration: "1:00"
         location: "APB/E023"
         english: true
       -
-        title: "Vorträge"
-        title-en: Talks
-        begin: "10:00"
-        duration: "2:00"
-        location: "APB/E023"
-        description: "Das System Uni verstehen die meisten Studierenden selbst bei ihrem Abschluss noch nicht vollständig. Mit ein paar unterhaltsamen und interaktiven Vorträgen wollen wir dir Wissen mitgeben, das wir uns selbst zum Studienstart gewünscht hätten."
+        title: "Seminar&shy;gruppen&shy;treffen"
+        title-en: "Seminar group meeting"
+        begin: "19:00"
+        duration: "4:00"
+        location: "Folge deinem Mentor"
+        location-en: "Follow your mentor"
+        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
+        description-en: "Get to know your mentor and the other students from your seminar group. You can ask all the questions you couldn't ask so far. Meanwhile there are talks about studying abroad and the student council."
+        english: true
       -
         title: "Mittagspause"
         title-en: Lunch
-        begin: "12:00"
+        begin: "13:00"
         duration: "1:00"
         english: true
       -
-        begin: "13:00"
-        duration: "2:45"
+        begin: "14:00"
+        duration: "3:00"
         title: "ESE-Spiel"
         title-en: "ESE-game"
         location: "APB/Foyer"
-        location-en: "Foyer of the APB"
+        location-en: "APB/Foyer"
         description: "Spiel, Spannung, Spaß. Wir simulieren den gesamten Verlauf des ersten Semesters in nur wenigen Stunden. Wer wird siegreich hervorgehen und wer zwangsexmatrikuliert? Der Abschluss der Woche wird nochmal äußerst unterhaltsam."
+        description-en: "Bascially you will experience the whole first term in a few hours. Who will be successful, who will stop studying? Joins us  on our last event of a fun week!"
   -
     name: "Samstag"
     name-en: Saturday
-    date: 07.10.2018
+    date: 06.10.2018
     events:
       -
         title: "Stadt&shy;führung"
         title-en: "Guided city tour"
-        location: "altmarkt-galerie"
+        location: "Altmarkt-Galerie"
+        location-en: "Altmarkt-Galerie"
         begin: "13:00"
         duration: "2:30"
         english: true

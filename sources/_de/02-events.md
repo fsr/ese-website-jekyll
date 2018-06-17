@@ -5,7 +5,7 @@ permalink: /events/
 layout: page
 ---
 
-Die ESE startet dieses Jahr am Montag, den 02.10. mit dem täglichen Frühstück um 9 Uhr. Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
+Die ESE startet dieses Jahr am Montag, den 01.10. mit dem täglichen Frühstück um 9 Uhr. Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
 
 * Studierendenausweis
 * Lichtbildausweis

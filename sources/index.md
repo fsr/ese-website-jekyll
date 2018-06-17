@@ -15,6 +15,9 @@ Damit du dich besser zurechtfindest und gleich nette Leute kennenlernst, haben w
 
 ### Das Wichtigste vorweg
 
+Auf dieser Seite findest du alles, was du brauchst. 
+Das Rrogramm für die Ese, die Stundenpläne und generelle Informationen haben wir hier für dich zusammengetragen.
+
 Alle neuen Studierenden der Fakultät Informatik sind eingeladen, an der ESE teilzunehmen. Zusätzlich gibt es für manche Studiengänge noch eigene Einführungsveranstaltungen. Solltest du also nicht Informatik oder Medieninformatik studieren, schau bitte auch auf der entsprechenden Seite vorbei:
 
 - [Master Distributed Systems Engineering (DSE)](https://tu-dresden.de/ing/informatik/sya/se/master-dse)
@@ -23,15 +26,5 @@ Alle neuen Studierenden der Fakultät Informatik sind eingeladen, an der ESE tei
 - [Master Computational Science and Engineering (CSE)](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-science-and-engineering/informationen-fuer-studierende-im-1-semester)
 - [Lehramt](https://dil.inf.tu-dresden.de/dil/arbeitsgruppe/aktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=132&cHash=d5d450f1d4d8dc250f13ceb485585284)
 
-Bei Fragen zögere nicht, die Helferinnen und Helfer in der ESE-Woche anzusprechen. Du erkennst sie gut an den blauen T-Shirts. Natürlich kannst du auch jederzeit Kontakt mit dem FSR via E-Mail, Telefon und über die sozialen Netzwerke aufnehmen oder einfach im Büro vorbeischauen.
+Bei Fragen zögere nicht, die Helferinnen und Helfer in der ESE-Woche anzusprechen. Du erkennst sie gut an den #CB6040 T-Shirts. Natürlich kannst du auch jederzeit Kontakt mit dem FSR via E-Mail, Telefon und über die sozialen Netzwerke aufnehmen oder einfach im Büro vorbeischauen.
 
-### Highlights der Woche
-
-Die ESE hat viel für dich zu bieten. Hier ein paar Highlights:
-* **Frühstück** - Jeden Morgen kannst du dich hier mit anderen Erstis zum Frühstücken treffen.
-* **Spieleabend** - Lerne deine Kommilitonen bei verschiedenen Gesellschaftsspielen besser kennen.
-* **Wanderung** - Erkunde die schöne Natur der Sächsischen Schweiz.
-* **Clubwanderung** - Gemeinsam mit Tutoren kannst du die Studierendenclubs der Stadt erkunden.
-* **Kino-Abend** - Ein kostenloser Abend in einem studentischen Kino. Der Film ist geheim!
-* **Campusschnitzeljagd** - Löse Rätsel und lerne die wichtigen Gebäude auf dem Campus kennen.
-* **ESE-Spiel** - Wie funktioniert denn überhaupt Studieren? Hier siehst du es!
