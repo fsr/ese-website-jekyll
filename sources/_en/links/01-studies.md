@@ -9,9 +9,10 @@ layout: en-page
 
 #### Seminar groups
 
-To find your way easily in your first year of uni there are seminar groups in the first semester.
-This way you are not on your own in the lecture accompanying exercises, but you'll see familiar faces and friends with who you can team up to tackle homework and study together.
-Every seminar group comes with a tutor who will give you all the information you need, answer any questions and support you in many matters. For this there will be meetings roughly every four weeks apart, but you can obviously ask urgent questions outside of these meetings.
+The first semester and its new experiences can be overwhelming and it may be a little hard to get used to your new life as an
+university student. To help you find your way easily in your first year of uni there are seminar groups in the first semester.
+This way you are not on your own in the lecture accompanying exercises, but you'll see familiar faces and friends with whom you can team up to tackle homework and studies together.
+Every seminar group comes with a tutor who will give you all the informations you need, answer any questions and support you in many matters. For this there will be meetings roughly every four weeks apart, but you can obviously ask urgent questions outside of these meetings.
 
 #### Schedule
 
@@ -40,12 +41,12 @@ You will receive your own personal **Uni-Login** from the ZIH (the centre for in
 
 #### jExam (Enrollment)
 
-On the online-platform jExam you will enroll in your seminar group and courses, and later receive your **exam results**. On **[Wednesday](/2018/events)** you will enroll together with a tutor from your seminar group.
+On the online-platform jExam you will enroll in your seminar group and courses, and later receive your **exam results**. On **[Wednesday](/2018/events)** you will choose your seminar group together with a tutor from your seminar group using jExam.
 
 ***For all international students - DSE, CL Students and Exchangestudents, who only partake in 1-2 semesters at the faculty: please refer to the 'Service Center for International Students' in the room INF/2018.***
 
 #### Mailing lists
-
+All kinds of informations relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium:mailinglisten){:target="_blank"}. 
 ### Campus
 
 #### Campus Navigator
