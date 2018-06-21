@@ -129,19 +129,6 @@ li {
 }
 
 
-/*
- * News
- */
-
-.show-more {
-    @extend .small;
-}
-
-.hidden {
-    display: none !important;
-}
-
-
 /* fancy dotted highlighting for links */
 p a{
     transition: color ease-in-out 0.22s, background-image ease-in-out 0.22s;

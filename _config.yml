@@ -98,9 +98,7 @@ defaults:
       layout: "en-page"
 
 collections:
-  de-news:
   de-sidebar:
-  en-news:
   en-sidebar:
   en:
     output: true

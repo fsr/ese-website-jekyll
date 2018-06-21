@@ -1,4 +1,3 @@
-{% if include.news %}{% assign news = include.news %}{% else %}{% assign news = site.news %}{% endif %}
 <!-- SLICK - for documentation see https://github.com/kenwheeler/slick/ -->
 <div class="slider-container">
 <div class="slider">
@@ -14,5 +13,4 @@
     </div>
     {% endfor %}
 </div>
-{% include news.html news=news %}
 </div>

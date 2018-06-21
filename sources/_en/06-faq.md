@@ -11,11 +11,11 @@ In the areas of legal or social counseling the [Studentenwerk Dresden](https://w
 
 ### How does the timetable work?
 
-In the first semester you don’t have to worry about this too much. In later semesters you will get lecture and exercise dates and then you will have to build your own schedule in jExam. For the first semester we have prepared several timetables in which you will enroll yourselves. You will then be in a seminar group along with all the others who have chosen this timetable. Please do not miss the corresponding meeting on Tuesday, it is very important.
+In the first semester you don’t have to worry about this too much. In later semesters you will get lecture and exercise dates and then you will have to build your own schedule in jExam. For the first semester we have prepared several timetables in which you will enroll yourselves (with our help). You will then be in a seminar group along with all the others who have chosen this timetable. Please do not miss the corresponding meeting on Friday, it is very important.
 
 ### How do I find my way around the campus?
 
-In the campus scavenger hunt during the ESE you will already get to know the campus a little. Otherwise you can find both [static maps](https://tu-dresden.de/service/lageplaene "static maps"){:target="_blank"} and the [campus navigator](https://navigator.tu-dresden.de/ "campus navigator"){:target="_blank"} on the service side of the TU Dresden which support you in reaching your goals.
+In the campus scavenger hunt during the ESE you will already get to know the campus a little. Otherwise you can find both [static maps](https://tu-dresden.de/service/lageplaene "static maps"){:target="_blank"} and the [campus navigator](https://navigator.tu-dresden.de/ "campus navigator"){:target="_blank"} on the service side of the TU Dresden which support you in reaching your destination.
 
 ### What can I expect at the start of the courses?
 
