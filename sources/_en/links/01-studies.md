@@ -46,7 +46,7 @@ On the online-platform jExam you will enroll in your seminar group and courses, 
 ***For all international students - DSE, CL Students and Exchangestudents, who only partake in 1-2 semesters at the faculty: please refer to the 'Service Center for International Students' in the room INF/2018.***
 
 #### Mailing lists
-All kinds of informations relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium:mailinglisten){:target="_blank"}. 
+All kinds of informations relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium:mailinglisten){:target="_blank"). 
 ### Campus
 
 #### Campus Navigator
@@ -59,7 +59,7 @@ The [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blan
 
 #### Canteen
 
-On campus there are multiple [canteens](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} with daily changing [menues](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. The nearest canteen to the APB is the [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. You pay with your [Emeal-Card](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}. The card can be acquired at ESE **everyday during breakfast**. Please note the [requirements](/2018/events).
+On campus there are multiple [canteens](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} with daily changing [menues](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. The canteen closest to the APB is the [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. You pay with your [Emeal-Card](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}. The card can be acquired at ESE **everyday during breakfast**. Please note the [requirements](/2018/events).
 
 
 #### SLUB (Saxon State and University Library)

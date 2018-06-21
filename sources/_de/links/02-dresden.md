@@ -40,8 +40,8 @@ oder der Elbwiesen am Königsufer mit ihrem wunderschönem Blick auf die Altstad
 
 Etwas aktiver kannst du deine freie Zeit auch bei einem Spaziergang in der Dresdner Heide oder einer Fahrradtour entlang der Elbe nutzen.
 
-#### Studierendenclubs?
-Natürlich, und in Dresden gleich 13 an der Zahl. Eine Übersicht findest du auf der [Seite des Studierendenwerks](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}.
+#### Studierendenclubs
+Natürlich gibt es auch in Dresden zahlreiche Studentenclubs in denen ihr gemütlich den Abend verbringen könnt - nämlich 13 an der Zahl. Eine Übersicht findest du auf der [Seite des Studierendenwerks](https://www.studentenwerk-dresden.de/kultur/studentenclubs.html){:target="_blank"}.
 
 Jedes Jahr im Mai findet die [Dresdner Nachtwanderung](https://www.dresdner-nachtwanderung.de/){:target="_blank"} statt. Es gibt Livemusik, Freigetränke und Shuttlebusse, die zwischen allen Clubs fahren.
 
