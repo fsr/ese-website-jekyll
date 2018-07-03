@@ -9,7 +9,7 @@ layout: page
 
 #### Seminargruppe
 
-Daamit du dich im ersten Uni-Jahr gut zurechtfindest, gibt es im ersten Semester sogenannte Seminargruppen.
+Damit du dich im ersten Uni-Jahr gut zurechtfindest, gibt es im ersten Semester sogenannte Seminargruppen.
 Du bist also nicht auf dich allein gestellt, sondern wirst, besonders in den vorlesungsbegleitenden Übungen 
 viele vertraute Gesichter sehen, mit denen du dich auch zu Lerngruppen zusammentun kannst. 
 Als Unterstützung hat jede Gruppe einen Mentor, der euch die nötigen Informationen erklärt und Fragen beantwortet. 
