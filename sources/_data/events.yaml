@@ -183,8 +183,7 @@ days:
         begin: "13:00"
         duration: "3:00"
         english: true
-
-        -
+      -
         title: "Immatrikulations Veranstaltung"
         title-en: "Matriculation Celebration"
         location: "HSZ"
@@ -192,8 +191,7 @@ days:
         begin: "13:00"
         duration: "3:00"
         english: true
-
-        -
+      -
         title: "Kino Abend"
         title-en: "Movie Night"
         location: "KiK"
