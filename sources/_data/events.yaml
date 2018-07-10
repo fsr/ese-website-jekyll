@@ -1,3 +1,14 @@
+# Event-Usage
+#        -
+#            begin: "(H)H:MM"
+#            duration: "(H)H:MM"
+#            title: "…"
+#            title-en: "…" # english name
+#            location: "…" # if this is a key in _data/locations.yaml the generated textual timetable will contain the link defined in locations.yaml
+#            english: true/false # whether the event is also available in english (will be highlighted on english-page
+#            description: "…"
+#            description-en: "…" # english description
+
 schedule-length: "14:00" # in stunden
 schedule-begin: 8 # Uhr
 days:
