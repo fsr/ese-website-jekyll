@@ -177,30 +177,22 @@ days:
         duration: "1:00"
         english: true
       -
-        title: "Taschenausgabe"
-        title-en: "Get your welcome-bag"
-        location: "HSZ"
-        location-en: "HSZ"
-        begin: "13:00"
-        duration: "1:00"
-        description: "Vergiss nicht deinen Gutschein mitzubringen."
-        description-en: "Don't forget to bring your voucher."
-        english: true
-      -
-        title: "Info-Markt"
-        title-en: "Info-MArket"
+        title: "Info-Markt mit Taschenausgabe"
+        title-en: "Info-Market and time to get your welcome bag"
         location: "HSZ"
         location-en: "HSZ"
         begin: "13:00"
         duration: "3:00"
+        description: "Die Taschenausgabe beginnt um 14 Uhr. Vergiss nicht, deinen Gutschein mitzubringen."
+        description-en: "Welcome bag handout starts at 2pm. Don't forget to bring your voucher."
         english: true
       -
-        title: "Immatrikulations Veranstaltung"
+        title: "Feierliche Immatrikulation"
         title-en: "Matriculation Celebration"
         location: "HSZ"
         location-en: "HSZ"
-        begin: "13:00"
-        duration: "3:00"
+        begin: "16:00"
+        duration: "2:00"
         english: true
       -
         title: "Kino Abend"
