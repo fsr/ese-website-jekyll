@@ -15,7 +15,7 @@ days:
   -
     name: "Montag"
     name-en: Monday
-    date: 02.10.2018
+    date: 01.10.2018
     events:
         -
             begin: "9:00"
@@ -73,7 +73,7 @@ days:
   -
     name: "Dienstag"
     name-en: Tuesday
-    date: 03.10.2018
+    date: 02.10.2018
     events:
         -
             begin: "9:00"
@@ -124,7 +124,7 @@ days:
   -
     name: "Mittwoch"
     name-en: Wednesday
-    date: 04.10.2018
+    date: 03.10.2018
     events:
         -
             title: "Wanderung"
@@ -158,7 +158,7 @@ days:
   -
     name: "Donnerstag"
     name-en: Thursday
-    date: 05.10.2018
+    date: 04.10.2018
     events:
       -
         begin: "9:00"
@@ -207,7 +207,7 @@ days:
   -
     name: "Freitag"
     name-en: Friday
-    date: 06.10.2018
+    date: 05.10.2018
     events:
       -
         title: "Frühstück"
