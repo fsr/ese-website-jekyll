@@ -5,17 +5,9 @@ permalink: /schedules/
 layout: page
 ---
 
-<div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>WICHTIG - Aktuelle Änderungen (11.10.2018 - 18:00)</h4>
-<ul>
-<li><strong>Diplom/3</strong>: Die TGI Übung aus der 2. DS am Dienstag wurde auf Donnerstag 4. DS gelegt.</li>
-</ul>
-</div>
-
-
 <div class="panel">
-  <h5>Stundenpläne sind vorläufig</h5>
-  <p>Hier findest du alle Stundenpläne. Es kann noch zu Änderungen kommen.</p>
+  <h5>Stundenpläne sind noch nicht verfügbar</h5>
+  <p>Auf dieser Seite wirst du die vorläufigen Stundenpläne einsehen können</p>
 </div>
 
 Hier findest du die aktuellen Stundenpläne (Seminargruppenpläne), in die du dich am Mittwochmorgen einschreiben kannst. Nicht verpassen! :wink:
@@ -36,4 +28,4 @@ Nicht eingezeichnet ist der **Mathe-Lernraum** am Donnerstag in der 5. und 6. DS
 
 Da, wo noch Informationen fehlen, solltet ihr euch auf den Seiten des Lehrstuhls informieren, wo denn nun wann Übungen sind – aber auch alle anderen Angaben können sich manchmal ändern, behaltet also am besten die oben verlinkten Webseiten aller Lehrstühle im Auge.
 
-{% include all-schedules.html %}
+[//]: # (include all-schedules.html)

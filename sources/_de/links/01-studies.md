@@ -9,37 +9,50 @@ layout: page
 
 #### Seminargruppe
 
-Damit du dich im ersten Uni-Jahr gut zurechtfindest, gibt es im ersten Semester Seminargruppen. Du bist also nicht auf dich allein gestellt, sondern wirst in den vorlesungsbegleitenden Übungen immer wieder vertraute Gesichter sehen, mit denen du dich auch zu Lerngruppen zusammentun kannst. 
-Als Unterstützung gibt es einen Mentor, der dafür verantwortlich ist, euch die nötigen Informationen zu erklären und Fragen zu beantworten. Dazu wird es im Abstand von je ungefähr vier Wochen ein Treffen geben, wobei Fragen selbstverständlich auch außerhalb dieser gestellt werden können.
+Damit du dich im ersten Uni-Jahr gut zurechtfindest, gibt es im ersten Semester sogenannte Seminargruppen.
+Du bist also nicht auf dich allein gestellt, sondern wirst, besonders in den vorlesungsbegleitenden Übungen 
+viele vertraute Gesichter sehen, mit denen du dich auch zu Lerngruppen zusammentun kannst. 
+Als Unterstützung hat jede Gruppe einen Mentor, der euch die nötigen Informationen erklärt und Fragen beantwortet. 
+Dazu wird es im Abstand von je ungefähr vier Wochen ein Treffen geben, wobei Fragen selbstverständlich jederzeit gestellt werden können.
 
 #### Stundenplan
 
-Deinen Stundenplan für das erste Semester erhältst du entsprechend deiner gewählten Seminargruppe. So kriegst du die Arbeit abgenommen, es ist gesichert, dass jeder einen Platz in den Übungsräumen erhält, und du hast trotzdem noch die Wahl zwischen verschiedenen Stundenplänen. Die Stundenpläne richten sich dabei alle nach den im Studienablaufplan für das erste Semester vorgesehenen Modulen.  
+Deinen Stundenplan für das erste Semester erhältst du entsprechend deiner gewählten Seminargruppe. 
+So ist gesichert, dass jeder einen Platz in den Übüngsräumen erhält, und du hast trotzdem noch die Wahl zwischen verschiedenen
+Studenplänen. Die Stundenpläne richten sich nach den im Studienablaufplan für das erste Semester vorgesehenen Modulen.  
 
 <a class="button expand tiny secondary" href="/2018/schedules">Hier geht's zu den Stundenplänen</a>
 
-In späteren Semestern stellst du deinen Stundenplan selbst zusammen und schreibst dich für die Vorlesungen und Übungen einzeln ein.
+Im ersten Semester wird es dir noch abgenommen, aber in späteren Semestern schreibst dich für Vorlesungen und Übungen selber ein und erstellst dir so deinen eigenen Stundenplan.
 
 #### Studienablaufplan
 
-Im Studienablaufplan wird festgelegt, welche Lehrveranstaltungen du in welchem Semester belegen solltest, wie viel Zeit sie in Anspruch nehmen und wie viele Leistungspunkte sie erbringen. Mit dem Studienablaufplan erhältst du einen Überblick, wann du ein Praktikum belegen sollst oder wann du Zeit für Urlaub hast. Bei dem Plan handelt es sich lediglich um eine Empfehlung, er ist nicht bindend.  
+Im Studienablaufplan wird festgelegt, welche Lehrveranstaltungen du in welchem Semester belegen solltest,
+wie viel Zeit sie in Anspruch nehmen und wie viele Leistungspunkte sie erbringen. So erhältst du einen Überblick, 
+wann du ein Praktikum belegen sollst oder wann du Zeit für Urlaub hast. Bei dem Plan handelt es sich lediglich um eine Empfehlung, er ist nicht bindend.  
 Den Studienablaufplan findest du auf der letzten Seite der [Studienordnung](#studienordnung).
 
 #### Module/Lehrveranstaltungen
 
-Module können Vorlesungen, Übungen und Praktika beinhalten. Der Inhalt eines Moduls ist in der zugehörigen Modulbeschreibung festgehalten, die auf der Webseite des Moduls oder in der PDF der [Studienordnung](#studienordnung) zu finden ist. Hier findest du die Inhalte und Ziele der Lehrveranstaltung, die fachlichen Voraussetzungen und die zu erbringenden Prüfungsleistungen.
+Module können Vorlesungen, Übungen und Praktika beinhalten. Der Inhalt eines Moduls ist in der zugehörigen Modulbeschreibung festgehalten,
+die auf der Webseite des Moduls oder in der PDF der [Studienordnung](#studienordnung) zu finden ist. 
+Hier findest du die Inhalte und Ziele der Lehrveranstaltung, die fachlichen Voraussetzungen und die zu erbringenden Prüfungsleistungen.
 
 #### Leistungspunkte
 
-In Leistungspunkten wird der Arbeitsaufwand des Studierenden pro Modul bzw. pro Studium gemessen. Dabei entspricht ein sog. ECTS-Punkt etwa 30 Arbeitsstunden. Welches Modul wie viele Leistungspunkte bringt, steht im Studienablaufplan oder in der jeweiligen Modulbeschreibung.
+In Leistungspunkten wird der Arbeitsaufwand des Studierenden pro Modul bzw. pro Studium gemessen. Dabei entspricht ein sog.
+ECTS-Punkt etwa 30 Arbeitsstunden. Welches Modul wie viele Leistungspunkte bringt, steht im Studienablaufplan oder in der jeweiligen Modulbeschreibung.
 
 #### ZIH-Login
 
-Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhältst du deinen persönlichen **Uni-Login**, mit dem du dich in deinen [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, im WLAN "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" und allen anderen Uni-Plattformen anmelden kannst. Außerdem kannst du ihn auf vielen Plattformen für Studierendenangebote nutzen, wie zum Beispiel von [Microsoft](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Kostenlose Microsoft-Lizenzen"){:target="_blank"} (kostenlose Lizenzen), [Campus Sachsen](https://campussachsen.tu-dresden.de/){:target="_blank"} (Office 365), Spotify und vielen mehr.
+Vom Zentrum für Informations­dienste und Hochleistungs­rechnen (ZIH) erhältst du deinen persönlichen **Uni-Login**,
+mit dem du dich in deinen [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, im WLAN "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" 
+und allen anderen Uni-Plattformen anmelden kannst. Außerdem kannst du ihn auf vielen Plattformen für Studierendenangebote nutzen, wie zum Beispiel von [Microsoft](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Kostenlose Microsoft-Lizenzen"){:target="_blank"} (kostenlose Lizenzen), [Campus Sachsen](https://campussachsen.tu-dresden.de/){:target="_blank"} (Office 365), Spotify und vielen mehr.
 
 #### jExam (Einschreibung)
 
-In der Online-Plattform jExam schreibst du dich für deine Seminargruppe und Lehrveranstaltungen ein und rufst deine **Prüfungsergebnisse** ab. Am **[Mittwoch](/2018/events)** wirst du dich dort zusammen mit einem Tutor für deine Seminargruppe einschreiben.  
+In der Online-Plattform jExam schreibst du dich für deine Lehrveranstaltungen ein und rufst deine **Prüfungsergebnisse** ab. 
+Am **[Mittwoch](/2018/events)** wirst du dir auf jExam zusammen mit einem Tutor deine Seminargruppe auswählen.  
   
 ***Für alle ausländischen Studierenden – DSE, CL Studierende und Austauschstudierende, die nur 1-2 Semester an der Fakultät studieren – ist das ‘Service Center for International Students’ im Raum INF/2018 zuständig.***
 
@@ -55,7 +68,14 @@ Mit dem Campus Navigator kannst du dich auf dem Campus orientieren und über die
 
 #### Andreas-Pfitzmann-Bau (APB)
 
-Der [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blank"} ist das Gebäude der **Fakultät Informatik**. Er ist das Haus mit den grünen Fensterschreiben, das du auf den Fotos der Startseite sehen kannst und jeden Tag zur ESE besuchst. Hier werden viele deiner Übungen stattfinden. Außerdem befinden sich hier Computerpools, Arbeitsplätze, das FSR-Büro, das Studierendencafé ascii und vieles mehr. Wenn ein Seminarraum frei ist, kannst du dich dort auch einfach zum Lernen hinsetzen.
+Der [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blank"} ist das Gebäude der **Fakultät Informatik**. 
+Er ist das Haus mit den grünen Fensterschreiben, das du auf den Fotos der Startseite sehen kannst und jeden Tag zur ESE besuchst. 
+Hier werden viele deiner Übungen stattfinden. Außerdem befinden sich hier Computerpools, Arbeitsplätze, das FSR-Büro, das Studierendencafé ascii und vieles mehr. 
+Wenn ein Seminarraum frei ist, kannst du dich dort auch einfach zum Lernen hinsetzen.
+
+#### ascii
+
+Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufenthaltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das dir weiterhelfen wird.
 
 #### Mensen
 
@@ -64,11 +84,6 @@ Auf dem Campus gibt es mehrere [Mensen](https://www.studentenwerk-dresden.de/men
 #### SLUB (Sächsische Landes-, Staats- und Universitätsbibliothek)
 
 Was in anderen Städten einfach Bib heißt, heißt bei uns [SLUB](https://navigator.tu-dresden.de/karten/dresden/geb/slub){:target="_blank"}. In der SLUB kannst du kostenlos Lehrbücher, Lexika und vieles mehr ausleihen. Melde dich einfach [online](https://www.slub-dresden.de/service/nutzer-der-slub-werden/){:target="_blank"} an. Solltest du ein Buch in der SLUB nicht finden, kannst du eine Anfrage schicken und die SLUB fügt es zum Sortiment hinzu, sofern es sich dabei um eine sinnvolle Anschaffung handelt. Viele Studierende nutzen die SLUB zum Lernen, weil es dort leise ist und es viele Arbeitsplätze gibt. Wer in der Gruppe lernen will, kann sich kostenlos einen Arbeitsraum buchen.
-
-#### ascii
-
-Das [ascii](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220){:target="_blank"} ist ein von Studierenden betriebenes **Café im APB**, das in enger Verbindung mit dem FSR steht. Kaffee und Kaltgetränke sind hier nicht teuer. Außerdem ist das ascii ein beliebter Aufenthaltsort vieler Informatik-Studierender. Solltest du selbst Lust haben, im ascii mitzuwirken, kannst du einfach ein ascii-Mitglied ansprechen, das dir weiterhelfen wird.
-<a id="studienordnung"></a>
 
 ### Studiendokumente und Links
 

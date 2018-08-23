@@ -4,6 +4,8 @@ weight : 400
 permalink: /en/links/
 layout: en-page
 ---
+<a class="button expand" href="/{{site.year}}/en/links/studies/">Studying at the TU</a>
+<a class="button expand" href="/{{site.year}}/en/links/dresden/">Living in Dresden</a>
 
 ### ESE on Facebook
 

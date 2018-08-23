@@ -4,17 +4,9 @@ weight : 300
 permalink: /en/schedules/
 ---
 
-<div style="border:1px solid #222; padding:0 0.5em; margin-bottom: 2em">
-<h4>Attention - current changes (11.10.2018 - 18:00)</h4>
-<ul>
-<li><strong>Diplom/3</strong>: The TGI exercise was moved from Tuesday 2. DS to Thursday 4.DS.</li>
-</ul>
-</div>
-
-
 <div class="panel">
-  <h5>Schedules provisional</h5>
-  <p>Expect changes during ESE week and check here as well as on our social media channels.</p>
+  <h5>Schedules are not yet available</h5>
+  <p>On this page you will be able to view the provisional schedules once published</p>
 </div>
 
 Here you can find the current schedules from which you can choose one to enroll for on Wednesday. Please do not miss this :wink:
@@ -33,4 +25,4 @@ Not included in these plans is the **Math learning room** on Thursday, 5th and 6
 
 Information on any course not present here may be found on the website for the chair responsible for the course in question. Please be aware, these schedules are subject to change and not guaranteed to remain in their current form. Keep an eye on the linked websites for potential changes.
 
-{% include all-schedules.html %}
+[//]: # ({% include all-schedules.html %})

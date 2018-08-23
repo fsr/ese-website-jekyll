@@ -1,10 +1,21 @@
+# Event-Usage
+#        -
+#            begin: "(H)H:MM"
+#            duration: "(H)H:MM"
+#            title: "…"
+#            title-en: "…" # english name
+#            location: "…" # if this is a key in _data/locations.yaml the generated textual timetable will contain the link defined in locations.yaml
+#            english: true/false # whether the event is also available in english (will be highlighted on english-page
+#            description: "…"
+#            description-en: "…" # english description
+
 schedule-length: "14:00" # in stunden
 schedule-begin: 8 # Uhr
 days:
   -
     name: "Montag"
     name-en: Monday
-    date: 02.10.2018
+    date: 01.10.2018
     events:
         -
             begin: "9:00"
@@ -62,7 +73,7 @@ days:
   -
     name: "Dienstag"
     name-en: Tuesday
-    date: 03.10.2018
+    date: 02.10.2018
     events:
         -
             begin: "9:00"
@@ -85,7 +96,7 @@ days:
             english: true
         -
             begin: "12:00"
-            duration: "1:00"
+            duration: "2:00"
             title: "Mit&shy;tags&shy;pause"
             title-en: "Lunch"
             english: true
@@ -96,7 +107,7 @@ days:
             title-en: "Campus scavenger hunt"
             location: "APB/Foyer"
             location-en: "Foyer of the APB"
-            begin: "13:00"
+            begin: "14:00"
             duration: "3:00"
             description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
             description: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
@@ -113,7 +124,7 @@ days:
   -
     name: "Mittwoch"
     name-en: Wednesday
-    date: 04.10.2018
+    date: 03.10.2018
     events:
         -
             title: "Wanderung"
@@ -147,7 +158,7 @@ days:
   -
     name: "Donnerstag"
     name-en: Thursday
-    date: 05.10.2018
+    date: 04.10.2018
     events:
       -
         begin: "9:00"
@@ -166,34 +177,24 @@ days:
         duration: "1:00"
         english: true
       -
-        title: "Taschenausgabe"
-        title-en: "Get your welcome-bag"
+        title: "Info-Markt mit Taschenausgabe"
+        title-en: "Info-Market and time to get your welcome bag"
         location: "HSZ"
         location-en: "HSZ"
         begin: "13:00"
-        duration: "1:00"
-        description: "Vergiss nicht deinen Gutschein mitzubringen."
-        description-en: "Don't forget to bring your voucher."
+        duration: "3:00"
+        description: "Die Taschenausgabe beginnt um 14 Uhr. Vergiss nicht, deinen Gutschein mitzubringen."
+        description-en: "Welcome bag handout starts at 2pm. Don't forget to bring your voucher."
         english: true
       -
-        title: "Info-Markt"
-        title-en: "Info-MArket"
-        location: "HSZ"
-        location-en: "HSZ"
-        begin: "14:00"
-        duration: "2:00"
-        english: true
-
-        -
-        title: "Immatrikulations Veranstaltung"
+        title: "Feierliche Immatrikulation"
         title-en: "Matriculation Celebration"
         location: "HSZ"
         location-en: "HSZ"
         begin: "16:00"
-        duration: "1:00"
+        duration: "2:00"
         english: true
-
-        -
+      -
         title: "Kino Abend"
         title-en: "Movie Night"
         location: "KiK"
@@ -206,7 +207,7 @@ days:
   -
     name: "Freitag"
     name-en: Friday
-    date: 06.10.2018
+    date: 05.10.2018
     events:
       -
         title: "Frühstück"
@@ -218,11 +219,11 @@ days:
       -
         title: "Seminar&shy;gruppen&shy;treffen"
         title-en: "Seminar group meeting"
-        begin: "9:00"
+        begin: "19:00"
         duration: "4:00"
         location: "Folge deinem Mentor"
         location-en: "Follow your mentor"
-        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Entweder wird dein Seminargruppentreffen von 9.00 Uhr bis 11.00 Uhr oder von 11.00 Uhr bis 13.00 Uhr stattfinden. Details dazu bekommst du von uns vorort. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
+        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
         description-en: "Get to know your mentor and the other students from your seminar group. You can ask all the questions you couldn't ask so far. Meanwhile there are talks about studying abroad and the student council."
         english: true
       -
