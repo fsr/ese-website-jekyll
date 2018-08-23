@@ -85,7 +85,7 @@ days:
             english: true
         -
             begin: "12:00"
-            duration: "2:00"
+            duration: "1:00"
             title: "Mit&shy;tags&shy;pause"
             title-en: "Lunch"
             english: true
@@ -96,7 +96,7 @@ days:
             title-en: "Campus scavenger hunt"
             location: "APB/Foyer"
             location-en: "Foyer of the APB"
-            begin: "14:00"
+            begin: "13:00"
             duration: "3:00"
             description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
             description: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
@@ -180,8 +180,8 @@ days:
         title-en: "Info-MArket"
         location: "HSZ"
         location-en: "HSZ"
-        begin: "13:00"
-        duration: "3:00"
+        begin: "14:00"
+        duration: "2:00"
         english: true
 
         -
@@ -189,8 +189,8 @@ days:
         title-en: "Matriculation Celebration"
         location: "HSZ"
         location-en: "HSZ"
-        begin: "13:00"
-        duration: "3:00"
+        begin: "16:00"
+        duration: "1:00"
         english: true
 
         -
@@ -218,11 +218,11 @@ days:
       -
         title: "Seminar&shy;gruppen&shy;treffen"
         title-en: "Seminar group meeting"
-        begin: "19:00"
+        begin: "9:00"
         duration: "4:00"
         location: "Folge deinem Mentor"
         location-en: "Follow your mentor"
-        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
+        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Entweder wird dein Seminargruppentreffen von 9.00 Uhr bis 11.00 Uhr oder von 11.00 Uhr bis 13.00 Uhr stattfinden. Details dazu bekommst du von uns vorort. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
         description-en: "Get to know your mentor and the other students from your seminar group. You can ask all the questions you couldn't ask so far. Meanwhile there are talks about studying abroad and the student council."
         english: true
       -
