@@ -32,7 +32,7 @@ days:
             title: "Begrüßung und Tutorien"
             title-en: "Greeting and Tutorials"
             location: "POT/81/A"
-            description-de: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug."
+            description: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug."
             description-en: "After a new welcoming speeches, you'll get all the important informations you need for your first semester. Afterwards you get your amazing uni-bag with a lot of cool stuff"
         -
             begin: "12:30"
@@ -92,7 +92,7 @@ days:
             location: "APB/E023"
             location-en: "APB/E023"
             description: "In verschiedenen Vorträgen werden dir alle wichtigen Informationen rund ums Studium vermittelt"
-            description-en: "JUst sit down and listen. You will get all the information about the university and your studies you'll need."
+            description-en: "Just sit down and listen. You will get all the information about the university and your studies you'll need."
             english: true
         -
             begin: "12:00"
@@ -110,7 +110,17 @@ days:
             begin: "13:00"
             duration: "3:00"
             description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
-            description: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
+            description-en: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
+            english: true
+        -
+            title: "Vorglühen"
+            title-en: "pre-party"
+            begin: "18:00"
+            duration: "2:00"
+            location: "Count Down"
+            locationen: "Count Down"
+            description: "Du hättest gerne noch mehr Zeit deine Kommilitonen und vielleicht auch den Studentenklub Count Down kennenzulernen? Vor Beginn der Clubwanderung bieten wir euch bei Spielen und Getränken genau dies. Kommt vorbei!"
+            description-en: "You would like more time to get to know your fellow students and maybe the student club Count Down as well? Use the time before the club tour starts to do so. We will provide games and some drinks."
             english: true
         -
             title: "Clubwanderung"
@@ -119,7 +129,8 @@ days:
             duration: "4:00"
             location: "Count Down"
             locationen: "Count Down"
-            description: "Wir laden dich ein den Abend mit uns zu verbringen und dich ins studentische Nachtleben zustürzen.Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten. Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
+            description: "Wir laden dich ein, den Abend mit uns zu verbringen und dich ins studentische Nachtleben zu stürzen. Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten.  Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
+            description-en: "Join us in experiencing Dresden's nightlife. On our tour of the student clubs you will even get the opportunity to meet students of other faculties as well. We will meet at Club Count Down."
             english: true
   -
     name: "Mittwoch"
@@ -131,10 +142,10 @@ days:
             title-en: "Hiking&nbsp;tour"
             begin: "08:15"
             duration: "7:00"
-            location: "Start am &nbsp;Hauptbahnhof auf Gleis ?? <br/> ?? Richtung ?? um ?? Uhr"
-            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform ?? <br/> ?? to ?? at ?? am"
+            location: "Start am &nbsp;Hauptbahnhof auf Gleis 18 <br/> S1 Richtung Schöna um 08:29 Uhr"
+            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform 18 <br/> S1 to Schöna at 08.29 a.m."
             description: "Es ist Feiertag, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht."
-            description: "Today is a bankholiday and we are going on a nice hiking tour through the Saxon Switzerland. Something totally different after yesterdays party. Since we can't change the weather (believe us we tried) please weare suitable clothes and on't forget to pack some lunch, bring water(!) and a camera."
+            description-en: "Today is a bankholiday and we are going on a nice hiking tour through the Saxon Switzerland. Something totally different after yesterdays party. Since we can't change the weather (believe us we tried) please weare suitable clothes and on't forget to pack some lunch, bring water(!) and a camera."
             english: true
         -
 
@@ -148,12 +159,12 @@ days:
         -
             begin: "20:00"
             duration: "2:00"
-            title: "Ascii Abend"
-            title-en: "Ascii Abend"
-            location: "APB/Ascii"
-            location-en: "APB/Ascii"
-            description: "Kennst du schon unser Studentencafe im unserer Fakultät? Das Ascii versorgt dich mit dem nötigen Koffein oder der Mate, die zum Überleben deines Studiums brauchen wirst. Komm vorbei und lerne das Ascii und sein Team kennen. Sie haben sich ein cooles und sehr unterhaltsames Programm ausgedacht"
-            description-en: "Did you know what we have our own student coffeshop right at our building? Join us at the Ascii and relax after todays hike."
+            title: "ascii Abend"
+            title-en: "ascii Abend"
+            location: "APB/ascii"
+            location-en: "APB/ascii"
+            description: "Kennst du schon unser Studentencafe im unserer Fakultät? Das ascii versorgt dich mit dem nötigen Koffein oder der Mate, die zum Überleben deines Studiums brauchen wirst. Komm vorbei und lerne das ascii und sein Team kennen. Sie haben sich ein cooles und sehr unterhaltsames Programm ausgedacht"
+            description-en: "Did you know what we have our own student coffeshop right at our building? Join us at the ascii and relax after todays hike."
             english: true
   -
     name: "Donnerstag"
@@ -202,7 +213,7 @@ days:
         begin: "20:15"
         duration: "2:00"
         description: "Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. freier Eintritt!"
-        description: "Did you know what we have a student cinema? Join us and enjoy a 'secret movie'"
+        description-en: "Did you know what we have a student cinema? Join us and enjoy a 'secret movie'"
         englisch: true
   -
     name: "Freitag"
