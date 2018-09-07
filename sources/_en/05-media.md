@@ -20,6 +20,8 @@ Video of ESE 2016:
 -->
 
 <div class="inline-list">
+<a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="button radius large" style="color:#ffffff">Video of ESE 2017 (YouTube)</a>
+
 <a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="button radius large" style="color:#ffffff">Video of ESE 2016 (YouTube)</a>
 
 <a href="https://vimeo.com/141549237" class="button radius large" style="color:#ffffff">Video of ESE 2015 (Vimeo)</a>
