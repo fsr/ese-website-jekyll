@@ -55,8 +55,8 @@ days:
         -
             begin: "15:30"
             duration: "3:00"
-            title: "Bunter Nachmittag"
-            title-en: "Get together"
+            title: "Timeout - Die Fakultät stellt sich vor"
+            title-en: "Timeout - Get to know the faculty"
             location: "APB/Foyer"
             description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät und du kannst einen Blick in viele interessante Räume werfen. Schau dir zum Beispiel die Display Wall an oder sei bei einer exklusiven Führung durchs Rechenzentrum mit Prof. Nagel höchstpersönlich dabei. "
             description-en: "Where can I go to study? If I need some advice for my study to whom can I talk? Follows us on a tour through the faculty and we answer all your questions. Besides you get the change to visit  Prof. Nagels data center."
@@ -103,7 +103,7 @@ days:
             description: "Zeit für eine kleine Essenspause."
             description-en: "Let's take a break and get some food."
         -
-            title: "Cammpus&shy;schnitzel&shy;jagd"
+            title: "Campus&shy;schnitzel&shy;jagd"
             title-en: "Campus scavenger hunt"
             location: "APB/Foyer"
             location-en: "Foyer of the APB"
@@ -117,8 +117,8 @@ days:
             title-en: "pre-party"
             begin: "18:00"
             duration: "2:00"
-            location: "Count Down"
-            locationen: "Count Down"
+            location: "Studentenklub Count Down"
+            location-en: "student club Count Down"
             description: "Du hättest gerne noch mehr Zeit deine Kommilitonen und vielleicht auch den Studentenklub Count Down kennenzulernen? Vor Beginn der Clubwanderung bieten wir euch bei Spielen und Getränken genau dies. Kommt vorbei!"
             description-en: "You would like more time to get to know your fellow students and maybe the student club Count Down as well? Use the time before the club tour starts to do so. We will provide games and some drinks."
             english: true
@@ -208,12 +208,12 @@ days:
       -
         title: "Kino Abend"
         title-en: "Movie Night"
-        location: "KiK"
-        location-en: "KiK"
+        location: "Kino im Kasten (KiK) - freier Eintritt"
+        location-en: "Kino im Kasten (KiK) - free entry"
         begin: "20:15"
         duration: "2:00"
-        description: "Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. freier Eintritt!"
-        description-en: "Did you know what we have a student cinema? Join us and enjoy a 'secret movie'"
+        description: "Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. Freier Eintritt!"
+        description-en: "Did you know what we have a student cinema? Join us and enjoy a 'secret movie'. Free entry!"
         englisch: true
   -
     name: "Freitag"
