@@ -14,11 +14,11 @@ Here you can find the current schedules from which you can choose one to enroll 
 But first here's a list of the used abbreviations with links to their respective websites.
 
 
-* **AUD**: [Algorithmen und Datenstrukturen](https://www.inf.tu-dresden.de/index.php?node_id=3749){:target="_blank"}
+* **AUD**: [Algorithmen und Datenstrukturen](https://www.orchid.inf.tu-dresden.de/teaching/2018ws/aud/){:target="_blank"}
 * **DIS**: Diskrete Strukturen (Einführung in die Mathematik für Informatiker)
 * **EMI**: [Einführung in die Medieninformatik](https://tu-dresden.de/ing/informatik/ai/mci/studium/lehrveranstaltungen-1/einfuehrung-in-die-medieninformatik){:target="_blank"}  *(Bachelor only)*
 * **LAG**: [Lineare Algebra](https://www.math.tu-dresden.de/~baumann/lineare_algebra___einfuehrung_in_die_mathematik_fuer_informatiker.html){:target="_blank"} (Einführung in die Mathematik für Informatiker)
-* **RA1**:  Rechnerarchitektur *(Diploma only)*           
+* **RA1**: Rechnerarchitektur *(Diploma only)*
 * **TGI**: Technische Grundlagen *(Diploma only)*, the lecture **[TGI]** (Di., 3. DS) takes place only in *even* weeks
 
 Not included in these plans is the **Math learning room** on Thursday, 5th and 6th DS in room WIL/B122, where you can get help with any questions you may have (and can also hand in homework), as well as a possible replacement slot for the EMI lecture on Friday, 6th DS in room POT/0081/H.

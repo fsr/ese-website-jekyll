@@ -17,7 +17,8 @@ Every new student at the Faculty of Computer Science is invited to join the ESE.
 
 - [Master Distributed Systems Engineering](https://tu-dresden.de/ing/informatik/sya/se/master-dse?set_language=en)
 - [Diploma Information Systems Engineering](https://tu-dresden.de/ing/elektrotechnik/studium/studienbeginn/ese?set_language=en)
-- [Master Computational Logic](https://iccl.inf.tu-dresden.de/web/MCL/IntroductoryWeek)
+- [Master Computational Logic](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-logic?set_language=en)
+- [Master Computational Modelling and Simulation](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/computational-modeling-and-simulation?set_language=en)
 - [Master Computational Science and Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-science-and-engineering/informationen-fuer-studierende-im-1-semester)
 - [Teaching Studies
 ](https://dil.inf.tu-dresden.de/dil/arbeitsgruppe/aktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=132&cHash=d5d450f1d4d8dc250f13ceb485585284)

@@ -22,7 +22,8 @@ Alle neuen Studierenden der Fakultät Informatik sind eingeladen, an der ESE tei
 
 - [Master Distributed Systems Engineering (DSE)](https://tu-dresden.de/ing/informatik/sya/se/master-dse)
 - [Diplom Informationssystemtechnik (IST)](https://tu-dresden.de/ing/elektrotechnik/studium/studienbeginn/ese)
-- [Master Computational Logic (MCL)](https://iccl.inf.tu-dresden.de/web/MCL/IntroductoryWeek)
+- [Master Computational Logic (MCL)](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-logic?set_language=de)
+- [Master Computational Modelling and Simulation (CMS)](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/computational-modeling-and-simulation?set_language=de)
 - [Master Computational Science and Engineering (CSE)](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-science-and-engineering/informationen-fuer-studierende-im-1-semester)
 - [Lehramt](https://dil.inf.tu-dresden.de/dil/arbeitsgruppe/aktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=132&cHash=d5d450f1d4d8dc250f13ceb485585284)
 
