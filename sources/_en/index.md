@@ -17,11 +17,11 @@ Every new student at the Faculty of Computer Science is invited to join the ESE.
 
 - [Master Distributed Systems Engineering](https://tu-dresden.de/ing/informatik/sya/se/master-dse?set_language=en)
 - [Diploma Information Systems Engineering](https://tu-dresden.de/ing/elektrotechnik/studium/studienbeginn/ese?set_language=en)
-- [Master Computational Logic](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-logic?set_language=en)
-- [Master Computational Modelling and Simulation](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/computational-modeling-and-simulation?set_language=en)
+- Master Computational Logic: The introductory event for this [course of study](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-logic?set_language=en) will take place on **Monday of the first lecture week** (8th of October 2018) at **9:20am** in room APB/E005. Further information can be found in the [information leaflet](https://tu-dresden.de/ing/informatik/ressourcen/dateien/studium/sonstige_dokumente/master_cl/infoblatt_MCL_2018.pdf).
+- Master Computational Modelling and Simulation: The introductory event for this [course of study](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/computational-modeling-and-simulation?set_language=en) will take place on **Friday** (5th of October 2018) at **1pm** in room APB/1004. Further information can be found in the [information leaflet](https://tu-dresden.de/ing/informatik/ressourcen/dateien/studium/sonstige_dokumente/master_cms/information_leaflet_2018.pdf).
 - [Master Computational Science and Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-science-and-engineering/informationen-fuer-studierende-im-1-semester)
 - [Teaching Studies
 ](https://dil.inf.tu-dresden.de/dil/arbeitsgruppe/aktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=132&cHash=d5d450f1d4d8dc250f13ceb485585284)
 
-During the ESE week you can recognize helpers by their beautiful #CB6040 t-shirts. Simply walk up to them and talk to them. You can ask them anything, no need to be shy. Of course you can always contact the FSR via email, phone or social media. The office should be occupied as well at all times during the week. 
+During the ESE week you can recognize helpers by their beautiful `#CB6040` t-shirts. Simply walk up to them and talk to them. You can ask them anything, no need to be shy. Of course you can always contact the FSR via email, phone or social media. The office should be occupied as well at all times during the week. 
 

@@ -13,9 +13,9 @@ layout: en-page
 *   [Facebook group for english speaking computer scientist students](https://www.facebook.com/groups/cstud/ "facebookgroup"){:target="_blank"}
 *   [Facebook group for spare time](https://www.facebook.com/groups/TUDInfFreizeit/ "facebookgroup for spare time"){:target="_blank"}_: everything that is not directly related to the university_
 
-### No Panic!
+### The Manual
 
-[No Panic](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 6,2 MB) is the brochure for the beginners. The brochure is currently available in German only. You’ll also receive it in printed form during the ESE.
+As everything in computer science, your degree programme comes with detailed instructions on how to master it and what university life is. We compiled a [brochure](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 3,88 MB) with all relevant information for the beginners. It is currently available in German only. You’ll also receive the brochure in printed form during the ESE.
 
 ### Finances
 
