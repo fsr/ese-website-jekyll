@@ -9,10 +9,10 @@ layout: en-page
 
 #### Seminar groups
 
-The first semester and its new experiences can be overwhelming and it may be a little hard to get used to your new life as an
-university student. To help you find your way easily in your first year of uni there are seminar groups in the first semester.
+The first semester and its new experiences can be overwhelming and it may be a little hard to get used to your new life as a
+university student. To help you find your way easily in your first year of Uni there are seminar groups in the first semester.
 This way you are not on your own in the lecture accompanying exercises, but you'll see familiar faces and friends with whom you can team up to tackle homework and studies together.
-Every seminar group comes with a tutor who will give you all the informations you need, answer any questions and support you in many matters. For this there will be meetings roughly every four weeks apart, but you can obviously ask urgent questions outside of these meetings.
+Every seminar group comes with a tutor who will give you all the information you need, answer any questions and support you in many matters. For this there will be meetings roughly every four weeks apart, but you can obviously ask urgent questions outside of these meetings.
 
 #### Schedule
 
@@ -24,29 +24,29 @@ In the following semesters you'll have to build your own schedule and enroll in 
 
 #### Official study schedule (Studienablaufplan)
 
-The official study schedule determines which courses you should cover in which semester, how much time you should allocate for them and how many credit points they yield. It gives you an overview at which time you should do an internship or vacation. Keep in mind tho that the order is not mandatory.
+The official study schedule determines which courses you should cover in which semester, how much time you should allocate for them and how many credit points they yield. It gives you an overview at which time you should do an internship or vacation. Keep in mind though that the order is not mandatory.
 You can find the official study schedule on the last page of the [study regulations](#).
 
 #### Modules/courses
 
-Modules can contain lectures, exercises and practical training. The content of a module is recorded in the related module description, which you can find either on the website of the module or in the PDF of the [study regulations](#). In it you'll find the contents and goals of a course, its prerequesites and the graded performance required.
+Modules can contain lectures, exercises and practical training. The content of a module is recorded in the related module description, which you can find either on the website of the module or in the PDF of the [study regulations](#). In it you'll find the contents and goals of a course, its  prerequisites and the graded performance required.
 
 #### Credit points
 
-Credit points measure the time spent per module or degree by a student. In particular 1 so called ECTS-point is worth 30 hours of work. How many credit points a module yields is recorded in the official study schedule and in the related module description.
+Credit points measure the time spent per module or degree by a student. In particular, 1 so called ECTS-point is worth 30 hours of work. How many credit points a module yield is recorded in the official study schedule and in the related module description.
 
 #### ZIH-Login
 
-You will receive your own personal **Uni-Login** from the ZIH (the centre for information services and high performance computing), with which you can log in to your [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, the campus wide WiFi "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" (also available at many other campuses world wide!) and all other uni related platforms. Additionally you can use it on many platforms to get student discounts, like [Microsofts](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Free Microsoft-Licenses"){:target="_blank"} (Free Licenses), Spotify and many more.
+You will receive your own personal **Uni-Login** from the ZIH (the centre for information services and high performance computing), with which you can log in to your [Mail](https://msx.tu-dresden.de/){:target="_blank"}-Account, the campus wide WiFi "[eduroam](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/#section-0){:target="_blank"}" (also available at many other campuses world wide!) and all other uni related platforms. Additionally, you can use it on many platforms to get student discounts, like [Microsofts](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b05da5a4-749b-e011-969d-0030487d8897&vsro=8 "Microsoft Imagine - Free Microsoft-Licenses"){:target="_blank"} (Free Licenses), Spotify and many more.
 
 #### jExam (Enrollment)
 
 On the online-platform jExam you will enroll in your seminar group and courses, and later receive your **exam results**. On **[Wednesday](/2018/events)** you will choose your seminar group together with a tutor from your seminar group using jExam.
 
-***For all international students - DSE, CL Students and Exchangestudents, who only partake in 1-2 semesters at the faculty: please refer to the 'Service Center for International Students' in the room INF/2018.***
+***For all international students - DSE, CL Students and Exchange Students, who only partake in 1-2 semesters at the faculty: please refer to the 'Service Center for International Students' in the room INF/2018.***
 
 #### Mailing lists
-All kinds of informations relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium:mailinglisten){:target="_blank"). 
+All kinds of information relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium:mailinglisten){:target="_blank"). 
 ### Campus
 
 #### Campus Navigator
@@ -55,11 +55,11 @@ The Campus Navigator helps you orient yourself on the campus and get information
 
 #### Andreas-Pfitzmann-Bau (APB)
 
-The [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blank"} is the building of the **Faculty Computer Science**. It's the building with the green windows, which you can see on the pictures on the home page and which you will visit every day during ESE. Here take many of your classes place. Additionally you can find PC pools, workplaces, the FSR-bureau, the student coffee shop ascii and much more. If a seminar room is free, you can use it for your private studies.
+The [APB](https://navigator.tu-dresden.de/karten/dresden/geb/apb){:target="_blank"} is the building of the **Faculty Computer Science**. It's the building with the green windows, which you can see on the pictures on the home page and which you will visit every day during ESE. Many of your courses will be held here. Additionally you can find PC pools, workplaces, the FSR-bureau, the student coffee shop ascii and much more. If a seminar room is free, you can use it for your private studies.
 
 #### Canteen
 
-On campus there are multiple [canteens](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} with daily changing [menues](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. The canteen closest to the APB is the [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. You pay with your [Emeal-Card](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}. The card can be acquired at ESE **everyday during breakfast**. Please note the [requirements](/2018/events).
+On campus there are multiple [canteens](https://www.studentenwerk-dresden.de/mensen/mensen_cafeterien.html){:target="_blank"} with daily changing [menus](https://www.studentenwerk-dresden.de/mensen/speiseplan/){:target="_blank"}. The canteen closest to the APB is the [Alte Mensa](https://navigator.tu-dresden.de/karten/dresden/geb/m13){:target="_blank"}. You pay with your [Emeal-Card](https://www.studentenwerk-dresden.de/mensen/emeal.html "Studentenwerk Emeal"){:target="_blank"}. The card can be acquired at ESE **everyday during breakfast**. Please note the [requirements](/2018/events).
 
 
 #### SLUB (Saxon State and University Library)

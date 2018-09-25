@@ -11,11 +11,11 @@ In the areas of legal or social counseling the [Studentenwerk Dresden](https://w
 
 ### How does the timetable work?
 
-In the first semester you don’t have to worry about this too much. In later semesters you will get lecture and exercise dates and then you will have to build your own schedule in jExam. For the first semester we have prepared several timetables in which you will enroll yourselves (with our help). You will then be in a seminar group along with all the others who have chosen this timetable. Please do not miss the corresponding meeting on Friday, it is very important.
+In the first semester you don’t have to worry about this too much. In later semesters, you will get lecture and exercise dates and then you will have to build your own schedule in jExam. For the first semester we have prepared several timetables in which you will enroll yourselves (with our help). You will then be in a seminar group along with all the others who have chosen this timetable. Please do not miss the corresponding meeting on Friday, it is very important.
 
 ### How do I find my way around the campus?
 
-In the campus scavenger hunt during the ESE you will already get to know the campus a little. Otherwise you can find both [static maps](https://tu-dresden.de/service/lageplaene "static maps"){:target="_blank"} and the [campus navigator](https://navigator.tu-dresden.de/ "campus navigator"){:target="_blank"} on the service side of the TU Dresden which support you in reaching your destination.
+In the campus scavenger hunt during the ESE you will already get to know the campus a little. Otherwise, you can use both [static maps](https://tu-dresden.de/service/lageplaene "static maps"){:target="_blank"} and the [campus navigator](https://navigator.tu-dresden.de/ "campus navigator"){:target="_blank"} on the service side of the TU Dresden which support you in reaching your destination.
 
 ### What can I expect at the start of the courses?
 
@@ -41,7 +41,7 @@ Those who want to can participate in one of the many offered sports courses, you
 
 _Activate ZIH login:_
 
-Please use you ZIH-Coupon you got per email at latest on Tuesday. Simply do it over the [IDM Coupon Portal](https://idm-coupon.tu-dresden.de/){:target="_blank"} of the TU Dresden. You will be prompted to set a password. This login is tremendously important bacause you will use it on all university services like [WLAN](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/arbeitsumgebung/zugang_datennetz), [jExam](https://jexam.inf.tu-dresden.de/) (Einschreiben, Noten, etc.), [Selma](https://selma.tu-dresden.de/) (Selfmanagement-Portal) and many more!
+Please use your ZIH-Coupon you got per email at latest on Tuesday. Simply do it over the [IDM Coupon Portal](https://idm-coupon.tu-dresden.de/){:target="_blank"} of the TU Dresden. You will be prompted to set a password. This login is tremendously important because you will use it on all university services like [WLAN](https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/arbeitsumgebung/zugang_datennetz), [jExam](https://jexam.inf.tu-dresden.de/) (Einschreiben, Noten, etc.), [Selma](https://selma.tu-dresden.de/) (Selfmanagement-Portal) and many more!
 
 ### My email is not working, what can I do?
 

@@ -152,8 +152,17 @@ days:
             title-en: "Ascii Abend"
             location: "APB/Ascii"
             location-en: "APB/Ascii"
-            description: "Kennst du schon unser Studentencafe im unserer Fakultät? Das Ascii versorgt dich mit dem nötigen Koffein oder der Mate, die zum Überleben deines Studiums brauchen wirst. Komm vorbei und lerne das Ascii und sein Team kennen. Sie haben sich ein cooles und sehr unterhaltsames Programm ausgedacht"
-            description-en: "Did you know what we have our own student coffeshop right at our building? Join us at the Ascii and relax after todays hike."
+            description: "Studieren heißt nicht nur Büffeln, sondern auch Eintauchen in eine
+                              Kultur, die bestimmt wird von 'Weil's gut ist' statt 'Weil's Geld dafür
+                              gibt'. Deshalb gibt's Studentenclubs und deshalb gibt's das ascii -
+                              unser Studentencafé an der Fakultät, das dich mit dem nötigen Koffein
+                              und ausreichend Mate versorgt, wenn die Nacht mal wieder kürzer war, und
+                              dessen Sofas weiterhelfen, wenn auch das nicht mehr reicht.
+                              Findest du super? Dann lern zum ascii-Abend das Café und die Menschen
+                              kennen, die den Laden schmeißen. Wir plaudern aus dem Nähkästchen, du
+                              kannst dich durchs Getränkesortiment des asciis probieren und das ein
+                              oder andere Bier wird auch bereit stehen."
+            description-en: "The ascii is your chance to get involved with other students. The ascii always looks for new people. which want to help because it's fun and not because of money. If you would like to get to know the team and have a nice evening then come and join us."
             english: true
   -
     name: "Donnerstag"

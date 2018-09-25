@@ -7,7 +7,7 @@ index: false
 
 Computer Science at TU Dresden. Unknown city, big campus, lots of new people. We are your student representatives, also known as FSR and warmly welcome you to the university. From now on, you are a student of the Faculty of Computer Science.
 
-To make your start here go as smoothly and easily as possible, we have organized a lot of events during the week from 1st to 5th of October before the lectures begin. At TU Dresden the *orientation week* is referred to as *ESE*. Unfortunately, some of those events take place during the maths preparatory courses ("Brückenkurs"). We recommend attending the "ESE", especially, as there is an online course available again this year.
+To make your start here go as smoothly and easily as possible, we have organized a lot of events during the week from 1st to 5th of October before the lectures begin. At TU Dresden the *orientation week* is referred to as *ESE*. Unfortunately, some of those events take place during the math preparatory courses ("Brückenkurs"). We recommend attending the "ESE", especially, as there is an online course available again this year.
 
 ### First Things First
 
