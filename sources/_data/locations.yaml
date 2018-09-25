@@ -11,6 +11,14 @@
 "WEB/222/U":
   name: "WEB/222/U"
   url: "https://navigator.tu-dresden.de/etplan/web/02/raum/351202.0900"
+"APB/ascii":
+  name: "Studentencafé ascii"
+  name-en: "café ascii"
+  url: "https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220"
+"HSZ":
+  name: "Hörsaalzentrum (HSZ)"
+  name-en: "Lecture Hall Centre"
+  url: "https://navigator.tu-dresden.de/karten/dresden/geb/hsz"
 "countdown":
   name: "Club Count Down"
   name-en: "club Count Down"

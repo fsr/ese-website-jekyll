@@ -15,9 +15,9 @@ Wir stellen für euch Facebook-Gruppen bereit, auf denen ihr euch mit Kommiliton
 *   [Facebookgruppe der (Medien-)Informatik-Erstis {{site.year}}/{{ site.year | plus: 1 | remove: "20" }}](https://www.facebook.com/groups/TUDInf{{site.year}}/ "Facebookgruppe"){:target="_blank"}
 *   [(Medien-)Informatiker*innen – Freizeitgruppe auf Facebook](https://www.facebook.com/groups/TUDInfFreizeit/ "Facebook-Freizeitgruppe"){:target="_blank"}  für alles, was nicht direkt mit der Uni zu tun hat
 
-### No Panic!
+### Das Wichtigste im Heft
 
-Die [No Panic](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 6,2 MB) ist die Infobroschüre zum Studienstart. Hier findest du alles, was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
+Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausführliche Anleitung, die dir alle Abläufe und den Studienalltag erklärt. Das Wichtigste haben wir dir in einem [Heft](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 3,88 MB) zusammengefasst. Hier findest du alles, was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 
 ### Linksammlung
 
