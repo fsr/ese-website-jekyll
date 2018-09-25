@@ -117,8 +117,7 @@ days:
             title-en: "pre-party"
             begin: "18:00"
             duration: "2:00"
-            location: "Studentenklub Count Down"
-            location-en: "student club Count Down"
+            location: "countdown"
             description: "Du hättest gerne noch mehr Zeit deine Kommilitonen und vielleicht auch den Studentenklub Count Down kennenzulernen? Vor Beginn der Clubwanderung bieten wir euch bei Spielen und Getränken genau dies. Kommt vorbei!"
             description-en: "You would like more time to get to know your fellow students and maybe the student club Count Down as well? Use the time before the club tour starts to do so. We will provide games and some drinks."
             english: true
@@ -127,8 +126,7 @@ days:
             title-en: "Club tour"
             begin: "20:00"
             duration: "4:00"
-            location: "Count Down"
-            location-en: "Count Down"
+            location: "countdown"
             description: "Wir laden dich ein, den Abend mit uns zu verbringen und dich ins studentische Nachtleben zu stürzen. Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten.  Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
             description-en: "Join us in experiencing Dresden's nightlife. On our tour of the student clubs you will even get the opportunity to meet students of other faculties as well. We will meet at Club Count Down."
             english: true
@@ -163,7 +161,7 @@ days:
             title-en: "ascii Abend"
             location: "APB/ascii"
             location-en: "APB/ascii"
-            description: "Studieren heißt nicht nur Büffeln, sondern auch Eintauchen in eine Kultur, die bestimmt wird von \"Weil's gut ist\" statt \"Weil's Geld dafür gibt\". Deshalb gibt's Studentenclubs und deshalb gibt's das ascii - unser Studentencafé an der Fakultät, das dich mit dem nötigen Koffein und ausreichend Mate versorgt, wenn die Nacht mal wieder kürzer war, und dessen Sofas weiterhelfen, wenn auch das nicht mehr reicht.  Findest du super? Dann lern zum ascii-Abend das Café und die Menschen kennen, die den Laden schmeißen. Wir plaudern aus dem Nähkästchen, du kannst dich durchs Getränkesortiment des asciis probieren und das ein oder andere Bier wird auch bereit stehen."
+            description: "Studieren heißt nicht nur Büffeln, sondern auch Eintauchen in eine Kultur, die bestimmt wird von &quot;Weil's gut ist&quot; statt &quot;Weil's Geld dafür gibt&quot;. Deshalb gibt's Studentenclubs und deshalb gibt's das ascii - unser Studentencafé an der Fakultät, das dich mit dem nötigen Koffein und ausreichend Mate versorgt, wenn die Nacht mal wieder kürzer war, und dessen Sofas weiterhelfen, wenn auch das nicht mehr reicht. Findest du super? Dann lern zum ascii-Abend das Café und die Menschen kennen, die den Laden schmeißen. Wir plaudern aus dem Nähkästchen, du kannst dich durchs Getränkesortiment des asciis probieren und das ein oder andere Bier wird auch bereit stehen."
             description-en: "Did you know what we have our own student coffeshop right at our building? Join us at the ascii and relax after todays hike."
             english: true
   -
@@ -208,8 +206,7 @@ days:
       -
         title: "Kino Abend"
         title-en: "Movie Night"
-        location: "Kino im Kasten (KiK) - freier Eintritt"
-        location-en: "Kino im Kasten (KiK) - free entry"
+        location: "kik"
         begin: "20:15"
         duration: "2:00"
         description: "Wusstest du, dass es auf dem Campus ein studentisches Kino gibt? Gemeinsam mit den Fachschaften Hydrowissenschaften und SpraLiKuWi veranstalten wir gemeinsam einen großen Kino-Abend. Der Titel des Films? Geheim! Aber umso besser, da kannst du mit anderen rätseln, was wohl gezeigt wird, und dabei direkt neue Freunde finden, die auf die gleichen Filme stehen wie du. Freier Eintritt!"
@@ -270,8 +267,7 @@ days:
       -
         title: "Stadt&shy;führung"
         title-en: "Guided city tour"
-        location: "Altmarkt-Galerie"
-        location-en: "Altmarkt-Galerie"
+        location: "altmarkt-galerie"
         begin: "13:00"
         duration: "2:30"
         english: true
