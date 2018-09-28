@@ -16,7 +16,8 @@ Damit du dich besser zurechtfindest und gleich nette Leute kennenlernst, haben w
 ### Das Wichtigste vorweg
 
 Auf dieser Seite findest du alles, was du brauchst. 
-Das Rrogramm für die Ese, die Stundenpläne und generelle Informationen haben wir hier für dich zusammengetragen.
+Das Programm für die ESE, die Stundenpläne und generelle Informationen haben wir hier für dich zusammengetragen.
+Eine ausführlichere Broschüre mit allem, was es rund um das Studium zu wissen gibt, gibt es außerdem [hier](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf).
 
 Alle neuen Studierenden der Fakultät Informatik sind eingeladen, an der ESE teilzunehmen. Zusätzlich gibt es für manche Studiengänge noch eigene Einführungsveranstaltungen. Solltest du also nicht Informatik oder Medieninformatik studieren, schau bitte auch auf der entsprechenden Seite vorbei:
 

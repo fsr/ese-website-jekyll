@@ -15,7 +15,7 @@ layout: en-page
 
 ### The Manual
 
-As everything in computer science, your degree programme comes with detailed instructions on how to master it and what university life is. We compiled a [brochure](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 3,88 MB) with all relevant information for the beginners. It is currently available in German only. You’ll also receive the brochure in printed form during the ESE.
+As everything in computer science, your degree programme comes with detailed instructions on how to master it and what university life is. We compiled a [brochure](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf) (PDF 3,88 MB) with all relevant information for the beginners. It is currently available in German only. You’ll also receive the brochure in printed form during the ESE.
 
 ### Finances
 

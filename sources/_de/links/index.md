@@ -17,7 +17,7 @@ Wir stellen für euch Facebook-Gruppen bereit, auf denen ihr euch mit Kommiliton
 
 ### Das Wichtigste im Heft
 
-Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausführliche Anleitung, die dir alle Abläufe und den Studienalltag erklärt. Das Wichtigste haben wir dir in einem [Heft](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/nopanic_compressed.pdf) (PDF 3,88 MB) zusammengefasst. Hier findest du alles, was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
+Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausführliche Anleitung, die dir alle Abläufe und den Studienalltag erklärt. Das Wichtigste haben wir dir in einem [Heft](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf) (PDF 3,88 MB) zusammengefasst. Hier findest du alles, was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 
 ### Linksammlung
 

@@ -12,6 +12,7 @@ To make your start here go as smoothly and easily as possible, we have organized
 ### First Things First
 
 The ESE starts with breakfast on Monday, 1st October at 9am. Please bring your **student id** (Studentenausweis), your **photo id**, the **Emeal certificate** (E*meal* Bescheinigung) and **10€** (5€ deposit and 5€ or more credit) for the canteen-card E*meal*. You can find more information on the [website of the Studentenwerk Dresden](http://www.studentenwerk-dresden.de/english/mensen/emeal.html). You can get your personal canteen-card every day during the breakfast.
+An extensive collection of everything you need to know can also be found in [this](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf) brochure (german only).
 
 Every new student at the Faculty of Computer Science is invited to join the ESE. In addition to the main events organized by us there are dedicated introductory meetings for other study paths than pure Computer Science or Media Computer Science. Have a look:
 
