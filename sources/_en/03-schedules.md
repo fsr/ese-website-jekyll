@@ -5,15 +5,15 @@ permalink: /en/schedules/
 ---
 
 <div class="panel">
-  <h5>Schedules are not yet available.</h5>
-  <p>On this page you will be able to view the provisional schedules once published.</p>
+  <h5>Preliminary schedules are now available!</h5>
+  <p>Below you find a preliminary version of the schedules. Expect some minor changes during Monday though, as some overlaps need to be sorted out.</p>
 </div>
 
-Here you can find the current schedules from which you can choose one to enroll for on Wednesday. Please do not miss this :wink:
+Here you can find the current schedules from which you can choose one to enroll for on Tuesday. Please do not miss this :wink:
 
 But first here's a list of the used abbreviations with links to their respective websites.
 
-
+* **SEM**: Seminargruppentreffen. In these meetings which are held irregularly, your mentor will teach you the important basics surrounding your studies and remind you in time to enroll for exams.
 * **AUD**: [Algorithmen und Datenstrukturen](https://www.orchid.inf.tu-dresden.de/teaching/2018ws/aud/){:target="_blank"}
 * **DIS**: Diskrete Strukturen (Einführung in die Mathematik für Informatiker)
 * **EMI**: [Einführung in die Medieninformatik](https://tu-dresden.de/ing/informatik/ai/mci/studium/lehrveranstaltungen-1/einfuehrung-in-die-medieninformatik){:target="_blank"}  *(Bachelor only)*
@@ -25,4 +25,4 @@ Not included in these plans is the **Math learning room** on Thursday, 5th and 6
 
 Information on any course not present here may be found on the website for the chair responsible for the course in question. Please be aware, these schedules are subject to change and not guaranteed to remain in their current form. Keep an eye on the linked websites for potential changes.
 
-[//]: # (include all-schedules.html)
+{% include all-schedules.html %}

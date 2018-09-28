@@ -66,8 +66,8 @@ values:
         slot: 1
         location: WIL/C104/U
       -
-        title: Seminargruppentreffen
-        type: ""
+        title: SEM
+        type: S
         slot: 2
         location: APB/E007/P
       -
@@ -107,8 +107,8 @@ values:
         location: APB/E008/U
     Donnerstag:
       -
-        title: Seminargruppentreffen
-        type: ""
+        title: SEM
+        type: S
         slot: 2
         location: APB/E007/U
       -
@@ -120,8 +120,8 @@ values:
     name: Bachelor/3
     Montag:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 2
         location: APB/E007/U
       -
@@ -156,8 +156,8 @@ values:
     name: Bachelor/4
     Montag:
       -
-        title: Seminargruppentreffen
-        type: ""
+        title: SEM
+        type: S
         slot: 2
         location: APB/E007/U
       -
@@ -214,8 +214,8 @@ values:
         location: WIL/C106/U
     Mittwoch:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 1
         location: APB/E006/U
     Donnerstag:
@@ -234,8 +234,8 @@ values:
         location: HSZ/0002/E
     Mittwoch:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 1
         location: APB/E006/U
     Donnerstag:
@@ -276,8 +276,8 @@ values:
         location: WIL/C107/U
     Donnerstag:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 4
         location: APB/E009/U
     Freitag:
@@ -317,8 +317,8 @@ values:
         location: WIL/C102/U
     Mittwoch:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 2
         location: APB/E001/U
     Donnerstag:
@@ -353,8 +353,8 @@ values:
         location: WIL/C105/U
     Mittwoch:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 2
         location: APB/E001/U
     Freitag:
@@ -394,8 +394,8 @@ values:
         slot: 1
         location: WIL/C102/U
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 2
         location: APB/E005/U
       -
@@ -435,8 +435,8 @@ values:
         location: SCH/A184/H
     Donnerstag:
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 2
         location: APB/E005/U
   -
@@ -449,8 +449,8 @@ values:
         location: HSZ/0002/E
         week: 2
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 4
         location: APB/E009/U
       -
@@ -517,8 +517,8 @@ values:
         location: HSZ/0002/E
         week: 2
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 4
         location: APB/E009/U
       -
@@ -589,7 +589,7 @@ values:
         slot: 3
         location: APB/E001/U
       -
-        title: Seminargruppentreffen
-        type: Ü
+        title: SEM
+        type: S
         slot: 4
         location: APB/E009/U
