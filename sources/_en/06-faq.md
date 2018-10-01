@@ -52,3 +52,7 @@ What is important here is that you already activated your ZIH login and set a pa
 Each lecture or exercise is 90 minutes long, in between there are both a 20 minute breaks ([time pattern of the TU Dresden](https://tu-dresden.de/studium/organisation/vorlesungsverzeichnis/zeitraster/document_view?set_language=en "time pattern of the TU Dresden"){:target="_blank"}). All events start on time, not [c.t.](https://en.wikipedia.org/wiki/Academic_quarter_(class_timing) "cum tempore"){:target="_blank"}.
 
 The [academic calendar](https://tu-dresden.de/studium/organisation/studienjahresablauf/index_html/document_view?set_language=en){:target="_blank"} (days off, lecture-free time, etc.) can be found on the website of the TU Dresden. During the holidays after the first semester the Einführungspraktikum takes place for one of two weeks.
+
+### I start with the master course _Computational Science & Engineering_ an read about events for this course during the ESE. However, i cannot find them in the timetable, when will these events take place?
+
+On Monday you can get some first information, on Thursday and Friday you will learn more. Come at latest to the greeting, in the following tutorial you will be given information on your course and on the upcoming events during the ESE!

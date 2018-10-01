@@ -54,3 +54,9 @@ Wichtig hierfür ist, dass ihr euren ZIH-Login bereits aktiviert und ein Passwor
 Jede Vorlesung bzw. Übung dauert 90 Minuten, dazwischen gibt es jeweils eine 20-minütige Pause ([Zeitraster der TU Dresden](https://tu-dresden.de/studium/organisation/vorlesungsverzeichnis/zeitraster "Zeitraster der TU Dresden"){:target="_blank"}). Alle Veranstaltungen beginnen pünktlich, nicht [ct](https://de.wikipedia.org/wiki/Akademische_Zeitangabe "cum tempore"){:target="_blank"}.
 
 Den [Studienjahresablauf](https://tu-dresden.de/studium/organisation/studienjahresablauf "Studienjahresablauf"){:target="_blank"} (freie Tage, vorlesungsfreie Zeit usw.) findet ihr auf der Webseite der TU Dresden. Beachtet allerdings, dass in den Ferien nach dem ersten Semester das **Einführungspraktikum** stattfindet.
+
+### Ich fange mit dem Master _Computational Science & Engineering_ an und habe gelesen, dass es dafür auch Veranstaltungen während der ESE gibt. Die sind aber nicht im Zeitplan, wann finden sie statt?
+
+Bereits am Montag gibt es erste Infos zu deinem Studiengang, am Donnerstag und Freitag gibt es dann noch mehr. Sei also spätestens am Montag bei der Begrüßung dabei, im anschließenden Tutorium gibt es dann Infos, auch zu den weiteren Veranstaltungen der ESE! 
+
+
