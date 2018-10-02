@@ -3,6 +3,11 @@ layout: en-index
 index: false
 ---
 
+<div class="panel">
+  <h5>The first pictures from the introductory week are online!</h5>
+  <p>The first impressions are online and can be found in the <a href="https://users.ifsr.de/~vogel/2018/">gallery</a>.</p>
+</div>
+
 ### Welcome
 
 Computer Science at TU Dresden. Unknown city, big campus, lots of new people. We are your student representatives, also known as FSR and warmly welcome you to the university. From now on, you are a student of the Faculty of Computer Science.

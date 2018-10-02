@@ -4,6 +4,11 @@ layout: index
 index: false
 ---
 
+<div class="panel">
+  <h5>Die ersten Bilder der Woche sind online!</h5>
+  <p>Die ersten Impressionen der ESE-Woche sind online. <a href="https://users.ifsr.de/~vogel/2018/">Hier</a> geht's zur Fotogalerie!</p>
+</div>
+
 ### Herzlich Willkommen
 
 Informatik an der TU Dresden. Unbekannte Stadt, großer Campus, so viele neue Leute. Wir als Fachschaftsrat Informatik, abgekürzt FSR, begrüßen dich ganz herzlich an der Uni. Du bist jetzt Teil einer großen Gemeinschaft, der Fachschaft Informatik. 

@@ -5,8 +5,12 @@ permalink: /en/schedules/
 ---
 
 <div class="panel">
-  <h5>Preliminary schedules are now available!</h5>
-  <p>Below you find a preliminary version of the schedules. Expect some minor changes during Monday though, as some overlaps need to be sorted out.</p>
+  <h5>Current changes</h5>
+  <p>
+    <ul>
+      <li>02.10. 17:00: The plans for <strong>Ba/10 and Ba/11</strong> were added, in <strong>Diplom/1</strong> the TGI exercise was moved from Thursday to Friday.</li>
+    </ul>
+  </p>
 </div>
 
 Here you can find the current schedules from which you can choose one to enroll for on Tuesday. Please do not miss this :wink:

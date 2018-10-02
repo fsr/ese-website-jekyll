@@ -14,8 +14,12 @@ layout: page
 
 
 <div class="panel">
-  <h5>Vorläufige Stundenpläne sind jetzt online!</h5>
-  <p>Unten findest du eine vorläufige Fassung der Stundenpläne, die sich aber im Verlauf des Montags noch mal ändern wird. Am Donnerstag kannst du dich dann in einen der Pläne einschreiben.</p>
+  <h5>Aktuelle Änderungen</h5>
+  <p>
+    <ul>
+      <li>02.10. 17:00 Uhr: Die Pläne für <strong>Ba/10 und Ba/11</strong> wurden hinzugefügt, bei <strong>Diplom/1</strong> wurde die TGI-Übung von Donnerstag nach Freitag verschoben.</li>
+    </ul>
+  </p>
 </div>
 
 Hier findest du die aktuellen Stundenpläne (Seminargruppenpläne), in die du dich am Donnerstagmorgen einschreiben kannst. Nicht verpassen! :wink:
