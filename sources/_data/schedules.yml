@@ -368,6 +368,79 @@ values:
         slot: 4
         location: APB/E067
   -
+    name: Bachelor/10
+    Montag:
+      -
+        title: DIS
+        type: Ü
+        slot: 4
+        location: WIL/C307
+      -
+        title: EMI
+        type: V
+        slot: 5
+        location: HSZ/0002
+    Mittwoch:
+      -
+        title: AUD
+        type: Ü
+        slot: 1
+        location: GER/0009
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 1
+        location: WIL/C102
+      -
+        title: SEM
+        type: S
+        slot: 2
+        location: APB/E005
+    Freitag:
+      -
+        title: EMI
+        type: Ü
+        slot: 4
+        location: APB/E040
+  -
+    name: Bachelor/11
+    Montag:
+      -
+        title: EMI
+        type: V
+        slot: 5
+        location: HSZ/0002
+    Dienstag:
+      -
+        title: AUD
+        type: Ü
+        slot: 1
+        location: APB/E007
+    Mittwoch:
+      -
+        title: EMI
+        type: Ü
+        slot: 4
+        location: APB/E067
+    Donnerstag:
+      -
+        title: LAG
+        type: Ü
+        slot: 2
+        location: ZEU/E005
+      -
+        title: SEM
+        type: S
+        slot: 2
+        location: APB/E005
+    Freitag:
+      -
+        title: DIS
+        type: Ü
+        slot: 1
+        location: WIL/C104
+  -
     name: Diplom/1
     Dienstag:
       -
@@ -463,14 +536,15 @@ values:
     Donnerstag:
       -
         title: TGI
-        type: Ü
-        slot: 1
-        location: APB/E009
-      -
-        title: TGI
         type: V
         slot: 2
         location: HSZ/0003
+    Freitag:
+      -
+        title: TGI
+        type: Ü
+        slot: 1
+        location: HSZ/0201
   -
     name: Diplom/3
     Montag:
