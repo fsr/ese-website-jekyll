@@ -5,9 +5,14 @@ permalink: /media/
 layout: page
 ---
 
-<!-- <a href="https://users.ifsr.de/~vogel/" class="button radius large" style="color:#ffffff">Foto-Galerie der ESE 2016</a> -->
-<a href="https://users.ifsr.de/~vogel/2018/" class="button radius large" style="color:#ffffff">Fotos der ESE 2018</a> <br/>
+## Fotos
+
+<div class="inline-list">
+<a href="https://users.ifsr.de/~vogel/2018/" class="button radius large" style="color:#ffffff">Fotos der ESE 2018</a>
 <a href="https://users.ifsr.de/~vogel/2017/" class="button radius large" style="color:#ffffff">Fotos der ESE 2017</a>
+</div>
+
+## Videos
 
 <div class="inline-list">
 <a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="button radius large" style="color:#ffffff">Video der ESE 2017 (YouTube)</a>
