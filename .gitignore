@@ -24,3 +24,7 @@ manifest.js
 
 # ide
 .idea
+
+# vim swap files
+*.swp
+*.swo
