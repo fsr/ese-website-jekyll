@@ -9,6 +9,7 @@ permalink: /en/schedules/
   <p>
     <ul>
       <li>02.10. 17:00: The plans for <strong>Ba/10 and Ba/11</strong> were added, in <strong>Diplom/1</strong> the TGI exercise was moved from Thursday to Friday.</li>
+      <li>04.10. 7:50: "Seminargruppentreffen" changed for <strong>Ba/3 and Ba/11</strong>.</li>
     </ul>
   </p>
 </div>

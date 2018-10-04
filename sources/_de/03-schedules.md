@@ -18,6 +18,7 @@ layout: page
   <p>
     <ul>
       <li>02.10. 17:00 Uhr: Die Pläne für <strong>Ba/10 und Ba/11</strong> wurden hinzugefügt, bei <strong>Diplom/1</strong> wurde die TGI-Übung von Donnerstag nach Freitag verschoben.</li>
+      <li>04.10. 7:50 Uhr: Die Termine der Seminargruppentreffen haben sich für <strong>Ba/3 und Ba/11</strong> geändert.</li>
     </ul>
   </p>
 </div>
