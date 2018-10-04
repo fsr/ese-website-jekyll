@@ -119,11 +119,6 @@ values:
     name: Bachelor/3
     Montag:
       -
-        title: SEM
-        type: S
-        slot: 2
-        location: APB/E007
-      -
         title: EMI
         type: V
         slot: 5
@@ -141,6 +136,11 @@ values:
         slot: 5
         location: GER/0054
     Donnerstag:
+      -
+        title: SEM
+        type: S
+        slot: 2
+        location: APB/E005
       -
         title: EMI
         type: Ü
@@ -407,6 +407,11 @@ values:
     name: Bachelor/11
     Montag:
       -
+        title: SEM
+        type: S
+        slot: 2
+        location: APB/E007
+      -
         title: EMI
         type: V
         slot: 5
@@ -429,11 +434,6 @@ values:
         type: Ü
         slot: 2
         location: ZEU/E005
-      -
-        title: SEM
-        type: S
-        slot: 2
-        location: APB/E005
     Freitag:
       -
         title: DIS
