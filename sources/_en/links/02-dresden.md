@@ -15,7 +15,7 @@ Not far from the campus, there is the Großer Garten (Grand Garden) the green he
 
 For further sightseeing and more detailed information, please refer to the [website of the city of Dresden](https://www.dresden.de/en/tourism/attractions/sights.php){:target="_blank"}.
 
-#### Neustadt 
+#### Neustadt
 The Neustadt north of the Elbe is considered the Bohemian Quarter of Dresden. Its original flair results from the many small shops, pubs, bars and restaurants along the narrow streets and colourful lanes. A dream come true for every student ;). Every year, the district party *Bunte Republik Neustadt (BRN)* and the aforementioned sights attract thousands of visitors - well deserved!
 
 #### Cinemas, theatres...?
@@ -37,7 +37,7 @@ Every year in May the [Dresden night hike](https://www.dresdner-nachtwanderung.d
 #### Local transport - How do I get from A to B?
 With your student ID card, you can use a large part of the local public transport in the VVO free of charge. It is also valid as a [semester ticket](https://www.vvo-online.de/en/tariff-tickets/special-tickets/semestertickets-153.cshtml){:target="_blank"} for regional transport in Saxony. You can find more information on the [StuRa website](https://www.stura.tu-dresden.de/semesterticket){:target="_blank"}.
 
-Many places in Dresden can also be easily reached by bike - your own one or one of the many [nextbike/sz-bike rental bikes](https://www.stura.tu-dresden.de/nextbike#General){:target="_blank"}. You will find them at many crossroads all over Dresden and extra stations on campus. You can also use this offer free of charge in Dresden and Leipzig within the first half hour with your student card.
+Many places in Dresden can also be easily reached by bike - your own one or one of the many [nextbike/sz-bike rental bikes](https://www.stura.tu-dresden.de/nextbike#General){:target="_blank"}. You will find them at many crossroads all over Dresden and extra stations on campus. You can also use this offer free of charge in Dresden and Leipzig within the first hour with your student card.
 
 Please inform yourself on the linked pages about the exact regulations!
 
