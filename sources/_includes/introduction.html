@@ -1,0 +1,51 @@
+<div class="introduction">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x align-center">
+            <div class="cell small-10 large-8">
+                {% assign langmodifier = page.url | split: "/" %}
+                {% if langmodifier[1] == "en" %}
+                <div class="badge">
+                    <p class="date">07.10.2019 - 12.10.2019</p>
+                    <h1>Your start at the Faculty of <span>Computer Science</span></h1>
+                </div>
+
+                <p>Computer Science at the TU Dresden. Unknown city, big campus, so many new people. We as the Student Council of Computer Science, short FSR, warmly welcome you to the university. You are now part of a large community, the computer science department.</p>
+                {% else %}
+                <div class="badge">
+                    <p class="date">07.10.2019 - 12.10.2019</p>
+                    <h1>Dein Studienstart an der <span>Fakultät Informatik</span></h1>
+                </div>
+
+                <p>Informatik an der TU Dresden. Unbekannte Stadt, großer Campus, so viele neue Leute. Wir als Fachschaftsrat Informatik, abgekürzt FSR, begrüßen dich ganz herzlich an der Uni. Du bist jetzt Teil einer großen Gemeinschaft, der Fachschaft Informatik.</p>
+                {% endif %}
+
+                <nav class="shortnav">
+                    <ul>
+                        <li>
+                            {% if langmodifier[1] == "en" %}
+                            <a href="events" class="btn">Events</a>
+                            {% else %}
+                            <a href="events" class="btn">Events</a>
+                            {% endif %}
+                        </li>
+                        <li>
+                            {% if langmodifier[1] == "en" %}
+                            <a href="links" class="btn">Information about studying</a>
+                            {% else %}
+                            <a href="links" class="btn">Infos zum Studium</a>
+                            {% endif %}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="floating-element arrow">
+        {% image arrow.png alt:'Arow' %}
+    </div>
+
+    <div class="floating-element rocket">
+        {% image rocket.png alt:'Rocket' %}
+    </div>
+</div>

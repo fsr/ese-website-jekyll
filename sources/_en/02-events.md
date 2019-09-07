@@ -4,6 +4,16 @@ weight : 200
 permalink: /en/events/
 ---
 
+This year, ESE starts on Monday 1 October with the daily breakfast at 9 a.m. The canteen cards can be purchased every day at breakfast. Please bring the following:
+
+* Student ID
+* Id
+* Emeal certificate (enrolment certificate)
+* 10 Euro (5€ deposit + 5€ or more as credit)
+
+More information about the MensaCard Emeal can be found on the website of the [Studentenwerk](https://www.studentenwerk-dresden.de/english/mensen/emeal.html).
+
+
 <ul class="accordion" data-accordion="" role="tablist">
   <li class="accordion-navigation">
     <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Timetable</a>
@@ -18,6 +28,9 @@ permalink: /en/events/
     </div>
   </li>
 </ul>
+
+The current schedule is also available as an **iCal** file to import directly into the calendar: 
+<a class="btn" href="/2019/ESE.ics">Download</a>
 
 
 **Important: Events marked with a orange border (green font color for the barrier free version) are of special interest to non-german speakers, as they offer support for english in one form or another.**
@@ -44,11 +57,6 @@ Das [Kino im Kasten](https://www.kino-im-kasten.de/){:target="_blank"}  befindet
 
 © [OpenStreetMap](https://www.openstreetmap.org/copyright/de){:target="_blank"} -Mitwirkende -->
 
-### Die Highlights der Woche
-
-Hier eine kurze Übersicht des Programms. Änderungen werden auch über unsere sozialen Kanäle bekannt gegeben. Damit du nichts verpasst, folge uns einfach schon mal auf [Twitter](https://twitter.com/ifsr) und [Facebook](https://www.facebook.com/iFSR.de/). Es gibt übrigens auch eine eigene [Facebook-Gruppe](https://www.facebook.com/groups/TUDInf2017/) für alle Informatik-Studierenden eines Jahrgangs.
-
-Im [Zeitplan der ESE](events) kannst du schon mal schauen, was dich alles erwartet. Dort gibt's das Ganze auch in Form einer Tabelle oder einer iCal-Datei zum Download. Schau auf jeden Fall am Montag vorbei, dann werden wir dir erzählen, wie die Woche ablaufen wird.
 
 #### Every day
 

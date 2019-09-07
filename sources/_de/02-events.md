@@ -1,18 +1,18 @@
 ---
-title: Veranstaltungen
+title: Events
 weight : 200
 permalink: /events/
 layout: page
 ---
 
-Die ESE startet dieses Jahr am Montag, den 01.10. mit dem täglichen Frühstück um 9 Uhr. Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
+Die ESE startet dieses Jahr am Montag, den 7. Oktober mit dem täglichen Frühstück um 9 Uhr. Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
 
 * Studierendenausweis
 * Lichtbildausweis
 * Emeal-Bescheinigung (Immatrikulationsbogen)
 * 10 Euro (5€ Pfand + 5€ oder mehr als Guthaben)
 
-Mehr Infos zur Emeal findest du auf der [Seite des Studierendenwerkes](http://www.studentenwerk-dresden.de/mensen/emeal.html).
+Mehr Infos zur Emeal findest du auf der [Seite des Studentenwerk](http://www.studentenwerk-dresden.de/mensen/emeal.html).
 
 <ul class="accordion" data-accordion="" role="tablist">
   <li class="accordion-navigation">
@@ -31,7 +31,7 @@ Mehr Infos zur Emeal findest du auf der [Seite des Studierendenwerkes](http://ww
 <br>
 
 Den aktuellen Zeitplans gibt's auch als **iCal-Datei**, um ihn direkt in den Kalender zu importieren:  
-<a class="button small secondary" href="/2018/ESE.ics">Download</a>
+<a class="button small secondary" href="/2019/ESE.ics">Download</a>
 
 <!-- 
 ### Die Highlights der Woche

@@ -8,9 +8,9 @@ permalink: /en/media/
 ## Photos
 
 <div class="inline-list">
-<a href="https://users.ifsr.de/~vogel/2018/" class="button radius large" style="color:#ffffff">Photo gallery of ESE 2018</a>
+<a href="https://users.ifsr.de/~vogel/2018/" class="btn">Photo gallery of ESE 2018</a>
 
-<a href="https://users.ifsr.de/~vogel/2017/" class="button radius large" style="color:#ffffff">Photo gallery of ESE 2017</a>
+<a href="https://users.ifsr.de/~vogel/2017/" class="btn">Photo gallery of ESE 2017</a>
 </div>
 
 ## Videos

@@ -5,18 +5,19 @@ $baseurl: "{{ site.baseurl }}";
 /**
  * Yearly settings
  */
-$year-color: #CB6040;
+$year-color: #01794C;
 $brand-color: lighten($year-color, 20%);
 
+@import "mixins/config";
+@import "mixins/fonts";
+
+/* ************ *
+ *           	*
+ *  foundation  *
+ *           	*
+ * ************ */
+@import "foundation/foundation";
+
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "foundation/functions",
-        "init",
-        "custom",
-        "foundation/settings",
-        "foundation",
-        "normalize",
-        "header",
-        "sidebar",
-        "content",
-        "footer";
+@import "mixins/default";
+@import "mixins/page";

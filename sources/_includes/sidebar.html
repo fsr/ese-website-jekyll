@@ -1,26 +1,10 @@
 {% if include.items %}
-    {% assign items = include.items %}
+    {% assign items = site.en-sidebar %}
 {% else %}
     {% assign items = site.de-sidebar %}
 {% endif %}
 
-{% if include.pages %}
-    {% assign pages = include.pages %}
-{% else %}
-    {% assign pages = site.pages %}
-{% endif %}
 
-    {% assign langmodifier = page.url | split: "/" %}
-    {% case langmodifier[1] %}
-    {% when "en" %}
-      {% assign de-url = page.url | remove_first: '/en' | prepend: site.baseurl %}
-      {% assign en-url = page.url %}
-      {% assign context = "/en/" %}
-    {% else %}
-      {% assign de-url = page.url %}
-      {% assign en-url = page.url | prepend: '/en' | prepend: site.baseurl %}
-      {% assign context = "/" %}
-    {% endcase %}
 
 <div class="sidebar">
   
@@ -37,13 +21,6 @@
           <div class="clear"></div>
       </div>
   </a>
-
-  <hr>
-
-  <nav class="nav">
-      {% include navigation.html context=context pages=pages %}
-  </nav>
-  
   <hr>
 
   <section class="additionals">

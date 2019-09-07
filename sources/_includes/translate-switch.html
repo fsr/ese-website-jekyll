@@ -10,14 +10,12 @@
     {% endcase %}
     
 
-		<li class="language-switch i18n de {% if langmodifier[1] != "en" %} hidden {% endif %}">
-			<a class="language-link" href="{{ de-url }}" hreflang="de">
-				<img class="language-icon" width="20" height="12" src="{% asset_path flags/de.png %}" alt="Flagge" /> Deutsch
-			</a>
+    <ul id="nav-language">
+		<li class="language-switch i18n de {% if langmodifier[1] != "en" %} hide {% endif %}">
+			<a class="language-link" href="{{ de-url }}" hreflang="de">DE</a>
 		</li>
 
-		<li class="language-switch i18n en {% if langmodifier[1] == "en" %} hidden {% endif %}">
-			<a class="language-link" href="{{ en-url }}" hreflang="en">
-				<img class="language-icon" width="20" height="12" src="{% asset_path flags/en.png %}" alt="Flag" /> English
-			</a>
+		<li class="language-switch i18n en {% if langmodifier[1] == "en" %} hide {% endif %}">
+			<a class="language-link" href="{{ en-url }}" hreflang="en">EN</a>
 		</li>
+    </ul>

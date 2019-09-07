@@ -16,29 +16,34 @@
       {% assign context = "/" %}
     {% endcase %}
 
-<header>
-    <div class="row">
-        <div class="top-bar site-nav small-12" data-topbar="" role="navigation">
-            <ul class="title-area">
-                
-                <li class="title hide-for-large-up">
-                    <h1><a href="{{ site.baseurl }}/">{% image bobbel.png alt:'OSM APB' %}{{ site.title }}</a></h1>
-                </li>
-                 <li class="title show-for-large-up">
-                    <h1><a href="{{ site.baseurl }}/">{% image bobbel.png alt:'OSM APB' %} FSR Informatik</a></h1>
-                </li>
-                
-                <div class="show-for-large-up">
-                {% include translate-switch.html %}
-            </div>
-                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-            </ul>
+<header id="page-header">
+    <div class="grid-container fluid">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+                <div id="page-logo">
+                    <a href="{{ site.baseurl }}/">{% image ese-logo-2019.svg alt:'ESE 2019' %}</a>
+                </div>
 
-            <!-- previously navigation, now used for language switcher, first aid, etc. -->
-            <nav class="top-bar-section hide-for-large-up">
-                                {% include translate-switch.html %}
-                {% include navigation.html context=context pages=pages %}
-            </nav>
+                {% include translate-switch.html %}
+
+                <div id="page-navigation">
+                    {% include navigation.html context=context pages=pages %}
+                </div>
+            </div>
         </div>
     </div>
 </header>
+
+<div class="notification">
+    <div class="grid-container fluid">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+                {% if langmodifier[1] == "en" %}
+                    <p><i class="icon-exclamation"></i> We are still working diligently on this website. ¯\_(ツ)_/¯</p>
+                {% else %}
+                    <p><i class="icon-exclamation"></i> Wir arbeiten noch fleißig weiter an dieser Webseite. ¯\_(ツ)_/¯</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
