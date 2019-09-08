@@ -15,8 +15,17 @@ days:
   -
     name: "Montag"
     name-en: Monday
-    date: 01.10.2018
+    date: 07.10.2019
     events:
+        -
+            begin: "8:00"
+            duration: "1:00"
+            title: "Begrüßung mit Tutoren"
+            title-en: "Warm-up with tutors"
+            location: "APB/Foyer"
+            english: true
+            description: "Der Montagmorgen kann beginnen! Ein ganz ruhiges Einklingen in die ESE."
+            descriptionen: "Monday morning can begin! A very quiet hooking into the ESE."
         -
             begin: "9:00"
             duration: "0:45"
@@ -29,8 +38,8 @@ days:
         -
             begin: "10:00"
             duration: "2:30"
-            title: "Begrüßung und Tutorien"
-            title-en: "Greeting and Tutorials"
+            title: "Einführungsveranstaltung und Turorien"
+            title-en: "Introductory event and Turoria"
             location: "POT/81/A"
             description: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug."
             description-en: "After a new welcoming speeches, you'll get all the important informations you need for your first semester. Afterwards you get your amazing uni-bag with a lot of cool stuff"
@@ -54,15 +63,15 @@ days:
             english: true
         -
             begin: "15:30"
-            duration: "3:00"
-            title: "Timeout - Die Fakultät stellt sich vor"
-            title-en: "Timeout - Get to know the faculty"
+            duration: "2:30"
+            title: "Bunter Nachmittag"
+            title-en: "Various afternoon"
             location: "APB/Foyer"
             description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät und du kannst einen Blick in viele interessante Räume werfen. Schau dir zum Beispiel die Display Wall an oder sei bei einer exklusiven Führung durchs Rechenzentrum mit Prof. Nagel höchstpersönlich dabei. "
             description-en: "Where can I go to study? If I need some advice for my study to whom can I talk? Follows us on a tour through the faculty and we answer all your questions. Besides you get the change to visit  Prof. Nagels data center."
             english: true
         -
-            begin: "18:30"
+            begin: "18:00"
             duration: "3:30"
             title: "Kennlern-Spieleabend mit Grillen"
             title-en: "Games night and barbecue"
@@ -73,7 +82,7 @@ days:
   -
     name: "Dienstag"
     name-en: Tuesday
-    date: 02.10.2018
+    date: 08.10.2019
     events:
         -
             begin: "9:00"
@@ -115,8 +124,8 @@ days:
         -
             title: "Vorglühen"
             title-en: "pre-party"
-            begin: "18:00"
-            duration: "2:00"
+            begin: "17:30"
+            duration: "1:30"
             location: "countdown"
             description: "Du hättest gerne noch mehr Zeit deine Kommilitonen und vielleicht auch den Studentenklub Count Down kennenzulernen? Vor Beginn der Clubwanderung bieten wir euch bei Spielen und Getränken genau dies. Kommt vorbei!"
             description-en: "You would like more time to get to know your fellow students and maybe the student club Count Down as well? Use the time before the club tour starts to do so. We will provide games and some drinks."
@@ -124,7 +133,7 @@ days:
         -
             title: "Clubwanderung"
             title-en: "Club tour"
-            begin: "20:00"
+            begin: "19:00"
             duration: "4:00"
             location: "countdown"
             description: "Wir laden dich ein, den Abend mit uns zu verbringen und dich ins studentische Nachtleben zu stürzen. Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten.  Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
@@ -133,17 +142,17 @@ days:
   -
     name: "Mittwoch"
     name-en: Wednesday
-    date: 03.10.2018
+    date: 09.10.2019
     events:
         -
-            title: "Wanderung"
-            title-en: "Hiking&nbsp;tour"
-            begin: "08:15"
+            title: "Wanderung oder lean back"
+            title-en: "Hiking&nbsp;tour or lean back"
+            begin: "09:00"
             duration: "7:00"
-            location: "Start am &nbsp;Hauptbahnhof auf Gleis 18 <br/> S1 Richtung Schöna um 08:29 Uhr"
-            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform 18 <br/> S1 to Schöna at 08.29 a.m."
-            description: "Es ist Feiertag, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht."
-            description-en: "Today is a bankholiday and we are going on a nice hiking tour through the Saxon Switzerland. Something totally different after yesterdays party. Since we can't change the weather (believe us we tried) please weare suitable clothes and on't forget to pack some lunch, bring water(!) and a camera."
+            location: "Start am &nbsp;Hauptbahnhof auf Gleis 18 <br/> S1 Richtung Schöna um 09:00 Uhr"
+            location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform 18 <br/> S1 to Schöna at 09.00 a.m."
+            description: "Es ist Mittwoch, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht. Alternativ laden wir dich von 9:00-11:00 zum Katefrühstück sowie einem Spielenachmittag ab 13:00 Uhr im APB ein."
+            description-en: "Today is Wednesday and we are going on a nice hiking tour through the Saxon Switzerland. Something totally different after yesterdays party. Since we can't change the weather (believe us we tried) please weare suitable clothes and on't forget to pack some lunch, bring water(!) and a camera. Alternatively, we invite you to a cate's breakfast from 9:00 a.m. to 11:00 a.m. and a game afternoon from 1:00 p.m. at the APB."
             english: true
         -
 
@@ -155,7 +164,7 @@ days:
             #location-en: "Follow your mentor"
             #description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen."
         -
-            begin: "20:00"
+            begin: "19:00"
             duration: "2:00"
             title: "Ascii Abend"
             title-en: "Ascii Abend"
@@ -176,7 +185,7 @@ days:
   -
     name: "Donnerstag"
     name-en: Thursday
-    date: 04.10.2018
+    date: 10.10.2019
     events:
       -
         begin: "9:00"
@@ -224,18 +233,11 @@ days:
   -
     name: "Freitag"
     name-en: Friday
-    date: 05.10.2018
+    date: 11.10.2019
     events:
       -
-        title: "Frühstück"
-        title-en: Breakfast
-        begin: "8:00"
-        duration: "1:00"
-        location: "APB/E023"
-        english: true
-      -
-        title: "Seminar&shy;gruppen&shy;treffen"
-        title-en: "Seminar group meeting"
+        title: "Frühstück mit Seminar&shy;gruppen&shy;treffen"
+        title-en: "Breakfast with Seminar group meeting"
         begin: "9:00"
         duration: "2:00"
         location: "Folge deinem Mentor"
@@ -271,12 +273,12 @@ days:
   -
     name: "Samstag"
     name-en: Saturday
-    date: 06.10.2018
+    date: 12.10.2019
     events:
       -
         title: "Stadt&shy;führung"
         title-en: "Guided city tour"
-        location: "altmarkt-galerie"
+        location: "n.n."
         begin: "13:00"
         duration: "2:30"
         english: true

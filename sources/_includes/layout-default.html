@@ -18,24 +18,22 @@
     </div>
     <div role="document">
         {% include header.html pages=pages %}
+
         <main>
-            <div class="row">
-            	<!-- TODO: show for lage-up  -->
-				<aside class="column show-for-large-up sidebar-column">
-                    {% include sidebar.html items=items pageurl=page.url pages=pages %}
-                </aside>
-
-                <article id="content">
-                	<div class="background">
-                    {{ content }}
-                	</div>
-                </article>
-
+            <div class="grid-container">
+                <div class="grid-x grid-padding-x">
+                    <div class="cell">
+                        <article id="content">
+                            {{ content }}
+                        </article>
+                    </div>
+                </div>
             </div>
         </main>
+
         {% include footer.html %}
     </div>
-    <!-- Bundles created by webpack 
+    <!-- Bundles created by webpack
   		 NOTE: order may be important
   		 TODO: check for existence -->
     {% js vendors-bundle %}
@@ -45,6 +43,8 @@
     {% if jekyll.environment == "development" %}
     <!-- Display warning sign for GitHub pages and lock out SE-bots -->
     {% include developer-preview.html %}
+    <script src="https://cdn.jsdelivr.net/combine/npm/responsive-nav@1.0.39,npm/foundation-sites@6.5.3,npm/scrollreveal@4.0.5"></script>
+    <script src="{{ site.baseurl }}/static/js/default.js"></script>
     {% js dev_postload-bundle %}
     {% endif %}
 </body>

@@ -8,18 +8,18 @@ layout: page
 ## Fotos
 
 <div class="inline-list">
-<a href="https://users.ifsr.de/~vogel/2018/" class="button radius large" style="color:#ffffff">Fotos der ESE 2018</a>
-<a href="https://users.ifsr.de/~vogel/2017/" class="button radius large" style="color:#ffffff">Fotos der ESE 2017</a>
+<a href="https://users.ifsr.de/~vogel/2018/" class="btn">Fotos der ESE 2018</a>
+<a href="https://users.ifsr.de/~vogel/2017/" class="btn">Fotos der ESE 2017</a>
 </div>
 
 ## Videos
 
 <div class="inline-list">
-<a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="button radius large" style="color:#ffffff">Video der ESE 2017 (YouTube)</a>
+<a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="btn">Video der ESE 2017 (YouTube)</a>
 
-<a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="button radius large" style="color:#ffffff">Video der ESE 2016 (YouTube)</a>
+<a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="btn">Video der ESE 2016 (YouTube)</a>
 
-<a href="https://vimeo.com/141549237" class="button radius large" style="color:#ffffff">Video der ESE 2015 (Vimeo)</a>
+<a href="https://vimeo.com/141549237" class="btn">Video der ESE 2015 (Vimeo)</a>
 </div>
 
 <!--
