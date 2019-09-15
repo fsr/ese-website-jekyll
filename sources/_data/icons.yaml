@@ -38,5 +38,4 @@ groups:
       - 144x144
       - 150x150
       - 310x310
-android-manifest: /img/icons/manifest.json
 ms-tilecolor: "#FFFFFF"

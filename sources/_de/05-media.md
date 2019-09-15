@@ -5,6 +5,19 @@ permalink: /media/
 layout: page
 ---
 
+<div class="notice important">
+    <h3>Sie haben mich ins Gesicht gefilmt!!1elf</h3>
+    
+    <p>
+        Die ESE ist eine öffentliche Veranstaltung. Während der Veranstaltung werden vom Fachschaftsrat Informatik (und deren Organisatoren) an der Technischen Universität Dresden Foto- sowie 
+        Filmaufnahmen zu Zwecken der Öffentlichkeitsarbeit gemacht.
+    </p>
+    
+    <p>
+        Bei unerwünschten Aufnahmen kannst du jederzeit die Fotografen direkt vor Ort, den FSR selbst oder unser Social-Media Team (@ifsr) ansprechen.
+    </p>
+</div>
+
 ## Fotos
 
 <div class="inline-list">

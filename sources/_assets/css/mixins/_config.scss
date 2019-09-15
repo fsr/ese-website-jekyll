@@ -18,8 +18,8 @@ $global-width: $width-page;
 
 $grid-column-count: $columns;
 $grid-margin-gutters: (
-  small: 24px,
-  medium: $width-gutter
+        small: 24px,
+        medium: $width-gutter
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

@@ -17,13 +17,15 @@
     {% endcase %}
 
 <header id="page-header">
-    <div class="grid-container fluid">
+    <div class="grid-container">
         <div class="grid-x grid-padding-x">
-            <div class="cell">
+            <div class="cell medium-4">
                 <div id="page-logo">
-                    <a href="{{ site.baseurl }}/">{% image ese-logo-2019.svg alt:'ESE 2019' %}</a>
+                    <a href="{{ site.baseurl }}/" class="page-logo-link">{% image ese-logo-2019.svg alt:'ESE 2019' %}</a>
                 </div>
+            </div>
 
+            <div class="cell medium-8">
                 {% include translate-switch.html %}
 
                 <div id="page-navigation">
@@ -34,14 +36,15 @@
     </div>
 </header>
 
+
 <div class="notification">
-    <div class="grid-container fluid">
+    <div class="grid-container">
         <div class="grid-x grid-padding-x">
             <div class="cell">
                 {% if langmodifier[1] == "en" %}
-                    <p><i class="icon-exclamation"></i> We are still working diligently on this website. ¯\_(ツ)_/¯</p>
+                <p><i class="icon-exclamation"></i> You can find all important announcements and changes to the ESE on <span class="icon icon-social-twitter">Twitter</span> <a href="https://twitter.com/ifsr" target="_blank">@ifsr</a></p>
                 {% else %}
-                    <p><i class="icon-exclamation"></i> Wir arbeiten noch fleißig weiter an dieser Webseite. ¯\_(ツ)_/¯</p>
+                <p><i class="icon-exclamation"></i> Alle wichtigen Ankündigungen und Änderungen zur ESE findest du bei uns auf <span class="icon icon-social-twitter">Twitter</span> <a href="https://twitter.com/ifsr" target="_blank">@ifsr</a></p>
                 {% endif %}
             </div>
         </div>

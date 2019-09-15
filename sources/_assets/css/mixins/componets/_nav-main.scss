@@ -1,0 +1,104 @@
+.nav-toggle {
+    &:before {
+        content: '\e01b';
+        font-family: $font-icon;
+        position: absolute;
+        top: $width-gutter * 1.15;
+        right: 0;
+        color: $year-color;
+        font-size: rem-calc(40px);
+    }
+}
+
+#nav-main {
+    position: relative;
+    
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    li {
+        a {
+            font-family: $font-navigation;
+            color: #7b7b7b;
+            text-transform: uppercase;
+            text-decoration: none;
+            position: relative;
+        }
+    }
+}
+
+@include breakpoint(medium) {
+    #page-navigation {
+        padding: 1.5rem 0 0 0;
+    }
+    
+    #nav-main {
+        text-align: center;
+        
+        li {
+            display: inline;
+            margin-right: $width-gutter;
+            
+            &:last-child {
+                margin-right: 0;
+            }
+            
+            
+            &:hover, &:active, &.active {
+                a:after {
+                    opacity: 1;
+                }
+            }
+            
+            nav {
+                display: none;
+            }
+            
+            a {
+                font-size: rem-calc(16px);
+                position: relative;
+                
+                &:after {
+                    content: '';
+                    position: absolute;
+                    background: $year-color;
+                    opacity: 0;
+                    bottom: -3px;
+                    left: 0;
+                    right: 0;
+                    height: 2px;
+                    transition: opacity .3s ease-out;
+                }
+            }
+        }
+    }
+}
+
+@include breakpoint(small only) {
+    #nav-main {
+        li {
+            display: block;
+            text-align: right;
+            
+            &:first-child {
+                padding-top: 1rem;
+            }
+            
+            &:last-child {
+                border-bottom: none;
+                padding-bottom: 0;
+            }
+            
+            a {
+                font-family: $font-navigation;
+                font-size: rem-calc(16px);
+                font-weight: normal;
+                display: block;
+                padding: 1rem 0;
+            }
+        }
+    }
+}

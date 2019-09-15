@@ -5,6 +5,7 @@ $baseurl: "{{ site.baseurl }}";
 /**
  * Yearly settings
  */
+
 $year-color: #01794C;
 $brand-color: lighten($year-color, 20%);
 
@@ -18,6 +19,23 @@ $brand-color: lighten($year-color, 20%);
  * ************ */
 @import "foundation/foundation";
 
+
+// Libraries
+@import "libraries/slick";
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "mixins/default";
 @import "mixins/page";
+
+@import "mixins/componets/introduction";
+@import "mixins/componets/countdown";
+@import "mixins/componets/events";
+
+@import "mixins/componets/nav-main";
+@import "mixins/componets/nav-language";
+@import "mixins/componets/nav-pages";
+@import "mixins/componets/nav-short";
+
+@import "mixins/componets/slider";
+@import "mixins/componets/slider-events";
+

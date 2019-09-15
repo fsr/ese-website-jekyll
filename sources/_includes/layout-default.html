@@ -13,40 +13,29 @@
 <html>
 {% include head.html lang=include.lang %}
 <body>
-    <div id="skip-link">
-        <a class="element-invisible element-focusable" href="#content">Skip to Content</a>
-    </div>
-    <div role="document">
-        {% include header.html pages=pages %}
+    {% include header.html pages=pages %}
 
-        <main>
-            <div class="grid-container">
-                <div class="grid-x grid-padding-x">
-                    <div class="cell">
-                        <article id="content">
-                            {{ content }}
-                        </article>
-                    </div>
+    <main id="page-content">
+        <div class="grid-container">
+            <div class="grid-x grid-padding-x">
+                <div class="cell">
+                    <article id="content">
+                        {{ content }}
+                    </article>
                 </div>
             </div>
-        </main>
+        </div>
+    </main>
 
-        {% include footer.html %}
-    </div>
-    <!-- Bundles created by webpack
-  		 NOTE: order may be important
-  		 TODO: check for existence -->
+    {% include footer.html %}
+
+    <!-- Include scripts for webpage -->
     {% js vendors-bundle %}
-    {% css app_postload-bundle %}
-    {% js app_postload-bundle %}
+    {% js app-bundle %}
+
     <!-- Any dev stuff not being included in production build -->
     {% if jekyll.environment == "development" %}
-    <!-- Display warning sign for GitHub pages and lock out SE-bots -->
-    {% include developer-preview.html %}
-    <script src="https://cdn.jsdelivr.net/combine/npm/responsive-nav@1.0.39,npm/foundation-sites@6.5.3,npm/scrollreveal@4.0.5"></script>
-    <script src="{{ site.baseurl }}/static/js/default.js"></script>
-    {% js dev_postload-bundle %}
+
     {% endif %}
 </body>
-
 </html>

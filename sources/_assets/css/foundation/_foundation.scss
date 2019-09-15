@@ -29,7 +29,7 @@
 @import 'components/float';
 @import 'components/flex';
 @import 'components/visibility';
-
+@import 'components/accordion';
 @import 'components/reveal';
 
 $global-flexbox: true !global;
@@ -39,5 +39,6 @@ $global-flexbox: true !global;
 @include foundation-float-classes;
 @include foundation-flex-classes;
 @include foundation-visibility-classes;
+@include foundation-accordion;
 
 @include foundation-reveal;

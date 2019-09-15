@@ -3,7 +3,17 @@ title: Photos and Videos
 weight : 500
 permalink: /en/media/
 ---
-
+<div class="notice important">
+    <h3>You filmed me in the face!!1elf</h3>
+    
+    <p>
+        The ESE is a public event. During the event, photo and film recordings will be taken by FSR Informatik (and its organizers) at the TU Dresden for public relations purposes.
+    </p>
+    
+    <p>
+        In case of unwanted shots, you can always contact the photographers directly on site, the FSR itself or our social media team (@ifsr).
+    </p>
+</div>
 
 ## Photos
 

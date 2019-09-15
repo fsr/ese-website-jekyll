@@ -1,8 +1,3 @@
-body,
-html {
-    overflow-x: hidden !important;
-}
-
 html {
     font-family: $body-font-family;
     font-size: $global-font-size;
@@ -11,15 +6,12 @@ html {
 
     // Keeps page centred in all browsers regardless of content height
     overflow-y: scroll;
-    overflow-x: hidden;
-
+    overflow-x: hidden !important;
+    
+    
     // Prevents iOS text size adjust after orientation change, without disabling user zoom (www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/)
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-
-    @include breakpoint(medium down) {
-        overflow-x: hidden;
-    }
 }
 
 
@@ -48,327 +40,29 @@ img {
 #page-logo {
     float: left;
 
-    img {
-        max-height: 56px;
+    a {
+        display: block;
     }
-}
-
-#page-navigation {
-    padding: 1.5rem 0 0 0;
 }
 
 .notification {
-    background: rgba(#018554, .85);
-    color: white;
+    padding: .5rem 0;
+    border-bottom: 1px dotted rgba(black, .15);
     position: relative;
-}
-
-@include breakpoint(medium) {
-    .grid-container {
-        &.fluid {
-            max-width: $width-page * 1.5;
-        }
-    }
-}
-
-.nav-toggle {
-    &:before {
-        content: '\e01b';
-        font-family: $font-icon;
-        position: absolute;
-        top: $width-gutter * 1.15;
-        right: 0;
-        color: $year-color;
-        font-size: rem-calc(40px);
-    }
-}
-
-#nav-main {
-    position: relative;
-
-    ul {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
-    }
-
-    li {
-        a {
-            font-family: $font-navigation;
-            text-decoration: none;
-            position: relative;
-        }
-    }
-}
-
-@include breakpoint(mediun) {
-    #nav-main {
-        text-align: center;
-
-        li {
-            display: inline;
-            margin-right: $width-gutter;
-
-            &:last-child {
-                margin-right: 0;
-            }
-
-
-            &:hover, &:active, &.active {
-                a:after {
-                    opacity: 1;
-                }
-            }
-
-            nav {
-                display: none;
-            }
-
-            a {
-                font-size: rem-calc(18px);
-                color: #7b7b7b;
-                position: relative;
-
-                &:after {
-                    content: '';
-                    position: absolute;
-                    background: $year-color;
-                    opacity: 0;
-                    bottom: -3px;
-                    left: 0;
-                    right: 0;
-                    height: 2px;
-                }
-            }
-        }
-    }
-}
-
-@include breakpoint(small only) {
-    #nav-main {
-        margin-top: 2rem;
-
-        li {
-            display: block;
-            text-align: right;
-
-            &:first-child {
-                padding-top: 1rem;
-            }
-
-            &:last-child {
-                border-bottom: none;
-                padding-bottom: 0;
-            }
-
-            a {
-                font-family: $font-navigation;
-                font-size: rem-calc(16px);
-                font-weight: normal;
-                display: block;
-                padding: 1rem 0;
-            }
-        }
-    }
-}
-
-
-ul#nav-language {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-
-    @include breakpoint(medium) {
-        float: right;
-    }
-
-    li {
-        display: inline-block;
-
-
-        a {
-            text-decoration: none;
-            color: $body-font-color;
-            border: 1px solid $body-font-color;
-            border-radius: 16px;
-            font-size: rem-calc(12px);
-            padding: .25rem .76rem;
-        }
-    }
-}
-
-
-.introduction {
-    position: relative;
-    text-align: center;
-    padding: 8rem 0;
-
-    .badge {
-        transform: skew(-4deg) rotate(-4deg);
-        margin-bottom: 4rem;
-
-        .date {
-            display: inline-block;
-            background: #018554;
-            font-family: $font-regular;
-            font-size: rem-calc(19px);
-            color: white;
-            padding: 0 .75rem;
-            margin: 0 0 1rem 0;
-        }
-
-        h1 {
-            font-family: $font-semibold;
-            font-size: rem-calc(28px);
-            text-transform: uppercase;
-            line-height: 1.25;
-            color: #01794C;
-            margin: 0;
-
-            span {
-                font-family: $font-heavy;
-                font-size: rem-calc(44px);
-
-                &:before {
-                    content: "\A";
-                    white-space: pre;
-                }
-            }
-        }
-    }
-
-    .floating-element {
-        position: absolute;
-
-        &.arrow {
-            top: 2rem;
-            right: 2rem;
-
-            @include breakpoint(medium down) {
-                top: -2rem;
-                right: -2rem;
-            }
-        }
-
-        &.rocket {
-            bottom: 2rem;
-            left: 2rem;
-
-            @include breakpoint(medium down) {
-                bottom: -2rem;
-                left: -2rem;
-                z-index: 4;
-            }
-        }
-    }
-
-    p {
-        font-family: $font-light;
-        font-size: rem-calc(18px);
-        color: #00415a;
-    }
-
-    .shortnav {
-        margin-top: 4rem;
-    }
-}
-
-.shortnav {
-    & > ul {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-
-        li {
-            display: inline-block;
-            margin-right: $width-gutter / 2;
-
-            &:last-child {
-                margin-right: 0;
-            }
-        }
-    }
 }
 
 main {
     padding: 4rem 0;
 }
 
-
-table{
-    background-color:#F5F5F5;
-
-    @include breakpoint(medium down) {
-        display: block;
-        overflow: hidden;
-        overflow-x: scroll;
+#page-footer {
+    border-top: 1px dotted rgba(black, .15);
+    padding: 4rem 0;
+    transform: rotate(-4deg);
+    
+    .credits span {
+        background: $year-color;
+        color: white;
+        padding: .5rem;
     }
-}
-
-table thead th {
-    border-bottom: $year-color;
-}
-
-table tbody tr.full-hour .time{
-    padding: 0.4rem;
-}
-
-table tbody tr td{
-    vertical-align:top;
-    background:transparent;
-    padding:0
-}
-table tbody tr td.date{
-    font-weight:bold;
-    padding:0.4rem
-}
-table tbody tr td.data{
-    padding:0.4rem;
-    overflow:hidden
-}
-table tbody tr td.data b, table tbody tr td.data small {
-    position: relative;
-}
-table tbody tr td.data:hover{
-    background-color:#e1a390;
-    cursor:pointer
-}
-table tbody tr td.data.en{
-    box-shadow:inset 0 0 10px #CB6040
-}
-table tbody tr td.data a{
-    margin:-1000px;
-    padding:1000px;
-    transition:none;
-    text-decoration: none;
-}
-table tbody tr td.data a:hover{
-    color:#000000
-}
-table tbody tr td div.table-spacer{
-    height:1.4rem
-}
-table tbody tr td .data{
-    height:2em;
-    overflow:visible;
-    background: #16C484;
-    color: white;
-
-}
-table tbody tr:nth-of-type(odd){
-    background:#F5F5F5
-}
-
-table tbody tr:nth-of-type(even){
-    background:#EFEFEF
-}
-
-.accordion {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-#skip-link {
-    display: none;
 }

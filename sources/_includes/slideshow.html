@@ -1,16 +1,16 @@
 <!-- SLICK - for documentation see https://github.com/kenwheeler/slick/ -->
 <div class="slider-container">
-<div class="slider">
-    {% for image in site.data.switchheader.headers %}
-    <div>
-        {% if forloop.first %}
-        <!-- srcset being used for adaptive image sizes -->
-        <img src="{% asset_path header/{{image.src}}-small.jpg %}" srcset="{% asset_path header/{{image.src}}-medium.jpg %} 640w, {% asset_path header/{{image.src}}-large.jpg %} 1000w" alt="{{ image.alt }}" /> 
-        {% else %}
+    <div class="slider">
+        {% for image in site.data.switchheader.headers %}
+        <div class="slider-item">
+            {% if forloop.first %}
+            <!-- srcset being used for adaptive image sizes -->
+            <img src="{% asset_path header/{{image.src}}-small.jpg %}" srcset="{% asset_path header/{{image.src}}-medium.jpg %} 640w, {% asset_path header/{{image.src}}-large.jpg %} 1000w" alt="{{ image.alt }}" />
+            {% else %}
 
-        <img data-lazy="{% asset_path header/{{image.src}}-small.jpg %}" srcset="{% asset_path header/{{image.src}}-medium.jpg %} 640w, {% asset_path header/{{image.src}}-large.jpg %} 1000w" alt="{{ image.alt }}" /> 
-        {% endif %}
+            <img data-lazy="{% asset_path header/{{image.src}}-small.jpg %}" srcset="{% asset_path header/{{image.src}}-medium.jpg %} 640w, {% asset_path header/{{image.src}}-large.jpg %} 1000w" alt="{{ image.alt }}" />
+            {% endif %}
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
-</div>
 </div>

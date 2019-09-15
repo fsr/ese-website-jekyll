@@ -24,6 +24,8 @@ days:
             title-en: "Warm-up with tutors"
             location: "APB/Foyer"
             english: true
+            highlight: true
+            photo: warm-up-with-tutors.jpg
             description: "Der Montagmorgen kann beginnen! Ein ganz ruhiges Einklingen in die ESE."
             descriptionen: "Monday morning can begin! A very quiet hooking into the ESE."
         -
@@ -33,6 +35,8 @@ days:
             title-en: "Break&shy;fast"
             location: "APB/E023"
             english: true
+            highlight: true
+            photo: breakfast.jpg
             description: "Kommt vorbei und startet gemeinsam mit uns in den Tag. Das Frühstück bietet euch bereits die perfekte Gelegenheit eure Kommilitonen kennenzulernen."
             description-en: "We start our day together with a nice breakfast. This is a great opportunity for you to meet your fellow students"
         -
@@ -41,6 +45,8 @@ days:
             title: "Einführungsveranstaltung und Turorien"
             title-en: "Introductory event and Turoria"
             location: "POT/81/A"
+            highlight: true
+            photo: introductory-event.jpg
             description: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug."
             description-en: "After a new welcoming speeches, you'll get all the important informations you need for your first semester. Afterwards you get your amazing uni-bag with a lot of cool stuff"
         -
@@ -76,6 +82,8 @@ days:
             title: "Kennlern-Spieleabend mit Grillen"
             title-en: "Games night and barbecue"
             location: "APB/Foyer"
+            highlight: true
+            photo: games-night.jpg
             description: "In einem nahtlosen Übergang beginnt dann nach dem Ende des Bunten Nachmittags einer unserer legendären Spieleabende. Bring gerne deine Freunde mit und auch eigene Brett- oder Videospiele. Es wird gegrillt und für Getränke ist natürlich auch gesorgt."
             description-en: "Come to our games night, which takes place once a month in our faculty. But this time we have special games like speed-friends to you can meet a lot of new people. Also there will be a barbecue with drinks, meat and vegetarain/vega food. "
             english: true
@@ -118,6 +126,8 @@ days:
             location-en: "Foyer of the APB"
             begin: "13:00"
             duration: "3:00"
+            highlight: true
+            photo: scavenger-hunt.jpg
             description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
             description-en: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
             english: true
@@ -136,6 +146,8 @@ days:
             begin: "19:00"
             duration: "4:00"
             location: "countdown"
+            highlight: true
+            photo: club-tour.jpg
             description: "Wir laden dich ein, den Abend mit uns zu verbringen und dich ins studentische Nachtleben zu stürzen. Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten.  Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
             description-en: "Join us in experiencing Dresden's nightlife. On our tour of the student clubs you will even get the opportunity to meet students of other faculties as well. We will meet at Club Count Down."
             english: true
@@ -145,24 +157,17 @@ days:
     date: 09.10.2019
     events:
         -
-            title: "Wanderung oder lean back"
-            title-en: "Hiking&nbsp;tour or lean back"
+            title: "Wanderung oder lean back / Nerd 101"
+            title-en: "Hiking&nbsp;tour or lean back / Nerd 101"
             begin: "09:00"
             duration: "7:00"
+            highlight: true
+            photo: hiking.jpg
             location: "Start am &nbsp;Hauptbahnhof auf Gleis 18 <br/> S1 Richtung Schöna um 09:00 Uhr"
             location-en: "Start at Dresden&nbsp;Main&nbsp;Station on Platform 18 <br/> S1 to Schöna at 09.00 a.m."
-            description: "Es ist Mittwoch, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht. Alternativ laden wir dich von 9:00-11:00 zum Katefrühstück sowie einem Spielenachmittag ab 13:00 Uhr im APB ein."
-            description-en: "Today is Wednesday and we are going on a nice hiking tour through the Saxon Switzerland. Something totally different after yesterdays party. Since we can't change the weather (believe us we tried) please weare suitable clothes and on't forget to pack some lunch, bring water(!) and a camera. Alternatively, we invite you to a cate's breakfast from 9:00 a.m. to 11:00 a.m. and a game afternoon from 1:00 p.m. at the APB."
+            description: "Es ist Mittwoch, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht. Alternativ laden wir dich von 9:00-11:00 zum Katerfrühstück sowie unserer nerdigen Vortragsreihe »Nerd 101« ab 13:00 Uhr im APB ein."
+            description-en: "It's Wednesday, so we turn one gear back and after the club walk can never hurt some fresh air. You can leave the many impressions to rest a bit during a hike through the beautiful Saxon Switzerland and enjoy nature for the first time. Since we can not influence the weather, you are suitably attracted and don't forget food, water (!) and a photo apprerata. Alternatively, we invite you from 9:00-11:00 to the hangover breakfast as well as our nerdy lecture series »Nerd 101« from 13:00 at the APB."
             english: true
-        -
-
-            #title: "Seminar&shy;gruppen&shy;treffen"
-            #title-en: Seminar group meeting
-            #begin: "13:00"
-            #duration: "2:00"
-            #location: "Folge deinem Mentor"
-            #location-en: "Follow your mentor"
-            #description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Frau Dr. Borcea-Pfitzmann, Referentin des Studiendekans und Studienfachberaterin, wird auch da sein und dir die wichtigsten Infos zu deinem Studienablauf erzählen."
         -
             begin: "19:00"
             duration: "2:00"
@@ -194,6 +199,8 @@ days:
         title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
         location: "APB/E023"
         location-en: "APB/E023"
+        highlight: true
+        photo: enrollment.jpg
         description: "Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester."
         description-en: "This is one of the most impportant appointments of this week. We will sign you up for your timetable and we will give you some last important informations. Make sure you won't mis it!"
         english: true
@@ -268,6 +275,8 @@ days:
         title-en: "ESE-game"
         location: "APB/Foyer"
         location-en: "APB/Foyer"
+        highlight: true
+        photo: ese-game.jpg
         description: "Spiel, Spannung, Spaß. Wir simulieren den gesamten Verlauf des ersten Semesters in nur wenigen Stunden. Wer wird siegreich hervorgehen und wer zwangsexmatrikuliert? Der Abschluss der Woche wird nochmal äußerst unterhaltsam."
         description-en: "Bascially you will experience the whole first term in a few hours. Who will be successful, who will stop studying? Joins us  on our last event of a fun week!"
   -
@@ -279,6 +288,8 @@ days:
         title: "Stadt&shy;führung"
         title-en: "Guided city tour"
         location: "n.n."
+        highlight: true
+        photo: citytour.jpg
         begin: "13:00"
         duration: "2:30"
         english: true

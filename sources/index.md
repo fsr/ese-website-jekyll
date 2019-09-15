@@ -8,8 +8,9 @@ index: false
 
 Damit du dich besser zurechtfindest und gleich nette Leute kennenlernst, haben wir in der Woche vom 07.10. bis 12.10.2019 vor Beginn der Vorlesungen einiges für dich vorbereitet. Das Ganze nennt sich "Erstsemestereinführung" oder kurz "ESE". Manche Veranstaltungen überschneiden sich leider mit dem [Brückenkurs Mathematik](https://tu-dresden.de/mn/math/studium/lehrangebot/brueckenkurs){:target="_blank"}. Wir empfehlen natürlich den Besuch der ESE, gerade weil auch dieses Jahr wieder ein Online-Brückenkurs zur Verfügung steht. 
 
-<a class="btn" href="/2019/events">Hier geht's zum Zeitplan</a>
+<a class="btn" href="/{{site.year}}/events">Hier geht's zum Zeitplan</a>
 
+<br />
 
 ### Das Wichtigste vorweg
 

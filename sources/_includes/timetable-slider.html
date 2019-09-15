@@ -1,0 +1,39 @@
+<h2>ESE Highlights</h2>
+
+<div class="slider-highlight">
+    {% for day in site.data.events.days %}
+        {% for event in day.events %}
+            {% if event.highlight %}
+                <div class="event">
+                    <div class="event-inner">
+                        {% if event.photo %}
+                            <div class="event-image">
+                                {% image events/{{event.photo}} %}
+                            </div>
+                        {% endif %}
+
+                        {% if langmodifier[1] == "en" %}
+                        <div class="event-description">
+                            <h4>{{ event.title-en }}</h4>
+
+                            <!-- time -->
+                            {{ day.name-en }} {{ event.begin }}
+                        </div>
+                        {% else %}
+                        <div class="event-description">
+                            <h4>{{ event.title }}</h4>
+
+                            <!-- time -->
+                            {{ day.name }} {{ event.begin }} Uhr
+                        </div>
+                        {% endif %}
+
+
+
+                    </div>
+                </div>
+             {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>
+
