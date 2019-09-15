@@ -1,0 +1,76 @@
+.introduction {
+    position: relative;
+    text-align: center;
+    padding: 8rem 0;
+    
+    .badge {
+        transform: skew(-4deg) rotate(-4deg);
+        margin-bottom: 4rem;
+        
+        .date {
+            display: inline-block;
+            background: #018554;
+            font-family: $font-regular;
+            font-size: rem-calc(19px);
+            color: white;
+            padding: 0 .75rem;
+            margin: 0 0 1rem 0;
+        }
+        
+        h1 {
+            font-family: $font-semibold;
+            font-size: rem-calc(28px);
+            text-transform: uppercase;
+            line-height: 1.25;
+            color: #01794C;
+            margin: 0;
+            
+            span {
+                font-family: $font-heavy;
+                font-size: rem-calc(44px);
+                
+                &:before {
+                    content: "\A";
+                    white-space: pre;
+                }
+            }
+        }
+    }
+    
+    .floating-element {
+        position: absolute;
+        
+        &.arrow {
+            top: 2rem;
+            right: 2rem;
+            animation: x-bounce 2s infinite;
+            
+            @include breakpoint(medium down) {
+                top: -2rem;
+                right: -2rem;
+            }
+        }
+        
+        &.rocket {
+            bottom: 2rem;
+            left: 2rem;
+            animation: y-bounce 2s infinite;
+            
+            @include breakpoint(medium down) {
+                bottom: -2rem;
+                left: -2rem;
+                z-index: 4;
+            }
+        }
+    }
+    
+    p {
+        font-family: $font-light;
+        font-size: rem-calc(18px);
+        color: #00415a;
+    }
+    
+    .shortnav {
+        margin-top: 4rem;
+    }
+}

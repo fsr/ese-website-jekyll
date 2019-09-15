@@ -24,10 +24,8 @@ Tel.: +49 (0) 351 463-38226
 
 ###  Verantwortlich für journalistisch-redaktionelle Angebote im Sinne des § 55 RStV 
 
-Sprecher des FSR Informatik  
-Lutz Thies  
-Nöthnitzer Straße 46  
-01187 Dresden
+Fachschaftsrat  
+Fakultät Informatik
 
 ### Rechtsaufsicht
 

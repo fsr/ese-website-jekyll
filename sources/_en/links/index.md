@@ -1,5 +1,5 @@
 ---
-title: Links
+title: All about studying
 weight : 400
 permalink: /en/links/
 layout: en-page
@@ -7,13 +7,15 @@ layout: en-page
 <a class="button expand" href="/{{site.year}}/en/links/studies/">Studying at the TU</a>
 <a class="button expand" href="/{{site.year}}/en/links/dresden/">Living in Dresden</a>
 
-### ESE on Facebook
+### The Faculty on Facebook
 
-*   [Facebook group of ESE (german) {{site.year}}/{{ site.year | plus: 1 | remove: "20" }}](https://www.facebook.com/groups/TUDInf{{site.year}}/ "facebookgroup"){:target="_blank"}
-*   [Facebook group for english speaking computer scientist students](https://www.facebook.com/groups/cstud/ "facebookgroup"){:target="_blank"}
-*   [Facebook group for spare time](https://www.facebook.com/groups/TUDInfFreizeit/ "facebookgroup for spare time"){:target="_blank"}_: everything that is not directly related to the university_
+The FSR Informatik offers a semester-wide group for all students of the Faculty of Computer Science:
+
+*   [Facebook group of the Faculty of Computer Science](https://www.facebook.com/groups/TUDInf "Facebookgroup"){:target="_blank"}
 
 ### The Manual
+
+<div class="info">Still being prepared</div>
 
 As everything in computer science, your degree programme comes with detailed instructions on how to master it and what university life is. We compiled a [brochure](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf) (PDF 3,88 MB) with all relevant information for the beginners. It is currently available in German only. You’ll also receive the brochure in printed form during the ESE.
 

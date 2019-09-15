@@ -1,37 +1,52 @@
 ---
-title: Veranstaltungen
+title: Events
 weight : 200
 permalink: /events/
 layout: page
 ---
 
-Die ESE startet dieses Jahr am Montag, den 01.10. mit dem täglichen Frühstück um 9 Uhr. Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
+Die ESE startet dieses Jahr am Montag, den 7. Oktober mit dem täglichen Frühstück um 9 Uhr. Den aktuellen Zeitplans gibt's auch
+ganz einfach für deine Hosentasche als  *iCal-Datei*, um ihn direkt in den Kalender zu importieren:  
+
+<a class="btn" href="/2019/ESE.ics">ical-Download</a>
+
+<br />
+
+Außerdem findest du die Höhepunkte unserer ESE auch als Facebook-Veranstaltungen:
+
+<a class="btn" href="https://www.facebook.com/pg/iFSR.de/events/" target="_blank">Facebook Veranstaltungen</a>
+
+<br />
+
+Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
 
 * Studierendenausweis
 * Lichtbildausweis
 * Emeal-Bescheinigung (Immatrikulationsbogen)
 * 10 Euro (5€ Pfand + 5€ oder mehr als Guthaben)
 
-Mehr Infos zur Emeal findest du auf der [Seite des Studierendenwerkes](http://www.studentenwerk-dresden.de/mensen/emeal.html).
+Mehr Infos zur Emeal findest du auf der [Seite des Studentenwerk](http://www.studentenwerk-dresden.de/mensen/emeal.html)
 
-<ul class="accordion" data-accordion="" role="tablist">
-  <li class="accordion-navigation">
-    <a href="#timetable" role="tab" id="timetable-heading" aria-controls="timetable">Zeitplan</a>
-    <div id="timetable" class="content active" role="tabpanel" aria-labelledby="timetable-heading">
-			{% include timetable.html %}
+## Event-Kalender
+
+<ul class="accordion" data-accordion>
+  <li class="accordion-item is-active" data-accordion-item>
+    <a href="#" class="accordion-title">Zeitplan</a>
+    <div class="accordion-content" data-tab-content>
+     	{% include timetable.html %}
     </div>
   </li>
-  <li class="accordion-navigation">
-    <a href="#barrierfree" role="tab" id="barrierfree-heading" aria-controls="barrierfree">Barrierefreier Zeitplan</a>
-    <div id="barrierfree" class="content" role="tabpanel" aria-labelledby="barrierfree-heading">
-   		{% include timetable-barrierfree.html %}
-    </div>
-  </li>
+  
+  <li class="accordion-item" data-accordion-item>
+      <a href="#" class="accordion-title">Barrierefreier Zeitplan</a>
+      <div class="accordion-content" data-tab-content>
+       	 {% include timetable-barrierfree.html %}
+      </div>
+    </li>
 </ul>  
 <br>
 
-Den aktuellen Zeitplans gibt's auch als **iCal-Datei**, um ihn direkt in den Kalender zu importieren:  
-<a class="button small secondary" href="/2018/ESE.ics">Download</a>
+
 
 <!-- 
 ### Die Highlights der Woche

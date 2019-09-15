@@ -8,14 +8,15 @@ layout: page
 <a class="button expand" href="/{{site.year}}/links/studies/">Informationen zum Studium</a>
 <a class="button expand" href="/{{site.year}}/links/dresden/">Informationen zu Dresden</a>
 
-### ESE auf Facebook
+### Die Fakultät auf Facebook
 
-Wir stellen für euch Facebook-Gruppen bereit, auf denen ihr euch mit Kommilitonen austauschen könnt:
+Der FSR Informatik bietet für alle Studierenden der Fakultät Informatik eine semesterübergreifende Gruppe zur Verfügung:
 
-*   [Facebookgruppe der (Medien-)Informatik-Erstis {{site.year}}/{{ site.year | plus: 1 | remove: "20" }}](https://www.facebook.com/groups/TUDInf{{site.year}}/ "Facebookgruppe"){:target="_blank"}
-*   [(Medien-)Informatiker*innen – Freizeitgruppe auf Facebook](https://www.facebook.com/groups/TUDInfFreizeit/ "Facebook-Freizeitgruppe"){:target="_blank"}  für alles, was nicht direkt mit der Uni zu tun hat
+*   [Facebookgruppe der Fakultät Informatik](https://www.facebook.com/groups/TUDInf/ "Facebookgruppe"){:target="_blank"}
 
 ### Das Wichtigste im Heft
+
+<div class="info">Wird noch vorbereitet</div>
 
 Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausführliche Anleitung, die dir alle Abläufe und den Studienalltag erklärt. Das Wichtigste haben wir dir in einem [Heft](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf) (PDF 3,88 MB) zusammengefasst. Hier findest du alles, was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 

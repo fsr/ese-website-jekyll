@@ -1,0 +1,68 @@
+html {
+    font-family: $body-font-family;
+    font-size: $global-font-size;
+    background: $body-background;
+    color: $body-font-color;
+
+    // Keeps page centred in all browsers regardless of content height
+    overflow-y: scroll;
+    overflow-x: hidden !important;
+    
+    
+    // Prevents iOS text size adjust after orientation change, without disabling user zoom (www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/)
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+
+p {
+    display: block;
+    line-height: 1.8em;
+}
+
+* {
+    font-size: rem-calc(16px);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#page-header {
+    padding: 3rem 0;
+    box-shadow: 0 0 18px rgba(40, 47, 60, .05), 0 20px 18px rgba(40,47,60,.05), 0 3px 4px rgba(40,47,60,.05);
+    position: relative;
+    z-index: 4;
+}
+
+#page-logo {
+    float: left;
+
+    a {
+        display: block;
+    }
+}
+
+.notification {
+    padding: .5rem 0;
+    border-bottom: 1px dotted rgba(black, .15);
+    position: relative;
+}
+
+main {
+    padding: 4rem 0;
+}
+
+#page-footer {
+    border-top: 1px dotted rgba(black, .15);
+    padding: 4rem 0;
+    transform: rotate(-4deg);
+    
+    .credits span {
+        background: $year-color;
+        color: white;
+        padding: .5rem;
+    }
+}

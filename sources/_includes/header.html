@@ -16,29 +16,37 @@
       {% assign context = "/" %}
     {% endcase %}
 
-<header>
-    <div class="row">
-        <div class="top-bar site-nav small-12" data-topbar="" role="navigation">
-            <ul class="title-area">
-                
-                <li class="title hide-for-large-up">
-                    <h1><a href="{{ site.baseurl }}/">{% image bobbel.png alt:'OSM APB' %}{{ site.title }}</a></h1>
-                </li>
-                 <li class="title show-for-large-up">
-                    <h1><a href="{{ site.baseurl }}/">{% image bobbel.png alt:'OSM APB' %} FSR Informatik</a></h1>
-                </li>
-                
-                <div class="show-for-large-up">
-                {% include translate-switch.html %}
+<header id="page-header">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell medium-4">
+                <div id="page-logo">
+                    <a href="{{ site.baseurl }}/" class="page-logo-link">{% image ese-logo-2019.svg alt:'ESE 2019' %}</a>
+                </div>
             </div>
-                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-            </ul>
 
-            <!-- previously navigation, now used for language switcher, first aid, etc. -->
-            <nav class="top-bar-section hide-for-large-up">
-                                {% include translate-switch.html %}
-                {% include navigation.html context=context pages=pages %}
-            </nav>
+            <div class="cell medium-8">
+                {% include translate-switch.html %}
+
+                <div id="page-navigation">
+                    {% include navigation.html context=context pages=pages %}
+                </div>
+            </div>
         </div>
     </div>
 </header>
+
+
+<div class="notification">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+                {% if langmodifier[1] == "en" %}
+                <p><i class="icon-exclamation"></i> You can find all important announcements and changes to the ESE on <span class="icon icon-social-twitter">Twitter</span> <a href="https://twitter.com/ifsr" target="_blank">@ifsr</a></p>
+                {% else %}
+                <p><i class="icon-exclamation"></i> Alle wichtigen Ankündigungen und Änderungen zur ESE findest du bei uns auf <span class="icon icon-social-twitter">Twitter</span> <a href="https://twitter.com/ifsr" target="_blank">@ifsr</a></p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

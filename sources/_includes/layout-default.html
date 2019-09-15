@@ -13,40 +13,29 @@
 <html>
 {% include head.html lang=include.lang %}
 <body>
-    <div id="skip-link">
-        <a class="element-invisible element-focusable" href="#content">Skip to Content</a>
-    </div>
-    <div role="document">
-        {% include header.html pages=pages %}
-        <main>
-            <div class="row">
-            	<!-- TODO: show for lage-up  -->
-				<aside class="column show-for-large-up sidebar-column">
-                    {% include sidebar.html items=items pageurl=page.url pages=pages %}
-                </aside>
+    {% include header.html pages=pages %}
 
-                <article id="content">
-                	<div class="background">
-                    {{ content }}
-                	</div>
-                </article>
-
+    <main id="page-content">
+        <div class="grid-container">
+            <div class="grid-x grid-padding-x">
+                <div class="cell">
+                    <article id="content">
+                        {{ content }}
+                    </article>
+                </div>
             </div>
-        </main>
-        {% include footer.html %}
-    </div>
-    <!-- Bundles created by webpack 
-  		 NOTE: order may be important
-  		 TODO: check for existence -->
+        </div>
+    </main>
+
+    {% include footer.html %}
+
+    <!-- Include scripts for webpage -->
     {% js vendors-bundle %}
-    {% css app_postload-bundle %}
-    {% js app_postload-bundle %}
+    {% js app-bundle %}
+
     <!-- Any dev stuff not being included in production build -->
     {% if jekyll.environment == "development" %}
-    <!-- Display warning sign for GitHub pages and lock out SE-bots -->
-    {% include developer-preview.html %}
-    {% js dev_postload-bundle %}
+
     {% endif %}
 </body>
-
 </html>

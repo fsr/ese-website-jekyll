@@ -1,0 +1,37 @@
+$width-gutter: 30px;
+$width-page: 1280px;
+
+// beziehen sich auf die oben angegebene Seitenbreite
+$columns: 12;
+$block-grid-columns: 12;
+
+$rem-base: 12px;
+$base: $rem-base;
+$global-font-size: $rem-base;
+
+$line-height: 1.8em;
+
+$breakpoint-classes: (small medium large xlarge);
+
+$grid-row-width: $width-page;
+$global-width: $width-page;
+
+$grid-column-count: $columns;
+$grid-margin-gutters: (
+        small: 24px,
+        medium: $width-gutter
+);
+$grid-padding-gutters: $grid-margin-gutters;
+$grid-container-padding: $grid-padding-gutters;
+
+$grid-column-align-edge: true !default;
+$block-grid-max: $block-grid-columns;
+
+/// Sets the text direction of the CSS. Can be either `ltr` or `rtl`.
+$global-text-direction: ltr !default;
+
+// Internal variables used for text direction
+$global-left: if($global-text-direction == rtl, right, left);
+$global-right: if($global-text-direction == rtl, left, right);
+
+$global-flexbox: true;

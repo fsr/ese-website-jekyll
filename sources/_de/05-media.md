@@ -5,21 +5,34 @@ permalink: /media/
 layout: page
 ---
 
+<div class="notice important">
+    <h3>Sie haben mich ins Gesicht gefilmt!!1elf</h3>
+    
+    <p>
+        Die ESE ist eine öffentliche Veranstaltung. Während der Veranstaltung werden vom Fachschaftsrat Informatik (und deren Organisatoren) an der Technischen Universität Dresden Foto- sowie 
+        Filmaufnahmen zu Zwecken der Öffentlichkeitsarbeit gemacht.
+    </p>
+    
+    <p>
+        Bei unerwünschten Aufnahmen kannst du jederzeit die Fotografen direkt vor Ort, den FSR selbst oder unser Social-Media Team (@ifsr) ansprechen.
+    </p>
+</div>
+
 ## Fotos
 
 <div class="inline-list">
-<a href="https://users.ifsr.de/~vogel/2018/" class="button radius large" style="color:#ffffff">Fotos der ESE 2018</a>
-<a href="https://users.ifsr.de/~vogel/2017/" class="button radius large" style="color:#ffffff">Fotos der ESE 2017</a>
+<a href="https://users.ifsr.de/~vogel/2018/" class="btn">Fotos der ESE 2018</a>
+<a href="https://users.ifsr.de/~vogel/2017/" class="btn">Fotos der ESE 2017</a>
 </div>
 
 ## Videos
 
 <div class="inline-list">
-<a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="button radius large" style="color:#ffffff">Video der ESE 2017 (YouTube)</a>
+<a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="btn">Video der ESE 2017 (YouTube)</a>
 
-<a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="button radius large" style="color:#ffffff">Video der ESE 2016 (YouTube)</a>
+<a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="btn">Video der ESE 2016 (YouTube)</a>
 
-<a href="https://vimeo.com/141549237" class="button radius large" style="color:#ffffff">Video der ESE 2015 (Vimeo)</a>
+<a href="https://vimeo.com/141549237" class="btn">Video der ESE 2015 (Vimeo)</a>
 </div>
 
 <!--

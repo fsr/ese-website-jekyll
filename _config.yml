@@ -1,13 +1,13 @@
 # Site settings
-title: "ESE 2018"
+title: "ESE 2019"
 email: ese@ifsr.de
 emailfsr: fsr@ifsr.de
-baseurl: "/2018" # the subpath of your site, e.g. /blog/
+baseurl: "/2019" # the subpath of your site, e.g. /blog/
 url: "https://ese.ifsr.de" # the base hostname & protocol for your site
 twitter_username: ifsr
 github_username:  fsr
 color: "#0D5F98"
-year: "2018"
+year: "2019"
 
 # Global Metatags
 metatag:
@@ -15,7 +15,7 @@ metatag:
     description: "Hier findest du den Ablaufplan und die wichtigsten Informationen der Erstsemestereinführung (ESE) für Informatik an der TU Dresden."
     abstract:
     keywords:
-    "og:title": "ESE 2018 | FSR Informatik"
+    "og:title": "ESE 2019 | FSR Informatik"
     "og:description": "Hier findest du den Ablaufplan und die wichtigsten Informationen der Erstsemestereinführung (ESE) für Informatik an der TU Dresden."
     "og:locale":
     "og:locale:alternate":
@@ -30,7 +30,7 @@ metatag:
     description: "Here you can find the schedule and most important information of the orientation week (ESE) for Computer Science at TU Dresden."
     abstract:
     keywords:
-    "og:title": "ESE 2018 | FSR Computer Science"
+    "og:title": "ESE 2019 | FSR Computer Science"
     "og:description": "Here you can find the schedule and most important information of the orientation week (ESE) for Computer Science at TU Dresden."
     "og:locale":
     "og:ocale-alternate":
@@ -110,4 +110,4 @@ assets:
 
 # serve emoji locally to avoid CSP issues
 emoji:
-  src: "/2018/static/"
+  src: "/2019/static/"
