@@ -51,6 +51,7 @@ h4 {
     text-decoration: none;
     color: $year-color;
     transition: all 250ms cubic-bezier(.27, .01, .38, 1.06);
+    display: inline-block;
     
     &:hover, &:focus {
         background: $year-color;
@@ -196,7 +197,7 @@ ul.accordion {
     }
   
     20% {
-        transform: translateY(-30px);
+        transform: translateY(-50px);
     }
   
     60% {
@@ -204,17 +205,17 @@ ul.accordion {
     }
 }
 
-@keyframes x-bounce {
+@keyframes y-bounce-two {
     0% {
-        transform: translateX(0);
+        transform: translateY(0);
     }
   
     50% {
-        transform: translateX(-15px);
+        transform: translateY(-15px);
     }
   
     100% {
-        transform: translateX(0);
+        transform: translateY(0);
     }
 }
 

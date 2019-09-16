@@ -40,13 +40,13 @@
     .floating-element {
         position: absolute;
         
-        &.arrow {
+        &.explosion {
             top: 2rem;
             right: 2rem;
-            animation: x-bounce 2s infinite;
+            animation: y-bounce-two 2s infinite;
             
             @include breakpoint(medium down) {
-                top: -2rem;
+                top: -5rem;
                 right: -2rem;
             }
         }
