@@ -87,4 +87,4 @@ As everything in computer science, your degree programme comes with detailed ins
     *   [Semesterticket](https://www.dvb.de/en/Tickets-Fares/For-Students/ "Semesterticket and DVB"){:target="_blank"}
 *   [VVO (de)](https://www.vvo-online.de){:target="_blank"} (intercity transport)
     *   [Semesterticket (de)](https://www.vvo-online.de/de/tarif-tickets/sondertickets/semesterticket-153.cshtml "Semesterticket and VVO"){:target="_blank"}
-*   [ODEG (en)](http://www.odeg.info/){:target="_blank"} (intercity transport)
+*   [Deutsche Bahn](https://www.bahn.de/){:target="_blank"} (intercity transport)

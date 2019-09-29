@@ -50,4 +50,4 @@ Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausfü
 #### Reisen
 
 *   [Semesterticket](https://www.stura.tu-dresden.de/semesterticket){:target="_blank"}  (StuRa)
-*   [ODEG](http://www.odeg.info/){:target="_blank"}  (Fernverkehr)
+*   [Deutsche Bahn](https://www.bahn.de/){:target="_blank"}  (Fernverkehr)
