@@ -71,7 +71,6 @@ As everything in computer science, your degree programme comes with detailed ins
 *   [Information about residence for educational purposes](https://www.dresden.de/en/02/anliegen/Residence_for_educational_purposes.php "Information about residence for educational purposes - Dresdens city hall"){:target="_blank"} (dresden.de)
 *   [student union](https://www.studentenwerk-dresden.de/english/wohnen/){:target="_blank"} (general information and counseling)
     *   [Student halls](https://www.studentenwerk-dresden.de/english/wohnen/wohnheimkatalog/){:target="_blank"}
-*   [Vonovia](https://www.vonovia.de/){:target="_blank"} (big landlord, former GAGFAH)
 *   [housing association Dresden](https://www.wgs-dresden.de/){:target="_blank"}
 *   [saxon housing association (de)](https://www.swg-dresden.de/){:target="_blank"}
 *   [registration offices (de)](https://www.dresden.de/de/rathaus/ortsaemter.php){:target="_blank"}
@@ -88,4 +87,4 @@ As everything in computer science, your degree programme comes with detailed ins
     *   [Semesterticket](https://www.dvb.de/en/Tickets-Fares/For-Students/ "Semesterticket and DVB"){:target="_blank"}
 *   [VVO (de)](https://www.vvo-online.de){:target="_blank"} (intercity transport)
     *   [Semesterticket (de)](https://www.vvo-online.de/de/tarif-tickets/sondertickets/semesterticket-153.cshtml "Semesterticket and VVO"){:target="_blank"}
-*   [ODEG (en)](http://www.odeg.info/){:target="_blank"} (intercity transport)
+*   [Deutsche Bahn](https://www.bahn.de/){:target="_blank"} (intercity transport)

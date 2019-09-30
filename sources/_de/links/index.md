@@ -38,7 +38,6 @@ Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausfü
 *   [Studierendenwerk](https://www.studentenwerk-dresden.de/wohnen/){:target="_blank"}
     *   [Wohnheime](https://www.studentenwerk-dresden.de/wohnen/wohnheimkatalog/){:target="_blank"}
     *   [Zweitwohnsitzsteuer](https://www.studentenwerk-dresden.de/wohnen/umzugsbeihilfe.html){:target="_blank"}  ([Zweitwohnungssteuer auf dresden.de](https://www.dresden.de/de/rathaus/dienstleistungen/c_zweitwohnungssteuer.php){:target="_blank"} )
-*   [Vonovia](https://www.vonovia.de/){:target="_blank"}  (großer Vermieter, ehemals GAGFAH)
 *   [Wohnungsgenossenschaft Dresden](https://www.wgs-dresden.de/){:target="_blank"}
 *   [Sächsische Wohnungsgenossenschaft](https://www.swg-dresden.de/){:target="_blank"}
 *   [Ortsämter](https://www.dresden.de/de/rathaus/ortsaemter.php){:target="_blank"}  (Einwohnermeldeämter)
@@ -51,4 +50,4 @@ Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausfü
 #### Reisen
 
 *   [Semesterticket](https://www.stura.tu-dresden.de/semesterticket){:target="_blank"}  (StuRa)
-*   [ODEG](http://www.odeg.info/){:target="_blank"}  (Fernverkehr)
+*   [Deutsche Bahn](https://www.bahn.de/){:target="_blank"}  (Fernverkehr)
