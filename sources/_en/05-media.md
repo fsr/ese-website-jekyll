@@ -19,6 +19,7 @@ permalink: /en/media/
 
 <nav class="shortnav">
     <ul>
+        <li><a href="https://users.ifsr.de/~krebs/ese19/pics" class="btn">Photos of ESE 2019</a></li>
         <li><a href="https://users.ifsr.de/~vogel/2018/" class="btn">Photos of ESE 2018</a></li>
         <li><a href="https://users.ifsr.de/~vogel/2017/" class="btn">Photos of ESE 2017</a></li>
     </ul>
