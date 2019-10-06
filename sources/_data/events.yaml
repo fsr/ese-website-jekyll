@@ -73,8 +73,8 @@ days:
             title: "Bunter Nachmittag"
             title-en: "Various afternoon"
             location: "APB/Foyer"
-            description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät und du kannst einen Blick in viele interessante Räume werfen. Schau dir zum Beispiel die Display Wall an oder sei bei einer exklusiven Führung durchs Rechenzentrum mit Prof. Nagel höchstpersönlich dabei. "
-            description-en: "Where can I go to study? If I need some advice for my study to whom can I talk? Follows us on a tour through the faculty and we answer all your questions. Besides you get the change to visit  Prof. Nagels data center."
+            description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät. Außerdem gibt es einen Vortrag, Workshop, Speedfriending und verschiedene andere Angebote."
+            description-en: "Where can I go to study? If I need some advice for my study to whom can I talk? Follows us on a tour through the faculty. Besides that there will be a talk, a workshop, speedfriending and various other events."
             english: true
         -
             begin: "18:00"
