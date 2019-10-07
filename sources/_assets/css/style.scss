@@ -39,3 +39,5 @@ $brand-color: lighten($year-color, 20%);
 @import "mixins/componets/slider";
 @import "mixins/componets/slider-events";
 
+@import "mixins/componets/scheduler";
+

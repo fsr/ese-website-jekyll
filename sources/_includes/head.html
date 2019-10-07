@@ -1,14 +1,17 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+	<meta name="x-ua-compatible" content="IE=edge,chrome=1" />
   	<title>{% if page.title %}{{ page.title | append: ' | ' | append:  site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
 	{% case include.lang %}
 	{% when "en" %}
 		{% assign metatags=site.metatag.en %}
+		<link rel="manifest" href="/2019/manifest-en.json" />
 	{% else %}
 		{% assign metatags=site.metatag.de %}
+		<link rel="manifest" href="/2019/manifest.json" />
 	{% endcase %}
 	{% for metatag in metatags %}
 		{% assign key = metatag[0] %}
@@ -21,26 +24,22 @@
 		{% endif %}
 	{% endfor %}
 
-	{% assign path = site.data.icons.apple.path %}
-	{% for group in site.data.icons.groups %}
-		{% assign path = group.path %}
-		{% capture rel %}{% if group.rel %}{{ group.rel }}{% else %}icon{% endif %}{% endcapture %}
-		{% for size in group.sizes %}
-			{% if group.type == "ms" %}
-				<meta name="msapplication-TileImage" content="{{ img path | append: size | append: ".png" | prepend: site.baseurl }}" />
-			{% else %}
-				<link rel="{{ rel }}" type="image/png" href="{{ img path | append: size | append: ".png" | prepend: site.baseurl }}" sizes="{{ size }}" />
-			{% endif %}
-		{% endfor %}
-	{% endfor %}
+	<link rel="shortcut icon" type="image/x-icon" href="{% asset_path icons/favicon | prepend: site.baseurl %}" />
+	<link rel="apple-touch-icon" href="{% asset_path icons/apple-touch-icon %}" />
 
-	<link rel="apple-touch-icon" sizes="180x180" href="{% asset_path icons/apple-touch-icon %} ">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.color }}">
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-640x1136 %}" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" />
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-750x1294 %}" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" />
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-1242x2148 %}" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" />
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-1125x2436 %}" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" />
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-1536x2048 %}" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)" />
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-1668x2224 %}" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)" />
+	<link rel="apple-touch-startup-image" href="{% asset_path splash/launch-2048x2732 %}" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)" />
 
-	<link rel="manifest" href="{{ site.data.icons.android-manifest | prepend: site.baseurl }}/manifest.json" />
+	<meta name="mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="default" />
 	<meta name="msapplication-TileColor" content="{{ site.data.icons.ms-tilecolor }}" />
 	<meta name="theme-color" content="{{ site.color }}" />
-	<link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/icons/favicon.ico" | prepend: site.baseurl }}" />
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
 

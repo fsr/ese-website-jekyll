@@ -6,14 +6,13 @@ html {
 
     // Keeps page centred in all browsers regardless of content height
     overflow-y: scroll;
-    overflow-x: hidden !important;
-    
-    
+    overflow-x: hidden;
+
+
     // Prevents iOS text size adjust after orientation change, without disabling user zoom (www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/)
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
-
 
 p {
     display: block;
@@ -29,12 +28,19 @@ img {
     height: auto;
 }
 
+#page-header, #page-content, #page-footer {
+    overflow-x: hidden !important;
+}
 
 #page-header {
     padding: 3rem 0;
     box-shadow: 0 0 18px rgba(40, 47, 60, .05), 0 20px 18px rgba(40,47,60,.05), 0 3px 4px rgba(40,47,60,.05);
     position: relative;
     z-index: 4;
+
+    @include breakpoint(small only) {
+        padding: 1.5rem 0;
+    }
 }
 
 #page-logo {
@@ -58,9 +64,10 @@ main {
 #page-footer {
     border-top: 1px dotted rgba(black, .15);
     padding: 4rem 0;
-    transform: rotate(-4deg);
     box-decoration-break: clone;
-    
+    position: relative;
+    z-index: 2;
+
     .credits {
         background: $year-color;
         color: white;

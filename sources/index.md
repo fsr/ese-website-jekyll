@@ -12,11 +12,24 @@ Damit du dich besser zurechtfindest und gleich nette Leute kennenlernst, haben w
 
 <br />
 
+<img src="{% asset_path tutoren_2019 %}" alt="ESE Tutoren">
+
+### Monday is coming
+ 
+Die Mensakarten können jeden Tag beim Frühstück erworben werden. Bring dazu bitte folgendes mit:
+
+* Studierendenausweis
+* Lichtbildausweis
+* Emeal-Bescheinigung (Immatrikulationsbogen)
+* 10 Euro (5€ Pfand + 5€ oder mehr als Guthaben)
+
+Mehr Infos zur Emeal findest du auf der [Seite des Studentenwerk](http://www.studentenwerk-dresden.de/mensen/emeal.html)
+
 ### Das Wichtigste vorweg
 
 Auf dieser Seite findest du alles, was du brauchst. 
 Das Programm für die ESE, die Stundenpläne und generelle Informationen haben wir hier für dich zusammengetragen.
-Eine ausführlichere Broschüre mit allem, was es rund um das Studium zu wissen gibt, gibt es außerdem [hier](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf).
+Eine ausführlichere Broschüre mit allem, was es rund um das Studium zu wissen gibt, gibt es außerdem [hier](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/manual_compressed.pdf).
 
 Alle neuen Studierenden der Fakultät Informatik sind eingeladen, an der ESE teilzunehmen. Zusätzlich gibt es für manche Studiengänge noch eigene Einführungsveranstaltungen. Solltest du also nicht Informatik oder Medieninformatik studieren, schau bitte auch auf der entsprechenden Seite vorbei:
 
@@ -28,4 +41,4 @@ Alle neuen Studierenden der Fakultät Informatik sind eingeladen, an der ESE tei
 - [Master Computational Modeling and Simulation (CMS)](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/computational-modeling-and-simulation/uebersichtsseite){:target="_blank"} Einführungsveranstaltung am 8. Oktober 2019 um 13:15 Uhr im Raum APB-E023, siehe [Informations-Flyer](https://tu-dresden.de/ing/informatik/ressourcen/dateien/studium/sonstige_dokumente/master_cms/CMS_2019.pdf){:target="_blank"}
 
 
-Bei Fragen zögere nicht, die Helferinnen und Helfer in der ESE-Woche anzusprechen. Du erkennst sie gut an den `#01794C` T-Shirts. Natürlich kannst du auch jederzeit Kontakt mit dem FSR via E-Mail, Telefon und über die sozialen Netzwerke aufnehmen oder einfach im Büro vorbeischauen.
+Bei Fragen zögere nicht, die Helferinnen und Helfer in der ESE-Woche anzusprechen. Du erkennst sie gut an den `#018554` T-Shirts. Natürlich kannst du auch jederzeit Kontakt mit dem FSR via E-Mail, Telefon und über die sozialen Netzwerke aufnehmen oder einfach im Büro vorbeischauen.

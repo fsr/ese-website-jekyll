@@ -1,0 +1,80 @@
+.scheduler {
+    nav.scheduler-days {
+        ul {
+            position: relative;
+            z-index: 10;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+
+            li {
+                display: inline-block;
+                margin-right: $width-gutter / 3;
+
+                &:last-child {
+                    margin-right: 0;
+                }
+
+                &.active {
+                    a.scheduler-day-link {
+                        background: $year-color;
+                        color: white;
+                    }
+                }
+
+                a.scheduler-day-link {
+                    font-size: rem-calc(13px);
+                }
+            }
+        }
+
+        &.sticky {
+            position: fixed;
+            top: 0;
+            padding: 2rem 0;
+            z-index: 10;
+
+            &:before {
+                content: '';
+                background: white;
+                box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.3), 0 1px 3px 1px rgba(60, 64, 67, 0.15);
+                position: absolute;
+                width: 1000vw;
+                left: -50vw;
+                right: -50vw;
+                top: 0;
+                bottom: 0;
+                z-index: 9;
+            }
+        }
+    }
+
+    .scheduler-day {
+        h4 {
+            font-size: rem-calc(32px);
+        }
+    }
+
+    .event {
+        border-bottom: 1px solid rgba(black, .02);
+        padding: 2rem 0;
+
+        h5 {
+            margin-top: 0;
+        }
+
+        .event-time {
+            text-align: center;
+            font-size: rem-calc(26px);
+            margin: 0;
+
+            @include breakpoint(small only) {
+                font-size: rem-calc(16px);
+            }
+        }
+    }
+
+    .border-left {
+        border-left: 1px solid rgba(black, .02);
+    }
+}

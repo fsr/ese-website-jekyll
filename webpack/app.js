@@ -1,5 +1,19 @@
 $(document).foundation();
 
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker
+        .register('/2019/service-worker.js')
+        .then(function(registration) {
+            console.log(
+                'Service Worker registration successful with scope: ',
+                registration.scope
+            );
+        })
+        .catch(function(err) {
+            console.log('Service Worker registration failed: ', err);
+        });
+}
+
 jQuery(document).ready(function($){
     let countdown = $('#countdown');
 
@@ -62,6 +76,74 @@ jQuery(document).ready(function($){
             ]
         });
     }
+
+    let dateMenu = $('.scheduler-days');
+
+    if (dateMenu.length) {
+        let dateMenuLink = new Gumshoe('.scheduler-days a', { offset: 100 });
+
+        let deviceHeight = Math.min(document.documentElement.clientHeight, screen.height);
+        let documentHeight = Math.max(document.body.scrollHeight, document.body.offsetHeight,
+            document.documentElement.clientHeight, document.documentElement.scrollHeight,
+            document.documentElement.offsetHeight );
+        let scrollHeight = documentHeight < (2 * deviceHeight) ? 0 : deviceHeight/2;
+
+        if (documentHeight < deviceHeight) {
+            !dateMenu.hasClass('sticky') && dateMenu.addClass('sticky');
+        } else {
+            $(window).on('scroll', function(e){
+
+                if ($(this).scrollTop() > scrollHeight) {
+                    !dateMenu.hasClass('sticky') && dateMenu.addClass('sticky');
+                } else {
+                    dateMenu.hasClass('sticky') && dateMenu.removeClass('sticky');
+                }
+            });
+        }
+    }
+
+    let scroll = new SmoothScroll('a[href*="#"]', {
+        speed: 150,
+        offset: 100
+    });
+
+    /**
+     * Test if a SE Bot tries to look at the site
+     * This is only for the development site gh-pages
+     */
+    if(/bot|googlebot|crawler|spider|robot|crawling/i.test(window.navigator.userAgent)) {
+        $('#crawler-message').foundation('reveal', 'open');
+        $('.body-wrapper').hide();
+        window.location.replace("https://ese.ifsr.de");
+    }
+
+    /**
+     * Developer Preview Message Reveal
+     */
+    if(!$( "html" ).hasClass( "crawler" ) && document.cookie != "dev_keks=42") {
+        $('#developer-preview-message').foundation('reveal', 'open');
+        $('.body-wrapper').hide();
+    }
+
+    /**
+     * Set the cookie and close the reveal message
+     */
+    $("#developer-preview-message-close").on('click', function() {
+        setDevCookie(5);
+        $('.body-wrapper').show();
+        $('#developer-preview-message').foundation('reveal', 'close');
+    });
+
+    /**
+     * Function to set a cookie that expires in @days
+     */
+    function setDevCookie(days) {
+        var expireDate = new Date();
+        expireDate.setDate(expireDate.getDate() + days);
+        expireDate.toUTCString();
+        document.cookie = 'dev_keks=42; expires=' + expireDate + '; path=/';
+    }
+
 });
 
 

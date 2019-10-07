@@ -2,21 +2,21 @@ ul#nav-language {
     list-style: none;
     padding: 0;
     margin: 0;
-    
+
     @include breakpoint(medium) {
         float: right;
     }
-    
+
     @include breakpoint(small only) {
         position: absolute;
         right: 5rem;
-        top: 4.35rem;
+        top: 2.9rem;
     }
-    
+
     li {
         display: inline-block;
-        
-        
+
+
         a {
             text-decoration: none;
             color: $body-font-color;
@@ -25,7 +25,7 @@ ul#nav-language {
             font-size: rem-calc(12px);
             padding: .25rem .76rem;
         }
-        
+
         &:hover, &:focus {
             a {
                 color: white;

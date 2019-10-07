@@ -6,7 +6,7 @@ permalink: /en/events/
 
 This year, ESE starts on Monday 7 October with the daily breakfast at 9 a.m. The current schedule is also easy for your pocket as an iCal file to import directly into the calendar:
 
-<a class="btn" href="/2019/ESE.ics">ical-Download</a>
+<a class="btn" href="/2019/ESE-en.ics">ical-Download</a>
 
 <br />
 

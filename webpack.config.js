@@ -4,15 +4,9 @@ const path = require('path');
 const config = {
     context: path.resolve(__dirname, './webpack'),
 
-    resolve: {
-        alias: {
-            pace: 'pace-progress',
-        }
-    },
-
     entry: {
         app: './app.js',
-        vendors: ['jquery', 'responsive-nav', 'slick-carousel', 'foundation-sites'],
+        vendors: ['jquery', 'responsive-nav', 'slick-carousel', 'foundation-sites', 'gumshoejs', "smooth-scroll"],
     },
 
     output: {
@@ -94,6 +88,26 @@ const config = {
                         {
                             loader: 'expose-loader',
                             options: 'responsiveNav'
+                        }
+                    ]
+            },
+            {
+                test: require.resolve('gumshoejs'),
+                use:
+                    [
+                        {
+                            loader: 'expose-loader',
+                            options: 'Gumshoe'
+                        }
+                    ]
+            },
+            {
+                test: require.resolve('smooth-scroll'),
+                use:
+                    [
+                        {
+                            loader: 'expose-loader',
+                            options: 'SmoothScroll'
                         }
                     ]
             },

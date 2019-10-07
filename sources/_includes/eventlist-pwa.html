@@ -1,0 +1,74 @@
+<div class="scheduler">
+    <nav class="scheduler-days">
+        <ul>
+            {% for day in site.data.events.days %}
+                <li>
+                    {% if include.lang == "en" %}
+                        <a href="#{{ day.name-en }}" class="btn scheduler-day-link">{{ day.name-en | truncate: 2, "" }}</a>
+                    {% else %}
+                        <a href="#{{ day.name-en }}" class="btn scheduler-day-link">{{ day.name | truncate: 2, "" }}</a>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </nav>
+
+
+    {% for day in site.data.events.days %}
+    <div class="scheduler-day" data-weekday="{{ day.name-en }}" data-date="{{day.date}}">
+        <h4 id="{{ day.name-en }}">{% if include.lang == "en" %}{{ day.name-en }}{% else %}{{ day.name }}{% endif %}, {{day.date}}</h4>
+
+        {% for event in day.events %}
+        <div id="{{ day.name }}-{{ forloop.index }}" data-begin="{{event.begin}}" data-duration="{{event.duration}}" class="event">
+            <div class="grid-x grid-padding-x">
+                <div class="cell small-3 medium-2">
+                    <p class="event-time">
+                        {{ event.begin }}
+                    </p>
+                </div>
+
+                <div class="cell small-9 medium-10 border-left">
+                    <h5>{% if include.lang == "en" %}{{ event.title-en }}{% else %}{{ event.title }}{% endif %}</h5>
+
+                    <!-- location -->
+                    {% if event.location %}
+                        <p class="event-location">
+                            {% if site.data.locations.[event.location] %}
+                                <a href="{{ site.data.locations.[event.location].url }}">
+                                    {% image icons/map-marker alt:'' %}
+                                    {% if include.lang == "en" and site.data.locations.[event.location].name-en %}
+                                        {{ site.data.locations.[event.location].name-en }}
+                                    {% else %}
+                                        {{ site.data.locations.[event.location].name }}
+                                    {% endif %}
+                                </a>
+                            {% else %}
+                                {% if include.lang == "en" and event.location-en %}
+                                    {{ event.location-en }}
+                                {% else %}
+                                    {{ event.location }}
+                                {% endif %}
+                            {% endif %}
+                        </p>
+                    {% endif %}
+
+                    {% if include.lang == "en" %}
+                        <p class="event-description">{{ event.description-en }}</p>
+                    {% else %}
+                        <p class="event-description">{{ event.description }}</p>
+                    {% endif %}
+
+                    {% if event.annotation %}
+                        {% if include.lang == "en" %}
+                        <p class="event-annotation">{{ event.annotation-en }}</p>
+                        {% else %}
+                        <p class="event-annotation">{{ event.annotation }}</p>
+                        {% endif %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>

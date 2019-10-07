@@ -34,6 +34,14 @@
             {% else %}
                 {{ event.description }}
             {% endif %}
+            <br>
+            {% if event.annotation %}
+                {% if include.lang == "en" %}
+                    <p class="event-annotation">{{ event.annotation-en }}</p>
+                {% else %}
+                    <p class="event-annotation">{{ event.annotation }}</p>
+                {% endif %}
+            {% endif %}
         </p>
         {% endfor %}
     </div>

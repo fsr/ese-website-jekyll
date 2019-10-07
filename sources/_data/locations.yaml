@@ -15,18 +15,26 @@
   name: "Studentencafé ascii"
   name-en: "café ascii"
   url: "https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2220"
+"HSZ/AUDI":
+  name: "HSZ (Audimax)"
+  url: "https://navigator.tu-dresden.de/etplan/hsz/01/raum/136101.0400"
+"HSZ/004/H":
+  name: "HSZ/004/H"
+  url: "https://navigator.tu-dresden.de/etplan/hsz/04/raum/136104.0410"
 "HSZ":
   name: "Hörsaalzentrum (HSZ)"
   name-en: "Lecture Hall Centre"
   url: "https://navigator.tu-dresden.de/karten/dresden/geb/hsz"
 "countdown":
   name: "Club Count Down"
-  name-en: "club Count Down"
-  url: "http://www.openstreetmap.org/?mlat=51.0484&mlon=13.7570&zoom=15#map=14/51.0456/13.7525"
+  name-en: "Club Count Down"
+  url: "https://www.openstreetmap.org/?mlat=51.0484&mlon=13.7570&zoom=15#map=14/51.0456/13.7525"
 "kik":
   name: "Kino im Kasten"
-  url: "http://www.openstreetmap.org/?mlat=51.03012&mlon=13.75400&zoom=16#map=15/51.0311/13.7517)"
+  url: "https://www.openstreetmap.org/?mlat=51.03012&mlon=13.75400&zoom=16#map=15/51.0311/13.7517)"
 "altmarkt-galerie":
   name: "vor der Altmarktgalerie"
-  url: "http://www.openstreetmap.org/?mlat=%2051.047517&mlon=13.736457#map=18/51.04750/13.73650"
-
+  url: "https://www.openstreetmap.org/?mlat=%2051.047517&mlon=13.736457#map=18/51.04750/13.73650"
+"Albertplatz":
+  name: "Albertplatz"
+  url: "https://www.openstreetmap.org/#map=19/51.06291/13.74617"

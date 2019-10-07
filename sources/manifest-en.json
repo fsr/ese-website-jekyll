@@ -1,0 +1,28 @@
+{
+  "name": "iFSR ESE 2019",
+  "short_name": "ESE 2019",
+  "description": "Start of the semester 2019 at the Faculty of Computer Science",
+  "lang": "de-DE",
+  "start_url": "/2019/pwa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#018554",
+  "background_color": "#018554",
+  "icons": [
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/2019/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/2019/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

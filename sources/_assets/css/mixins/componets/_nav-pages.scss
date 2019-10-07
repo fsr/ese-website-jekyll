@@ -1,0 +1,33 @@
+.action-menu {
+  position: fixed;
+  z-index: 10;
+  bottom: $width-gutter;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  border-radius: 50px;
+  min-width: rem-calc(238px);
+  overflow: hidden;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+    padding: 8px 16px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    color: $body-font-color;
+
+    &:hover, &:focus, &.active {
+      color: white;
+      background: $year-color;
+      border-radius: 50px;
+    }
+
+    @include breakpoint(small only) {
+      font-size: rem-calc(12px);
+    }
+  }
+}

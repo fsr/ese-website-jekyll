@@ -7,17 +7,16 @@ layout: en-page
 <a class="button expand" href="/{{site.year}}/en/links/studies/">Studying at the TU</a>
 <a class="button expand" href="/{{site.year}}/en/links/dresden/">Living in Dresden</a>
 
-### The Faculty on Facebook
+### Facebook groups
 
-The FSR Informatik offers a semester-wide group for all students of the Faculty of Computer Science:
+We provide you with Facebook groups where you can exchange ideas with fellow students:
 
-*   [Facebook group of the Faculty of Computer Science](https://www.facebook.com/groups/TUDInf "Facebookgroup"){:target="_blank"}
+*   [Facebook group for WS2019/20](https://www.facebook.com/groups/2396690160597203/ "Erstsemester Facebookgruppe"){:target="_blank"}
+*   [Facebook group of the Faculty of Computer Science (cross-semester)](https://www.facebook.com/groups/TUDInf/ "Facebookgruppe"){:target="_blank"}
 
 ### The Manual
 
-<div class="info">Still being prepared</div>
-
-As everything in computer science, your degree programme comes with detailed instructions on how to master it and what university life is. We compiled a [brochure](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/untitled_compressed.pdf) (PDF 3,88 MB) with all relevant information for the beginners. It is currently available in German only. You’ll also receive the brochure in printed form during the ESE.
+As everything in computer science, your degree programme comes with detailed instructions on how to master it and what university life is. We compiled a [brochure](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/manual_compressed.pdf) (PDF 3,66 MB) with all relevant information for the beginners. It is currently available in German only. You’ll also receive the brochure in printed form during the ESE.
 
 ### Finances
 
