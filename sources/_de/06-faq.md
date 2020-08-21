@@ -7,7 +7,7 @@ layout: page
 
 ### An wen kann ich mich bei Fragen und Problemen wenden? Wer sind meine Ansprechpartner?
 
-In der ESE-Woche lernt ihr viele ESE-Tutoren kennen, die euch bei Startproblemen gerne helfen und für alle möglichen Fragen zur Verfügung stehen. Während des ersten Semesters hilft euch euer Seminargruppentutor, den ihr auch in der ESE kennenlernt, weiter. Für große Probleme gibt es den [Fachschaftsrat](http://ifsr.de "FSR"){:target="_blank"}. Außerdem könnt ihr euch im uniweiten Forum [eXma](https://www.exmatrikulationsamt.de/){:target="_blank"} informieren und mit anderen Studierenden in Kontakt treten.
+In der ESE-Woche lernt ihr viele ESE-Tutoren kennen, die euch bei Startproblemen gerne helfen und für alle möglichen Fragen zur Verfügung stehen. Während des ersten Semesters hilft euch euer Seminargruppentutor, den ihr auch in der ESE kennenlernt, weiter. Für große Probleme gibt es den [Fachschaftsrat](http://ifsr.de "FSR"){:target="_blank"}.
 
 In den Bereichen Rechts- oder Sozialberatung stellen das [Studentenwerk Dresden](https://www.studentenwerk-dresden.de/soziales/ "Studentenwerk Dresden"){:target="_blank"} und der [Studierendenrat](https://www.stura.tu-dresden.de/beratung "StuRa"){:target="_blank"} verschiedene Angebote bereit.
 
