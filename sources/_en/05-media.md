@@ -29,6 +29,7 @@ permalink: /en/media/
 
 <nav class="shortnav">
     <ul>
+         <li><a href="https://www.youtube.com/watch?v=Kj83Vpsq_3U" class="btn">Video der ESE 2019 (YouTube)</a></li>
         <li><a href="https://www.youtube.com/watch?v=NlvmPjaTV8A" class="btn">Video of ESE 2017 (YouTube)</a></li>
         <li><a href="https://www.youtube.com/watch?v=JKs45ZJLNz0" class="btn">Video of ESE 2016 (YouTube)</a></li>
         <li><a href="https://vimeo.com/141549237" class="btn">Video of ESE 2015 (Vimeo)</a></li>

@@ -8,15 +8,9 @@ layout: page
 <a class="button expand" href="/{{site.year}}/links/studies/">Informationen zum Studium</a>
 <a class="button expand" href="/{{site.year}}/links/dresden/">Informationen zu Dresden</a>
 
-### Facebook Gruppen
+### The Manual
 
-Wir stellen für euch Facebook-Gruppen bereit, auf denen ihr euch mit Kommilitonen austauschen könnt:
-
-*   [Facebookgruppe für das WS2019/20](https://www.facebook.com/groups/2396690160597203/ "Erstsemester Facebookgruppe"){:target="_blank"}
-*   [Facebookgruppe der Fakultät Informatik (semesterübergreifend)](https://www.facebook.com/groups/TUDInf/ "Facebookgruppe"){:target="_blank"}
-
-
-### Das Wichtigste im Heft
+<div class="info">Wird noch vorbereitet</div>
 
 Wie für alle Sachen in der Informatik gibt es auch für das Studium eine ausführliche Anleitung, die dir alle Abläufe und den Studienalltag erklärt. Das Wichtigste haben wir dir in einem [Heft](https://github.com/fsr/nopanic/releases/download/v{{site.year}}/manual_compressed.pdf) (PDF 3,66 MB) zusammengefasst. Hier findest du alles, was du zum Studienstart wissen musst. Ein gedrucktes Exemplar bekommst du während der ESE.
 

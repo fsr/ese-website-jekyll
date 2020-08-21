@@ -9,134 +9,91 @@
 #            description: "…"
 #            description-en: "…" # english description
 
-schedule-length: "14:00" # in stunden
+schedule-length: "13:00" # in stunden
 schedule-begin: 8 # Uhr
 days:
   -
     name: "Montag"
     name-en: Monday
-    date: 07.10.2019
-    events:
-        -
-            begin: "8:30"
-            duration: "1:15"
-            title: "Früh&shy;stück"
-            title-en: "Break&shy;fast"
-            location: "APB/E023"
-            english: true
-            highlight: true
-            photo: breakfast.jpg
-            description: "Kommt vorbei und startet gemeinsam mit uns in den Tag. Das Frühstück bietet euch bereits die perfekte Gelegenheit eure Kommilitonen kennenzulernen."
-            description-en: "We start our day together with a nice breakfast. This is a great opportunity for you to meet your fellow students"
-            annotation: "Um 9:45 machen wir uns gemeinsam auf dem Weg zur nächsten Veranstaltung. Natürlich kannst du den Weg auch alleine antreten."
-            annotation-en: "At 9:45 a.m. we make our way to the next event together. Of course, you can also go on your own."
-        -
-            begin: "10:00"
-            duration: "2:30"
-            title: "Einführungsveranstaltung und Turorien"
-            title-en: "Introductory event and Tutoria"
-            location: "HSZ/004/H"
-            highlight: true
-            photo: introductory-event.jpg
-            description: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Als Dankeschön für dein vorbildliches Erscheinen bekommst du einen Ersti-Beutel mit vielem coolen Zeug."
-            description-en: "After a new welcoming speeches, you'll get all the important informations you need for your first semester. Afterwards you get your amazing uni-bag with a lot of cool stuff"
-        -
-            begin: "12:30"
-            duration: "1:00"
-            title: "Mit&shy;tags&shy;pause"
-            title-en: "Lunch"
-            english: true
-            description: "Zeit für eine kleine Essenspause."
-            description-en: "Let's take a break and get some food."
-        -
-            title: "Vorstellung der Lehrenden"
-            title-en: "Meet the lecturers"
-            begin: "13:30"
-            duration: "2:00"
-            location: "APB/E023"
-            location-en: "APB/E023"
-            description: "Nach dieser Veranstaltung kennst du einige der Gesichter, die dir in Vorlesungen vorne häufig begegnen werden. Die Vortragenden erzählen ein bisschen über sich, ihre Themengebiete und die Pflichtvorlesungen der ersten Semester. Inklusive Anekdoten, da bleibt kein Auge trocken!"
-            description-en: "This is your chance to get to know the professors before the lectures are starting. They are gonna talk about themself and what they are doing exactly."
-            english: true
-        -
-            begin: "15:30"
-            duration: "2:30"
-            title: "Bunter Nachmittag"
-            title-en: "Various afternoon"
-            location: "APB/Foyer"
-            description: "Wohin kann man sich zum Lernen zurückziehen, wie kommt man zum Prüfungsamt? Wir zeigen dir bei einem Rundgang die Fakultät. Außerdem gibt es einen Vortrag, Workshop, Speedfriending und verschiedene andere Angebote."
-            description-en: "Where can I go to study? If I need some advice for my study to whom can I talk? Follows us on a tour through the faculty. Besides that there will be a talk, a workshop, speedfriending and various other events."
-            english: true
-        -
-            begin: "18:00"
-            duration: "4:00"
-            title: "Kennlern-Spieleabend mit Grillen"
-            title-en: "Games night and barbecue"
-            location: "APB/Foyer"
-            highlight: true
-            photo: games-night.jpg
-            description: "In einem nahtlosen Übergang beginnt dann nach dem Ende des Bunten Nachmittags einer unserer legendären Spieleabende. Bring gerne deine Freunde mit und auch eigene Brett- oder Videospiele. Es wird gegrillt und für Getränke ist natürlich auch gesorgt."
-            description-en: "Come to our games night, which takes place once a month in our faculty. But this time we have special games like speed-friends to you can meet a lot of new people. Also there will be a barbecue with drinks, meat and vegetarain/vega food. "
-            english: true
-  -
-    name: "Dienstag"
-    name-en: Tuesday
-    date: 08.10.2019
+    date: 19.10.2020
     events:
         -
             begin: "9:00"
             duration: "1:00"
-            title: "Früh&shy;stück"
-            title-en: "Break&shy;fast"
-            location: "APB/E023"
+            title: "Einführungsveranstaltung"
+            title-en: "Introductory event"
+            location: "Online-Livestream"
             english: true
-            description: "Kommt vorbei und started gemeinsam mit uns in den Tag. Das Frühstück bietet euch bereits die perfekte Gelegenheit eure Kommilitonen kennenzulernen."
-            description-en: "We start our day together with a nice breakfast. This is a great opportunity for you to meet your fellow students"
+            highlight: true
+            photo: introductory-event.jpg
+            description: "Es wird ernst, jetzt geht's los. Du solltest unbedingt dabei sein, denn nach einer kurzen Begrüßung bekommst du eine Einführung zu den wichtigsten Dingen, die du im Studium und vor allem im ersten Semester wissen musst. Für dich live und in Farbe!"
+            description-en: "After a new welcoming speeches, you'll get all the important informations you need for your first semester. Afterwards you get your amazing uni-bag with a lot of cool stuff"
+            annotation: "Den Livestream findest du dann direkt auf der ESE-Webseite unter ese.ifsr.de"
+            annotation-en: "You will find the livestream directly on the ESE website at ese.ifsr.de"
         -
-            title: "Vorträge zum Studium"
-            title-en: "Talks about the the Uni"
             begin: "10:00"
             duration: "2:00"
-            location: "APB/E023"
-            location-en: "APB/E023"
-            description: "In verschiedenen Vorträgen werden dir alle wichtigen Informationen rund ums Studium vermittelt"
-            description-en: "Just sit down and listen. You will get all the information about the university and your studies you'll need."
+            title: "Tutorien"
+            title-en: "Tutoria"
+            location: "n.n."
+            photo: tutoria.jpg
+            description: "Ganz viele ESE-Tutoren helfen dir bei deinem Start in die große Uniwelt. Wir geben dir einen Überblick über die Woche und alles Wichtige was du wissen musst."
+            description-en: "Many ESE tutors will help you with your start into the big university world. We give you an overview of the week and everything you need to know."
+        -
+            begin: "13:30"
+            duration: "2:00"
+            title: "Vorstellung der Lehrenden"
+            title-en: "Meet the lecturers"
+            location: "Online-Livestream"
+            description: "Nach dieser Veranstaltung kennst du einige der Gesichter, die dir in Vorlesungen vorne häufig begegnen werden. Die Vortragenden erzählen ein bisschen über sich, ihre Themengebiete und die Pflichtvorlesungen der ersten Semester. Inklusive Anekdoten, da bleibt kein Auge trocken! Für dich live und in Farbe."
+            description-en: "This is your chance to get to know the professors before the lectures are starting. They are gonna talk about themself and what they are doing exactly."
+            english: true
+            annotation: "Den Livestream findest du dann direkt auf der ESE-Webseite unter ese.ifsr.de"
+            annotation-en: "You will find the livestream directly on the ESE website at ese.ifsr.de"
+  -
+    name: "Dienstag"
+    name-en: Tuesday
+    date: 20.10.2020
+    events:
+        -
+            begin: "9:00"
+            duration: "3:00"
+            title: "Ein&shy;schrei&shy;bung"
+            title-en: "Enroll&shy;ment"
+            location: "n.n."
+            location-en: "n.n."
+            highlight: true
+            photo: enrollment.jpg
+            description: "Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester."
+            description-en: "The most important appointment of the week. While breakfast is served all morning, we will write you into your timetable and explain everything that goes with it. That way nothing will go wrong in the first semester."
             english: true
         -
+            title: "Vortrag FSR"
+            title-en: "Talks about the FSR"
             begin: "12:00"
             duration: "1:00"
-            title: "Mit&shy;tags&shy;pause"
-            title-en: "Lunch"
-            english: true
-            description: "Zeit für eine kleine Essenspause."
-            description-en: "Let's take a break and get some food."
+            location: "Online-Livestream"
+            description: "Was ist dieser FSR, was treibt diese Bande eigentlich und kann man das essen? Wir geben dir einen Einblick in unsere Arbeit."
+            description-en: "What is this FSR, what does this gang actually do and can you eat it? We'll give you an insight into our work."
+            annotation: "Den Livestream findest du dann direkt auf der ESE-Webseite unter ese.ifsr.de"
+            annotation-en: "You will find the livestream directly on the ESE website at ese.ifsr.de"
         -
             title: "Campus&shy;schnitzel&shy;jagd"
             title-en: "Campus scavenger hunt"
-            location: "APB/E023"
-            location-en: "APB/E023"
-            begin: "13:00"
-            duration: "3:00"
+            location: "n.n."
+            begin: "15:00"
+            duration: "2:00"
             highlight: true
             photo: scavenger-hunt.jpg
             description: "Unser Service für dich: das Anti-Verlauf-Training inklusive spaßiger Aufgaben. Ideal, um den Campus und neue Leute besser kennenzulernen. Für die beste Gruppe gibt's natürlich einen Preis."
             description-en: "Get to know our beautiful campus, solve riddles and get to know the other students while working as a team. And the best team can even win a price!"
             english: true
         -
-            title: "Vorglühen"
-            title-en: "pre-party"
-            begin: "17:30"
-            duration: "1:30"
-            location: "countdown"
-            description: "Du hättest gerne noch mehr Zeit deine Kommilitonen und vielleicht auch den Studentenklub Count Down kennenzulernen? Vor Beginn der Clubwanderung bieten wir euch bei Spielen und Getränken genau dies. Kommt vorbei!"
-            description-en: "You would like more time to get to know your fellow students and maybe the student club Count Down as well? Use the time before the club tour starts to do so. We will provide games and some drinks."
-            english: true
-        -
             title: "Clubwanderung"
             title-en: "Club tour"
             begin: "19:00"
             duration: "3:00"
-            location: "countdown"
+            location: "n.n."
             highlight: true
             photo: club-tour.jpg
             description: "Wir laden dich ein, den Abend mit uns zu verbringen und dich ins studentische Nachtleben zu stürzen. Nach und nach werden wir uns von einem Studentenclub zum Nächsten vorarbeiten.  Hier sind übrigens auch die Studierenden aller anderen Fachschaften dabei. Vernetzung heißt das Stichwort. Start am Club Count Down"
@@ -145,25 +102,25 @@ days:
   -
     name: "Mittwoch"
     name-en: Wednesday
-    date: 09.10.2019
+    date: 21.10.2020
     events:
         -
-            title: "Wanderung oder lean back / Nerd 101"
-            title-en: "Hiking&nbsp;tour or lean back / Nerd 101"
+            title: "Wanderung"
+            title-en: "Hiking&nbsp;tour"
             begin: "09:00"
             duration: "7:00"
             highlight: true
             photo: hiking.jpg
-            location: "Treff 9:00 Uhr am Hbf auf Gleis 18<br/>Abfahrt: S1 Schöna um 9:29<br/>Ziel: Schmilka, Hirschmühle um 10:20, Gl. 2"
-            location-en: "Meeting 9:00 a.m. at the main station on platform 18<br/>Departure: S1 Schöna at 9:29<br/>Target: Schmilka, Hirschmühle at 10:20, platform 2."
-            description: "Es ist Mittwoch, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht. Alternativ laden wir dich von 9:00-13:00 zum Katerfrühstück sowie unserer nerdigen Vortragsreihe »Nerd 101« ab 13:00 Uhr im APB ein."
-            description-en: "It's Wednesday, so we turn one gear back and after the club walk can never hurt some fresh air. You can leave the many impressions to rest a bit during a hike through the beautiful Saxon Switzerland and enjoy nature for the first time. Since we can not influence the weather, you are suitably attracted and don't forget food, water (!) and a photo apprerata. Alternatively, we invite you from 9:00-13:00 to the hangover breakfast as well as our nerdy lecture series »Nerd 101« from 13:00 at the APB."
+            location: "n.n."
+            location-en: "n.n."
+            description: "Es ist Mittwoch, also schalten wir einen einen Gang zurück und nach der Clubwanderung kann etwas Frischluft nie schaden. Die vielen Eindrücke kannst du bei einer Wanderung durch die wunderschöne Sächsische Schweiz etwas ruhen lassen und erstmal die Natur genießen. Da wir das Wetter leider nicht beeinflussen können zieht euch passend an und vergesst Essen, Wasser (!) und einen Fotoapperat nicht."
+            description-en: "It's Wednesday, so we turn one gear back and after the club walk can never hurt some fresh air. You can leave the many impressions to rest a bit during a hike through the beautiful Saxon Switzerland and enjoy nature for the first time. Since we can not influence the weather, you are suitably attracted and don't forget food, water (!) and a camera."
             english: true
         -
-            begin: "19:00"
-            duration: "3:00"
-            title: "ascii Abend"
-            title-en: "ascii Abend"
+            begin: "18:00"
+            duration: "4:00"
+            title: "Spiele & ascii Abend"
+            title-en: "game & ascii evening"
             location: "APB/ascii"
             location-en: "APB/ascii"
             description: "Studieren heißt nicht nur Büffeln, sondern auch Eintauchen in eine
@@ -181,47 +138,30 @@ days:
   -
     name: "Donnerstag"
     name-en: Thursday
-    date: 10.10.2019
+    date: 22.10.2020
     events:
       -
         begin: "9:00"
         duration: "3:00"
-        title: "Ein&shy;schrei&shy;bung, parallel ewi&shy;ges Früh&shy;stück"
-        title-en: "Enroll&shy;ment and never-ending break&shy;fast in parallel"
-        location: "APB/E023"
-        location-en: "APB/E023"
+        title: "Vorträge zum Studium"
+        title-en: "Talks about the uni"
+        location: "Online-Livestream"
         highlight: true
         photo: enrollment.jpg
-        description: "Der wichtigste Termin der Woche. Während es den ganzen Vormittag über Frühstück gibt, schreiben wir dich in deinen Stundenplan ein und erklären dir alles, was dazugehört. So geht bestimmt nix schief im ersten Semester."
-        description-en: "This is one of the most impportant appointments of this week. We will sign you up for your timetable and we will give you some last important informations. Make sure you won't mis it!"
+        description: "In verschiedenen Vorträgen werden dir alle wichtigen Informationen rund ums Studium vermittelt"
+        description-en: "Just sit down and listen. You will get all the information about the university and your studies you'll need."
         english: true
+        annotation: "Den Livestream findest du dann direkt auf der ESE-Webseite unter ese.ifsr.de"
+        annotation-en: "You will find the livestream directly on the ESE website at ese.ifsr.de"
       -
-        begin: "12:00"
-        duration: "1:00"
-        title: "Mit&shy;tags&shy;pause"
-        title-en: "Lunch"
-        english: true
-        description: "Zeit für eine kleine Essenspause."
-        description-en: "Let's take a break and get some food."
-      -
-        title: "Info Markt"
-        title-en: "Info Market and time to get your welcome bag"
-        location: "HSZ"
-        location-en: "HSZ"
+        title: "Nerd101 / Infomarkt & Feierliche Immatrikulation"
+        title-en: "Nerd101 / Info market & Matriculation Ceremony"
+        location: "n.n."
+        location-en: "n.n."
         begin: "13:00"
         duration: "3:00"
-        description: "Die Taschenausgabe beginnt um 14 Uhr. Vergiss nicht, deinen Gutschein mitzubringen."
-        description-en: "Welcome bag handout starts at 2pm. Don't forget to bring your voucher."
-        english: true
-      -
-        title: "Feierliche Immatrikulation"
-        title-en: "Matriculation Celebration"
-        location: "HSZ/AUDI"
-        location-en: "HSZ/AUDI"
-        begin: "16:00"
-        duration: "2:00"
-        description: "Im Namen des Rektorats und des Senats der Technischen Universität Dresden lädt Professor Hans Müller-Steinhagen, Rektor der TU Dresden, zur Feierlichen Immatrikulation der Studierenden des neuen Studienjahrgangs sehr herzlich ein."
-        description-en: "In the name of the Rectorial Board and the Senate of Technische Universität Dresden Professor Hans Müller-Steinhagen, Rector of TU Dresden very warmly invites the students of the new academic year to the Ceremonial Matriculation."
+        description: "Wir laden euch zu unserer nerdigen Vortragsreihe »Nerd101« ein. Alternativ: Im Namen des Rektorats und des Senats der Technischen Universität Dresden lädt Prof. Ursula M. Staudinger, Rektorin der TU Dresden, zur Feierlichen Immatrikulation der Studierenden des neuen Studienjahrgangs sehr herzlich ein."
+        description-en: "We invite you to our nerdy lecture series »Nerd101«. Alternative: In the name of the Rectorial Board and the Senate of Technische Universität Dresden Professor Ursula M. Staudinger, Rector of TU Dresden very warmly invites the students of the new academic year to the Ceremonial Matriculation."
         english: true
       -
         title: "Kino Abend"
@@ -235,36 +175,18 @@ days:
   -
     name: "Freitag"
     name-en: Friday
-    date: 11.10.2019
+    date: 23.10.2020
     events:
-      -
-        title: "Frühstück mit Seminar&shy;gruppen&shy;treffen"
-        title-en: "Breakfast with Seminar group meeting"
-        begin: "9:00"
-        duration: "2:00"
-        location: "Folge deinem Mentor"
-        location-en: "Follow your mentor"
-        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Die Seminargruppentreffen werden entweder von 9.00 Uhr bis 11.00 Uhr oder 11.00 Uhr bis 13.00 Uhr stattfinden. Wann genau dein Treffen sein wird, erfährst du noch von uns. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
-        description-en: "Get to know your mentor and the other students from your seminar group. You can ask all the questions you couldn't ask so far. Meanwhile there are talks about studying abroad and the student council."
-        english: true
       -
         title: "Seminar&shy;gruppen&shy;treffen"
         title-en: "Seminar group meeting"
-        begin: "11:00"
+        begin: "10:00"
         duration: "2:00"
         location: "Folge deinem Mentor"
         location-en: "Follow your mentor"
-        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los. Die Seminargruppentreffen werden entweder von 9.00 Uhr bis 11.00 Uhr oder 11.00 Uhr bis 13.00 Uhr stattfinden. Wann genau dein Treffen sein wird, erfährst du noch von uns. Parallet finden noch Vorträge zu Auslandssemester und dem FSR statt."
-        description-en: "Get to know your mentor and the other students from your seminar group. You can ask all the questions you couldn't ask so far. Meanwhile there are talks about studying abroad and the student council."
+        description: "Lerne deinen Mentor sowie die anderen Leute deiner Seminargruppe kennen und werde deine dringenden Fragen los."
+        description-en: "Get to know your mentor and the other students from your seminar group. You can ask all the questions you couldn't ask so far."
         english: true
-      -
-        begin: "13:00"
-        duration: "1:00"
-        title: "Mit&shy;tags&shy;pause"
-        title-en: "Lunch"
-        english: true
-        description: "Zeit für eine kleine Essenspause."
-        description-en: "Let's take a break and get some food."
       -
         begin: "14:00"
         duration: "3:00"
@@ -289,7 +211,7 @@ days:
   -
     name: "Samstag"
     name-en: Saturday
-    date: 12.10.2019
+    date: 24.10.2020
     events:
       -
         title: "Stadt&shy;führung"

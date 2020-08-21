@@ -9,7 +9,7 @@
         
         .date {
             display: inline-block;
-            background: #018554;
+            background: $year-color;
             font-family: $font-regular;
             font-size: rem-calc(19px);
             color: white;
@@ -22,7 +22,7 @@
             font-size: rem-calc(28px);
             text-transform: uppercase;
             line-height: 1.25;
-            color: #01794C;
+            color: $year-color;
             margin: 0;
             
             span {

@@ -6,7 +6,7 @@ $baseurl: "{{ site.baseurl }}";
  * Yearly settings
  */
 
-$year-color: #01794C;
+$year-color: #056d85;
 $brand-color: lighten($year-color, 20%);
 
 @import "mixins/config";

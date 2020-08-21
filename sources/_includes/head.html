@@ -8,10 +8,10 @@
 	{% case include.lang %}
 	{% when "en" %}
 		{% assign metatags=site.metatag.en %}
-		<link rel="manifest" href="/2019/manifest-en.json" />
+		<link rel="manifest" href="/2020/manifest-en.json" />
 	{% else %}
 		{% assign metatags=site.metatag.de %}
-		<link rel="manifest" href="/2019/manifest.json" />
+		<link rel="manifest" href="/2020/manifest.json" />
 	{% endcase %}
 	{% for metatag in metatags %}
 		{% assign key = metatag[0] %}

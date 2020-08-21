@@ -148,7 +148,7 @@ jQuery(document).ready(function($){
 
 
 function makeTimer() {
-    let endTime = new Date("7 October 2019 8:00:00 GMT+01:00");
+    let endTime = new Date("19 October 2020 10:00:00 GMT+01:00");
     endTime = (Date.parse(endTime) / 1000);
 
     let now = new Date();

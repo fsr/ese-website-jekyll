@@ -55,6 +55,8 @@ img {
     padding: .5rem 0;
     border-bottom: 1px dotted rgba(black, .15);
     position: relative;
+    background: rgba(255, 171, 0, .8);
+    color: white;
 }
 
 main {
@@ -69,11 +71,11 @@ main {
     z-index: 2;
 
     .credits {
-        background: $year-color;
-        color: white;
-        padding: .5rem;
-        box-decoration-break: clone;
-        -webkit-box-decoration-break: clone;
-        display: inline;
+        font-size: rem-calc(13px);
+        float: right;
+
+        a {
+            font-size: rem-calc(13px);
+        }
     }
 }
