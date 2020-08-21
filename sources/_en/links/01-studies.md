@@ -46,7 +46,7 @@ On the online-platform jExam you will enroll in your seminar group and courses, 
 ***For all international students - DSE, CL Students and Exchange Students, who only partake in 1-2 semesters at the faculty: please refer to the 'Service Center for International Students' in the room INF/2018.***
 
 #### Mailing lists
-All kinds of information relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium:mailinglisten){:target="_blank"). 
+All kinds of information relevant to students are distributed via mailing lists. A complete list can be found on the [FSR website](https://www.ifsr.de/studium/mailinglisten/){:target="_blank"). 
 ### Campus
 
 #### Campus Navigator
@@ -107,8 +107,8 @@ For Medieninformatik there's also a seperate [PDF](https://tu-dresden.de/ing/inf
 
 *   [general information](https://tu-dresden.de/studium/im-studium/beratung-und-service/zentrale-studienberatung "Zentrale Studienberatung"){:target="_blank"}  (Studienberatung)
 *   [Fachschaftsrat Informatik](https://www.ifsr.de/ "Fachschaftsrat Informatik"){:target="_blank"}  (iFSR)
-    *   [Mailinglisten](https://www.ifsr.de/studium:mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
+    *   [Mailinglisten](https://www.ifsr.de/studium/mailinglisten/ "Mailinglisten des iFSR"){:target="_blank"}
     *   [Studienberatung](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung "Studienberatung des Fakultät und des FSR"){:target="_blank"}
-    *   [seminar groups](https://www.ifsr.de/studium:seminargruppen "Seminargruppen"){:target="_blank"}
+* [seminar groups](mailto:seminar@ifsr.de)
 *   [Studierendenrat](https://www.stura.tu-dresden.de){:target="_blank"}  (StuRa)
 *   [Arbeiterkind](http://www.arbeiterkind.de/ "Arbeiterkind"){:target="_blank"}  (Hilfsseite für BAföG und Co.)

@@ -58,7 +58,7 @@ Am **[Mittwoch](/{{site.year}}/events)** wirst du dir auf jExam zusammen mit ein
 
 #### Mailinglisten
 
-Über Mailinglisten werden nützliche Informationen an alle Studierenden verteilt. Eine Übersicht findest du auf der [Seite des FSR](https://www.ifsr.de/studium:mailinglisten){:target="_blank"}.
+Über Mailinglisten werden nützliche Informationen an alle Studierenden verteilt. Eine Übersicht findest du auf der [Seite des FSR](https://www.ifsr.de/service/mailinglisten){:target="_blank"}.
 
 ### Campus
 
@@ -122,9 +122,9 @@ Für den Studiengang Medieninformatik gibt es den Studienablaufplan auch als sep
 
 *   [allgemeine Informationen](https://tu-dresden.de/studium/im-studium/beratung-und-service/zentrale-studienberatung "Zentrale Studienberatung"){:target="_blank"}  (Studienberatung)
 *   [Fachschaftsrat Informatik](https://www.ifsr.de/ "Fachschaftsrat Informatik"){:target="_blank"}  (iFSR)
-    *   [Mailinglisten](https://www.ifsr.de/studium:mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
+    *   [Mailinglisten](https://www.ifsr.de/service/mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
     *   [Studienberatung](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/studium/beratung_organisation/beratung "Studienberatung des Fakultät und des FSR"){:target="_blank"}
-    *   [Seminargruppen](https://www.ifsr.de/studium:seminargruppen "Seminargruppen"){:target="_blank"}
+* Seminargruppen
 *   [Studierendenrat](https://www.stura.tu-dresden.de){:target="_blank"}  (StuRa)
 *   [Arbeiterkind](http://www.arbeiterkind.de/ "Arbeiterkind"){:target="_blank"}  (Hilfsseite für BAföG und Co.)
 

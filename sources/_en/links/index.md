@@ -26,10 +26,9 @@ As everything in computer science, your degree programme comes with detailed ins
 #### Counseling
 
 *   [general information (de)](https://tu-dresden.de/studium/im-studium/beratung-und-service/zentrale-studienberatung?set_language=en&cl=en "Zentrale Studienberatung"){:target="_blank"} (University Counselling Center)
-*   [Fachschaftsrat Informatik](https://www.ifsr.de/en:start "Fachschaftsrat Informatik"){:target="_blank"} (iFSR)
-    *   [Mailinglists (de)](https://www.ifsr.de/studium:mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
-    *   [Counseling (de)](https://www.ifsr.de/studium:studienberatung "Studienberatung des iFSR"){:target="_blank"}
-    *   [Seminargroups](https://www.ifsr.de/studium:seminargruppen "Seminargroups"){:target="_blank"}
+*   [Fachschaftsrat Informatik](https://www.ifsr.de/en/studium/studienberatung "Fachschaftsrat Informatik"){:target="_blank"} (iFSR)
+    *   [Mailinglists (de)](https://www.ifsr.de/en/service/mailinglisten "Mailinglisten des iFSR"){:target="_blank"}
+    *   [Counseling (de)](https://www.ifsr.de/en "Studienberatung des iFSR"){:target="_blank"}
 *   [Students’ Union (de)](https://www.stura.tu-dresden.de){:target="_blank"} (StuRa)
 
 #### All about education
